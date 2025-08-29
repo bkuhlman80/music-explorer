@@ -1,0 +1,502 @@
+{
+  "releases": [
+    {
+      "disambiguation": "",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "artwork": true,
+        "front": true,
+        "back": false
+      },
+      "country": "US",
+      "barcode": null,
+      "media": [
+        {
+          "id": "480c0839-e324-3a50-83a1-9ffbf17d8ec5",
+          "tracks": [
+            {
+              "recording": {
+                "video": false,
+                "title": "I Gotta Right to Sing the Blues",
+                "length": 182613,
+                "id": "c24c608d-d030-4c46-ab95-e0fa2d45b7c6",
+                "first-release-date": "1954",
+                "disambiguation": "studio, 1933-01-26; matrix 74892-1"
+              },
+              "number": "A1",
+              "position": 1,
+              "title": "I Gotta Right To Sing The Blues",
+              "id": "bdc2a0cd-16a4-4b66-9647-62f3d0212915",
+              "length": 180000
+            },
+            {
+              "number": "A2",
+              "position": 2,
+              "recording": {
+                "video": false,
+                "title": "Basin Street Blues",
+                "id": "3291bed9-2ca8-4f67-b2d5-08dcb4c89151",
+                "length": 206626,
+                "first-release-date": "1954",
+                "disambiguation": ""
+              },
+              "length": 204000,
+              "id": "cfebae8a-f3f5-499f-a82e-37f8f6e7c308",
+              "title": "Basin Street Blues"
+            },
+            {
+              "position": 3,
+              "number": "A3",
+              "recording": {
+                "id": "66ef853f-fe6c-457b-b391-32be4b913f13",
+                "length": 159000,
+                "title": "St. Louis Blues",
+                "video": false,
+                "disambiguation": "",
+                "first-release-date": "1954"
+              },
+              "title": "St. Louis Blues",
+              "length": 159000,
+              "id": "a6545127-cf49-4c85-bcea-092c2335c0f3"
+            },
+            {
+              "number": "A4",
+              "position": 4,
+              "recording": {
+                "length": 174000,
+                "id": "44bacffd-cab7-4bd8-bfa6-f8855bdb3459",
+                "title": "The Blues Are Brewin’",
+                "video": false,
+                "disambiguation": "",
+                "first-release-date": "1954"
+              },
+              "length": 174000,
+              "id": "3274158e-3804-4559-aaca-348c95edea54",
+              "title": "The Blues Are Brewin'"
+            },
+            {
+              "length": 185000,
+              "id": "dff14235-3227-47d5-b25c-27f3c2d6e19a",
+              "title": "Rockin' Chair",
+              "position": 5,
+              "number": "A5",
+              "recording": {
+                "title": "Rockin' Chair",
+                "video": false,
+                "id": "c92a60fd-9d03-45e5-8708-4ce1291fa45e",
+                "length": 185000,
+                "first-release-date": "1954",
+                "disambiguation": ""
+              }
+            },
+            {
+              "title": "Where The Blues Were In New Orleans",
+              "length": 185000,
+              "id": "94d0d13a-8265-48cb-9d5c-a83c2dd68be7",
+              "position": 6,
+              "number": "A6",
+              "recording": {
+                "video": false,
+                "title": "Where The Blues Were In New Orleans",
+                "length": 185000,
+                "id": "5405b62b-8344-4ef4-8882-0b7e23e53910",
+                "first-release-date": "1954",
+                "disambiguation": ""
+              }
+            },
+            {
+              "id": "d33494aa-c9b6-45c2-985c-9ac7dd7bf053",
+              "length": 155000,
+              "title": "Blues For Yesterday",
+              "recording": {
+                "title": "Blues For Yesterday",
+                "video": false,
+                "length": 155000,
+                "id": "26055310-dead-4e9c-bcb0-f00745c73a5a",
+                "first-release-date": "1954",
+                "disambiguation": ""
+              },
+              "number": "B1",
+              "position": 7
+            },
+            {
+              "recording": {
+                "video": false,
+                "title": "Jack-Armstrong Blues",
+                "id": "d40a566b-e4a9-4760-b8ca-aff997e83aa1",
+                "length": 179000,
+                "first-release-date": "1954",
+                "disambiguation": ""
+              },
+              "position": 8,
+              "number": "B2",
+              "title": "Jack-Armstrong Blues",
+              "id": "41ddef03-eb2f-42fb-ab63-6ff79408ddad",
+              "length": 179000
+            },
+            {
+              "position": 9,
+              "number": "B3",
+              "recording": {
+                "id": "db911680-2883-4df4-97c7-cd5b31e110cf",
+                "length": 183000,
+                "video": false,
+                "title": "Blues In The South",
+                "disambiguation": "",
+                "first-release-date": "1954"
+              },
+              "title": "Blues In The South",
+              "length": 183000,
+              "id": "33df2ad4-df64-4e1b-9abd-cf6914298199"
+            },
+            {
+              "recording": {
+                "length": 195000,
+                "id": "2c6de00f-ffa1-42fb-87c7-f4a648a48ca7",
+                "title": "Back O' Town Blues",
+                "video": false,
+                "disambiguation": "",
+                "first-release-date": "1954"
+              },
+              "number": "B4",
+              "position": 10,
+              "title": "Back O' Town Blues",
+              "id": "0a42af31-1936-4ccf-88f8-8d20f8c652c7",
+              "length": 195000
+            },
+            {
+              "recording": {
+                "video": false,
+                "title": "Fifty-Fifty Blues",
+                "length": 177000,
+                "id": "545f4d3d-4968-4b60-9103-5793a378f40d",
+                "first-release-date": "1954",
+                "disambiguation": ""
+              },
+              "position": 11,
+              "number": "B5",
+              "title": "Fifty-Fifty Blues",
+              "id": "7bc5ee13-2bad-4396-8c5a-8ff967269418",
+              "length": 177000
+            },
+            {
+              "recording": {
+                "id": "92d75ec4-8405-42a0-a01e-7f3a58055230",
+                "length": 178000,
+                "title": "Do You Know What It Means to Miss New Orleans",
+                "video": false,
+                "disambiguation": "",
+                "first-release-date": "1954"
+              },
+              "number": "B6",
+              "position": 12,
+              "title": "Do You Know What It Means To Miss New Orleans",
+              "id": "d98f176e-97db-4a7f-acf2-5b50c135db46",
+              "length": 178000
+            }
+          ],
+          "title": "",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "format": "12\" Vinyl",
+          "track-offset": 0,
+          "position": 1,
+          "track-count": 12
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": null,
+      "id": "99545cdc-05ad-435a-a88b-15498b7643ed",
+      "status": "Official",
+      "label-info": [
+        {
+          "label": {
+            "type": "Original Production",
+            "label-code": 316,
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "disambiguation": "",
+            "sort-name": "RCA Victor",
+            "id": "b3f4e6a5-ece0-43be-a530-68ad0d49fee8",
+            "name": "RCA Victor"
+          },
+          "catalog-number": "LJM-1005"
+        }
+      ],
+      "title": "Sings The Blues",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "date": "1954",
+      "release-events": [
+        {
+          "date": "1954",
+          "area": {
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null,
+            "type-id": null,
+            "disambiguation": ""
+          }
+        }
+      ],
+      "packaging": null,
+      "asin": null,
+      "quality": "normal"
+    },
+    {
+      "date": "1993",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "release-events": [
+        {
+          "date": "1993",
+          "area": {
+            "type": null,
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "Germany",
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+            "name": "Germany",
+            "iso-3166-1-codes": [
+              "DE"
+            ]
+          }
+        }
+      ],
+      "quality": "normal",
+      "packaging": null,
+      "asin": null,
+      "barcode": null,
+      "media": [
+        {
+          "id": "f341c5ef-0dc5-3313-be7b-9e2f0ec55b35",
+          "tracks": [
+            {
+              "length": 180000,
+              "id": "3380de7b-1bf4-4552-8dc9-b9efbe88d7fb",
+              "title": "I Gotta Right To Sing The Blues",
+              "number": "1",
+              "position": 1,
+              "recording": {
+                "first-release-date": "1954",
+                "disambiguation": "studio, 1933-01-26; matrix 74892-1",
+                "title": "I Gotta Right to Sing the Blues",
+                "video": false,
+                "id": "c24c608d-d030-4c46-ab95-e0fa2d45b7c6",
+                "length": 182613
+              }
+            },
+            {
+              "id": "171d7b8f-6f23-4986-89fb-a77014386ae6",
+              "length": 204000,
+              "title": "Basin Street Blues",
+              "recording": {
+                "title": "Basin Street Blues",
+                "video": false,
+                "id": "3291bed9-2ca8-4f67-b2d5-08dcb4c89151",
+                "length": 206626,
+                "first-release-date": "1954",
+                "disambiguation": ""
+              },
+              "position": 2,
+              "number": "2"
+            },
+            {
+              "length": 159000,
+              "id": "c5692143-3955-4b77-94a6-941786798daa",
+              "title": "St. Louis Blues",
+              "number": "3",
+              "position": 3,
+              "recording": {
+                "disambiguation": "",
+                "first-release-date": "1954",
+                "id": "66ef853f-fe6c-457b-b391-32be4b913f13",
+                "length": 159000,
+                "video": false,
+                "title": "St. Louis Blues"
+              }
+            },
+            {
+              "title": "The Blues Are Brewin'",
+              "id": "9ba9eb9f-9ade-45a2-96ea-65b6c1aebfef",
+              "length": 174000,
+              "recording": {
+                "video": false,
+                "title": "The Blues Are Brewin’",
+                "length": 174000,
+                "id": "44bacffd-cab7-4bd8-bfa6-f8855bdb3459",
+                "first-release-date": "1954",
+                "disambiguation": ""
+              },
+              "position": 4,
+              "number": "4"
+            },
+            {
+              "recording": {
+                "first-release-date": "1954",
+                "disambiguation": "",
+                "video": false,
+                "title": "Rockin' Chair",
+                "id": "c92a60fd-9d03-45e5-8708-4ce1291fa45e",
+                "length": 185000
+              },
+              "position": 5,
+              "number": "5",
+              "title": "Rockin' Chair",
+              "id": "0a0b5029-8e77-4946-a11f-0dab2a1bcf9f",
+              "length": 185000
+            },
+            {
+              "title": "Where The Blues Were In New Orleans",
+              "id": "964384da-cac8-4b03-a0ba-d6240c4eadd2",
+              "length": 185000,
+              "recording": {
+                "first-release-date": "1954",
+                "disambiguation": "",
+                "video": false,
+                "title": "Where The Blues Were In New Orleans",
+                "id": "5405b62b-8344-4ef4-8882-0b7e23e53910",
+                "length": 185000
+              },
+              "number": "6",
+              "position": 6
+            },
+            {
+              "recording": {
+                "id": "26055310-dead-4e9c-bcb0-f00745c73a5a",
+                "length": 155000,
+                "video": false,
+                "title": "Blues For Yesterday",
+                "disambiguation": "",
+                "first-release-date": "1954"
+              },
+              "position": 7,
+              "number": "7",
+              "title": "Blues For Yesterday",
+              "id": "1bfd4640-0b33-4c91-9d5f-cfdad87d3a79",
+              "length": 155000
+            },
+            {
+              "recording": {
+                "title": "Jack-Armstrong Blues",
+                "video": false,
+                "length": 179000,
+                "id": "d40a566b-e4a9-4760-b8ca-aff997e83aa1",
+                "first-release-date": "1954",
+                "disambiguation": ""
+              },
+              "number": "8",
+              "position": 8,
+              "title": "Jack-Armstrong Blues",
+              "id": "a2801eb1-ea25-451e-9781-42b90618aa97",
+              "length": 179000
+            },
+            {
+              "title": "Blues In The South",
+              "length": 183000,
+              "id": "d31a1fd3-d331-4803-bfc7-ab6f53c0fdb1",
+              "position": 9,
+              "number": "9",
+              "recording": {
+                "first-release-date": "1954",
+                "disambiguation": "",
+                "video": false,
+                "title": "Blues In The South",
+                "id": "db911680-2883-4df4-97c7-cd5b31e110cf",
+                "length": 183000
+              }
+            },
+            {
+              "title": "Back O' Town Blues",
+              "length": 195000,
+              "id": "6f3643b2-29be-431e-8cd6-c9042d33735a",
+              "number": "10",
+              "position": 10,
+              "recording": {
+                "title": "Back O' Town Blues",
+                "video": false,
+                "id": "2c6de00f-ffa1-42fb-87c7-f4a648a48ca7",
+                "length": 195000,
+                "first-release-date": "1954",
+                "disambiguation": ""
+              }
+            },
+            {
+              "number": "11",
+              "position": 11,
+              "recording": {
+                "disambiguation": "",
+                "first-release-date": "1954",
+                "length": 177000,
+                "id": "545f4d3d-4968-4b60-9103-5793a378f40d",
+                "title": "Fifty-Fifty Blues",
+                "video": false
+              },
+              "length": 177000,
+              "id": "7e018e56-e5dd-4094-bab3-b1f37583a5bd",
+              "title": "Fifty-Fifty Blues"
+            },
+            {
+              "position": 12,
+              "number": "12",
+              "recording": {
+                "title": "Do You Know What It Means to Miss New Orleans",
+                "video": false,
+                "id": "92d75ec4-8405-42a0-a01e-7f3a58055230",
+                "length": 178000,
+                "first-release-date": "1954",
+                "disambiguation": ""
+              },
+              "length": 178000,
+              "id": "18e646eb-4f86-4d4d-8398-34c69951fcca",
+              "title": "Do You Know What It Means To Miss New Orleans"
+            }
+          ],
+          "title": "",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "track-offset": 0,
+          "position": 1,
+          "track-count": 12
+        }
+      ],
+      "disambiguation": "",
+      "cover-art-archive": {
+        "back": false,
+        "front": true,
+        "artwork": true,
+        "darkened": false,
+        "count": 1
+      },
+      "country": "DE",
+      "id": "dc5923ed-1d6e-46c6-ba16-89799e319c12",
+      "status": "Official",
+      "label-info": [
+        {
+          "label": {
+            "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
+            "sort-name": "RCA",
+            "name": "RCA",
+            "type": "Imprint",
+            "label-code": 316,
+            "disambiguation": "RCA Records: simple ‘RCA’ or ‘RCA’ with lightning bolt in circle",
+            "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded"
+          },
+          "catalog-number": "07863 66244 2"
+        }
+      ],
+      "title": "Sings The Blues",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": null
+    }
+  ],
+  "release-offset": 0,
+  "release-count": 2
+}

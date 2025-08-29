@@ -1,0 +1,2466 @@
+{
+  "genres": [
+    {
+      "id": "d3ebe947-7c03-43f5-b333-09379881b0f6",
+      "count": 1,
+      "disambiguation": "",
+      "name": "alternative pop"
+    },
+    {
+      "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+      "count": 5,
+      "disambiguation": "",
+      "name": "contemporary country"
+    },
+    {
+      "disambiguation": "",
+      "name": "country",
+      "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+      "count": 23
+    },
+    {
+      "disambiguation": "",
+      "name": "country pop",
+      "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+      "count": 22
+    },
+    {
+      "count": 1,
+      "id": "3f3388b4-e36a-4bf8-a0be-66b10d92aaa4",
+      "name": "electropop",
+      "disambiguation": ""
+    },
+    {
+      "id": "36917620-240a-4fed-abcb-7be611ac3834",
+      "count": 2,
+      "disambiguation": "",
+      "name": "indie folk"
+    },
+    {
+      "count": 36,
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop",
+      "disambiguation": ""
+    },
+    {
+      "count": 7,
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "name": "pop rock",
+      "disambiguation": ""
+    },
+    {
+      "count": 8,
+      "id": "455f264b-db00-4716-991d-fbd32dc24523",
+      "name": "singer-songwriter",
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "name": "synth-pop",
+      "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+      "count": 4
+    }
+  ],
+  "type": "Person",
+  "disambiguation": "",
+  "relations": [
+    {
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "allmusic",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000472102",
+        "id": "b8ac89f3-7086-4464-b980-d10466287f98"
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846"
+    },
+    {
+      "url": {
+        "id": "ab27e075-2228-464d-a302-1abb2face89a",
+        "resource": "https://www.bandsintown.com/a/157"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "end": null,
+      "type": "bandsintown",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "direction": "forward",
+      "type": "BBC Music page",
+      "ended": true,
+      "end": "2020-11-19",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/20244d07-534f-4eff-b4d4-930878889970",
+        "id": "8e862bcc-0176-4a58-a4ba-81777242717f"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null
+    },
+    {
+      "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://taylorswift.tumblr.com/",
+        "id": "a4fb0723-9219-4cbf-ac75-c200661660ab"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "type": "blog",
+      "target-credit": "",
+      "direction": "forward",
+      "ended": false,
+      "end": null
+    },
+    {
+      "end": null,
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "BookBrainz",
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "id": "c5c6042b-859a-4f10-a019-ce9d6ac31737",
+        "resource": "https://bookbrainz.org/author/9ebd399c-3e9d-4421-b4cb-b72f83023123"
+      },
+      "type-id": "f82f9342-a08d-46b7-ab7a-d8b6330c805d",
+      "attributes": []
+    },
+    {
+      "end": null,
+      "ended": false,
+      "type": "discogs",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/1124645",
+        "id": "ae69c151-1e60-43b4-892f-57e913f58b5a"
+      },
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/5023427",
+        "id": "462d4466-c410-4a05-8f6b-147e090f7341"
+      },
+      "source-credit": "Nils Sjöberg",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "discogs",
+      "ended": false
+    },
+    {
+      "url": {
+        "id": "0f12c397-1e5c-4a30-a8ea-edb9ff367d74",
+        "resource": "https://taylorswift.com.br/"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "end": null,
+      "type": "fanpage",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "end": null,
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "fanpage",
+      "source-credit": "",
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://taylorswift.fandom.com/",
+        "id": "0b87b63c-b0a7-429a-a3c7-97f8029ba45c"
+      },
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attributes": []
+    },
+    {
+      "type": "fanpage",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "id": "24c62e6a-55c8-4d90-8c3f-8dfe1be903d2",
+        "resource": "https://taylorswiftswitzerland.ch/"
+      },
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "id": "e78c6f82-0872-47f2-92b3-e4f2edfccd18",
+        "resource": "https://www.taylorswiftweb.net/"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "type": "fanpage",
+      "target-credit": "",
+      "direction": "forward",
+      "ended": false,
+      "end": null
+    },
+    {
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "168701cf-bd9a-4cad-9cb6-529b8b33f4ac",
+        "resource": "https://taylorswiftfanclubofficial.webs.com/"
+      },
+      "ended": true,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "fanpage",
+      "end": null
+    },
+    {
+      "type": "fanpage",
+      "target-credit": "",
+      "direction": "forward",
+      "ended": true,
+      "end": null,
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.metamus.ru/name/3933/",
+        "id": "d409711a-d976-4429-bf1a-0741aecb0cf0"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null
+    },
+    {
+      "end": null,
+      "type": "free streaming",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "fb692069-5897-4b8e-b80e-a34af9ecab4c",
+        "resource": "https://music.migu.cn/v3/music/artist/288906"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "free streaming",
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "resource": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+        "id": "d4d531f4-089a-46d7-9c90-e2782c04db17"
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://play.anghami.com/artist/4732",
+        "id": "4581ac9e-dfb5-43a4-b5a0-5a4a37eca911"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "free streaming"
+    },
+    {
+      "attributes": [],
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "id": "f3a908b5-1838-404d-8c21-f812a81ca7aa",
+        "resource": "https://vk.com/artist/taylorswift"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "free streaming",
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "id": "fd0f2af3-e5a9-40e7-9d80-25128dbae937",
+        "resource": "https://www.boomplay.com/artists/1910212"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "free streaming"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "cb56b9d4-896b-487f-966c-7cb810ae9b6f",
+        "resource": "https://www.deezer.com/artist/12246"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "type": "free streaming",
+      "direction": "forward",
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "ended": false,
+      "type": "free streaming",
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "id": "a090deee-52f0-4a80-8d6c-49ac064e99bc",
+        "resource": "https://www.kkbox.com/hk/en/artist/KqGSBUJYQwYgkNtSSR"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "type": "image",
+      "direction": "forward",
+      "target-credit": "",
+      "end": null,
+      "attributes": [],
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://commons.wikimedia.org/wiki/File:Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_4.png",
+        "id": "14e196e2-eb78-42ed-b8da-a28d284a3fa7"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "ended": false,
+      "type": "IMDb",
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.imdb.com/name/nm2357847/",
+        "id": "17bd580b-79eb-414e-9450-d8ede6415751"
+      },
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "id": "97c5a336-5325-4374-aea3-bbf2dd142630",
+        "resource": "https://www.last.fm/music/%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%95%E3%83%88"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type": "last.fm",
+      "direction": "forward",
+      "target-credit": "",
+      "end": null
+    },
+    {
+      "type": "last.fm",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "url": {
+        "resource": "https://www.last.fm/music/Taylor+Swift",
+        "id": "fad4fb08-d53f-4fc7-967c-7053a9dd587a"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "id": "f16b3261-76e3-4f2f-9a9b-31d8c9a3da44",
+        "resource": "https://genius.com/artists/Taylor-swift"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "source-credit": "",
+      "attributes": [],
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "end": null,
+      "type": "lyrics",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "end": null,
+      "type": "lyrics",
+      "target-credit": "",
+      "direction": "forward",
+      "ended": false,
+      "url": {
+        "id": "fc26ddf9-19b5-4fac-95a4-f17a093ea249",
+        "resource": "https://muzikum.eu/en/taylor-swift/lyrics"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed"
+    },
+    {
+      "end": null,
+      "ended": false,
+      "type": "lyrics",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.musixmatch.com/artist/Taylor-Swift",
+        "id": "bcb1e5f1-b1df-4bce-9e2a-94327b4b0628"
+      },
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "myspace",
+      "end": null,
+      "attributes": [],
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "resource": "https://myspace.com/taylorswift",
+        "id": "735936d9-abf0-45b1-83f2-37db9d470e09"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "type": "official homepage",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.taylorswift.com/",
+        "id": "1e0c67cd-bd6b-4b50-917b-99b007f200ba"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attributes": []
+    },
+    {
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "id": "e5e2565b-aa83-46b8-8328-3d539654050d",
+        "resource": "https://www.universal-music.co.jp/taylor-swift/"
+      },
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "official homepage",
+      "end": null
+    },
+    {
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "id": "695beace-c506-4067-bc8c-8233e048e63f",
+        "resource": "http://taylorswift.jp/"
+      },
+      "source-credit": "テイラー・スウィフト",
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "target-credit": "",
+      "type": "official homepage",
+      "ended": true,
+      "end": null
+    },
+    {
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/no2007053238",
+        "id": "0931b0ba-92cc-4500-ae79-84554147322b"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "other databases",
+      "end": null
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "id": "66c727ac-e671-4295-950a-2b88788985db",
+        "resource": "http://musicmoz.org/Bands_and_Artists/S/Swift,_Taylor/"
+      },
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "type": "other databases",
+      "target-credit": "",
+      "direction": "forward",
+      "ended": false,
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "id": "56d6a28f-1d4b-402b-90b8-594ad335b25b",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb16020410t"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "other databases"
+    },
+    {
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "9e58d396-6c41-4bfc-b2b0-d0d6c0562859",
+        "resource": "https://d-nb.info/gnd/137997698"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": "",
+      "type": "other databases",
+      "ended": false,
+      "end": null
+    },
+    {
+      "ended": false,
+      "type": "other databases",
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://imvdb.com/n/taylor-swift",
+        "id": "aae1602d-afbd-4f0e-98c5-b88f63caa654"
+      }
+    },
+    {
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "e0a52331-4b7c-4578-8e02-5c4d530551c1",
+        "resource": "https://jaxsta.com/profile/7cab09c9-8210-4bed-8f5b-d5eb747705de"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://nla.gov.au/nla.party-1680377",
+        "id": "35d54f94-413b-488c-854b-9e670aa3bd42"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "type": "other databases",
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/taylor-swift",
+        "id": "f54fa95b-8bf7-435f-aea6-ca42c2ca6b84"
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "other databases"
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.livefans.jp/artists/2681",
+        "id": "c5928e53-ec3b-440f-91e0-1309a2dc4a20"
+      },
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "type": "other databases",
+      "target-credit": "",
+      "direction": "forward",
+      "ended": false,
+      "end": null
+    },
+    {
+      "ended": false,
+      "type": "other databases",
+      "direction": "forward",
+      "target-credit": "",
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "source-credit": "",
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/taylor-swift/",
+        "id": "6203bed4-f150-4f6d-915c-e8ed7576249c"
+      }
+    },
+    {
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://www.muziekweb.nl/Link/M00000299464/POPULAR/",
+        "id": "44939dbc-8949-4c76-9d81-1cb556f02013"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "type": "other databases",
+      "ended": false,
+      "end": null
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "id": "a530d52a-cb9b-41f0-86ba-3a7cc3152b8f",
+        "resource": "https://www.whosampled.com/Taylor-Swift/"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "type": "other databases",
+      "target-credit": "",
+      "direction": "forward",
+      "ended": false,
+      "end": null
+    },
+    {
+      "end": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "44f7d760-c904-4477-ae95-7e9547b85b85",
+        "resource": "http://www.worldcat.org/identities/lccn-no2007053238/"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "8012676d-30b6-49d0-bec6-26816e1915bb",
+        "resource": "https://play.google.com/store/music/artist?id=A4saifqiazru565jhrrm6d72jaa"
+      },
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attributes": [],
+      "end": "2020-10-12",
+      "ended": true,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "purchase for download"
+    },
+    {
+      "end": null,
+      "type": "purchase for download",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "29f1acd8-85b3-48ba-933f-78133b9491ca",
+        "resource": "https://mora.jp/artist/295541/"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attributes": []
+    },
+    {
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "purchase for download",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "resource": "https://music.apple.com/us/artist/159260351",
+        "id": "6ee27871-2a41-463d-bb21-34b9faa84fe1"
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203"
+    },
+    {
+      "url": {
+        "id": "b3b6ea7b-dec7-42fc-801b-0011a8da3fec",
+        "resource": "https://store.taylorswift.com/collections/music-products"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "purchase for download",
+      "ended": false
+    },
+    {
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "purchase for download",
+      "end": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attributes": [],
+      "source-credit": "",
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "id": "be09d520-9f36-4273-ac98-d57281ca2455",
+        "resource": "https://us.7digital.com/artist/taylor-swift"
+      }
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "type": "purchase for download",
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "id": "ac2bc4ab-1a8c-4f20-af4b-8b298510a6dc",
+        "resource": "https://www.beatport.com/artist/taylor-swift/346932"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": ""
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "4912e9e1-72e6-408c-85ed-f264a23d44b0",
+        "resource": "https://www.junodownload.com/artists/Taylor+Swift/"
+      },
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "purchase for download",
+      "end": null
+    },
+    {
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=325867",
+        "id": "eb002ffa-26ca-4ca2-b5e1-a89c6e157e5a"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "purchase for download",
+      "ended": false
+    },
+    {
+      "end": null,
+      "ended": false,
+      "type": "purchase for download",
+      "direction": "forward",
+      "target-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/taylor-swift/download-streaming-albums",
+        "id": "125a0889-3b6f-4098-9659-968e075b935a"
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "type": "purchase for mail-order",
+      "ended": false,
+      "end": null,
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://shop.umusic.ca/artist.html?a=taylor_swift",
+        "id": "40233d3e-1d64-425d-bcbf-62816aac6a60"
+      },
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://storeca.taylorswift.com/*/music/",
+        "id": "7048bbfe-83de-4a68-b0ea-f76c386cbf5d"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "purchase for mail-order",
+      "end": null
+    },
+    {
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "purchase for mail-order",
+      "end": null,
+      "attributes": [],
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://store.taylorswift.com/collections/music-products",
+        "id": "b3b6ea7b-dec7-42fc-801b-0011a8da3fec"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "url": {
+        "id": "13271446-5ce3-4767-9024-1fd81fb6363c",
+        "resource": "https://storeuk.taylorswift.com/"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": "",
+      "type": "purchase for mail-order",
+      "ended": false,
+      "end": null
+    },
+    {
+      "url": {
+        "id": "dcbcbe4d-0030-418d-9dfe-b0bb0f816cc6",
+        "resource": "https://store.universal-music.co.jp/artist/taylor-swift/"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "purchase for mail-order",
+      "ended": false
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "purchase for mail-order",
+      "ended": false,
+      "url": {
+        "id": "94df2567-71a9-4f31-b0f4-139af356c535",
+        "resource": "https://taylorswift.universal-music.de/"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "source-credit": "",
+      "attributes": [],
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d"
+    },
+    {
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "id": "15ae7426-3768-4907-8385-ed05e2d9d16b",
+        "resource": "https://universalmusicshop.avana.asia/categories/67133"
+      },
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "type": "purchase for mail-order",
+      "ended": false,
+      "end": null
+    },
+    {
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "id": "81bfbd6c-cc24-42ad-bc78-e4ae34ef2cfc",
+        "resource": "https://www.cdjapan.co.jp/person/700216318"
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "purchase for mail-order"
+    },
+    {
+      "attributes": [],
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "url": {
+        "resource": "https://www.target.com/c/-/N-54u4c",
+        "id": "aa3a100d-8106-4b72-a8bb-c83d3c9122ce"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "type": "purchase for mail-order",
+      "ended": false,
+      "end": null
+    },
+    {
+      "url": {
+        "id": "9b6b17c1-c065-471e-813a-9c6e4a2b11a6",
+        "resource": "https://www.urbanoutfitters.com/taylor-swift-exclusive-collection"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "source-credit": "",
+      "attributes": [],
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "end": null,
+      "type": "purchase for mail-order",
+      "target-credit": "",
+      "direction": "forward",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "id": "b45ecb14-b2a5-4ab4-9fe5-d3ae2e19118c",
+        "resource": "https://www.yesasia.com/0-aid1895644-0-bpt.47-en/list.html"
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "end": null,
+      "ended": false,
+      "type": "purchase for mail-order",
+      "direction": "forward",
+      "target-credit": ""
+    },
+    {
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "id": "c77036be-f49e-4a84-b661-afceb1dc6894",
+        "resource": "https://secondhandsongs.com/artist/44127"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "type": "secondhandsongs",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "end": null
+    },
+    {
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/taylor-swift-3bd6bc5c.html",
+        "id": "457d3f62-1d64-499c-81ce-1347fad17118"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "setlistfm",
+      "ended": false
+    },
+    {
+      "end": "2019-04",
+      "ended": true,
+      "type": "social network",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "14daba78-b770-42eb-8016-72cc40db87e9",
+        "resource": "https://plus.google.com/102467684150504816942"
+      },
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "url": {
+        "resource": "https://snapchat.com/add/taylorswift",
+        "id": "5c6442f6-7134-44a3-9bc9-365479322f79"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "social network",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "id": "20091730-cfd2-496d-be16-a6165d318bbc",
+        "resource": "https://twitter.com/taylorswift13"
+      },
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "type": "social network",
+      "direction": "forward",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "resource": "https://vk.com/taylorswiftofficial",
+        "id": "0d5d0f07-81ab-4d58-8942-7646b94ee607"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "social network",
+      "end": null
+    },
+    {
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "id": "75ac5607-4fc7-4957-9a3d-f4428f58d34e",
+        "resource": "https://www.facebook.com/TaylorSwift"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "target-credit": "",
+      "type": "social network",
+      "ended": false,
+      "end": null
+    },
+    {
+      "attributes": [],
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "url": {
+        "id": "a7015d39-c94a-4932-a72e-7cff24fe03d1",
+        "resource": "https://www.instagram.com/taylorswift/"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "social network",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "end": null
+    },
+    {
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "social network",
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "id": "6bcd8c85-296c-4222-9ae5-52cd6ff31c58",
+        "resource": "https://www.threads.com/@taylorswift"
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+    },
+    {
+      "end": null,
+      "ended": false,
+      "type": "social network",
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.tiktok.com/@taylorswift",
+        "id": "710071ad-dbd8-4ca6-96a8-4e8b3c461f98"
+      },
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.weibo.com/u/3981271467",
+        "id": "a0bb711e-8727-47cc-852b-aca952dc300a"
+      },
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attributes": [],
+      "end": null,
+      "type": "social network",
+      "target-credit": "",
+      "direction": "forward",
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.songkick.com/artists/217815",
+        "id": "1988421d-cafd-44d6-a161-3d92c7b4bcc9"
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "end": null,
+      "ended": false,
+      "type": "songkick",
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "type": "soundcloud",
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "attributes": [],
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "id": "c860bcbd-ad87-443e-a092-e6e3c81bca4d",
+        "resource": "https://soundcloud.com/taylorswiftofficial"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "ended": false,
+      "type": "streaming",
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "dfda27ee-daf7-46e4-ba24-4a75175ef0d0",
+        "resource": "https://music.amazon.com/artists/B00157GJ20"
+      },
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://music.apple.com/us/artist/159260351",
+        "id": "6ee27871-2a41-463d-bb21-34b9faa84fe1"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "streaming",
+      "end": null
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://tidal.com/artist/3557299",
+        "id": "d5a4af15-aad3-4fca-81c2-97082a9d5ef0"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attributes": [],
+      "end": null,
+      "type": "streaming",
+      "target-credit": "",
+      "direction": "forward",
+      "ended": false
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "id": "5a6ef5f1-3fd0-408e-b5c0-d9a1527b0809",
+        "resource": "https://us.napster.com/artist/taylor-swift"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "type": "streaming",
+      "target-credit": "",
+      "direction": "forward",
+      "ended": false,
+      "end": null
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=325867",
+        "id": "eb002ffa-26ca-4ca2-b5e1-a89c6e157e5a"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "streaming",
+      "ended": false
+    },
+    {
+      "end": null,
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "streaming",
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "id": "125a0889-3b6f-4098-9659-968e075b935a",
+        "resource": "https://www.qobuz.com/us-en/interpreter/taylor-swift/download-streaming-albums"
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "end": null,
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "type": "ticketing",
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "id": "b70d4883-6969-4dfe-9cbd-df5d3dbcd7d6",
+        "resource": "https://www.livenation.com/artist/K8vZ9175Tr0"
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "type-id": "34beaf28-cbdd-4bf7-bc41-e7de18135245"
+    },
+    {
+      "type": "ticketing",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "type-id": "34beaf28-cbdd-4bf7-bc41-e7de18135245",
+      "url": {
+        "resource": "https://www.ticketmaster.com/artist/1094215",
+        "id": "604fd586-86bc-4f32-a43b-2c3329728ddb"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/88580701",
+        "id": "c3de5776-22a7-4159-9086-511e47a2270b"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "type": "VIAF",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.dailymotion.com/taylorswift",
+        "id": "283840ae-4d30-4963-9606-1371df89bea4"
+      },
+      "type-id": "d86c9450-b6d0-4760-a275-e7547495b48b",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "video channel"
+    },
+    {
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "id": "88163713-0972-487c-b5b2-b926561f3892",
+        "resource": "https://www.wikidata.org/wiki/Q26876"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "type": "wikidata",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "end": null
+    },
+    {
+      "ended": false,
+      "type": "youtube",
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attributes": [],
+      "source-credit": "TaylorSwiftVEVO",
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "6ecf5752-9a79-421b-af93-996c8fb81867",
+        "resource": "https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg"
+      }
+    },
+    {
+      "source-credit": "Taylor Swift",
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "id": "2401788a-6300-49dc-9883-83aafedd9d9a",
+        "resource": "https://www.youtube.com/channel/UCqECaJ8Gagnn7YCbPEzWH6g"
+      },
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type": "youtube"
+    },
+    {
+      "end": null,
+      "type": "youtube music",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCPC0L1d253x-KuMNwa05TpA",
+        "id": "c2635ca2-54b7-4527-b5f7-0ca46af68636"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attributes": [],
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4"
+    }
+  ],
+  "country": "US",
+  "aliases": [
+    {
+      "name": "Dr. Taylor Alison Swift",
+      "end": null,
+      "begin": "2022-05-18",
+      "sort-name": "Swift, Taylor Alison, Dr.",
+      "locale": "en",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": false,
+      "ended": false,
+      "type": "Artist name"
+    },
+    {
+      "name": "Nils Sjöberg",
+      "end": null,
+      "begin": null,
+      "sort-name": "Sjöberg, Nils",
+      "locale": "sv",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": false,
+      "ended": false,
+      "type": "Artist name"
+    },
+    {
+      "locale": "en",
+      "sort-name": "T-Swizzle",
+      "end": null,
+      "begin": null,
+      "name": "T-Swizzle",
+      "type": "Artist name",
+      "primary": false,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+      "primary": false,
+      "ended": false,
+      "type": "Legal name",
+      "name": "Taylor Alison Swift",
+      "end": null,
+      "begin": null,
+      "sort-name": "Swift, Taylor Alison",
+      "locale": "en"
+    },
+    {
+      "locale": "en",
+      "sort-name": "Swift, Taylor",
+      "begin": null,
+      "end": null,
+      "name": "Taylor Swift",
+      "type": "Artist name",
+      "ended": false,
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "name": "Taylor Swiftová",
+      "end": null,
+      "begin": null,
+      "sort-name": "Swiftová, Taylor",
+      "locale": "cs",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "type": "Artist name"
+    },
+    {
+      "locale": "sk",
+      "sort-name": "Swiftová, Taylor",
+      "end": null,
+      "begin": null,
+      "name": "Taylor Swiftová",
+      "type": "Artist name",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "end": null,
+      "begin": null,
+      "name": "Taylur Swift",
+      "locale": "shi",
+      "sort-name": "Swift, Taylur",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name"
+    },
+    {
+      "type": "Artist name",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "locale": "lv",
+      "sort-name": "Teilora Svifta",
+      "end": null,
+      "begin": null,
+      "name": "Teilora Svifta"
+    },
+    {
+      "locale": "tk",
+      "sort-name": "Teýlor Swift",
+      "begin": null,
+      "end": null,
+      "name": "Teýlor Swift",
+      "type": "Artist name",
+      "ended": false,
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "begin": null,
+      "end": null,
+      "name": "Τέιλορ Σουίφτ",
+      "locale": "el",
+      "sort-name": "Τέιλορ Σουίφτ",
+      "ended": false,
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name"
+    },
+    {
+      "name": "Тейлор Свифт",
+      "end": null,
+      "begin": null,
+      "sort-name": "Тейлор Свифт",
+      "locale": "kk",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "type": "Artist name"
+    },
+    {
+      "end": null,
+      "begin": null,
+      "name": "Тейлор Свифт",
+      "locale": "ky",
+      "sort-name": "Тейлор Свифт",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name"
+    },
+    {
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "sort-name": "Тейлор Свифт",
+      "locale": "ru",
+      "name": "Тейлор Свифт",
+      "end": null,
+      "begin": null
+    },
+    {
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "sort-name": "Тейлор Свіфт",
+      "locale": "uk",
+      "name": "Тейлор Свіфт",
+      "end": null,
+      "begin": null
+    },
+    {
+      "type": "Artist name",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "locale": "bg",
+      "sort-name": "Тейлър Суифт",
+      "end": null,
+      "begin": null,
+      "name": "Тейлър Суифт"
+    },
+    {
+      "locale": "mk",
+      "sort-name": "Тејлор Свифт",
+      "end": null,
+      "begin": null,
+      "name": "Тејлор Свифт",
+      "type": "Artist name",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "locale": "sr",
+      "sort-name": "Тејлор Свифт",
+      "end": null,
+      "begin": null,
+      "name": "Тејлор Свифт",
+      "type": "Artist name",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "begin": null,
+      "end": null,
+      "name": "Тэйлар Свіфт",
+      "locale": "be",
+      "sort-name": "Тэйлар Свіфт",
+      "ended": false,
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name"
+    },
+    {
+      "begin": null,
+      "end": null,
+      "name": "Тэйлор Свифт",
+      "locale": "mn",
+      "sort-name": "Тэйлор Свифт",
+      "ended": false,
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name"
+    },
+    {
+      "begin": null,
+      "end": null,
+      "name": "Тэйлор Суифт",
+      "locale": "sah",
+      "sort-name": "Тэйлор Суифт",
+      "ended": false,
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name"
+    },
+    {
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "type": "Artist name",
+      "name": "Թեյլոր Սվիֆթ",
+      "end": null,
+      "begin": null,
+      "sort-name": "Թեյլոր Սվիֆթ",
+      "locale": "hy"
+    },
+    {
+      "locale": "hy",
+      "sort-name": "Թէյլըր Սուիֆթ",
+      "end": null,
+      "begin": null,
+      "name": "Թէյլըր Սուիֆթ",
+      "type": "Artist name",
+      "primary": false,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "locale": "he",
+      "sort-name": "טיילור סוויפט",
+      "end": null,
+      "begin": null,
+      "name": "טיילור סוויפט",
+      "type": "Artist name",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "sort-name": "טעילאר סוויפט",
+      "locale": "yi",
+      "name": "טעילאר סוויפט",
+      "begin": null,
+      "end": null,
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "primary": true
+    },
+    {
+      "locale": "ku",
+      "sort-name": "تایلر سویفت",
+      "begin": null,
+      "end": null,
+      "name": "تایلر سویفت",
+      "type": "Artist name",
+      "ended": false,
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "sort-name": "Svift, Teylor",
+      "locale": "az",
+      "name": "تیلور سوئیفت",
+      "end": null,
+      "begin": null
+    },
+    {
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "primary": true,
+      "type": "Artist name",
+      "name": "تیلور سوئیفت",
+      "begin": null,
+      "end": null,
+      "sort-name": "تیلور سوئیفت",
+      "locale": "fa"
+    },
+    {
+      "end": null,
+      "begin": null,
+      "name": "ٹیلر سوئفٹ",
+      "locale": "ks",
+      "sort-name": "ٹیلر سوئفٹ",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name"
+    },
+    {
+      "sort-name": "ٹیلر سوئفٹ",
+      "locale": "pa_Arab",
+      "name": "ٹیلر سوئفٹ",
+      "begin": null,
+      "end": null,
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "primary": true
+    },
+    {
+      "locale": "skr",
+      "sort-name": "ٹیلر سوئفٹ",
+      "begin": null,
+      "end": null,
+      "name": "ٹیلر سوئفٹ",
+      "type": "Artist name",
+      "ended": false,
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "locale": "ur",
+      "sort-name": "ٹیلر سوئفٹ",
+      "begin": null,
+      "end": null,
+      "name": "ٹیلر سوئفٹ",
+      "type": "Artist name",
+      "ended": false,
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "type": "Artist name",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "locale": "bho",
+      "sort-name": "टेलर स्विफ्ट",
+      "end": null,
+      "begin": null,
+      "name": "टेलर स्विफ्ट"
+    },
+    {
+      "name": "टेलर स्विफ्ट",
+      "end": null,
+      "begin": null,
+      "sort-name": "टेलर स्विफ्ट",
+      "locale": "hi",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "type": "Artist name"
+    },
+    {
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "type": "Artist name",
+      "name": "टेलर स्विफ्ट",
+      "end": null,
+      "begin": null,
+      "sort-name": "टेलर स्विफ्ट",
+      "locale": "mai"
+    },
+    {
+      "name": "टेलर स्विफ्ट",
+      "begin": null,
+      "end": null,
+      "sort-name": "टेलर स्विफ्ट",
+      "locale": "mr",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "primary": true,
+      "type": "Artist name"
+    },
+    {
+      "sort-name": "टेलर स्विफ्ट",
+      "locale": "ne",
+      "name": "टेलर स्विफ्ट",
+      "end": null,
+      "begin": null,
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false
+    },
+    {
+      "name": "টেইলর সুইফট",
+      "begin": null,
+      "end": null,
+      "sort-name": "টেইলর সুইফট",
+      "locale": "bn",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "primary": true,
+      "type": "Artist name"
+    },
+    {
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "type": "Artist name",
+      "name": "টেইলৰ ছুইফ্ট",
+      "end": null,
+      "begin": null,
+      "sort-name": "টেইলৰ ছুইফ্ট",
+      "locale": "as"
+    },
+    {
+      "type": "Artist name",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "locale": "pa_Guru",
+      "sort-name": "ਟੇਲਰ ਸਵਿਫਟ",
+      "end": null,
+      "begin": null,
+      "name": "ਟੇਲਰ ਸਵਿਫਟ"
+    },
+    {
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "sort-name": "டேலர் ஸ்விஃப்ட்",
+      "locale": "ta",
+      "name": "டேலர் ஸ்விஃப்ட்",
+      "end": null,
+      "begin": null
+    },
+    {
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "primary": true,
+      "sort-name": "టేలర్ స్విఫ్ట్",
+      "locale": "te",
+      "name": "టేలర్ స్విఫ్ట్",
+      "begin": null,
+      "end": null
+    },
+    {
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "sort-name": "ಟೈಲರ್ ಸ್ವಿಫ್ಟ್",
+      "locale": "kn",
+      "name": "ಟೈಲರ್ ಸ್ವಿಫ್ಟ್",
+      "end": null,
+      "begin": null
+    },
+    {
+      "name": "ടെയിലർ സ്വിഫ്റ്റ്",
+      "begin": null,
+      "end": null,
+      "sort-name": "ടെയിലർ സ്വിഫ്റ്റ്",
+      "locale": "ml",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "primary": true,
+      "type": "Artist name"
+    },
+    {
+      "type": "Artist name",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "locale": "si",
+      "sort-name": "ටේලර් ස්විෆ්ට්",
+      "end": null,
+      "begin": null,
+      "name": "ටේලර් ස්විෆ්ට්"
+    },
+    {
+      "locale": "th",
+      "sort-name": "เทย์เลอร์ สวิฟต์",
+      "end": null,
+      "begin": null,
+      "name": "เทย์เลอร์ สวิฟต์",
+      "type": "Artist name",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "ended": false,
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name",
+      "begin": null,
+      "end": null,
+      "name": "ເທເລໍ່ ສວິຟ",
+      "locale": "lo",
+      "sort-name": "ເທເລໍ່ ສວິຟ"
+    },
+    {
+      "ended": false,
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name",
+      "begin": null,
+      "end": null,
+      "name": "တေလာဆွစ်ဖ်",
+      "locale": "my",
+      "sort-name": "တေလာဆွစ်ဖ်"
+    },
+    {
+      "name": "ტეილორ სვიფტი",
+      "begin": null,
+      "end": null,
+      "sort-name": "ტეილორ სვიფტი",
+      "locale": "ka",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "primary": true,
+      "type": "Artist name"
+    },
+    {
+      "ended": false,
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name",
+      "begin": null,
+      "end": null,
+      "name": "ថេល័រ ស្វីហ្វត៍",
+      "locale": "km",
+      "sort-name": "ថេល័រ ស្វីហ្វត៍"
+    },
+    {
+      "sort-name": "Taylor Swift",
+      "locale": "ja",
+      "name": "テイラー・スウィフト",
+      "begin": null,
+      "end": null,
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "primary": true
+    },
+    {
+      "primary": false,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name",
+      "end": null,
+      "begin": null,
+      "name": "泰勒·史薇芙特",
+      "locale": "zh_Hans",
+      "sort-name": "Swift, Taylor"
+    },
+    {
+      "end": null,
+      "begin": null,
+      "name": "泰勒·斯威夫特",
+      "locale": "zh",
+      "sort-name": "泰勒·斯威夫特",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name"
+    },
+    {
+      "begin": null,
+      "end": null,
+      "name": "泰勒丝",
+      "locale": "zh_Hans_SG",
+      "sort-name": "泰勒丝",
+      "ended": false,
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name"
+    },
+    {
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "type": "Artist name",
+      "name": "泰勒絲",
+      "end": null,
+      "begin": null,
+      "sort-name": "Tàilēi sī",
+      "locale": "zh_Hant_TW"
+    },
+    {
+      "type": "Artist name",
+      "ended": false,
+      "primary": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "locale": "zh",
+      "sort-name": "Meimei",
+      "begin": null,
+      "end": null,
+      "name": "霉霉"
+    },
+    {
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "sort-name": "Taylor Swift",
+      "locale": "ko",
+      "name": "테일러 스위프트",
+      "end": null,
+      "begin": null
+    }
+  ],
+  "id": "20244d07-534f-4eff-b4d4-930878889970",
+  "end-area": null,
+  "isnis": [
+    "0000000078519858"
+  ],
+  "begin-area": {
+    "type": null,
+    "sort-name": "West Reading",
+    "id": "bfb8ed5a-7342-4a01-a1f2-94e620c3416b",
+    "name": "West Reading",
+    "type-id": null,
+    "disambiguation": ""
+  },
+  "tags": [
+    {
+      "name": "2000s",
+      "count": 2
+    },
+    {
+      "name": "2010s",
+      "count": 8
+    },
+    {
+      "name": "2020s",
+      "count": 8
+    },
+    {
+      "name": "alternative pop",
+      "count": 1
+    },
+    {
+      "name": "artist of the decade",
+      "count": 2
+    },
+    {
+      "count": 5,
+      "name": "contemporary country"
+    },
+    {
+      "name": "country",
+      "count": 23
+    },
+    {
+      "count": 22,
+      "name": "country pop"
+    },
+    {
+      "count": 1,
+      "name": "cultural icon"
+    },
+    {
+      "name": "electropop",
+      "count": 1
+    },
+    {
+      "name": "female vocals",
+      "count": 12
+    },
+    {
+      "name": "icon",
+      "count": 8
+    },
+    {
+      "count": 2,
+      "name": "indie folk"
+    },
+    {
+      "name": "late 2000s",
+      "count": 2
+    },
+    {
+      "name": "millennial",
+      "count": 1
+    },
+    {
+      "count": 1,
+      "name": "nuno"
+    },
+    {
+      "count": 36,
+      "name": "pop"
+    },
+    {
+      "count": 7,
+      "name": "pop rock"
+    },
+    {
+      "name": "re-recording",
+      "count": 1
+    },
+    {
+      "name": "singer-songwriter",
+      "count": 8
+    },
+    {
+      "count": 17,
+      "name": "singer/songwriter"
+    },
+    {
+      "count": 4,
+      "name": "synth-pop"
+    }
+  ],
+  "gender": "Female",
+  "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "area": {
+    "type-id": null,
+    "disambiguation": "",
+    "type": null,
+    "name": "United States",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "sort-name": "United States",
+    "id": "489ce91b-6658-3307-9877-795b68554c98"
+  },
+  "sort-name": "Swift, Taylor",
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1989-12-13"
+  },
+  "ipis": [
+    "00454808047",
+    "00454808145",
+    "00454808243",
+    "00804356845"
+  ],
+  "name": "Taylor Swift"
+}

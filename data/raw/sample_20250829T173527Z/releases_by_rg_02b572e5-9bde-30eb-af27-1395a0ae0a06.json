@@ -1,0 +1,429 @@
+{
+  "release-offset": 0,
+  "releases": [
+    {
+      "title": "Wishing on a Star",
+      "quality": "normal",
+      "packaging": "Slim Jewel Case",
+      "status": "Official",
+      "media": [
+        {
+          "track-offset": 0,
+          "track-count": 4,
+          "id": "65665841-52ab-371d-a9a5-c66e4afe062d",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "title": "",
+          "format": "CD",
+          "position": 1,
+          "tracks": [
+            {
+              "recording": {
+                "id": "714f7562-fd15-47b8-8fe6-69c15f606c42",
+                "title": "Wishing on a Star (D Influence full vocal edit)",
+                "disambiguation": "",
+                "first-release-date": "1998-02-14",
+                "length": 237666,
+                "video": false
+              },
+              "id": "c0740249-9eb7-4ec7-9006-069dcdee9844",
+              "length": 239000,
+              "position": 1,
+              "number": "1",
+              "title": "Wishing on a Star (D Influence full vocal edit)"
+            },
+            {
+              "title": "Wishing on a Star (D Influence remix)",
+              "length": 355000,
+              "position": 2,
+              "number": "2",
+              "id": "0a17d42a-5272-4854-bd18-449e5e4857ab",
+              "recording": {
+                "disambiguation": "",
+                "title": "Wishing on a Star (D Influence remix)",
+                "id": "fa196eaf-193b-4936-9b37-cc4b5f948df5",
+                "video": false,
+                "length": 354026,
+                "first-release-date": "1997-10-27"
+              }
+            },
+            {
+              "length": 231000,
+              "number": "3",
+              "position": 3,
+              "title": "Feelin It",
+              "recording": {
+                "disambiguation": "explicit",
+                "title": "Feelin’ It",
+                "id": "80d8c47f-0bf2-414b-9cf0-e8aed8f646fa",
+                "video": false,
+                "length": 227400,
+                "first-release-date": "1996-06-25"
+              },
+              "id": "f1720ec1-e0e7-4854-a484-795673f3dfa0"
+            },
+            {
+              "id": "44e2ebdd-5e9c-433d-a37d-d01a61e434cc",
+              "recording": {
+                "first-release-date": "1998-02-14",
+                "length": 333000,
+                "video": false,
+                "id": "e26a1720-62dd-48c9-bcd6-c72978cd1fea",
+                "title": "Wishing on a Star (D Influence full vocal mix)",
+                "disambiguation": ""
+              },
+              "title": "Wishing on a Star (D Influence full vocal mix)",
+              "length": 333000,
+              "position": 4,
+              "number": "4"
+            }
+          ]
+        }
+      ],
+      "packaging-id": "36327bc2-f691-3d66-80e5-bd03cec6060a",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "disambiguation": "",
+      "id": "248e5cf3-c905-48f9-bb5d-4f0cbfef14bf",
+      "country": "GB",
+      "release-events": [
+        {
+          "area": {
+            "sort-name": "United Kingdom",
+            "name": "United Kingdom",
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "type-id": null,
+            "disambiguation": "",
+            "type": null,
+            "iso-3166-1-codes": [
+              "GB"
+            ]
+          },
+          "date": "1998-02-14"
+        }
+      ],
+      "date": "1998-02-14",
+      "cover-art-archive": {
+        "count": 1,
+        "front": true,
+        "artwork": true,
+        "darkened": false,
+        "back": false
+      },
+      "asin": null,
+      "barcode": "743215546320",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "label-info": [
+        {
+          "label": {
+            "label-code": null,
+            "sort-name": "BMG",
+            "name": "BMG",
+            "type": "Holding",
+            "disambiguation": "the former Bertelsmann Music Group, defunct since 2004-08-05; for releases dated 2008 and later, see annotation",
+            "id": "29d7c88f-5200-4418-a683-5c94ea032e38",
+            "type-id": "43f31a62-97e4-36f6-9752-453c131b71ed"
+          },
+          "catalog-number": "74321 554632"
+        },
+        {
+          "catalog-number": "74321 554632",
+          "label": {
+            "disambiguation": "",
+            "id": "08115dd8-f877-4926-a579-fe9ce8949b2f",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "type": "Original Production",
+            "label-code": 2276,
+            "name": "Northwestside",
+            "sort-name": "Northwestside"
+          }
+        },
+        {
+          "catalog-number": "74321 554632",
+          "label": {
+            "disambiguation": "",
+            "id": "4cccc72a-0bd0-433a-905e-dad87871397d",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "type": "Original Production",
+            "label-code": null,
+            "name": "Roc‐A‐Fella Records",
+            "sort-name": "Roc‐A‐Fella Records"
+          }
+        }
+      ]
+    },
+    {
+      "cover-art-archive": {
+        "back": false,
+        "darkened": false,
+        "artwork": false,
+        "count": 0,
+        "front": false
+      },
+      "date": "1998",
+      "label-info": [
+        {
+          "catalog-number": "74321 558602",
+          "label": {
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "id": "08115dd8-f877-4926-a579-fe9ce8949b2f",
+            "disambiguation": "",
+            "type": "Original Production",
+            "sort-name": "Northwestside",
+            "name": "Northwestside",
+            "label-code": 2276
+          }
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "barcode": "743215586029",
+      "asin": null,
+      "packaging-id": "36327bc2-f691-3d66-80e5-bd03cec6060a",
+      "media": [
+        {
+          "format": "CD",
+          "title": "",
+          "tracks": [
+            {
+              "length": 237760,
+              "position": 1,
+              "number": "1",
+              "title": "Wishing on a Star (radio edit)",
+              "recording": {
+                "id": "8dca0236-e01b-4fd3-983f-7882fda63aa2",
+                "title": "Wishing on a Star",
+                "disambiguation": "radio edit",
+                "first-release-date": "1998-02-16",
+                "video": false,
+                "length": 235000
+              },
+              "id": "a5b2deac-408c-49e2-82d6-05adf0d59360"
+            },
+            {
+              "id": "4c30fab2-e4fb-4a56-b688-43ed7fce166b",
+              "recording": {
+                "video": false,
+                "length": 237640,
+                "first-release-date": "1998",
+                "title": "Wishing on a Star (Track Masters remix)",
+                "disambiguation": "",
+                "id": "b48c8671-dbfa-4e86-85e2-617b874af067"
+              },
+              "title": "Wishing on a Star (Track Masters remix)",
+              "number": "2",
+              "position": 2,
+              "length": 237640
+            },
+            {
+              "length": 354866,
+              "position": 3,
+              "number": "4",
+              "title": "Wishing on a Star (D Influence remix)",
+              "recording": {
+                "title": "Wishing on a Star (D Influence remix)",
+                "disambiguation": "",
+                "id": "fa196eaf-193b-4936-9b37-cc4b5f948df5",
+                "length": 354026,
+                "video": false,
+                "first-release-date": "1997-10-27"
+              },
+              "id": "ebe5c2a5-6fb7-46f1-b6a2-559addedc24a"
+            },
+            {
+              "recording": {
+                "id": "77db21da-8343-427a-af49-a2d8d2807792",
+                "title": "Brooklyn’s Finest",
+                "disambiguation": "",
+                "first-release-date": "1998",
+                "video": false,
+                "length": 277906
+              },
+              "id": "8596dad4-49a1-49b8-ba84-2bfc22138084",
+              "length": 277933,
+              "number": "3",
+              "position": 4,
+              "title": "Brooklyn’s Finest"
+            },
+            {
+              "id": "0a2f1dea-5563-4fee-9cf6-918d01bf9617",
+              "recording": {
+                "first-release-date": "1998",
+                "length": 235626,
+                "video": false,
+                "id": "8affaa02-d5a6-4ec8-b1ec-d49017f274ec",
+                "title": "Wishing on a Star (Track Masters acappella)",
+                "disambiguation": ""
+              },
+              "title": "Wishing on a Star (Track Masters acappella)",
+              "number": "5",
+              "position": 5,
+              "length": 235626
+            }
+          ],
+          "position": 1,
+          "id": "62f31165-c61b-3a2d-acfb-1e6dbfb6bf63",
+          "track-count": 5,
+          "track-offset": 0,
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "status": "Official",
+      "packaging": "Slim Jewel Case",
+      "quality": "normal",
+      "title": "Wishing on a Star",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "XE"
+            ],
+            "type": null,
+            "sort-name": "Europe",
+            "name": "Europe"
+          },
+          "date": "1998"
+        }
+      ],
+      "country": "XE",
+      "id": "40bcd2ae-d910-49c3-ba52-03d7abd57c62",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      }
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "label-info": [
+        {
+          "catalog-number": "74321 55224 2",
+          "label": {
+            "name": "Northwestside",
+            "sort-name": "Northwestside",
+            "label-code": 2276,
+            "id": "08115dd8-f877-4926-a579-fe9ce8949b2f",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "disambiguation": "",
+            "type": "Original Production"
+          }
+        }
+      ],
+      "barcode": "743215522423",
+      "asin": "B00004WQVB",
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "front": true,
+        "count": 2,
+        "artwork": true
+      },
+      "date": "1998",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "1998",
+          "area": {
+            "disambiguation": "",
+            "type-id": null,
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "type": null,
+            "iso-3166-1-codes": [
+              "GB"
+            ],
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom"
+          }
+        }
+      ],
+      "disambiguation": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "id": "474ee1be-7360-4031-8f89-2156d64cb198",
+      "packaging-id": null,
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-offset": 0,
+          "id": "d1914154-7b60-3987-b9a4-e73a7a5d54ae",
+          "track-count": 4,
+          "position": 1,
+          "tracks": [
+            {
+              "recording": {
+                "id": "8dca0236-e01b-4fd3-983f-7882fda63aa2",
+                "disambiguation": "radio edit",
+                "title": "Wishing on a Star",
+                "first-release-date": "1998-02-16",
+                "length": 235000,
+                "video": false
+              },
+              "id": "278372ac-52df-3ba1-91bc-2327a6b6c198",
+              "number": "1",
+              "position": 1,
+              "length": 237773,
+              "title": "Wishing on a Star (radio edit)"
+            },
+            {
+              "id": "657f135f-dd96-3d88-af8e-055c75f30297",
+              "recording": {
+                "id": "b48c8671-dbfa-4e86-85e2-617b874af067",
+                "disambiguation": "",
+                "title": "Wishing on a Star (Track Masters remix)",
+                "first-release-date": "1998",
+                "video": false,
+                "length": 237640
+              },
+              "title": "Wishing on a Star (Track Masters remix)",
+              "position": 2,
+              "number": "2",
+              "length": 239626
+            },
+            {
+              "title": "Brooklyn’s Finest",
+              "length": 277906,
+              "number": "3",
+              "position": 3,
+              "id": "862c7028-7fde-3127-993a-3a70fbb836b2",
+              "recording": {
+                "disambiguation": "",
+                "title": "Brooklyn’s Finest",
+                "id": "77db21da-8343-427a-af49-a2d8d2807792",
+                "video": false,
+                "length": 277906,
+                "first-release-date": "1998"
+              }
+            },
+            {
+              "title": "Wishing on a Star (D Influence full vocal edit)",
+              "length": 237666,
+              "position": 4,
+              "number": "4",
+              "id": "62eaca11-76a2-3916-90ae-0c9940c13fa1",
+              "recording": {
+                "disambiguation": "",
+                "title": "Wishing on a Star (D Influence full vocal edit)",
+                "id": "714f7562-fd15-47b8-8fe6-69c15f606c42",
+                "length": 237666,
+                "video": false,
+                "first-release-date": "1998-02-14"
+              }
+            }
+          ],
+          "title": "",
+          "format": "CD"
+        }
+      ],
+      "quality": "normal",
+      "title": "Wishing on a Star",
+      "status": "Official",
+      "packaging": null
+    }
+  ],
+  "release-count": 3
+}

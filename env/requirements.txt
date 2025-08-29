@@ -1,0 +1,19 @@
+# Core
+streamlit==1.37.1
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
+
+# Viz
+matplotlib==3.9.2
+plotly==5.23.0
+networkx==3.3   # for collaboration graphs
+
+# Reporting
+reportlab==4.2.2  # for PDF report
+
+# Dev/quality
+pytest==8.3.2
+ruff==0.6.9
+black==24.8.0
+python-dotenv==1.0.1

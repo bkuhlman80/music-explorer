@@ -1,0 +1,283 @@
+{
+  "created": "2025-08-28T23:18:27.865Z",
+  "count": 2887,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Louis Armstrong",
+      "sort-name": "Armstrong, Louis",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New Orleans",
+        "sort-name": "New Orleans",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "fb3ad447-5b4a-4b47-b7a8-fbd73e9689e5",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Corona",
+        "sort-name": "Corona",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00001334546"
+      ],
+      "isnis": [
+        "0000000110198071"
+      ],
+      "life-span": {
+        "begin": "1901-08-04",
+        "end": "1971-07-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Armstrong",
+          "name": "Armstrong",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armstrong, Louis and His Friends",
+          "name": "Louis Armstrong and His Friends",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armstrong, Louis Daniel",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Louis Daniel Armstrong",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Loius Armstrong",
+          "name": "Loius Armstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis Armstrong with The Commanders",
+          "name": "Louis Armstrong with The Commanders",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louise Armstrong",
+          "name": "Louise Armstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Loouis Aemstrong",
+          "name": "Loouis Aemstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis Arnstrong",
+          "name": "Louis Arnstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis Armostrong",
+          "name": "Louis Armostrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Luis Armstrong",
+          "name": "Luis Armstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis Amstrong",
+          "name": "Louis Amstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armstrong Louis",
+          "name": "Armstrong Louis",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louie Armstrong",
+          "name": "Louie Armstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armstrong, Louis",
+          "name": "Armstrong, Louis",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armstrong, Louis (Satchmo)",
+          "name": "Armstrong, Louis (Satchmo)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis Armstrong: Satchmo",
+          "name": "Louis Armstrong: Satchmo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armstrong, Louis & The Commanders",
+          "name": "Louis Armstrong & The Commanders",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ルイ・アームストロング",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ルイ・アームストロング",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 10,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "easy listening"
+        },
+        {
+          "count": 3,
+          "name": "swing"
+        },
+        {
+          "count": 2,
+          "name": "gospel"
+        },
+        {
+          "count": 3,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 4,
+          "name": "dixieland"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 2,
+          "name": "traditional pop"
+        },
+        {
+          "count": 0,
+          "name": "sm"
+        },
+        {
+          "count": -1,
+          "name": "death by heart attack"
+        },
+        {
+          "count": 0,
+          "name": "aa0003000"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    }
+  ]
+}

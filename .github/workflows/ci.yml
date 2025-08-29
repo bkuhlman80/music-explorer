@@ -1,0 +1,79 @@
+name: ci
+on:
+  push: { branches: [ main ] }
+  pull_request: { branches: [ main ] }
+
+jobs:
+  build-test-report:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONUTF8: "1"
+      STREAMLIT_BROWSER_GATHER_USAGE_STATS: "false"
+      USER_AGENT: ${{ secrets.MB_USER_AGENT }}
+      MB_BASE_URL: https://musicbrainz.org/ws/2
+      MB_RATE_LIMIT_MS: 1500
+      ARTISTS_SEED: "Radiohead,Daft Punk,Beyoncé"
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('env/requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install deps
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          python -m pip install --upgrade pip
+          python -m pip install -r env/requirements.txt
+
+      - name: Write .env
+        run: |
+          mkdir -p env
+          cat > env/.env <<'ENV'
+          USER_AGENT="${USER_AGENT}"
+          MB_BASE_URL="${MB_BASE_URL}"
+          MB_RATE_LIMIT_MS=${MB_RATE_LIMIT_MS}
+          MB_MAX_RETRIES=3
+          MB_TIMEOUT_S=30
+          ARTISTS_SEED="${ARTISTS_SEED}"
+          TZ="UTC"
+          STREAMLIT_PORT=8501
+          STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
+          ENV
+
+      - name: Pull raw (skip if no UA)
+        run: |
+          source .venv/bin/activate
+          if [ -n "$USER_AGENT" ]; then make pull; else echo "No MB_USER_AGENT secret; skipping pull"; fi
+
+      - name: Clean
+        run: source .venv/bin/activate && make clean
+
+      - name: Build marts
+        run: source .venv/bin/activate && make build
+
+      - name: Tests
+        run: source .venv/bin/activate && make test
+
+      - name: Figures
+        run: source .venv/bin/activate && make figures || true
+
+      - name: Report
+        run: source .venv/bin/activate && make report
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: music-explorer-artifacts
+          path: |
+            docs/report.pdf
+            docs/figures/*.png
+            data/marts/*.csv
+          if-no-files-found: warn

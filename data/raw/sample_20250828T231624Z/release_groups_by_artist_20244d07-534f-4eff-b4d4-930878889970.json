@@ -1,0 +1,6803 @@
+{
+  "release-groups": [
+    {
+      "first-release-date": "2013-01-08",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "ballad",
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "country",
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single",
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "name": "ballad",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "title": "The Moment I Knew",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "01b14120-0fcc-4a8a-8849-d960a7ec79cf"
+    },
+    {
+      "tags": [
+        {
+          "name": "5+ wochen",
+          "count": 1
+        },
+        {
+          "name": "alternative rock",
+          "count": 1
+        },
+        {
+          "name": "contemporary country",
+          "count": 1
+        },
+        {
+          "name": "country",
+          "count": 4
+        },
+        {
+          "name": "country music",
+          "count": 1
+        },
+        {
+          "count": 4,
+          "name": "country pop"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "name": "folk pop",
+          "count": 1
+        },
+        {
+          "name": "indie folk",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "offizielle charts"
+        },
+        {
+          "count": 3,
+          "name": "pop"
+        },
+        {
+          "name": "pop music",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop punk"
+        },
+        {
+          "name": "pop rock",
+          "count": 5
+        },
+        {
+          "name": "power pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        }
+      ],
+      "id": "0441b1b2-de57-4a9a-b007-1f6e159921d5",
+      "title": "Speak Now (Taylor’s version)",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "first-release-date": "2023-07-07",
+      "secondary-type-ids": [],
+      "primary-type": "Album",
+      "genres": [
+        {
+          "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+          "count": 1,
+          "disambiguation": "",
+          "name": "alternative rock"
+        },
+        {
+          "name": "contemporary country",
+          "disambiguation": "",
+          "count": 1,
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b"
+        },
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 4,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "disambiguation": "",
+          "name": "country pop",
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 4
+        },
+        {
+          "id": "abb2374f-30e5-4d3e-b417-2caf78ef1f6c",
+          "count": 1,
+          "disambiguation": "",
+          "name": "folk pop"
+        },
+        {
+          "count": 1,
+          "id": "36917620-240a-4fed-abcb-7be611ac3834",
+          "name": "indie folk",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 3
+        },
+        {
+          "name": "pop punk",
+          "disambiguation": "",
+          "count": 1,
+          "id": "60e21d01-ce21-4127-86b7-aada79558dab"
+        },
+        {
+          "disambiguation": "",
+          "name": "pop rock",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 5
+        },
+        {
+          "disambiguation": "",
+          "name": "power pop",
+          "id": "618704fc-daac-44a2-92c9-89e3b1a2fc8c",
+          "count": 1
+        },
+        {
+          "name": "singer-songwriter",
+          "disambiguation": "",
+          "count": 1,
+          "id": "455f264b-db00-4716-991d-fbd32dc24523"
+        },
+        {
+          "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+          "count": 1,
+          "disambiguation": "",
+          "name": "synth-pop"
+        }
+      ],
+      "secondary-types": []
+    },
+    {
+      "first-release-date": "2011-08-10",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "country pop",
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single",
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "name": "country",
+          "count": 2
+        },
+        {
+          "count": 2,
+          "name": "country pop"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ],
+      "title": "Sparks Fly",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "08cdf7f4-3715-467b-b3d8-37a4dfa29224"
+    },
+    {
+      "secondary-type-ids": [],
+      "first-release-date": "2007",
+      "disambiguation": "",
+      "secondary-types": [],
+      "genres": [
+        {
+          "count": 1,
+          "id": "31aee5bc-c1e8-43d7-a7bc-902df802ccbb",
+          "name": "christmas music",
+          "disambiguation": ""
+        },
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        }
+      ],
+      "primary-type": "Single",
+      "tags": [
+        {
+          "name": "christmas music",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Last Christmas",
+      "id": "08dd212b-5db7-40bb-8407-a576158cd6ac"
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 1,
+          "name": "country pop"
+        },
+        {
+          "name": "pop",
+          "count": 3
+        },
+        {
+          "name": "tour compilation",
+          "count": 1
+        }
+      ],
+      "title": "reputation Stadium Tour Surprise Song Playlist",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "0a5a4bb3-3b68-4ab4-b36d-7523b5beff16",
+      "first-release-date": "2018-11-30",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "genres": [
+        {
+          "name": "country pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1"
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 3
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album"
+    },
+    {
+      "tags": [
+        {
+          "name": "alternative pop",
+          "count": 9
+        },
+        {
+          "count": 2,
+          "name": "chillwave"
+        },
+        {
+          "count": 2,
+          "name": "downtempo"
+        },
+        {
+          "name": "drill",
+          "count": 1
+        },
+        {
+          "name": "east coast hip hop",
+          "count": 1
+        },
+        {
+          "name": "electropop",
+          "count": 1
+        },
+        {
+          "name": "jahrescharts 2024",
+          "count": 1
+        },
+        {
+          "name": "jersey club",
+          "count": 1
+        },
+        {
+          "count": 7,
+          "name": "pop"
+        },
+        {
+          "name": "pop rap",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "romantic"
+        },
+        {
+          "count": 3,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 12,
+          "name": "synth-pop"
+        }
+      ],
+      "title": "Midnights",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+      "first-release-date": "2022-10-21",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "name": "alternative pop",
+          "disambiguation": "",
+          "count": 9,
+          "id": "d3ebe947-7c03-43f5-b333-09379881b0f6"
+        },
+        {
+          "count": 2,
+          "id": "18d52a87-bbbf-42f0-8338-189c8c314523",
+          "name": "chillwave",
+          "disambiguation": ""
+        },
+        {
+          "name": "downtempo",
+          "disambiguation": "",
+          "count": 2,
+          "id": "cc38aba3-48ed-439a-83b9-f81a34a66598"
+        },
+        {
+          "count": 1,
+          "id": "1e5e18e5-4e70-4a73-942a-c6c79c1aefe2",
+          "name": "drill",
+          "disambiguation": ""
+        },
+        {
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "count": 1,
+          "disambiguation": "",
+          "name": "east coast hip hop"
+        },
+        {
+          "disambiguation": "",
+          "name": "electropop",
+          "id": "3f3388b4-e36a-4bf8-a0be-66b10d92aaa4",
+          "count": 1
+        },
+        {
+          "id": "526c7a1e-d9da-4050-a567-be44c3cf1066",
+          "count": 1,
+          "disambiguation": "",
+          "name": "jersey club"
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 7,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop rap"
+        },
+        {
+          "name": "singer-songwriter",
+          "disambiguation": "",
+          "count": 3,
+          "id": "455f264b-db00-4716-991d-fbd32dc24523"
+        },
+        {
+          "count": 12,
+          "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+          "name": "synth-pop",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Album"
+    },
+    {
+      "id": "0debfb8e-7a5a-4881-97b1-0f57258473f9",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Taylor Swift (Taylor’s version)",
+      "tags": [
+        {
+          "name": "contemporary country",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "re-recording"
+        }
+      ],
+      "primary-type": "Album",
+      "secondary-types": [],
+      "genres": [
+        {
+          "name": "contemporary country",
+          "disambiguation": "",
+          "count": 1,
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b"
+        },
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": ""
+    },
+    {
+      "secondary-types": [],
+      "genres": [
+        {
+          "count": 3,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country pop"
+        }
+      ],
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "first-release-date": "2011-11-08",
+      "disambiguation": "",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Ours",
+      "id": "1717039b-8b50-45de-8902-11e57b26df2e",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "country",
+          "count": 3
+        },
+        {
+          "name": "country pop",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "genres": [
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 3,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "name": "country pop",
+          "disambiguation": "",
+          "count": 2,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1"
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "EP",
+      "first-release-date": "2008-01-15",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "disambiguation": "",
+      "title": "iTunes SoHo Sessions",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "17938f4b-9aa6-4457-a5da-a51157932347",
+      "tags": [
+        {
+          "name": "country",
+          "count": 3
+        },
+        {
+          "name": "country pop",
+          "count": 2
+        },
+        {
+          "name": "pop",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "primary-type": "EP",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "genres": [
+        {
+          "id": "608b0471-7531-4854-a348-e698c69cb699",
+          "count": 1,
+          "disambiguation": "",
+          "name": "ambient"
+        },
+        {
+          "id": "6ed4e4d1-9a97-4e2c-b8df-083754f154f4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "classical"
+        },
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1
+        },
+        {
+          "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+          "count": 1,
+          "disambiguation": "",
+          "name": "jazz"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "2021-01-28",
+      "id": "18a0414e-1696-4982-9af9-6a30c35de7d4",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "the “forever is the sweetest con” chapter",
+      "tags": [
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "name": "jazz",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "rhythm and blues",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "primary-type": "EP",
+      "genres": [],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "first-release-date": "2020-08-27",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "1a9bd06c-a0b9-457d-a27f-d97210da302c",
+      "title": "folklore: the saltbox house chapter",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "tags": []
+    },
+    {
+      "id": "1c4770b3-b7a3-4d44-a7a9-8e2dbb74b85a",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "1989 (Taylor’s version)",
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative pop"
+        },
+        {
+          "name": "ballad",
+          "count": 1
+        },
+        {
+          "name": "dance-pop",
+          "count": 1
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "electropop"
+        },
+        {
+          "count": 4,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "hypnagogic pop"
+        },
+        {
+          "count": 1,
+          "name": "jahrescharts 2024"
+        },
+        {
+          "name": "pop",
+          "count": 9
+        },
+        {
+          "count": 2,
+          "name": "pop rock"
+        },
+        {
+          "name": "re-recording",
+          "count": 3
+        },
+        {
+          "count": 3,
+          "name": "synth-pop"
+        }
+      ],
+      "primary-type": "Album",
+      "secondary-types": [],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "alternative pop",
+          "id": "d3ebe947-7c03-43f5-b333-09379881b0f6",
+          "count": 1
+        },
+        {
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1,
+          "disambiguation": "",
+          "name": "ballad"
+        },
+        {
+          "disambiguation": "",
+          "name": "dance-pop",
+          "id": "b739a895-85ed-4ad3-8717-4e9ef5387dd8",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "electropop",
+          "id": "3f3388b4-e36a-4bf8-a0be-66b10d92aaa4",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "c0dccaaa-171d-4355-b5c6-10ae392c1087",
+          "name": "hypnagogic pop",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 9
+        },
+        {
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 2,
+          "disambiguation": "",
+          "name": "pop rock"
+        },
+        {
+          "name": "synth-pop",
+          "disambiguation": "",
+          "count": 3,
+          "id": "988e91a3-3341-416d-b7f8-7dbef6848dac"
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2023-10-27"
+    },
+    {
+      "secondary-types": [],
+      "genres": [
+        {
+          "id": "31aee5bc-c1e8-43d7-a7bc-902df802ccbb",
+          "count": 2,
+          "disambiguation": "",
+          "name": "christmas music"
+        },
+        {
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country"
+        }
+      ],
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "first-release-date": "2007",
+      "disambiguation": "",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "White Christmas",
+      "id": "1d90e597-c637-4f0d-9f70-197e683104ab",
+      "tags": [
+        {
+          "name": "christmas music",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "country"
+        }
+      ]
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2008-09-12",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "genres": [
+        {
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 4,
+          "disambiguation": "",
+          "name": "country"
+        },
+        {
+          "count": 3,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "name": "country pop",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 2
+        },
+        {
+          "count": 2,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "name": "pop rock",
+          "disambiguation": ""
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "name": "country",
+          "count": 4
+        },
+        {
+          "name": "country pop",
+          "count": 3
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "general contemporary country"
+        },
+        {
+          "name": "love story",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 2
+        },
+        {
+          "count": 2,
+          "name": "pop rock"
+        }
+      ],
+      "id": "2698b1f9-804c-385a-bcbc-65735fb596a8",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Love Story"
+    },
+    {
+      "genres": [
+        {
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "count": 2,
+          "disambiguation": "",
+          "name": "contemporary country"
+        },
+        {
+          "count": 3,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "name": "country pop",
+          "disambiguation": "",
+          "count": 2,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1"
+        },
+        {
+          "count": 3,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        },
+        {
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop rock"
+        },
+        {
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "id": "455f264b-db00-4716-991d-fbd32dc24523",
+          "name": "singer-songwriter",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "first-release-date": "2011-11-21",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "disambiguation": "",
+      "title": "Speak Now: World Tour Live",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "2a8d9df8-c23f-456c-9153-12ab1ced21ce",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "contemporary country"
+        },
+        {
+          "count": 3,
+          "name": "country"
+        },
+        {
+          "name": "country pop",
+          "count": 2
+        },
+        {
+          "name": "country-pop",
+          "count": 1
+        },
+        {
+          "name": "live",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 3
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 2
+        },
+        {
+          "name": "singer-songwriter",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "secondary-types": [],
+      "genres": [
+        {
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        }
+      ],
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "first-release-date": "2013-03-25",
+      "disambiguation": "",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Highway Don’t Care",
+      "id": "2ac6b360-9871-47a8-b249-3167dcdc0eef",
+      "tags": [
+        {
+          "count": 1,
+          "name": "country"
+        }
+      ]
+    },
+    {
+      "id": "2c7fb84f-2101-44d5-8c6b-e1bd1a044efe",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Out of the Woods",
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        }
+      ],
+      "primary-type": "Single",
+      "secondary-types": [],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "synth-pop",
+          "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+          "count": 1
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2014-10-14"
+    },
+    {
+      "genres": [
+        {
+          "name": "ballad",
+          "disambiguation": "",
+          "count": 1,
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b"
+        },
+        {
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country pop"
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop"
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2007-02-19",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "title": "Teardrops on My Guitar",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "2cc43f5b-3131-4734-8ec5-c618384940cd",
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "country pop"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "genres": [
+        {
+          "name": "alternative pop",
+          "disambiguation": "",
+          "count": 3,
+          "id": "d3ebe947-7c03-43f5-b333-09379881b0f6"
+        },
+        {
+          "disambiguation": "",
+          "name": "ambient",
+          "id": "608b0471-7531-4854-a348-e698c69cb699",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "dance",
+          "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+          "count": 1
+        },
+        {
+          "id": "b739a895-85ed-4ad3-8717-4e9ef5387dd8",
+          "count": 2,
+          "disambiguation": "",
+          "name": "dance-pop"
+        },
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1
+        },
+        {
+          "count": 4,
+          "id": "3f3388b4-e36a-4bf8-a0be-66b10d92aaa4",
+          "name": "electropop",
+          "disambiguation": ""
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "disambiguation": "",
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+          "name": "jazz",
+          "disambiguation": ""
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 9,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "disambiguation": "",
+          "name": "singer-songwriter",
+          "id": "455f264b-db00-4716-991d-fbd32dc24523",
+          "count": 3
+        },
+        {
+          "disambiguation": "",
+          "name": "synth-pop",
+          "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+          "count": 4
+        },
+        {
+          "count": 1,
+          "id": "2afc2320-384f-43a4-a71e-1b763c485045",
+          "name": "trance",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "2019-08-23",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "title": "Lover",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "30e9785b-7b50-4d29-b3d1-96fb55e3397f",
+      "tags": [
+        {
+          "count": 3,
+          "name": "alternative pop"
+        },
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "dance"
+        },
+        {
+          "count": 2,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "name": "electropop",
+          "count": 4
+        },
+        {
+          "name": "house",
+          "count": 1
+        },
+        {
+          "name": "jahrescharts 2024",
+          "count": 1
+        },
+        {
+          "name": "jazz",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 9
+        },
+        {
+          "count": 3,
+          "name": "singer-songwriter"
+        },
+        {
+          "name": "synth-pop",
+          "count": 4
+        },
+        {
+          "name": "trance",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "warm"
+        }
+      ]
+    },
+    {
+      "primary-type": "EP",
+      "genres": [
+        {
+          "count": 1,
+          "id": "608b0471-7531-4854-a348-e698c69cb699",
+          "name": "ambient",
+          "disambiguation": ""
+        },
+        {
+          "name": "contemporary country",
+          "disambiguation": "",
+          "count": 1,
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b"
+        },
+        {
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 2,
+          "disambiguation": "",
+          "name": "country"
+        },
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "jazz",
+          "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+          "count": 1
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "name": "trance",
+          "disambiguation": "",
+          "count": 1,
+          "id": "2afc2320-384f-43a4-a71e-1b763c485045"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "first-release-date": "2021-05-19",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "36a0e323-6473-4367-b528-f6b5b8c473d7",
+      "title": "Fearless (Taylor’s version): The Kissing in the Rain Chapter",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "tags": [
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "name": "contemporary country",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "name": "house",
+          "count": 1
+        },
+        {
+          "name": "jazz",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "rhythm and blues",
+          "count": 1
+        },
+        {
+          "name": "trance",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "37b64055-e022-45cf-a895-13534524528c",
+      "title": "The More Red (Taylor’s version) Chapter",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "tags": [
+        {
+          "name": "contemporary country",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "name": "country pop",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 1
+        }
+      ],
+      "primary-type": "EP",
+      "genres": [
+        {
+          "count": 1,
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "name": "contemporary country",
+          "disambiguation": ""
+        },
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country pop"
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "first-release-date": "2023-03-17",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "tags": [],
+      "id": "381336a3-28aa-4092-84c3-12c01b9d4153",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "Rhapsody Originals",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "first-release-date": "2007-11",
+      "primary-type": "EP",
+      "secondary-types": [
+        "Live"
+      ],
+      "genres": []
+    },
+    {
+      "id": "3930a8d8-a402-4eaa-a524-bfcaf11de2c7",
+      "title": "Everything Has Changed",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "country pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "folk pop"
+        },
+        {
+          "name": "soft rock",
+          "count": 1
+        }
+      ],
+      "primary-type": "Single",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "country pop",
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 1
+        },
+        {
+          "name": "folk pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "abb2374f-30e5-4d3e-b417-2caf78ef1f6c"
+        },
+        {
+          "count": 1,
+          "id": "7d0c6a6b-5d56-4b1e-a8c7-e32194f246b9",
+          "name": "soft rock",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [],
+      "disambiguation": "",
+      "first-release-date": "2013-06-06",
+      "secondary-type-ids": []
+    },
+    {
+      "primary-type": "EP",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "genres": [
+        {
+          "name": "ambient",
+          "disambiguation": "",
+          "count": 1,
+          "id": "608b0471-7531-4854-a348-e698c69cb699"
+        },
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "jazz",
+          "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "2021-01-21",
+      "id": "394936d7-23dd-40df-ba94-e09fc9c986fe",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "the “dropped your hand while dancing” chapter",
+      "tags": [
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "rhythm and blues",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3a4c2b26-e58c-4581-9857-b9d7f8ec0b00",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "Red (Taylor’s version): She Wrote a Song About Me Chapter",
+      "tags": [
+        {
+          "name": "blues",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "name": "house",
+          "count": 1
+        },
+        {
+          "name": "jazz",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "name": "trance",
+          "count": 1
+        }
+      ],
+      "primary-type": "EP",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "genres": [
+        {
+          "name": "blues",
+          "disambiguation": "",
+          "count": 1,
+          "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2"
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "name": "house",
+          "disambiguation": "",
+          "count": 1,
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        },
+        {
+          "count": 1,
+          "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+          "name": "jazz",
+          "disambiguation": ""
+        },
+        {
+          "count": 2,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        },
+        {
+          "id": "2afc2320-384f-43a4-a71e-1b763c485045",
+          "count": 1,
+          "disambiguation": "",
+          "name": "trance"
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "2022-01-18"
+    },
+    {
+      "secondary-type-ids": [],
+      "first-release-date": "2012-09-25",
+      "disambiguation": "",
+      "secondary-types": [],
+      "genres": [
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "disambiguation": "",
+          "name": "country rock",
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "id": "7d0c6a6b-5d56-4b1e-a8c7-e32194f246b9",
+          "count": 2,
+          "disambiguation": "",
+          "name": "soft rock"
+        }
+      ],
+      "primary-type": "Single",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "name": "country rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "soft rock"
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Begin Again",
+      "id": "3acfa917-e081-4a53-800e-903ebc59a012"
+    },
+    {
+      "first-release-date": "2008",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1,
+          "disambiguation": "",
+          "name": "ballad"
+        },
+        {
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 2,
+          "disambiguation": "",
+          "name": "country"
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "ballad",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "country"
+        }
+      ],
+      "title": "White Horse",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "42e033b3-3844-4366-a309-9a1ede62dc56"
+    },
+    {
+      "secondary-types": [],
+      "genres": [
+        {
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "count": 2,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "name": "country pop",
+          "disambiguation": ""
+        }
+      ],
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "first-release-date": "2008-10-21",
+      "disambiguation": "",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Breathe",
+      "id": "4356a44e-5927-4437-bed3-98d184217140",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "country",
+          "count": 1
+        },
+        {
+          "name": "country pop",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "first-release-date": "2009-10-09",
+      "disambiguation": "",
+      "secondary-types": [],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "country",
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 2
+        },
+        {
+          "name": "country pop",
+          "disambiguation": "",
+          "count": 2,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1"
+        },
+        {
+          "count": 1,
+          "id": "4b7c8e31-462b-4e06-acfd-fa508ad26e0c",
+          "name": "teen pop",
+          "disambiguation": ""
+        }
+      ],
+      "primary-type": "Single",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "country",
+          "count": 2
+        },
+        {
+          "count": 2,
+          "name": "country pop"
+        },
+        {
+          "name": "teen pop",
+          "count": 1
+        },
+        {
+          "name": "todd in the shadows",
+          "count": 1
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Fifteen",
+      "id": "474a112f-fb98-4602-a600-bb3accfcbcdb"
+    },
+    {
+      "title": "I Knew You Were Trouble.",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "4a8780f3-1c21-4514-a24a-4828c1b42869",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "dance-pop",
+          "count": 2
+        },
+        {
+          "name": "dubstep",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "dance-pop",
+          "id": "b739a895-85ed-4ad3-8717-4e9ef5387dd8",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "id": "1b50083b-1afa-4778-82c8-548b309af783",
+          "name": "dubstep",
+          "disambiguation": ""
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 2,
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "pop rock",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2012-10-09",
+      "secondary-type-ids": [],
+      "disambiguation": ""
+    },
+    {
+      "primary-type": "Single",
+      "secondary-types": [],
+      "genres": [
+        {
+          "count": 1,
+          "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+          "name": "contemporary r&b",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "3f3388b4-e36a-4bf8-a0be-66b10d92aaa4",
+          "name": "electropop",
+          "disambiguation": ""
+        },
+        {
+          "count": 2,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        },
+        {
+          "name": "r&b",
+          "disambiguation": "",
+          "count": 1,
+          "id": "31be54b2-4d0c-42df-aa44-c496c7b4c3c3"
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2014-11-10",
+      "id": "4be997c4-3e06-4a10-b01e-833771238c4d",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Blank Space",
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 1,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "electropop"
+        },
+        {
+          "name": "pop",
+          "count": 2
+        },
+        {
+          "name": "r&b",
+          "count": 1
+        },
+        {
+          "name": "todd in the shadows",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "christmas music"
+        },
+        {
+          "count": 1,
+          "name": "country"
+        }
+      ],
+      "id": "4d2a0e28-1732-4fb0-b40c-78720ef0892e",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Silent Night",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2007",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "genres": [
+        {
+          "name": "christmas music",
+          "disambiguation": "",
+          "count": 1,
+          "id": "31aee5bc-c1e8-43d7-a7bc-902df802ccbb"
+        },
+        {
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        }
+      ]
+    },
+    {
+      "id": "4d9ec1c2-58ec-48a4-aa0a-916718adead0",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "1989",
+      "tags": [
+        {
+          "count": 1,
+          "name": "5+ wochen"
+        },
+        {
+          "count": 3,
+          "name": "alternative pop"
+        },
+        {
+          "count": 1,
+          "name": "breakup"
+        },
+        {
+          "count": 1,
+          "name": "country rock"
+        },
+        {
+          "count": 7,
+          "name": "dance-pop"
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "count": 4,
+          "name": "electropop"
+        },
+        {
+          "count": 1,
+          "name": "love"
+        },
+        {
+          "name": "playful",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 9
+        },
+        {
+          "count": 1,
+          "name": "romantic"
+        },
+        {
+          "count": 9,
+          "name": "synth-pop"
+        },
+        {
+          "count": 1,
+          "name": "uplifting"
+        }
+      ],
+      "primary-type": "Album",
+      "secondary-types": [],
+      "genres": [
+        {
+          "name": "alternative pop",
+          "disambiguation": "",
+          "count": 3,
+          "id": "d3ebe947-7c03-43f5-b333-09379881b0f6"
+        },
+        {
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country rock"
+        },
+        {
+          "disambiguation": "",
+          "name": "dance-pop",
+          "id": "b739a895-85ed-4ad3-8717-4e9ef5387dd8",
+          "count": 7
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "id": "3f3388b4-e36a-4bf8-a0be-66b10d92aaa4",
+          "count": 4,
+          "disambiguation": "",
+          "name": "electropop"
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 9,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "disambiguation": "",
+          "name": "synth-pop",
+          "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+          "count": 9
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2014-10-24"
+    },
+    {
+      "genres": [
+        {
+          "id": "d3ebe947-7c03-43f5-b333-09379881b0f6",
+          "count": 1,
+          "disambiguation": "",
+          "name": "alternative pop"
+        },
+        {
+          "name": "ambient",
+          "disambiguation": "",
+          "count": 1,
+          "id": "608b0471-7531-4854-a348-e698c69cb699"
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "name": "jazz",
+          "disambiguation": "",
+          "count": 1,
+          "id": "a715278f-1580-409f-8078-4ffbc800e08b"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "disambiguation": "",
+          "name": "trance",
+          "id": "2afc2320-384f-43a4-a71e-1b763c485045",
+          "count": 1
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "EP",
+      "first-release-date": "2021-02-04",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "title": "the “ladies lunching” chapter",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "57557d4d-488d-438a-9491-ee404472fa36",
+      "tags": [
+        {
+          "name": "alternative pop",
+          "count": 1
+        },
+        {
+          "name": "ambient",
+          "count": 1
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "rhythm and blues",
+          "count": 1
+        },
+        {
+          "name": "trance",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "secondary-types": [],
+      "genres": [
+        {
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country pop"
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 2
+        },
+        {
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 2
+        }
+      ],
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "first-release-date": "2007-08-22",
+      "disambiguation": "",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Our Song",
+      "id": "5c72da17-b5af-4e32-ac89-29973be8e14f",
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "name": "country pop",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2012-10-16",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "alternative rock",
+          "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "id": "26af3760-750a-4b5e-a699-78c87697585a",
+          "name": "arena rock",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "name": "pop rock",
+          "disambiguation": ""
+        },
+        {
+          "count": 2,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock",
+          "disambiguation": ""
+        },
+        {
+          "id": "7d0c6a6b-5d56-4b1e-a8c7-e32194f246b9",
+          "count": 1,
+          "disambiguation": "",
+          "name": "soft rock"
+        }
+      ],
+      "tags": [
+        {
+          "name": "alternative rock",
+          "count": 2
+        },
+        {
+          "name": "arena rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "soft rock"
+        }
+      ],
+      "id": "5e4a6c32-2bc1-42a3-91b1-deadae9bbc06",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "State of Grace"
+    },
+    {
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "folklore: the sleepless nights chapter",
+      "id": "5fba7a93-7701-45b8-8ad0-18816283c545",
+      "tags": [],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "genres": [],
+      "primary-type": "EP",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "2020-08-24",
+      "disambiguation": ""
+    },
+    {
+      "id": "610026f8-cf87-4bcb-a425-0913161f2524",
+      "title": "Fearless (Taylor’s version): The I Remember What You Said Last Night Chapter",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "tags": [
+        {
+          "count": 1,
+          "name": "contemporary country"
+        },
+        {
+          "count": 2,
+          "name": "country"
+        }
+      ],
+      "primary-type": "EP",
+      "genres": [
+        {
+          "count": 1,
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "name": "contemporary country",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "country",
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 2
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "first-release-date": "2021-05-24",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "name": "country pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "todd in the shadows"
+        }
+      ],
+      "title": "We Are Never Ever Getting Back Together",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "621f71af-d007-4f23-9f89-26bf30e4133f",
+      "first-release-date": "2012-08-14",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "country pop",
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "count": 2,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "pop rock",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Fearless",
+      "id": "63eba062-847c-3b73-8b0f-6baf27bba6fa",
+      "tags": [
+        {
+          "name": "5+ wochen",
+          "count": 1
+        },
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "contemporary country",
+          "count": 2
+        },
+        {
+          "count": 11,
+          "name": "country"
+        },
+        {
+          "count": 7,
+          "name": "country pop"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "name": "folk",
+          "count": 1
+        },
+        {
+          "name": "general pop vocal",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "offizielle charts"
+        },
+        {
+          "count": 3,
+          "name": "pop"
+        },
+        {
+          "count": 3,
+          "name": "pop rock"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "teen pop"
+        }
+      ],
+      "secondary-types": [],
+      "genres": [
+        {
+          "count": 2,
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "name": "contemporary country",
+          "disambiguation": ""
+        },
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 11,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "name": "country pop",
+          "disambiguation": "",
+          "count": 7,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1"
+        },
+        {
+          "count": 1,
+          "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+          "name": "folk",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 3
+        },
+        {
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 3,
+          "disambiguation": "",
+          "name": "pop rock"
+        },
+        {
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        },
+        {
+          "id": "455f264b-db00-4716-991d-fbd32dc24523",
+          "count": 2,
+          "disambiguation": "",
+          "name": "singer-songwriter"
+        },
+        {
+          "name": "teen pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "4b7c8e31-462b-4e06-acfd-fa508ad26e0c"
+        }
+      ],
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "first-release-date": "2008-11-11",
+      "disambiguation": ""
+    },
+    {
+      "first-release-date": "2014-10-20",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "count": 1,
+          "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea",
+          "name": "disco",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "electropop",
+          "id": "3f3388b4-e36a-4bf8-a0be-66b10d92aaa4",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "synth-pop",
+          "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single",
+      "tags": [
+        {
+          "name": "disco",
+          "count": 1
+        },
+        {
+          "name": "electropop",
+          "count": 1
+        },
+        {
+          "name": "new york",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 2
+        },
+        {
+          "name": "synth-pop",
+          "count": 1
+        }
+      ],
+      "title": "Welcome to New York",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "644afe8e-2214-4f88-97c4-2829f054c702"
+    },
+    {
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "country pop",
+          "count": 1
+        },
+        {
+          "name": "country rock",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Superman",
+      "id": "66b90844-dab7-467e-968b-649a947f0f76",
+      "secondary-type-ids": [],
+      "first-release-date": "2011-11-08",
+      "disambiguation": "",
+      "secondary-types": [],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "country pop",
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "country rock",
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 2
+        },
+        {
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop rock"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        }
+      ],
+      "primary-type": "Single"
+    },
+    {
+      "primary-type": "Album",
+      "secondary-types": [],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "alternative country",
+          "id": "5f9cba3d-1a9f-46cd-8c49-7ed78d1f3354",
+          "count": 1
+        },
+        {
+          "name": "ambient",
+          "disambiguation": "",
+          "count": 1,
+          "id": "608b0471-7531-4854-a348-e698c69cb699"
+        },
+        {
+          "disambiguation": "",
+          "name": "blues",
+          "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "name": "contemporary country",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "country",
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 5
+        },
+        {
+          "name": "country pop",
+          "disambiguation": "",
+          "count": 6,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1"
+        },
+        {
+          "count": 1,
+          "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+          "name": "dance",
+          "disambiguation": ""
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "id": "abb2374f-30e5-4d3e-b417-2caf78ef1f6c",
+          "count": 1,
+          "disambiguation": "",
+          "name": "folk pop"
+        },
+        {
+          "name": "heartland rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "52856ec0-9f9b-45f4-ab09-1bb8cc0a98e4"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "disambiguation": "",
+          "name": "house"
+        },
+        {
+          "disambiguation": "",
+          "name": "jazz",
+          "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 5
+        },
+        {
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "name": "pop rock",
+          "disambiguation": ""
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "count": 2,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        },
+        {
+          "count": 1,
+          "id": "455f264b-db00-4716-991d-fbd32dc24523",
+          "name": "singer-songwriter",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "trance",
+          "id": "2afc2320-384f-43a4-a71e-1b763c485045",
+          "count": 1
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2021-11-11",
+      "id": "67727253-f1c0-4243-9270-f9f1401c3b8c",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Red (Taylor’s version)",
+      "tags": [
+        {
+          "count": 1,
+          "name": "5+ wochen"
+        },
+        {
+          "name": "alternative country",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "blues",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "contemporary country"
+        },
+        {
+          "name": "country",
+          "count": 5
+        },
+        {
+          "count": 6,
+          "name": "country pop"
+        },
+        {
+          "name": "dance",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "folk pop"
+        },
+        {
+          "count": 1,
+          "name": "heartland rock"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "name": "offizielle charts",
+          "count": 1
+        },
+        {
+          "count": 5,
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "name": "re-recording",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rhythm and blues"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "name": "trance",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "title": "Fearless",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "6a872b6d-749a-4443-a4f9-c3f6c90ee8a1",
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 3,
+          "name": "country"
+        },
+        {
+          "name": "country pop",
+          "count": 3
+        },
+        {
+          "name": "pop",
+          "count": 1
+        }
+      ],
+      "genres": [
+        {
+          "count": 3,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "name": "country pop",
+          "disambiguation": "",
+          "count": 3,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2008-10-14",
+      "secondary-type-ids": [],
+      "disambiguation": ""
+    },
+    {
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "The More Lover Chapter",
+      "id": "6bbe34bf-0b93-412c-b1c2-af6d9ef04a02",
+      "tags": [
+        {
+          "name": "pop",
+          "count": 2
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "genres": [
+        {
+          "count": 2,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        }
+      ],
+      "primary-type": "EP",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "2023-03-17",
+      "disambiguation": ""
+    },
+    {
+      "id": "6c648e9d-be20-4c79-aa1e-ab843c2bf32b",
+      "title": "Fearless (Taylor’s version): The From The Vault Chapter",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "tags": [
+        {
+          "name": "contemporary country",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "country"
+        }
+      ],
+      "primary-type": "EP",
+      "genres": [
+        {
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "count": 1,
+          "disambiguation": "",
+          "name": "contemporary country"
+        },
+        {
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "first-release-date": "2021-05-26",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "title": "Red (Taylor’s version): Could You Be the One Chapter",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "6d177a11-4072-40c6-94ee-254d3edeb4b7",
+      "tags": [
+        {
+          "name": "ambient",
+          "count": 1
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "trance",
+          "count": 1
+        }
+      ],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "ambient",
+          "id": "608b0471-7531-4854-a348-e698c69cb699",
+          "count": 1
+        },
+        {
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "disambiguation": "",
+          "name": "house"
+        },
+        {
+          "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+          "count": 1,
+          "disambiguation": "",
+          "name": "jazz"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "id": "2afc2320-384f-43a4-a71e-1b763c485045",
+          "count": 1,
+          "disambiguation": "",
+          "name": "trance"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "EP",
+      "first-release-date": "2022-01-13",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": ""
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "charity"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "soft rock"
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Ronan",
+      "id": "6d193315-f5ad-40fa-992b-7b0c2e57ad1d",
+      "secondary-type-ids": [],
+      "first-release-date": "2012-09-08",
+      "disambiguation": "",
+      "secondary-types": [],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "id": "7d0c6a6b-5d56-4b1e-a8c7-e32194f246b9",
+          "name": "soft rock",
+          "disambiguation": ""
+        }
+      ],
+      "primary-type": "Single"
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "name": "country",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "country pop"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        }
+      ],
+      "title": "22",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "70816f08-b7d1-4e77-817e-8c1426751de0",
+      "first-release-date": "2013-03-12",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "count": 1,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "name": "country pop",
+          "disambiguation": ""
+        },
+        {
+          "count": 2,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single"
+    },
+    {
+      "tags": [
+        {
+          "name": "5+ wochen",
+          "count": 1
+        },
+        {
+          "name": "alternative pop",
+          "count": 4
+        },
+        {
+          "count": 2,
+          "name": "concept album"
+        },
+        {
+          "name": "country pop",
+          "count": 1
+        },
+        {
+          "name": "double album",
+          "count": 3
+        },
+        {
+          "name": "english",
+          "count": 2
+        },
+        {
+          "name": "folk-pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "indie folk"
+        },
+        {
+          "name": "jahrescharts 2024",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "offizielle charts"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "name": "pop music",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "name": "synth-pop",
+          "count": 3
+        }
+      ],
+      "id": "71c3eed6-466c-4aef-ad12-65a36d19467a",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "THE TORTURED POETS DEPARTMENT",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2024-04-19",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "genres": [
+        {
+          "count": 4,
+          "id": "d3ebe947-7c03-43f5-b333-09379881b0f6",
+          "name": "alternative pop",
+          "disambiguation": ""
+        },
+        {
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country pop"
+        },
+        {
+          "count": 1,
+          "id": "36917620-240a-4fed-abcb-7be611ac3834",
+          "name": "indie folk",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 2
+        },
+        {
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 3,
+          "disambiguation": "",
+          "name": "pop rock"
+        },
+        {
+          "disambiguation": "",
+          "name": "singer-songwriter",
+          "id": "455f264b-db00-4716-991d-fbd32dc24523",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "synth-pop",
+          "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "title": "Picture to Burn",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "76af63c8-e154-4772-b9e5-c7ae060747ea",
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "name": "contemporary country",
+          "count": 1
+        },
+        {
+          "name": "country",
+          "count": 2
+        },
+        {
+          "name": "country rock",
+          "count": 2
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "name": "contemporary country",
+          "disambiguation": ""
+        },
+        {
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "name": "country rock",
+          "disambiguation": "",
+          "count": 2,
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b"
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2008-02-03",
+      "secondary-type-ids": [],
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2006-06-19",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "genres": [
+        {
+          "name": "alternative rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+        },
+        {
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 2
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        }
+      ],
+      "id": "77364f43-05c0-48d2-b941-de4f5b0a30a9",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Tim McGraw"
+    },
+    {
+      "title": "THE TORTURED POETS DEPARTMENT | TS The Eras Tour Setlist",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "77a881fc-c0cc-4109-99d3-184864769558",
+      "tags": [
+        {
+          "count": 2,
+          "name": "pop"
+        }
+      ],
+      "genres": [
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 2,
+          "disambiguation": "",
+          "name": "pop"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "EP",
+      "first-release-date": "2024-10-03",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": ""
+    },
+    {
+      "primary-type": "Single",
+      "secondary-types": [],
+      "genres": [
+        {
+          "name": "neon pop punk",
+          "disambiguation": "",
+          "count": 1,
+          "id": "2228bcbf-78ca-424a-bf37-9cfa1566d82e"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "count": 2,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2009-10-19",
+      "id": "784cbf88-0dff-4f34-8e65-7bdc8f8fb10e",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Two Is Better Than One",
+      "tags": [
+        {
+          "name": "neon pop punk",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "count": 2
+        },
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "first-release-date": "2007",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "christmas music",
+          "id": "31aee5bc-c1e8-43d7-a7bc-902df802ccbb",
+          "count": 2
+        },
+        {
+          "disambiguation": "",
+          "name": "country",
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single",
+      "tags": [
+        {
+          "name": "christmas music",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "country"
+        }
+      ],
+      "title": "Santa Baby",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "803aa3b6-9105-4780-8796-e2cd4e8452be"
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "first-release-date": "2020-04-24",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Live"
+      ],
+      "genres": [
+        {
+          "name": "acoustic rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "00055e8b-b951-46e2-af1e-58b5624e7952"
+        },
+        {
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 3,
+          "disambiguation": "",
+          "name": "country"
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e"
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "acoustic country"
+        },
+        {
+          "count": 1,
+          "name": "acoustic rock"
+        },
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 3,
+          "name": "country"
+        },
+        {
+          "name": "live",
+          "count": 2
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        }
+      ],
+      "id": "81a20a2d-e9cb-40ce-9e22-178337f381a0",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Live From Clear Channel Stripped 2008"
+    },
+    {
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "ballad",
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1
+        },
+        {
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country"
+        },
+        {
+          "disambiguation": "",
+          "name": "country rock",
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+          "count": 2
+        },
+        {
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2008-10-28",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "title": "You’re Not Sorry",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "87886c26-951f-4298-879f-be3a2f1c807f",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "ballad",
+          "count": 1
+        },
+        {
+          "name": "country",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "country rock"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "contemporary country"
+        },
+        {
+          "count": 1,
+          "name": "country"
+        }
+      ],
+      "id": "8d9bde79-ff95-4582-88e5-7ad61d9bb666",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "I Heart ?",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2008-07-29",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "contemporary country",
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "country",
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "first-release-date": "2010-05-31",
+      "disambiguation": "",
+      "secondary-types": [],
+      "genres": [
+        {
+          "name": "country rock",
+          "disambiguation": "",
+          "count": 2,
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "name": "pop rock",
+          "disambiguation": ""
+        },
+        {
+          "count": 2,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock",
+          "disambiguation": ""
+        },
+        {
+          "name": "soft rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "7d0c6a6b-5d56-4b1e-a8c7-e32194f246b9"
+        }
+      ],
+      "primary-type": "Single",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "country rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "soft rock"
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Half of My Heart",
+      "id": "8e004482-984f-46b5-ab59-5a902723f8a1"
+    },
+    {
+      "tags": [
+        {
+          "name": "car on cover",
+          "count": 1
+        }
+      ],
+      "id": "92de1260-411c-4d22-8245-fcc670a7210e",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "Red (Taylor’s version): From the Vault Chapter",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "2022-01-31",
+      "primary-type": "EP",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "genres": []
+    },
+    {
+      "tags": [
+        {
+          "name": "pop",
+          "count": 1
+        }
+      ],
+      "id": "93b7ed89-f1e2-4c6c-a7dd-5003498063d9",
+      "title": "Red (Taylor’s version): The Slow Motion Chapter",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "disambiguation": "",
+      "first-release-date": "2022-01-25",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type": "EP",
+      "genres": [
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "disambiguation": "",
+      "first-release-date": "2014-08-18",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "dance-pop",
+          "id": "b739a895-85ed-4ad3-8717-4e9ef5387dd8",
+          "count": 2
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 3,
+          "disambiguation": "",
+          "name": "pop"
+        }
+      ],
+      "secondary-types": [],
+      "tags": [
+        {
+          "count": 1,
+          "name": "2014"
+        },
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 1,
+          "name": "billboard hot 100"
+        },
+        {
+          "count": 2,
+          "name": "dance-pop"
+        },
+        {
+          "name": "pop",
+          "count": 3
+        },
+        {
+          "count": 1,
+          "name": "todd in the shadows"
+        },
+        {
+          "name": "year end chart",
+          "count": 1
+        }
+      ],
+      "id": "999e9130-0fc3-4667-8455-f283d7f7fabf",
+      "title": "Shake It Off",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    {
+      "title": "Red",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "9a076153-ff33-4ea5-a53e-250c18fca001",
+      "tags": [
+        {
+          "name": "alternative rock",
+          "count": 1
+        },
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "country pop"
+        },
+        {
+          "name": "country rock",
+          "count": 2
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "soft rock",
+          "count": 1
+        }
+      ],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "alternative rock",
+          "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "country",
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "name": "country pop",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "country rock",
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+          "count": 2
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop rock"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "id": "7d0c6a6b-5d56-4b1e-a8c7-e32194f246b9",
+          "count": 1,
+          "disambiguation": "",
+          "name": "soft rock"
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2012-10-02",
+      "secondary-type-ids": [],
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "first-release-date": "2025-10-03",
+      "secondary-type-ids": [],
+      "primary-type": "Album",
+      "genres": [
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop"
+        }
+      ],
+      "secondary-types": [],
+      "tags": [
+        {
+          "name": "pop",
+          "count": 1
+        }
+      ],
+      "id": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
+      "title": "The Life of a Showgirl",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "tags": [
+        {
+          "count": 2,
+          "name": "country pop"
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "The Best Day",
+      "id": "9b3ea0e2-474d-45a8-8e87-d0022e4b9807",
+      "secondary-type-ids": [],
+      "first-release-date": "2010",
+      "disambiguation": "",
+      "secondary-types": [],
+      "genres": [
+        {
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 2,
+          "disambiguation": "",
+          "name": "country pop"
+        }
+      ],
+      "primary-type": "Single"
+    },
+    {
+      "primary-type": "Single",
+      "secondary-types": [],
+      "genres": [
+        {
+          "count": 1,
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+          "name": "country rock",
+          "disambiguation": ""
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "id": "60e21d01-ce21-4127-86b7-aada79558dab",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop punk"
+        },
+        {
+          "disambiguation": "",
+          "name": "pop rock",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 2
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "count": 2,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2011-05-24",
+      "id": "9d159714-5a7a-4d1f-94fa-54cbcadfce62",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "The Story of Us",
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "name": "country rock",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "pop punk",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "pop rock"
+        },
+        {
+          "name": "rock",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Lover (live from Paris)",
+      "id": "9d8ee40d-075a-4cfe-b079-abfbe7002a21",
+      "tags": [
+        {
+          "name": "acoustic pop",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 4,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        }
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "genres": [
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 4,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "id": "455f264b-db00-4716-991d-fbd32dc24523",
+          "name": "singer-songwriter",
+          "disambiguation": ""
+        }
+      ],
+      "primary-type": "Album",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "first-release-date": "2020-05-19",
+      "disambiguation": ""
+    },
+    {
+      "title": "The More Fearless (Taylor’s version) Chapter",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "a36c17e1-e365-442c-ba37-ce08db4e4dc8",
+      "tags": [
+        {
+          "count": 1,
+          "name": "contemporary country"
+        },
+        {
+          "name": "country",
+          "count": 2
+        },
+        {
+          "name": "country pop",
+          "count": 1
+        }
+      ],
+      "genres": [
+        {
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "count": 1,
+          "disambiguation": "",
+          "name": "contemporary country"
+        },
+        {
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country pop"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "EP",
+      "first-release-date": "2023-03-17",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": ""
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "5+ wochen"
+        },
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "contemporary country"
+        },
+        {
+          "count": 9,
+          "name": "country"
+        },
+        {
+          "count": 7,
+          "name": "country pop"
+        },
+        {
+          "name": "english",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "heartland rock"
+        },
+        {
+          "count": 1,
+          "name": "offizielle charts"
+        },
+        {
+          "name": "pop",
+          "count": 8
+        },
+        {
+          "count": 3,
+          "name": "pop rock"
+        },
+        {
+          "name": "singer-songwriter",
+          "count": 3
+        }
+      ],
+      "id": "a73cecde-0923-40ad-aad1-e8c24ba6c3d2",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Red",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2012-08-10",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "genres": [
+        {
+          "count": 3,
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "name": "contemporary country",
+          "disambiguation": ""
+        },
+        {
+          "count": 9,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "name": "country pop",
+          "disambiguation": "",
+          "count": 7,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1"
+        },
+        {
+          "id": "52856ec0-9f9b-45f4-ab09-1bb8cc0a98e4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "heartland rock"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 8,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "count": 3,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "name": "pop rock",
+          "disambiguation": ""
+        },
+        {
+          "count": 3,
+          "id": "455f264b-db00-4716-991d-fbd32dc24523",
+          "name": "singer-songwriter",
+          "disambiguation": ""
+        }
+      ]
+    },
+    {
+      "id": "aed4c905-be53-4eb7-9392-25d7c3e33a90",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Taylor Swift Karaoke: reputation",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "instrumental",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        }
+      ],
+      "primary-type": "Album",
+      "secondary-types": [
+        "Remix"
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+          "name": "instrumental",
+          "disambiguation": ""
+        },
+        {
+          "count": 2,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "first-release-date": "2018-03-09"
+    },
+    {
+      "id": "af03aa6a-1358-4d00-8890-1db352a69bac",
+      "title": "The Cruelest Summer",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "tags": [
+        {
+          "name": "alternative pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "country music"
+        },
+        {
+          "count": 1,
+          "name": "country pop"
+        },
+        {
+          "count": 1,
+          "name": "indie folk"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "pop music",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "name": "synth-pop",
+          "count": 1
+        }
+      ],
+      "primary-type": "EP",
+      "genres": [
+        {
+          "id": "d3ebe947-7c03-43f5-b333-09379881b0f6",
+          "count": 1,
+          "disambiguation": "",
+          "name": "alternative pop"
+        },
+        {
+          "disambiguation": "",
+          "name": "country pop",
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 1
+        },
+        {
+          "id": "36917620-240a-4fed-abcb-7be611ac3834",
+          "count": 1,
+          "disambiguation": "",
+          "name": "indie folk"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "name": "pop rock",
+          "disambiguation": ""
+        },
+        {
+          "name": "synth-pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "988e91a3-3341-416d-b7f8-7dbef6848dac"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "first-release-date": "2023-10-18",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "primary-type": "Album",
+      "secondary-types": [
+        "Remix"
+      ],
+      "genres": [
+        {
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+          "count": 1,
+          "disambiguation": "",
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "first-release-date": "2010-12-20",
+      "id": "af8d8484-cd0b-4ccb-9a1c-afe6a1e81817",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Taylor Swift Karaoke: Speak Now",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "karaoke"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "genres": [
+        {
+          "name": "bluegrass",
+          "disambiguation": "",
+          "count": 2,
+          "id": "a1a7b40d-f6e6-48c1-a5fc-b15af73d7381"
+        },
+        {
+          "disambiguation": "",
+          "name": "country",
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 2
+        },
+        {
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country rock"
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2010-10-19",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "title": "Mean",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "b01360d0-777e-4cda-94b7-7f1c40665011",
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "name": "bluegrass",
+          "count": 2
+        },
+        {
+          "name": "country",
+          "count": 2
+        },
+        {
+          "name": "country rock",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "first-release-date": "2013-11-22",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "TS1 - Red",
+      "genres": [
+        {
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country"
+        },
+        {
+          "name": "country pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "country",
+          "count": 1
+        },
+        {
+          "name": "country pop",
+          "count": 1
+        }
+      ],
+      "title": "Complete Album Collection",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "b58e2837-7645-496c-a28f-9a5a9f6af02f"
+    },
+    {
+      "first-release-date": "2007-10-14",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "name": "christmas music",
+          "disambiguation": "",
+          "count": 2,
+          "id": "31aee5bc-c1e8-43d7-a7bc-902df802ccbb"
+        },
+        {
+          "name": "contemporary christian",
+          "disambiguation": "",
+          "count": 1,
+          "id": "2b4f0036-79a0-4ce0-a38c-4c0c8e61c579"
+        },
+        {
+          "name": "contemporary country",
+          "disambiguation": "",
+          "count": 1,
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b"
+        },
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 3,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "name": "country pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1"
+        },
+        {
+          "name": "indie folk",
+          "disambiguation": "",
+          "count": 1,
+          "id": "36917620-240a-4fed-abcb-7be611ac3834"
+        },
+        {
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "name": "pop rock",
+          "disambiguation": ""
+        },
+        {
+          "name": "synth-pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "988e91a3-3341-416d-b7f8-7dbef6848dac"
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "EP",
+      "tags": [
+        {
+          "count": 1,
+          "name": "christmas"
+        },
+        {
+          "count": 2,
+          "name": "christmas music"
+        },
+        {
+          "name": "contemporary christian",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "contemporary country"
+        },
+        {
+          "count": 3,
+          "name": "country"
+        },
+        {
+          "name": "country music",
+          "count": 1
+        },
+        {
+          "name": "country pop",
+          "count": 1
+        },
+        {
+          "name": "holiday music",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "indie folk"
+        },
+        {
+          "name": "pop music",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        }
+      ],
+      "title": "Sounds of the Season: The Taylor Swift Holiday Collection",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "b6ba14c4-b8c4-3eb9-a562-dfb2f02181e8"
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "name": "country pop",
+          "count": 2
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ],
+      "id": "b9500a36-1202-4865-902b-3b458652da8e",
+      "title": "Speak Now",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "disambiguation": "",
+      "first-release-date": "2010-10-05",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "genres": [
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "count": 2,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "name": "country pop",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        },
+        {
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop rock"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        }
+      ],
+      "secondary-types": []
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2010-10-25",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "genres": [
+        {
+          "name": "alternative rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+        },
+        {
+          "name": "contemporary country",
+          "disambiguation": "",
+          "count": 4,
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b"
+        },
+        {
+          "disambiguation": "",
+          "name": "country",
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 9
+        },
+        {
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 3,
+          "disambiguation": "",
+          "name": "country pop"
+        },
+        {
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country rock"
+        },
+        {
+          "disambiguation": "",
+          "name": "folk",
+          "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+          "count": 2
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 7
+        },
+        {
+          "count": 1,
+          "id": "60e21d01-ce21-4127-86b7-aada79558dab",
+          "name": "pop punk",
+          "disambiguation": ""
+        },
+        {
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 3,
+          "disambiguation": "",
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "id": "618704fc-daac-44a2-92c9-89e3b1a2fc8c",
+          "name": "power pop",
+          "disambiguation": ""
+        },
+        {
+          "count": 3,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock",
+          "disambiguation": ""
+        },
+        {
+          "name": "singer-songwriter",
+          "disambiguation": "",
+          "count": 2,
+          "id": "455f264b-db00-4716-991d-fbd32dc24523"
+        },
+        {
+          "name": "soft rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "7d0c6a6b-5d56-4b1e-a8c7-e32194f246b9"
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "5+ wochen"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "concept album"
+        },
+        {
+          "name": "contemporary country",
+          "count": 4
+        },
+        {
+          "count": 9,
+          "name": "country"
+        },
+        {
+          "count": 3,
+          "name": "country pop"
+        },
+        {
+          "name": "country rock",
+          "count": 1
+        },
+        {
+          "name": "english",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "jahrescharts 2023"
+        },
+        {
+          "count": 2,
+          "name": "modern country"
+        },
+        {
+          "count": 1,
+          "name": "offizielle charts"
+        },
+        {
+          "name": "pop",
+          "count": 7
+        },
+        {
+          "name": "pop punk",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "pop rock"
+        },
+        {
+          "name": "power pop",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "name": "singer-songwriter",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "soft rock"
+        }
+      ],
+      "id": "ba1259eb-d41e-41c5-a70c-0e6fa73e6708",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Speak Now"
+    },
+    {
+      "primary-type": "Album",
+      "secondary-types": [],
+      "genres": [
+        {
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "count": 5,
+          "disambiguation": "",
+          "name": "contemporary country"
+        },
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 11,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 2,
+          "disambiguation": "",
+          "name": "country pop"
+        },
+        {
+          "name": "country rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b"
+        },
+        {
+          "id": "36917620-240a-4fed-abcb-7be611ac3834",
+          "count": 1,
+          "disambiguation": "",
+          "name": "indie folk"
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1
+        },
+        {
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock",
+          "disambiguation": ""
+        },
+        {
+          "id": "455f264b-db00-4716-991d-fbd32dc24523",
+          "count": 1,
+          "disambiguation": "",
+          "name": "singer-songwriter"
+        },
+        {
+          "id": "905c1899-3027-4d29-8d9c-bbeef2c8628a",
+          "count": 1,
+          "disambiguation": "",
+          "name": "southern rock"
+        },
+        {
+          "disambiguation": "",
+          "name": "synth-pop",
+          "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+          "count": 1
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2006-10-24",
+      "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Taylor Swift",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 5,
+          "name": "contemporary country"
+        },
+        {
+          "count": 11,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "country music"
+        },
+        {
+          "name": "country pop",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "country rock"
+        },
+        {
+          "name": "country-pop",
+          "count": 1
+        },
+        {
+          "name": "general country",
+          "count": 3
+        },
+        {
+          "name": "indie folk",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "pop music",
+          "count": 1
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "name": "self-titled",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "southern rock"
+        },
+        {
+          "name": "synth-pop",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "bb4a3f90-9c41-40ea-b91a-d0e69cb31242",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Back to December",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "name": "country",
+          "count": 2
+        },
+        {
+          "name": "country rock",
+          "count": 2
+        },
+        {
+          "name": "pop",
+          "count": 1
+        }
+      ],
+      "primary-type": "Single",
+      "secondary-types": [],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "ballad",
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "country",
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 2
+        },
+        {
+          "disambiguation": "",
+          "name": "country rock",
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2010-10-12"
+    },
+    {
+      "title": "Taylor Swift Karaoke: 1989",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "c24c86ef-868f-44d9-bede-20cdaf976776",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "karaoke"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        }
+      ],
+      "genres": [
+        {
+          "name": "instrumental",
+          "disambiguation": "",
+          "count": 1,
+          "id": "4ae63770-68af-4fae-b0f1-5e53f372c743"
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 2,
+          "disambiguation": "",
+          "name": "pop"
+        }
+      ],
+      "secondary-types": [
+        "Remix"
+      ],
+      "primary-type": "Album",
+      "first-release-date": "2015-01-12",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "disambiguation": ""
+    },
+    {
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        },
+        {
+          "name": "instrumental",
+          "count": 1
+        },
+        {
+          "name": "karaoke",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ],
+      "id": "c30adad6-0b2c-4a4b-a557-655b1d28fd4a",
+      "title": "Taylor Swift Karaoke: Red",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "first-release-date": "2013-02-05",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "primary-type": "Album",
+      "genres": [
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "name": "indie rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7"
+        },
+        {
+          "count": 1,
+          "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+          "name": "instrumental",
+          "disambiguation": ""
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "name": "pop rock",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        }
+      ],
+      "secondary-types": [
+        "Remix"
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "first-release-date": "2011-08-11",
+      "disambiguation": "",
+      "secondary-types": [],
+      "genres": [
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "name": "pop rock",
+          "disambiguation": ""
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        }
+      ],
+      "primary-type": "Single",
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "If This Was a Movie",
+      "id": "c30dd02a-9c1b-43c2-852f-399437daf23c"
+    },
+    {
+      "disambiguation": "",
+      "first-release-date": "2012-10-22",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "genres": [
+        {
+          "count": 2,
+          "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+          "name": "alternative rock",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        },
+        {
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop rock"
+        },
+        {
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "tags": [
+        {
+          "name": "alternative rock",
+          "count": 2
+        },
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ],
+      "id": "c9079b5d-4325-4d78-8b75-a01acd448470",
+      "title": "The Last Time",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    {
+      "id": "d0758f68-5fb4-436c-923e-b7153fab5e21",
+      "title": "Napster Live",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "tags": [],
+      "primary-type": "EP",
+      "genres": [],
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "first-release-date": "2006-10-24",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "first-release-date": "2021-04-09",
+      "disambiguation": "",
+      "secondary-types": [],
+      "genres": [
+        {
+          "count": 1,
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "name": "contemporary country",
+          "disambiguation": ""
+        },
+        {
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 6,
+          "disambiguation": "",
+          "name": "country"
+        },
+        {
+          "count": 2,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "name": "country pop",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1
+        },
+        {
+          "name": "jazz",
+          "disambiguation": "",
+          "count": 1,
+          "id": "a715278f-1580-409f-8078-4ffbc800e08b"
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 4
+        },
+        {
+          "id": "2afc2320-384f-43a4-a71e-1b763c485045",
+          "count": 1,
+          "disambiguation": "",
+          "name": "trance"
+        }
+      ],
+      "primary-type": "Album",
+      "tags": [
+        {
+          "count": 1,
+          "name": "contemporary country"
+        },
+        {
+          "name": "country",
+          "count": 6
+        },
+        {
+          "name": "country pop",
+          "count": 2
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "name": "english",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "folk/country"
+        },
+        {
+          "name": "house",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "name": "pop",
+          "count": 4
+        },
+        {
+          "count": 1,
+          "name": "trance"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Fearless (Taylor’s version)",
+      "id": "d2e4838d-90e1-471c-bda0-fd816dabb2d4"
+    },
+    {
+      "primary-type": "Single",
+      "genres": [
+        {
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 2,
+          "disambiguation": "",
+          "name": "country"
+        },
+        {
+          "name": "country pop",
+          "disambiguation": "",
+          "count": 2,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1"
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 3
+        },
+        {
+          "disambiguation": "",
+          "name": "pop rock",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 2
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 2,
+          "disambiguation": "",
+          "name": "rock"
+        }
+      ],
+      "secondary-types": [],
+      "disambiguation": "",
+      "first-release-date": "2009-04-21",
+      "secondary-type-ids": [],
+      "id": "d591dbcd-0922-4f0a-92fe-72764817d770",
+      "title": "You Belong With Me",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "country",
+          "count": 2
+        },
+        {
+          "count": 2,
+          "name": "country pop"
+        },
+        {
+          "name": "pop",
+          "count": 3
+        },
+        {
+          "count": 2,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "d931fda7-8710-4212-85c1-b1568d0617fd",
+      "title": "folklore: the long pond studio sessions",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "tags": [
+        {
+          "name": "acoustic pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 3,
+          "name": "ballad"
+        },
+        {
+          "count": 1,
+          "name": "coronavirus lockdown"
+        },
+        {
+          "count": 4,
+          "name": "folk"
+        },
+        {
+          "count": 2,
+          "name": "indie pop"
+        },
+        {
+          "count": 2,
+          "name": "indie rock"
+        },
+        {
+          "name": "pop",
+          "count": 2
+        },
+        {
+          "name": "rock",
+          "count": 2
+        },
+        {
+          "name": "singer-songwriter",
+          "count": 1
+        }
+      ],
+      "primary-type": "Album",
+      "genres": [
+        {
+          "count": 3,
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "name": "ballad",
+          "disambiguation": ""
+        },
+        {
+          "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb",
+          "count": 4,
+          "disambiguation": "",
+          "name": "folk"
+        },
+        {
+          "count": 2,
+          "id": "f390be72-360b-41bb-a310-6a2e638779d2",
+          "name": "indie pop",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "indie rock",
+          "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+          "count": 2
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 2,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 2,
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "id": "455f264b-db00-4716-991d-fbd32dc24523",
+          "name": "singer-songwriter",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "first-release-date": "2020-11-25",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "first-release-date": "2008-05-18",
+      "disambiguation": "",
+      "secondary-types": [],
+      "genres": [
+        {
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "pop rock",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 2
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 2,
+          "disambiguation": "",
+          "name": "rock"
+        }
+      ],
+      "primary-type": "Single",
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "name": "pop rock",
+          "count": 2
+        },
+        {
+          "name": "rock",
+          "count": 2
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Should’ve Said No",
+      "id": "da5aeb5e-ca70-4a79-9f1e-46ace596ef48"
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2012-06-06",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "genres": [
+        {
+          "name": "hip hop",
+          "disambiguation": "",
+          "count": 2,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "name": "pop rap",
+          "disambiguation": ""
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "name": "hip hop",
+          "count": 2
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop rap"
+        }
+      ],
+      "id": "de8a4453-f8fe-4827-a310-92b4b636b1ca",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Both of Us"
+    },
+    {
+      "first-release-date": "2020-09-21",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "genres": [
+        {
+          "name": "ambient",
+          "disambiguation": "",
+          "count": 1,
+          "id": "608b0471-7531-4854-a348-e698c69cb699"
+        },
+        {
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "name": "jazz",
+          "disambiguation": "",
+          "count": 1,
+          "id": "a715278f-1580-409f-8078-4ffbc800e08b"
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "EP",
+      "tags": [
+        {
+          "name": "ambient",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "name": "jazz",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "rhythm and blues",
+          "count": 1
+        }
+      ],
+      "title": "folklore: the yeah I showed up at your party chapter",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "decb6547-4e2d-4da4-804d-1e04c78aea0d"
+    },
+    {
+      "primary-type": "Single",
+      "genres": [
+        {
+          "count": 1,
+          "id": "93244085-20e5-4f16-9067-1d19143b3810",
+          "name": "classic rock",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "disambiguation": "",
+      "first-release-date": "2009-06-30",
+      "secondary-type-ids": [],
+      "id": "dee5e988-2f6b-4cf6-bdce-5da0239e5e62",
+      "title": "American Girl",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "name": "classic rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "disambiguation": "",
+      "first-release-date": "2009-03-31",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "primary-type": "Album",
+      "genres": [
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "count": 1,
+          "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+          "name": "instrumental",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e"
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        }
+      ],
+      "secondary-types": [
+        "Remix"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "artist on cover"
+        },
+        {
+          "name": "country",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "karaoke"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ],
+      "id": "e227abf9-eb09-4908-bf7b-1aa3dd8725cd",
+      "title": "Taylor Swift Karaoke: Fearless",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "name": "country pop",
+          "count": 2
+        },
+        {
+          "name": "country rock",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "title": "Mine",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "e46b8822-707c-42a4-a4a3-8dfdf111ef10",
+      "first-release-date": "2010-08-04",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "count": 2,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "name": "country pop",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "country rock",
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+          "count": 1
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Single"
+    },
+    {
+      "primary-type": "Album",
+      "secondary-types": [],
+      "genres": [
+        {
+          "name": "alternative pop",
+          "disambiguation": "",
+          "count": 2,
+          "id": "d3ebe947-7c03-43f5-b333-09379881b0f6"
+        },
+        {
+          "id": "608b0471-7531-4854-a348-e698c69cb699",
+          "count": 1,
+          "disambiguation": "",
+          "name": "ambient"
+        },
+        {
+          "count": 2,
+          "id": "2c765e49-a12e-45eb-b628-f8b9cc0a0250",
+          "name": "americana",
+          "disambiguation": ""
+        },
+        {
+          "count": 5,
+          "id": "f0843e91-c025-4dd7-8aef-6fe3d35470d9",
+          "name": "chamber pop",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "6ed4e4d1-9a97-4e2c-b8df-083754f154f4",
+          "name": "classical",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "contemporary folk",
+          "id": "c11e4253-a888-4a2a-adde-c274b748d0b3",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "country pop",
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "folk pop",
+          "id": "abb2374f-30e5-4d3e-b417-2caf78ef1f6c",
+          "count": 7
+        },
+        {
+          "count": 8,
+          "id": "36917620-240a-4fed-abcb-7be611ac3834",
+          "name": "indie folk",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "jazz",
+          "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 6,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "disambiguation": "",
+          "name": "pop rock",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1
+        },
+        {
+          "id": "455f264b-db00-4716-991d-fbd32dc24523",
+          "count": 2,
+          "disambiguation": "",
+          "name": "singer-songwriter"
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2020-12-11",
+      "id": "e86d6219-f5a2-4edd-bf2b-3f9eab190ae0",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "evermore",
+      "tags": [
+        {
+          "name": "alternative pop",
+          "count": 2
+        },
+        {
+          "name": "ambient",
+          "count": 1
+        },
+        {
+          "name": "americana",
+          "count": 2
+        },
+        {
+          "name": "chamber pop",
+          "count": 5
+        },
+        {
+          "name": "classical",
+          "count": 1
+        },
+        {
+          "name": "contemporary folk",
+          "count": 1
+        },
+        {
+          "name": "coronavirus lockdown",
+          "count": 1
+        },
+        {
+          "name": "country pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "name": "english",
+          "count": 2
+        },
+        {
+          "name": "folk pop",
+          "count": 7
+        },
+        {
+          "count": 8,
+          "name": "indie folk"
+        },
+        {
+          "name": "introspective",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "name": "mellow",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 6
+        },
+        {
+          "name": "pop music",
+          "count": 1
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rhythm and blues"
+        },
+        {
+          "name": "singer-songwriter",
+          "count": 2
+        },
+        {
+          "name": "soft",
+          "count": 1
+        },
+        {
+          "name": "winter",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "Beautiful Eyes",
+      "id": "eff166f0-1fe3-3aca-9313-566adfa502c0",
+      "tags": [
+        {
+          "name": "contemporary country",
+          "count": 1
+        },
+        {
+          "count": 5,
+          "name": "country"
+        },
+        {
+          "name": "country music",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "country pop"
+        },
+        {
+          "count": 1,
+          "name": "indie folk"
+        },
+        {
+          "name": "pop music",
+          "count": 1
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        }
+      ],
+      "secondary-types": [],
+      "genres": [
+        {
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "count": 1,
+          "disambiguation": "",
+          "name": "contemporary country"
+        },
+        {
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 5,
+          "disambiguation": "",
+          "name": "country"
+        },
+        {
+          "count": 2,
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "name": "country pop",
+          "disambiguation": ""
+        },
+        {
+          "name": "indie folk",
+          "disambiguation": "",
+          "count": 1,
+          "id": "36917620-240a-4fed-abcb-7be611ac3834"
+        },
+        {
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "name": "pop rock",
+          "disambiguation": ""
+        },
+        {
+          "name": "synth-pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "988e91a3-3341-416d-b7f8-7dbef6848dac"
+        }
+      ],
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "first-release-date": "2008-07-15",
+      "disambiguation": ""
+    },
+    {
+      "title": "reputation",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "f060c8fd-bec9-426e-800e-8efc040a71e6",
+      "tags": [
+        {
+          "name": "alternative pop",
+          "count": 4
+        },
+        {
+          "count": 2,
+          "name": "contemporary r&b"
+        },
+        {
+          "name": "dance",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "dance-pop"
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "name": "electropop",
+          "count": 6
+        },
+        {
+          "name": "future bass",
+          "count": 3
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "name": "jahrescharts 2024",
+          "count": 1
+        },
+        {
+          "name": "jazz",
+          "count": 1
+        },
+        {
+          "count": 8,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop music"
+        },
+        {
+          "count": 1,
+          "name": "trance"
+        },
+        {
+          "name": "trap edm",
+          "count": 3
+        }
+      ],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "alternative pop",
+          "id": "d3ebe947-7c03-43f5-b333-09379881b0f6",
+          "count": 4
+        },
+        {
+          "disambiguation": "",
+          "name": "contemporary r&b",
+          "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+          "name": "dance",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "dance-pop",
+          "id": "b739a895-85ed-4ad3-8717-4e9ef5387dd8",
+          "count": 3
+        },
+        {
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "3f3388b4-e36a-4bf8-a0be-66b10d92aaa4",
+          "count": 6,
+          "disambiguation": "",
+          "name": "electropop"
+        },
+        {
+          "disambiguation": "",
+          "name": "future bass",
+          "id": "e254f865-58ea-4483-9b2f-1bc65febcd71",
+          "count": 3
+        },
+        {
+          "count": 1,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1
+        },
+        {
+          "name": "jazz",
+          "disambiguation": "",
+          "count": 1,
+          "id": "a715278f-1580-409f-8078-4ffbc800e08b"
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 8
+        },
+        {
+          "disambiguation": "",
+          "name": "trance",
+          "id": "2afc2320-384f-43a4-a71e-1b763c485045",
+          "count": 1
+        },
+        {
+          "name": "trap edm",
+          "disambiguation": "",
+          "count": 3,
+          "id": "a21ea484-efba-4119-8120-429b26f98728"
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "2017-11-10",
+      "secondary-type-ids": [],
+      "disambiguation": ""
+    },
+    {
+      "tags": [
+        {
+          "name": "artist on cover",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "name": "instrumental",
+          "count": 1
+        },
+        {
+          "name": "karaoke",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Taylor Swift Karaoke: Taylor Swift",
+      "id": "f153b0ac-0816-4966-a4f6-70176dd4c301",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "first-release-date": "2009-01-27",
+      "disambiguation": "",
+      "secondary-types": [
+        "Remix"
+      ],
+      "genres": [
+        {
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "instrumental",
+          "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1
+        }
+      ],
+      "primary-type": "Album"
+    },
+    {
+      "title": "folklore",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "f1d08326-c23b-4b43-be3b-20b33ab10bf6",
+      "tags": [
+        {
+          "name": "alternative folk",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "alternative pop"
+        },
+        {
+          "name": "alternative rock",
+          "count": 1
+        },
+        {
+          "name": "ambient",
+          "count": 1
+        },
+        {
+          "name": "chamber pop",
+          "count": 4
+        },
+        {
+          "count": 1,
+          "name": "contemporary folk"
+        },
+        {
+          "name": "country music",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "country pop"
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "count": 5,
+          "name": "folk"
+        },
+        {
+          "name": "folk pop",
+          "count": 5
+        },
+        {
+          "count": 1,
+          "name": "folk/country"
+        },
+        {
+          "count": 8,
+          "name": "indie folk"
+        },
+        {
+          "count": 1,
+          "name": "indie pop"
+        },
+        {
+          "count": 1,
+          "name": "introspective"
+        },
+        {
+          "count": 1,
+          "name": "jahrescharts 2024"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "love"
+        },
+        {
+          "count": 1,
+          "name": "mellow"
+        },
+        {
+          "name": "pop",
+          "count": 9
+        },
+        {
+          "count": 1,
+          "name": "pop music"
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rhythm and blues"
+        },
+        {
+          "count": 9,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "soft"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        }
+      ],
+      "genres": [
+        {
+          "id": "0b48a36c-630f-4ee7-8cf3-480e3dd8be65",
+          "count": 1,
+          "disambiguation": "",
+          "name": "alternative folk"
+        },
+        {
+          "name": "alternative pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "d3ebe947-7c03-43f5-b333-09379881b0f6"
+        },
+        {
+          "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+          "count": 1,
+          "disambiguation": "",
+          "name": "alternative rock"
+        },
+        {
+          "name": "ambient",
+          "disambiguation": "",
+          "count": 1,
+          "id": "608b0471-7531-4854-a348-e698c69cb699"
+        },
+        {
+          "disambiguation": "",
+          "name": "chamber pop",
+          "id": "f0843e91-c025-4dd7-8aef-6fe3d35470d9",
+          "count": 4
+        },
+        {
+          "count": 1,
+          "id": "c11e4253-a888-4a2a-adde-c274b748d0b3",
+          "name": "contemporary folk",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "country pop",
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 1
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "name": "folk",
+          "disambiguation": "",
+          "count": 5,
+          "id": "a91eed3a-fdd0-494e-ade0-95ea4117f6eb"
+        },
+        {
+          "name": "folk pop",
+          "disambiguation": "",
+          "count": 5,
+          "id": "abb2374f-30e5-4d3e-b417-2caf78ef1f6c"
+        },
+        {
+          "disambiguation": "",
+          "name": "indie folk",
+          "id": "36917620-240a-4fed-abcb-7be611ac3834",
+          "count": 8
+        },
+        {
+          "id": "f390be72-360b-41bb-a310-6a2e638779d2",
+          "count": 1,
+          "disambiguation": "",
+          "name": "indie pop"
+        },
+        {
+          "count": 1,
+          "id": "a715278f-1580-409f-8078-4ffbc800e08b",
+          "name": "jazz",
+          "disambiguation": ""
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 9,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "disambiguation": "",
+          "name": "pop rock",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1
+        },
+        {
+          "id": "455f264b-db00-4716-991d-fbd32dc24523",
+          "count": 9,
+          "disambiguation": "",
+          "name": "singer-songwriter"
+        },
+        {
+          "disambiguation": "",
+          "name": "synth-pop",
+          "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "2020-07-24",
+      "secondary-type-ids": [],
+      "disambiguation": ""
+    },
+    {
+      "tags": [
+        {
+          "name": "contemporary country",
+          "count": 1
+        },
+        {
+          "name": "country",
+          "count": 1
+        }
+      ],
+      "id": "fd9bcc8b-d362-4dc6-8504-af1c68dd2835",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "Fearless (Taylor’s version): The Halfway Out the Door Chapter",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "2021-05-13",
+      "primary-type": "EP",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "contemporary country",
+          "id": "31c0b6ff-a356-4c73-91d7-203c80e6646b",
+          "count": 1
+        },
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        }
+      ]
+    },
+    {
+      "id": "ff0547a1-ad74-4493-9dfa-d830c70de20b",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "folklore: the escapism chapter",
+      "tags": [],
+      "primary-type": "EP",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "genres": [],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "2020-08-21"
+    }
+  ],
+  "release-group-count": 390,
+  "release-group-offset": 0
+}

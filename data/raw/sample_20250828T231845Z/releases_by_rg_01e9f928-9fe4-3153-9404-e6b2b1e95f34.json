@@ -1,0 +1,3553 @@
+{
+  "releases": [
+    {
+      "disambiguation": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "id": "26250fc0-9978-4fd5-8e95-195240aa0774",
+      "packaging-id": null,
+      "media": [
+        {
+          "format-id": null,
+          "track-offset": 0,
+          "id": "ef470efe-3141-390f-bcac-cedc7294b739",
+          "track-count": 14,
+          "position": 1,
+          "tracks": [
+            {
+              "position": 1,
+              "number": "1",
+              "length": 210000,
+              "title": "I’m 10,000 Years Old",
+              "recording": {
+                "length": 210000,
+                "video": false,
+                "disambiguation": "",
+                "title": "I’m 10,000 Years Old",
+                "id": "159dbe9e-bb77-417a-8e67-23558dd0ad02"
+              },
+              "id": "1fdfb87d-d115-37d8-aec5-100b487abd7b"
+            },
+            {
+              "number": "2",
+              "position": 2,
+              "length": 125000,
+              "title": "Snowbird",
+              "recording": {
+                "id": "380ce02e-7548-4d4c-9d24-ff2f326585d7",
+                "disambiguation": "",
+                "title": "Snowbird",
+                "first-release-date": "1997",
+                "length": 124960,
+                "video": false
+              },
+              "id": "58a8fde5-0bbc-3ec5-96f5-7904be011d88"
+            },
+            {
+              "recording": {
+                "id": "056da1e9-5a59-4122-8a5b-2a60bfc46285",
+                "disambiguation": "",
+                "title": "Tomorrow Never Comes",
+                "length": 248000,
+                "video": false
+              },
+              "id": "5e16d072-f197-3e06-9d99-f101fd87852f",
+              "length": 248000,
+              "position": 3,
+              "number": "3",
+              "title": "Tomorrow Never Comes"
+            },
+            {
+              "recording": {
+                "title": "Little Cabin on the Hill",
+                "disambiguation": "",
+                "id": "170ba98f-f78c-499f-b013-fe86fdfeb59d",
+                "video": false,
+                "length": 107693,
+                "first-release-date": "1999"
+              },
+              "id": "e3b2ad22-1545-3597-9539-78e7554a8640",
+              "number": "4",
+              "position": 4,
+              "length": 109000,
+              "title": "Little Cabin on the Hill"
+            },
+            {
+              "id": "4de8d2df-8073-3c37-a792-a8d090c8e376",
+              "recording": {
+                "length": 183933,
+                "video": false,
+                "title": "Whole Lotta Shakin’ Goin On",
+                "disambiguation": "",
+                "id": "8cf883de-3055-4769-8834-b6f2af1ddebb"
+              },
+              "title": "Whole Lotta Shakin’ Goin On",
+              "length": 186000,
+              "position": 5,
+              "number": "5"
+            },
+            {
+              "recording": {
+                "id": "515969d1-3fee-4cfd-8960-39be9eb9f9b5",
+                "title": "Funny How Time Slips Away",
+                "disambiguation": "",
+                "first-release-date": "1996-10-15",
+                "video": false,
+                "length": 264040
+              },
+              "id": "12672371-5c83-36b1-8f22-6f817ab4b9ac",
+              "position": 6,
+              "number": "6",
+              "length": 263000,
+              "title": "Funny How Time Slips Away"
+            },
+            {
+              "number": "7",
+              "position": 7,
+              "length": 168000,
+              "title": "I Really Don’t Want to Know",
+              "recording": {
+                "id": "1eef00a2-46bf-4fa5-91b3-d2e0f3c8e4a2",
+                "disambiguation": "",
+                "title": "I Really Don’t Want to Know",
+                "first-release-date": "1996-10-15",
+                "video": false,
+                "length": 166173
+              },
+              "id": "93d34105-cb9c-39f9-bb59-6a4bcd754205"
+            },
+            {
+              "length": 181000,
+              "position": 8,
+              "number": "8",
+              "title": "There Goes My Everything",
+              "recording": {
+                "disambiguation": "",
+                "title": "There Goes My Everything",
+                "id": "4e4f4e7d-fd49-4543-b4ec-a398c90a9b2f",
+                "length": 179893,
+                "video": false,
+                "first-release-date": "1971-08"
+              },
+              "id": "877e3e0e-1cfe-3aa8-a374-b1c91a3506ca"
+            },
+            {
+              "title": "It’s Your Baby You Rock It",
+              "position": 9,
+              "number": "9",
+              "length": 182000,
+              "id": "1f4bf339-c6a8-34e5-950c-0fbfc9d32022",
+              "recording": {
+                "video": false,
+                "length": 181373,
+                "id": "0a2ba62b-cd00-4191-a0ca-e49514f9be5d",
+                "title": "It’s Your Baby You Rock It",
+                "disambiguation": ""
+              }
+            },
+            {
+              "title": "The Fool",
+              "number": "10",
+              "position": 10,
+              "length": 146000,
+              "id": "79046210-2d69-31ea-9743-326df679f2c0",
+              "recording": {
+                "disambiguation": "",
+                "title": "The Fool",
+                "id": "0155c89c-ac46-40ac-bdee-739d945d39e5",
+                "length": 145866,
+                "video": false,
+                "first-release-date": "1999-11-20"
+              }
+            },
+            {
+              "length": 248000,
+              "position": 11,
+              "number": "11",
+              "title": "Faded Love",
+              "recording": {
+                "id": "4bd03024-98ba-4b54-8be7-cad05edd3007",
+                "title": "Faded Love",
+                "disambiguation": "",
+                "first-release-date": "1999-11-20",
+                "video": false,
+                "length": 247240
+              },
+              "id": "31e216cf-a0aa-3974-b9c3-d3c1d7fbd0f1"
+            },
+            {
+              "title": "I Washed My Hands in Muddy Water",
+              "position": 12,
+              "number": "12",
+              "length": 299000,
+              "id": "326491db-e718-3066-9fb6-f60820d27112",
+              "recording": {
+                "length": 298666,
+                "video": false,
+                "first-release-date": "2010-01-04",
+                "title": "I Washed My Hands in Muddy Water",
+                "disambiguation": "",
+                "id": "1847be47-43ee-4846-81cd-82ecf60f6b03"
+              }
+            },
+            {
+              "title": "Make the World Go Away",
+              "length": 218000,
+              "number": "13",
+              "position": 13,
+              "id": "ac542a74-d478-3df7-b81c-b256354a7882",
+              "recording": {
+                "first-release-date": "1996-10-15",
+                "length": 217306,
+                "video": false,
+                "id": "91c48cae-0dc5-4b89-b568-222f6b594bf2",
+                "title": "Make the World Go Away",
+                "disambiguation": ""
+              }
+            },
+            {
+              "title": "I’m 10,000 Years Old",
+              "length": 210000,
+              "number": "14",
+              "position": 14,
+              "id": "d8f6c732-c510-3217-a9b1-11a795304a1d",
+              "recording": {
+                "length": 210000,
+                "video": false,
+                "title": "I’m 10,000 Years Old",
+                "disambiguation": "",
+                "id": "9f9fe751-7fe7-46ab-951b-35a4a825c2f3"
+              }
+            }
+          ],
+          "title": "",
+          "format": null
+        }
+      ],
+      "quality": "normal",
+      "title": "Elvis Country: I’m 10,000 Years Old",
+      "status": "Official",
+      "packaging": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "label-info": [],
+      "barcode": null,
+      "asin": null,
+      "cover-art-archive": {
+        "artwork": false,
+        "front": false,
+        "count": 0,
+        "back": false,
+        "darkened": false
+      }
+    },
+    {
+      "packaging": null,
+      "status": "Official",
+      "title": "Elvis Country: I’m 10,000 Years Old",
+      "quality": "normal",
+      "media": [
+        {
+          "format": null,
+          "title": "",
+          "tracks": [
+            {
+              "id": "27a8940e-c6c5-386b-8aee-c3330acaa498",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "length": 137694,
+                "video": false,
+                "id": "35668a2f-38cd-4780-9181-fce17850309b",
+                "disambiguation": "",
+                "title": "Snowbird"
+              },
+              "title": "Snowbird",
+              "length": 138360,
+              "position": 1,
+              "number": "1"
+            },
+            {
+              "id": "2f5facaa-3b85-3b86-8886-6ff68aa09398",
+              "recording": {
+                "id": "754a0ad3-f3e0-422f-8edf-89ceb4df818a",
+                "title": "Tomorrow Never Comes",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 247000
+              },
+              "title": "Tomorrow Never Comes",
+              "position": 2,
+              "number": "2",
+              "length": 247106
+            },
+            {
+              "id": "79e9e5c5-b976-3e30-a3c8-f957dce88384",
+              "recording": {
+                "disambiguation": "",
+                "title": "Little Cabin on the Hill",
+                "id": "b7323142-71d6-4df8-acdb-b29ab5aa5976",
+                "length": 118305,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "title": "Little Cabin on the Hill",
+              "length": 118333,
+              "position": 3,
+              "number": "3"
+            },
+            {
+              "id": "eb2af610-7d22-3c5c-a4cf-d5531af8b91f",
+              "recording": {
+                "id": "1851d4f4-7883-4f42-b12b-115f1830378a",
+                "disambiguation": "",
+                "title": "Whole Lotta Shakin’ Goin’ On",
+                "first-release-date": "1971-01-02",
+                "length": 189600,
+                "video": false
+              },
+              "title": "Whole Lotta Shakin’ Goin’ On",
+              "number": "4",
+              "position": 4,
+              "length": 189600
+            },
+            {
+              "id": "c533839c-2100-3de7-a55d-17c0637b65e1",
+              "recording": {
+                "video": false,
+                "length": 272000,
+                "first-release-date": "1971-01-02",
+                "title": "Funny How Time Slips Away",
+                "disambiguation": "",
+                "id": "afe63bd5-9f8d-4d49-9489-0374a16806b3"
+              },
+              "title": "Funny How Time Slips Away",
+              "length": 272026,
+              "position": 5,
+              "number": "5"
+            },
+            {
+              "title": "I Really Don’t Want to Know",
+              "number": "6",
+              "position": 6,
+              "length": 178573,
+              "id": "24689562-c473-3a7b-9497-aa4b720e9cd6",
+              "recording": {
+                "disambiguation": "",
+                "title": "I Really Don’t Want to Know",
+                "id": "cad35f54-b0a6-46ba-b98d-42ce7936b8d8",
+                "video": false,
+                "length": 178573,
+                "first-release-date": "2000-05-15"
+              }
+            },
+            {
+              "id": "e03bfad2-1198-32ff-a161-d702334fb716",
+              "recording": {
+                "disambiguation": "",
+                "title": "There Goes My Everything",
+                "id": "260c4a7c-d00b-4ca0-ac99-486dd5be63e8",
+                "video": false,
+                "length": 189933,
+                "first-release-date": "1971-01-02"
+              },
+              "title": "There Goes My Everything",
+              "length": 189933,
+              "number": "7",
+              "position": 7
+            },
+            {
+              "length": 183866,
+              "position": 8,
+              "number": "8",
+              "title": "It’s Your Baby, You Rock It",
+              "recording": {
+                "disambiguation": "",
+                "title": "It’s Your Baby, You Rock It",
+                "id": "4a3bb6e4-7456-471c-9238-47ede6b77773",
+                "video": false,
+                "length": 184000,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "dc6d43e1-7777-323b-80b5-c2ccdaea07be"
+            },
+            {
+              "position": 9,
+              "number": "9",
+              "length": 153866,
+              "title": "The Fool",
+              "recording": {
+                "id": "3d07329b-ec84-4eec-9a38-8304d1fd360a",
+                "disambiguation": "",
+                "title": "The Fool",
+                "first-release-date": "1971-01-02",
+                "length": 153866,
+                "video": false
+              },
+              "id": "f8b48375-9ba8-34f6-b356-c044ec3f4345"
+            },
+            {
+              "id": "76f55b66-57b4-3e15-b13b-9ec358467c17",
+              "recording": {
+                "id": "d97c436a-0e36-4ff7-ac48-75243f4198b8",
+                "disambiguation": "",
+                "title": "Faded Love",
+                "first-release-date": "1971-01-02",
+                "length": 199333,
+                "video": false
+              },
+              "title": "Faded Love",
+              "length": 199693,
+              "number": "10",
+              "position": 10
+            },
+            {
+              "id": "10ed2ab6-21f0-3386-a327-58096ddf10fb",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 236239,
+                "id": "b8a7eeaf-8804-454a-adef-e34fee9c70c3",
+                "disambiguation": "",
+                "title": "I Washed My Hands in Muddy Water"
+              },
+              "title": "I Washed My Hands in Muddy Water",
+              "length": 236000,
+              "position": 11,
+              "number": "11"
+            },
+            {
+              "id": "103e9cab-1d0b-3575-8af1-1b28fdfd46ac",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 230107,
+                "id": "b34aa1c1-5248-46f5-b45a-e5e021b340c6",
+                "disambiguation": "",
+                "title": "Make the World Go Away"
+              },
+              "title": "Make the World Go Away",
+              "position": 12,
+              "number": "12",
+              "length": 230640
+            },
+            {
+              "length": 168333,
+              "position": 13,
+              "number": "13",
+              "title": "It Ain’t No Big Thing (but It’s Growing)",
+              "recording": {
+                "title": "It Ain’t No Big Thing (but It’s Growing)",
+                "disambiguation": "",
+                "id": "339c5d74-46bd-46a5-9dbc-35864b664449",
+                "video": false,
+                "length": 168333,
+                "first-release-date": "2000-05-15"
+              },
+              "id": "530da494-d21d-37f5-86dc-91d6910dd59b"
+            },
+            {
+              "recording": {
+                "first-release-date": "2000-05-15",
+                "length": 101560,
+                "video": false,
+                "id": "66dd69c9-059f-4019-8405-b2098d34405b",
+                "disambiguation": "",
+                "title": "A Hundred Years From Now"
+              },
+              "id": "3472cff7-8973-3428-a661-0380f6f58b66",
+              "length": 101560,
+              "number": "14",
+              "position": 14,
+              "title": "A Hundred Years From Now"
+            },
+            {
+              "length": 181000,
+              "number": "15",
+              "position": 15,
+              "title": "If I Were You",
+              "recording": {
+                "first-release-date": "2000-05-15",
+                "video": false,
+                "length": 181000,
+                "id": "b3b46a23-30f7-4c35-b580-ce9c55112ed9",
+                "title": "If I Were You",
+                "disambiguation": ""
+              },
+              "id": "26460194-8988-3681-b582-884ef28ba819"
+            },
+            {
+              "recording": {
+                "id": "c8345139-e4a5-4b25-9720-d2be63dd0ac8",
+                "disambiguation": "",
+                "title": "Got My Mojo Working / Keep Your Hands Off of It",
+                "first-release-date": "2000-05-15",
+                "length": 274640,
+                "video": false
+              },
+              "id": "37290253-124e-3adf-b28d-941d39aa0ee8",
+              "length": 274640,
+              "position": 16,
+              "number": "16",
+              "title": "Got My Mojo Working / Keep Your Hands Off of It"
+            },
+            {
+              "number": "17",
+              "position": 17,
+              "length": 148093,
+              "title": "Where Did They Go, Lord",
+              "recording": {
+                "length": 146000,
+                "video": false,
+                "first-release-date": "1978",
+                "disambiguation": "",
+                "title": "Where Did They Go, Lord",
+                "id": "810a2a62-6ae3-4de4-a5d6-8da8635d531d"
+              },
+              "id": "fc221baa-067b-3abb-9376-40b4025f71e0"
+            },
+            {
+              "title": "I Was Born About Ten Thousand Years Ago",
+              "number": "18",
+              "position": 18,
+              "length": 193374,
+              "id": "722818ef-1065-3048-9130-9578162fb58e",
+              "recording": {
+                "id": "b3a8060c-2bc2-41ab-b455-20b8f83034d5",
+                "disambiguation": "",
+                "title": "I Was Born About Ten Thousand Years Ago",
+                "first-release-date": "2000-05-15",
+                "length": 193374,
+                "video": false
+              }
+            }
+          ],
+          "position": 1,
+          "id": "0b7716a0-3f4d-32f5-ba71-060556e43eea",
+          "track-count": 18,
+          "track-offset": 0,
+          "format-id": null
+        }
+      ],
+      "packaging-id": null,
+      "id": "40081d99-2d5b-4011-9e5b-d0a497c69ef7",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "disambiguation": "",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "GB"
+            ],
+            "type-id": null,
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "disambiguation": "",
+            "sort-name": "United Kingdom",
+            "name": "United Kingdom"
+          },
+          "date": "2000-05-15"
+        }
+      ],
+      "country": "GB",
+      "date": "2000-05-15",
+      "cover-art-archive": {
+        "back": false,
+        "darkened": false,
+        "artwork": false,
+        "front": false,
+        "count": 0
+      },
+      "asin": "B00004ST4Z",
+      "barcode": null,
+      "label-info": [],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    },
+    {
+      "barcode": "4988017092859",
+      "asin": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "label-info": [],
+      "cover-art-archive": {
+        "artwork": false,
+        "count": 0,
+        "front": false,
+        "back": false,
+        "darkened": false
+      },
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "disambiguation": "",
+      "id": "416db8a3-c117-474d-90b3-cb0ed63b50e9",
+      "quality": "normal",
+      "title": "Elvis Country: I’m 10,000 Years Old",
+      "status": "Official",
+      "packaging": null,
+      "packaging-id": null,
+      "media": [
+        {
+          "tracks": [
+            {
+              "recording": {
+                "title": "Snowbird",
+                "disambiguation": "",
+                "id": "35668a2f-38cd-4780-9181-fce17850309b",
+                "length": 137694,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "af62c16f-18c2-4aca-823a-78eee39a8555",
+              "length": 138160,
+              "position": 1,
+              "number": "1",
+              "title": "Snowbird"
+            },
+            {
+              "length": 247133,
+              "position": 2,
+              "number": "2",
+              "title": "Tomorrow Never Comes",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 247000,
+                "id": "754a0ad3-f3e0-422f-8edf-89ceb4df818a",
+                "disambiguation": "",
+                "title": "Tomorrow Never Comes"
+              },
+              "id": "05a4f307-440e-4da8-ba29-91cb356a5d40"
+            },
+            {
+              "recording": {
+                "length": 118305,
+                "video": false,
+                "first-release-date": "1971-01-02",
+                "title": "Little Cabin on the Hill",
+                "disambiguation": "",
+                "id": "b7323142-71d6-4df8-acdb-b29ab5aa5976"
+              },
+              "id": "7e5d2573-1fdc-445b-aeed-f009d3546180",
+              "length": 118373,
+              "position": 3,
+              "number": "3",
+              "title": "Little Cabin on the Hill"
+            },
+            {
+              "recording": {
+                "video": false,
+                "length": 189600,
+                "first-release-date": "1971-01-02",
+                "disambiguation": "",
+                "title": "Whole Lotta Shakin’ Goin’ On",
+                "id": "1851d4f4-7883-4f42-b12b-115f1830378a"
+              },
+              "id": "fb56dc4e-0f83-495e-9939-f6910cee9747",
+              "length": 189626,
+              "number": "4",
+              "position": 4,
+              "title": "Whole Lotta Shakin’ Goin’ On"
+            },
+            {
+              "id": "89417b4b-1317-4d91-9107-def15e7b65f9",
+              "recording": {
+                "length": 272000,
+                "video": false,
+                "first-release-date": "1971-01-02",
+                "disambiguation": "",
+                "title": "Funny How Time Slips Away",
+                "id": "afe63bd5-9f8d-4d49-9489-0374a16806b3"
+              },
+              "title": "Funny How Time Slips Away",
+              "number": "5",
+              "position": 5,
+              "length": 272000
+            },
+            {
+              "recording": {
+                "id": "7622d611-6647-4ad6-9555-10143b2466ac",
+                "title": "I Really Don’t Want to Know",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 170000
+              },
+              "id": "e7679935-337d-41b0-9cbf-a5d49167bfb6",
+              "length": 171000,
+              "position": 6,
+              "number": "6",
+              "title": "I Really Don’t Want to Know"
+            },
+            {
+              "id": "e085eda4-2b98-4dae-846f-39da8ed63713",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 189933,
+                "id": "260c4a7c-d00b-4ca0-ac99-486dd5be63e8",
+                "title": "There Goes My Everything",
+                "disambiguation": ""
+              },
+              "title": "There Goes My Everything",
+              "position": 7,
+              "number": "7",
+              "length": 189933
+            },
+            {
+              "title": "It’s Your Baby, You Rock It",
+              "length": 184000,
+              "number": "8",
+              "position": 8,
+              "id": "1f4257d7-7df2-40e4-a894-162669dde96a",
+              "recording": {
+                "video": false,
+                "length": 184000,
+                "first-release-date": "1971-01-02",
+                "title": "It’s Your Baby, You Rock It",
+                "disambiguation": "",
+                "id": "4a3bb6e4-7456-471c-9238-47ede6b77773"
+              }
+            },
+            {
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "length": 153866,
+                "video": false,
+                "id": "3d07329b-ec84-4eec-9a38-8304d1fd360a",
+                "disambiguation": "",
+                "title": "The Fool"
+              },
+              "id": "32067c30-db74-4410-bbbe-8a038abebf81",
+              "position": 9,
+              "number": "9",
+              "length": 153866,
+              "title": "The Fool"
+            },
+            {
+              "length": 199333,
+              "number": "10",
+              "position": 10,
+              "title": "Faded Love",
+              "recording": {
+                "id": "d97c436a-0e36-4ff7-ac48-75243f4198b8",
+                "disambiguation": "",
+                "title": "Faded Love",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 199333
+              },
+              "id": "4f5a731c-8de8-4410-a618-00445b4bce4e"
+            },
+            {
+              "length": 236466,
+              "position": 11,
+              "number": "11",
+              "title": "I Washed My Hands in Muddy Water",
+              "recording": {
+                "title": "I Washed My Hands in Muddy Water",
+                "disambiguation": "",
+                "id": "b8a7eeaf-8804-454a-adef-e34fee9c70c3",
+                "video": false,
+                "length": 236239,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "ddc2ec50-a2fe-4273-b595-fb5eed157f06"
+            },
+            {
+              "title": "Make the World Go Away",
+              "length": 230107,
+              "position": 12,
+              "number": "12",
+              "id": "6a600598-b489-48ba-835a-750cb50b8150",
+              "recording": {
+                "id": "b34aa1c1-5248-46f5-b45a-e5e021b340c6",
+                "disambiguation": "",
+                "title": "Make the World Go Away",
+                "first-release-date": "1971-01-02",
+                "length": 230107,
+                "video": false
+              }
+            }
+          ],
+          "position": 1,
+          "format": "Digital Media",
+          "title": "",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "7f17b81e-965e-3e3d-8259-4f604c25eb93",
+          "track-count": 12,
+          "track-offset": 0
+        }
+      ]
+    },
+    {
+      "date": "1971-01-02",
+      "cover-art-archive": {
+        "artwork": true,
+        "count": 7,
+        "front": true,
+        "back": true,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "label-info": [
+        {
+          "catalog-number": "LSP-4460",
+          "label": {
+            "label-code": 316,
+            "name": "RCA Victor",
+            "sort-name": "RCA Victor",
+            "type": "Original Production",
+            "disambiguation": "",
+            "id": "b3f4e6a5-ece0-43be-a530-68ad0d49fee8",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d"
+          }
+        }
+      ],
+      "asin": null,
+      "barcode": null,
+      "media": [
+        {
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "track-count": 12,
+          "id": "27759cd5-f6bd-318d-ab2e-dbb151b07350",
+          "track-offset": 0,
+          "tracks": [
+            {
+              "length": 138160,
+              "number": "A1",
+              "position": 1,
+              "title": "Snowbird",
+              "recording": {
+                "video": false,
+                "length": 137694,
+                "first-release-date": "1971-01-02",
+                "title": "Snowbird",
+                "disambiguation": "",
+                "id": "35668a2f-38cd-4780-9181-fce17850309b"
+              },
+              "id": "38db70e2-4c09-313d-a4b7-fac522f62368"
+            },
+            {
+              "length": 247133,
+              "position": 2,
+              "number": "A2",
+              "title": "Tomorrow Never Comes",
+              "recording": {
+                "disambiguation": "",
+                "title": "Tomorrow Never Comes",
+                "id": "754a0ad3-f3e0-422f-8edf-89ceb4df818a",
+                "video": false,
+                "length": 247000,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "954e008c-c872-3edf-9173-439e4ba9f14c"
+            },
+            {
+              "id": "12967011-79b0-3031-bb3c-d7c6b69eb444",
+              "recording": {
+                "video": false,
+                "length": 118305,
+                "first-release-date": "1971-01-02",
+                "title": "Little Cabin on the Hill",
+                "disambiguation": "",
+                "id": "b7323142-71d6-4df8-acdb-b29ab5aa5976"
+              },
+              "title": "Little Cabin on the Hill",
+              "number": "A3",
+              "position": 3,
+              "length": 118373
+            },
+            {
+              "length": 189626,
+              "number": "A4",
+              "position": 4,
+              "title": "Whole Lotta Shakin’ Goin’ On",
+              "recording": {
+                "disambiguation": "",
+                "title": "Whole Lotta Shakin’ Goin’ On",
+                "id": "1851d4f4-7883-4f42-b12b-115f1830378a",
+                "length": 189600,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "34573dfd-ec50-3489-913c-5971369ef25a"
+            },
+            {
+              "id": "95230b97-6b29-3603-a921-8806cb3e5db6",
+              "recording": {
+                "video": false,
+                "length": 272000,
+                "first-release-date": "1971-01-02",
+                "title": "Funny How Time Slips Away",
+                "disambiguation": "",
+                "id": "afe63bd5-9f8d-4d49-9489-0374a16806b3"
+              },
+              "title": "Funny How Time Slips Away",
+              "length": 272000,
+              "position": 5,
+              "number": "A5"
+            },
+            {
+              "recording": {
+                "length": 170000,
+                "video": false,
+                "first-release-date": "1971-01-02",
+                "title": "I Really Don’t Want to Know",
+                "disambiguation": "",
+                "id": "7622d611-6647-4ad6-9555-10143b2466ac"
+              },
+              "id": "d3b74341-076d-36e1-ab7c-074a6c641540",
+              "length": 171000,
+              "position": 6,
+              "number": "A6",
+              "title": "I Really Don’t Want to Know"
+            },
+            {
+              "number": "B1",
+              "position": 7,
+              "length": 189933,
+              "title": "There Goes My Everything",
+              "recording": {
+                "id": "260c4a7c-d00b-4ca0-ac99-486dd5be63e8",
+                "disambiguation": "",
+                "title": "There Goes My Everything",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 189933
+              },
+              "id": "570b98fa-a670-362d-b8e6-19bb13cb36bf"
+            },
+            {
+              "recording": {
+                "id": "4a3bb6e4-7456-471c-9238-47ede6b77773",
+                "disambiguation": "",
+                "title": "It’s Your Baby, You Rock It",
+                "first-release-date": "1971-01-02",
+                "length": 184000,
+                "video": false
+              },
+              "id": "258c898b-80ea-33fe-8421-c8755f790e5c",
+              "length": 184000,
+              "number": "B2",
+              "position": 8,
+              "title": "It’s Your Baby, You Rock It"
+            },
+            {
+              "title": "The Fool",
+              "length": 153866,
+              "position": 9,
+              "number": "B3",
+              "id": "71951a5e-481a-3e14-8f1e-6bba0600bc6e",
+              "recording": {
+                "id": "3d07329b-ec84-4eec-9a38-8304d1fd360a",
+                "title": "The Fool",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 153866
+              }
+            },
+            {
+              "recording": {
+                "id": "d97c436a-0e36-4ff7-ac48-75243f4198b8",
+                "disambiguation": "",
+                "title": "Faded Love",
+                "first-release-date": "1971-01-02",
+                "length": 199333,
+                "video": false
+              },
+              "id": "8fdf0c54-09b7-3393-bd6c-e956f968b941",
+              "length": 199333,
+              "position": 10,
+              "number": "B4",
+              "title": "Faded Love"
+            },
+            {
+              "recording": {
+                "id": "b8a7eeaf-8804-454a-adef-e34fee9c70c3",
+                "title": "I Washed My Hands in Muddy Water",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 236239
+              },
+              "id": "eefb25f9-1ed9-3366-94eb-381b933cffe9",
+              "number": "B5",
+              "position": 11,
+              "length": 236466,
+              "title": "I Washed My Hands in Muddy Water"
+            },
+            {
+              "number": "B6",
+              "position": 12,
+              "length": 230107,
+              "title": "Make the World Go Away",
+              "recording": {
+                "length": 230107,
+                "video": false,
+                "first-release-date": "1971-01-02",
+                "title": "Make the World Go Away",
+                "disambiguation": "",
+                "id": "b34aa1c1-5248-46f5-b45a-e5e021b340c6"
+              },
+              "id": "ebb2d178-ccbf-3de7-9c78-e52aaaf774e2"
+            }
+          ],
+          "position": 1,
+          "format": "12\" Vinyl",
+          "title": ""
+        }
+      ],
+      "packaging-id": null,
+      "title": "Elvis Country: I’m 10,000 Years Old",
+      "quality": "normal",
+      "packaging": null,
+      "status": "Official",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "1971-01-02",
+          "area": {
+            "sort-name": "United States",
+            "name": "United States",
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "type-id": null,
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "disambiguation": "",
+      "id": "43a390d0-c8e0-4bef-b909-d6b1da280d3e"
+    },
+    {
+      "media": [
+        {
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "track-offset": 0,
+          "track-count": 24,
+          "id": "29aba209-09d0-48c7-9dec-1d0fe32c9b79",
+          "position": 1,
+          "tracks": [
+            {
+              "length": 124000,
+              "position": 1,
+              "number": "A1a",
+              "title": "Snowbird",
+              "recording": {
+                "disambiguation": "",
+                "title": "Snowbird",
+                "id": "4911adcb-010d-47b4-ab6f-a158084c7204",
+                "length": 124000,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "384ed589-3978-4d2e-bb07-125a20c2d939"
+            },
+            {
+              "id": "e5f7562f-6674-4c56-b878-8cfad805dbac",
+              "recording": {
+                "id": "2d16ab06-d237-463d-b4e9-40574763e71c",
+                "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": null
+              },
+              "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+              "number": "A1b",
+              "position": 2,
+              "length": null
+            },
+            {
+              "title": "Tomorrow Never Comes",
+              "position": 3,
+              "number": "A2a",
+              "length": 233000,
+              "id": "ab9b58b5-4d9a-4529-8a4f-a0a04b67a042",
+              "recording": {
+                "id": "bfde5352-1fc9-413b-a05c-2e7692b28fd9",
+                "disambiguation": "",
+                "title": "Tomorrow Never Comes",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 233000
+              }
+            },
+            {
+              "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+              "length": null,
+              "number": "A2b",
+              "position": 4,
+              "id": "0d4b9a35-6c1e-43a2-818f-f293efb5dfe3",
+              "recording": {
+                "length": null,
+                "video": false,
+                "first-release-date": "1971-01-02",
+                "disambiguation": "",
+                "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+                "id": "f16c10e1-e0eb-4309-b3af-47daa2e6b1c6"
+              }
+            },
+            {
+              "recording": {
+                "disambiguation": "",
+                "title": "Little Cabin On The Hill",
+                "id": "2a25b481-814e-4d29-84fd-fa7556e4588c",
+                "video": false,
+                "length": 105000,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "69e35c1a-2ce5-40dd-bfb4-af575a4e083d",
+              "position": 5,
+              "number": "A3a",
+              "length": 105000,
+              "title": "Little Cabin On The Hill"
+            },
+            {
+              "id": "cf61d1ff-0ee0-4401-a132-f914bc36c797",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "length": null,
+                "video": false,
+                "id": "be51a2e7-ff73-48bd-a316-2c73ce298baf",
+                "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+                "disambiguation": ""
+              },
+              "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+              "number": "A3b",
+              "position": 6,
+              "length": null
+            },
+            {
+              "position": 7,
+              "number": "A4a",
+              "length": 180000,
+              "title": "Whole Lot-ta Shakin' Goin' On",
+              "recording": {
+                "id": "e50be7bf-d4b8-472c-8a89-9d0e98f5b4b5",
+                "title": "Whole Lot-ta Shakin' Goin' On",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 180000
+              },
+              "id": "ac78a388-c6bd-4d6d-99a6-5c41682c5865"
+            },
+            {
+              "number": "A4b",
+              "position": 8,
+              "length": null,
+              "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+              "recording": {
+                "length": null,
+                "video": false,
+                "first-release-date": "1971-01-02",
+                "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+                "disambiguation": "",
+                "id": "de74d03f-d604-4164-852d-291df4e7da78"
+              },
+              "id": "90d631cc-e9da-46ad-912d-3c07e512c9c8"
+            },
+            {
+              "id": "72d9dc47-e5e2-4a4d-8be2-5d92ce267d13",
+              "recording": {
+                "video": false,
+                "length": 260000,
+                "first-release-date": "1971-01-02",
+                "disambiguation": "",
+                "title": "Funny How Time Slips Away",
+                "id": "55898780-850b-44be-b7d6-e20cdc8aeaaa"
+              },
+              "title": "Funny How Time Slips Away",
+              "position": 9,
+              "number": "A5a",
+              "length": 260000
+            },
+            {
+              "id": "c6eae8ee-d409-4324-86da-9697f5f5ca8c",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "length": null,
+                "video": false,
+                "id": "c2b9911f-576e-4177-8f91-3476c878bc29",
+                "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+                "disambiguation": ""
+              },
+              "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+              "number": "A5b",
+              "position": 10,
+              "length": null
+            },
+            {
+              "title": "I Really Don't Want To Know",
+              "number": "A6a",
+              "position": 11,
+              "length": 165000,
+              "id": "d435523f-866f-4c11-bce0-99fee8ec1c1f",
+              "recording": {
+                "video": false,
+                "length": 165000,
+                "first-release-date": "1971-01-02",
+                "title": "I Really Don't Want To Know",
+                "disambiguation": "",
+                "id": "bfd80f4d-6dd0-4690-9d82-44166391a5c8"
+              }
+            },
+            {
+              "recording": {
+                "id": "2ae569f4-e3db-4a4d-8f49-da8d4b2509da",
+                "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": null
+              },
+              "id": "a440946a-0c53-4753-abfa-b350dd710b6c",
+              "position": 12,
+              "number": "A6b",
+              "length": null,
+              "title": "I Was Born About Ten Thousand Years Ago (Segment)"
+            },
+            {
+              "title": "There Goes My Everything",
+              "length": 175000,
+              "position": 13,
+              "number": "B1a",
+              "id": "e6018b14-91df-4bf6-912d-2c5149ceca69",
+              "recording": {
+                "id": "b3c9d35b-e130-44b7-b674-c99973d51fae",
+                "title": "There Goes My Everything",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "length": 175000,
+                "video": false
+              }
+            },
+            {
+              "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+              "length": null,
+              "number": "B1b",
+              "position": 14,
+              "id": "7d4c05b9-e1fc-4920-bca3-9d81ae903f08",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "length": null,
+                "video": false,
+                "id": "6eea036b-cf99-4150-b99e-1c56436f8ae5",
+                "disambiguation": "",
+                "title": "I Was Born About Ten Thousand Years Ago (Segment)"
+              }
+            },
+            {
+              "recording": {
+                "title": "It's Your Baby, You Rock It",
+                "disambiguation": "",
+                "id": "91d0f734-a977-404d-9d9b-bf723acecb2a",
+                "length": 176000,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "35dd98f5-dd0d-4cf2-bbb3-0bb7315f14df",
+              "length": 176000,
+              "number": "B2a",
+              "position": 15,
+              "title": "It's Your Baby, You Rock It"
+            },
+            {
+              "position": 16,
+              "number": "B2b",
+              "length": null,
+              "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+              "recording": {
+                "id": "4ed4a39c-fd31-4dc9-aba3-bdee2e2d2212",
+                "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "length": null,
+                "video": false
+              },
+              "id": "2649b048-0409-4ec1-a189-88fa23ac06fa"
+            },
+            {
+              "id": "725848bd-a5fe-4c59-b9fc-376e315ce67f",
+              "recording": {
+                "id": "ee530e3f-3a20-48f9-8b05-ef531a57d4f5",
+                "title": "The Fool",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "length": 146000,
+                "video": false
+              },
+              "title": "The Fool",
+              "length": 146000,
+              "number": "B3a",
+              "position": 17
+            },
+            {
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": null,
+                "id": "d7f934f3-9cd5-4482-840e-1048734c6ee6",
+                "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+                "disambiguation": ""
+              },
+              "id": "e78613b5-4d1b-4287-bb9e-2e608d2300ff",
+              "position": 18,
+              "number": "B3b",
+              "length": null,
+              "title": "I Was Born About Ten Thousand Years Ago (Segment)"
+            },
+            {
+              "length": 184000,
+              "position": 19,
+              "number": "B4a",
+              "title": "Faded Love",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 184000,
+                "id": "e9268494-85a6-42c9-b8f7-128a55d7e531",
+                "title": "Faded Love",
+                "disambiguation": ""
+              },
+              "id": "2bd0159e-d2d1-4b05-be97-c9c2b67cb101"
+            },
+            {
+              "recording": {
+                "disambiguation": "",
+                "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+                "id": "c87632b4-81e8-4c71-b336-2fc2c2b64a2f",
+                "length": null,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "5ef4254d-a4bc-4033-af64-bbcb87169bab",
+              "position": 20,
+              "number": "B4b",
+              "length": null,
+              "title": "I Was Born About Ten Thousand Years Ago (Segment)"
+            },
+            {
+              "length": 221000,
+              "position": 21,
+              "number": "B5a",
+              "title": "I Washed My Hands In Muddy Water",
+              "recording": {
+                "video": false,
+                "length": 221000,
+                "first-release-date": "1971-01-02",
+                "title": "I Washed My Hands In Muddy Water",
+                "disambiguation": "",
+                "id": "83b51f5d-647f-4167-be4d-2401b0eb64c9"
+              },
+              "id": "41f87eca-ed8c-41e9-ac4a-680a3092be76"
+            },
+            {
+              "id": "e2759927-484d-4a0a-822f-725aa99c27e8",
+              "recording": {
+                "length": null,
+                "video": false,
+                "first-release-date": "1971-01-02",
+                "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+                "disambiguation": "",
+                "id": "99f5de56-f173-42b2-b479-96a37a5e174c"
+              },
+              "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+              "length": null,
+              "position": 22,
+              "number": "B5b"
+            },
+            {
+              "recording": {
+                "length": 214000,
+                "video": false,
+                "first-release-date": "1971-01-02",
+                "disambiguation": "",
+                "title": "Make The World Go Away",
+                "id": "cfb00378-46be-4714-ab19-ef4cc9d1bde4"
+              },
+              "id": "8b1026f1-226c-44b4-86ca-45b0e4afbaa5",
+              "length": 214000,
+              "number": "B6a",
+              "position": 23,
+              "title": "Make The World Go Away"
+            },
+            {
+              "number": "B6b",
+              "position": 24,
+              "length": null,
+              "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+              "recording": {
+                "id": "4c17f71d-9fb6-4f7c-9a2b-f8945e7b5c2e",
+                "disambiguation": "",
+                "title": "I Was Born About Ten Thousand Years Ago (Segment)",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": null
+              },
+              "id": "f1b88dec-7b4d-4849-b516-35feb23ba22b"
+            }
+          ],
+          "title": "",
+          "format": "12\" Vinyl"
+        }
+      ],
+      "packaging-id": null,
+      "title": "Elvis Country (I'm 10,000 Years Old)",
+      "quality": "normal",
+      "packaging": null,
+      "status": null,
+      "country": "US",
+      "release-events": [
+        {
+          "area": {
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "type-id": null,
+            "disambiguation": ""
+          },
+          "date": "1971-01-02"
+        }
+      ],
+      "text-representation": {
+        "language": null,
+        "script": null
+      },
+      "disambiguation": "",
+      "id": "50cc7f0f-3dbd-4b28-9627-7574f5870875",
+      "date": "1971-01-02",
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "front": false,
+        "count": 0,
+        "artwork": false
+      },
+      "status-id": null,
+      "label-info": [
+        {
+          "label": {
+            "disambiguation": "",
+            "id": "b3f4e6a5-ece0-43be-a530-68ad0d49fee8",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "type": "Original Production",
+            "label-code": 316,
+            "name": "RCA Victor",
+            "sort-name": "RCA Victor"
+          },
+          "catalog-number": "LSP-4460"
+        }
+      ],
+      "asin": null,
+      "barcode": ""
+    },
+    {
+      "date": "1993",
+      "cover-art-archive": {
+        "count": 1,
+        "front": true,
+        "artwork": true,
+        "darkened": false,
+        "back": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "label-info": [
+        {
+          "catalog-number": "07863 66279-2",
+          "label": {
+            "type": "Imprint",
+            "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
+            "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+            "disambiguation": "RCA Records: simple ‘RCA’ or ‘RCA’ with lightning bolt in circle",
+            "sort-name": "RCA",
+            "name": "RCA",
+            "label-code": 316
+          }
+        }
+      ],
+      "asin": "B000002WOW",
+      "barcode": "078636627922",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "724603fb-607d-30b2-8f9d-e34d7b163763",
+          "track-count": 12,
+          "track-offset": 0,
+          "tracks": [
+            {
+              "number": "1",
+              "position": 1,
+              "length": 138160,
+              "title": "Snowbird",
+              "recording": {
+                "disambiguation": "",
+                "title": "Snowbird",
+                "id": "35668a2f-38cd-4780-9181-fce17850309b",
+                "length": 137694,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "965a9468-1ccf-3c9a-a68c-f26d53d1bb4b"
+            },
+            {
+              "number": "2",
+              "position": 2,
+              "length": 247133,
+              "title": "Tomorrow Never Comes",
+              "recording": {
+                "disambiguation": "",
+                "title": "Tomorrow Never Comes",
+                "id": "754a0ad3-f3e0-422f-8edf-89ceb4df818a",
+                "length": 247000,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "76720f46-9ec5-386d-8b2a-83e1d23eba9c"
+            },
+            {
+              "length": 118373,
+              "number": "3",
+              "position": 3,
+              "title": "Little Cabin on the Hill",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 118305,
+                "id": "b7323142-71d6-4df8-acdb-b29ab5aa5976",
+                "disambiguation": "",
+                "title": "Little Cabin on the Hill"
+              },
+              "id": "e719c279-6458-364f-a1a6-f99bf6a64ac6"
+            },
+            {
+              "recording": {
+                "video": false,
+                "length": 189600,
+                "first-release-date": "1971-01-02",
+                "title": "Whole Lotta Shakin’ Goin’ On",
+                "disambiguation": "",
+                "id": "1851d4f4-7883-4f42-b12b-115f1830378a"
+              },
+              "id": "577e17e5-9e38-391f-9206-daab879261bb",
+              "number": "4",
+              "position": 4,
+              "length": 189626,
+              "title": "Whole Lotta Shakin’ Goin’ On"
+            },
+            {
+              "id": "03355208-88b5-3219-bf54-53361b78bbcd",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 272000,
+                "id": "afe63bd5-9f8d-4d49-9489-0374a16806b3",
+                "disambiguation": "",
+                "title": "Funny How Time Slips Away"
+              },
+              "title": "Funny How Time Slips Away",
+              "number": "5",
+              "position": 5,
+              "length": 272000
+            },
+            {
+              "number": "6",
+              "position": 6,
+              "length": 171000,
+              "title": "I Really Don’t Want to Know",
+              "recording": {
+                "length": 170000,
+                "video": false,
+                "first-release-date": "1971-01-02",
+                "title": "I Really Don’t Want to Know",
+                "disambiguation": "",
+                "id": "7622d611-6647-4ad6-9555-10143b2466ac"
+              },
+              "id": "bc312fb0-6b3a-311d-84f5-5670f7b87eaf"
+            },
+            {
+              "title": "There Goes My Everything",
+              "length": 189933,
+              "number": "7",
+              "position": 7,
+              "id": "a59a1c0c-09b2-3cfa-8d84-7e5606f46ced",
+              "recording": {
+                "title": "There Goes My Everything",
+                "disambiguation": "",
+                "id": "260c4a7c-d00b-4ca0-ac99-486dd5be63e8",
+                "length": 189933,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              }
+            },
+            {
+              "length": 184000,
+              "position": 8,
+              "number": "8",
+              "title": "It’s Your Baby, You Rock It",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "length": 184000,
+                "video": false,
+                "id": "4a3bb6e4-7456-471c-9238-47ede6b77773",
+                "title": "It’s Your Baby, You Rock It",
+                "disambiguation": ""
+              },
+              "id": "bed5b709-05f1-3b9e-be2c-d84f4148790a"
+            },
+            {
+              "length": 153866,
+              "position": 9,
+              "number": "9",
+              "title": "The Fool",
+              "recording": {
+                "title": "The Fool",
+                "disambiguation": "",
+                "id": "3d07329b-ec84-4eec-9a38-8304d1fd360a",
+                "video": false,
+                "length": 153866,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "e06f61ac-b548-37fe-a8f4-312d9ef43535"
+            },
+            {
+              "title": "Faded Love",
+              "position": 10,
+              "number": "10",
+              "length": 199333,
+              "id": "510f7085-770c-3e6c-81ed-142d3f37a867",
+              "recording": {
+                "video": false,
+                "length": 199333,
+                "first-release-date": "1971-01-02",
+                "disambiguation": "",
+                "title": "Faded Love",
+                "id": "d97c436a-0e36-4ff7-ac48-75243f4198b8"
+              }
+            },
+            {
+              "title": "I Washed My Hands in Muddy Water",
+              "length": 236466,
+              "number": "11",
+              "position": 11,
+              "id": "662cacdb-9431-3315-98e6-42dce046385e",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "length": 236239,
+                "video": false,
+                "id": "b8a7eeaf-8804-454a-adef-e34fee9c70c3",
+                "disambiguation": "",
+                "title": "I Washed My Hands in Muddy Water"
+              }
+            },
+            {
+              "id": "25738cd6-11ba-3e6b-b09f-806156ce8f4e",
+              "recording": {
+                "title": "Make the World Go Away",
+                "disambiguation": "",
+                "id": "b34aa1c1-5248-46f5-b45a-e5e021b340c6",
+                "length": 230107,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "title": "Make the World Go Away",
+              "length": 230107,
+              "number": "12",
+              "position": 12
+            }
+          ],
+          "position": 1,
+          "format": "CD",
+          "title": ""
+        }
+      ],
+      "packaging-id": null,
+      "title": "Elvis Country: I’m 10,000 Years Old",
+      "quality": "normal",
+      "packaging": null,
+      "status": "Official",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "1993",
+          "area": {
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null,
+            "type-id": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "disambiguation": "",
+            "sort-name": "United States",
+            "name": "United States"
+          }
+        }
+      ],
+      "disambiguation": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "id": "517e00dc-b6b8-3ec5-b9f8-d3af46375293"
+    },
+    {
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2000",
+          "area": {
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null,
+            "type-id": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "id": "bcbd80c5-eb1a-46e3-9df6-ef70b843e7e1",
+      "packaging-id": null,
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-offset": 0,
+          "track-count": 18,
+          "id": "d38bb26b-f0e5-441b-9b56-dd3ba1a776d3",
+          "position": 1,
+          "tracks": [
+            {
+              "title": "Snowbird",
+              "position": 1,
+              "number": "1",
+              "length": 138360,
+              "id": "031c07bd-d777-46c5-86f8-31160e111ccf",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "length": 137694,
+                "video": false,
+                "id": "35668a2f-38cd-4780-9181-fce17850309b",
+                "disambiguation": "",
+                "title": "Snowbird"
+              }
+            },
+            {
+              "length": 247106,
+              "number": "2",
+              "position": 2,
+              "title": "Tomorrow Never Comes",
+              "recording": {
+                "id": "754a0ad3-f3e0-422f-8edf-89ceb4df818a",
+                "title": "Tomorrow Never Comes",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 247000
+              },
+              "id": "b182d76c-b39d-499d-8163-93f5e997c1f5"
+            },
+            {
+              "number": "3",
+              "position": 3,
+              "length": 118333,
+              "title": "Little Cabin on the Hill",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 118305,
+                "id": "b7323142-71d6-4df8-acdb-b29ab5aa5976",
+                "disambiguation": "",
+                "title": "Little Cabin on the Hill"
+              },
+              "id": "1986efb9-b438-4b8f-ae86-b78ad7d4f9b1"
+            },
+            {
+              "position": 4,
+              "number": "4",
+              "length": 189600,
+              "title": "Whole Lotta Shakin’ Goin’ On",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 189600,
+                "id": "1851d4f4-7883-4f42-b12b-115f1830378a",
+                "title": "Whole Lotta Shakin’ Goin’ On",
+                "disambiguation": ""
+              },
+              "id": "37eaeb47-e9f9-4d05-980e-d2c9aa2421b6"
+            },
+            {
+              "length": 272026,
+              "number": "5",
+              "position": 5,
+              "title": "Funny How Time Slips Away",
+              "recording": {
+                "disambiguation": "",
+                "title": "Funny How Time Slips Away",
+                "id": "afe63bd5-9f8d-4d49-9489-0374a16806b3",
+                "video": false,
+                "length": 272000,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "c88cee8a-9f28-4e28-a294-4c191dcfc467"
+            },
+            {
+              "recording": {
+                "disambiguation": "",
+                "title": "I Really Don’t Want to Know",
+                "id": "cad35f54-b0a6-46ba-b98d-42ce7936b8d8",
+                "video": false,
+                "length": 178573,
+                "first-release-date": "2000-05-15"
+              },
+              "id": "33f1aef1-490d-4508-8734-9b4235a8910f",
+              "position": 6,
+              "number": "6",
+              "length": 178573,
+              "title": "I Really Don’t Want to Know"
+            },
+            {
+              "recording": {
+                "disambiguation": "",
+                "title": "There Goes My Everything",
+                "id": "260c4a7c-d00b-4ca0-ac99-486dd5be63e8",
+                "length": 189933,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "8947ae14-eb40-4072-92e8-a2d2b56c66d4",
+              "position": 7,
+              "number": "7",
+              "length": 189933,
+              "title": "There Goes My Everything"
+            },
+            {
+              "recording": {
+                "id": "4a3bb6e4-7456-471c-9238-47ede6b77773",
+                "disambiguation": "",
+                "title": "It’s Your Baby, You Rock It",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 184000
+              },
+              "id": "e0fb31b3-f5b8-4ae0-88c0-26f35fe0821d",
+              "length": 183866,
+              "number": "8",
+              "position": 8,
+              "title": "It’s Your Baby, You Rock It"
+            },
+            {
+              "recording": {
+                "id": "3d07329b-ec84-4eec-9a38-8304d1fd360a",
+                "disambiguation": "",
+                "title": "The Fool",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 153866
+              },
+              "id": "cec1aec0-ce6a-4e65-8edf-b6432f03394a",
+              "length": 153866,
+              "position": 9,
+              "number": "9",
+              "title": "The Fool"
+            },
+            {
+              "title": "Faded Love",
+              "position": 10,
+              "number": "10",
+              "length": 199693,
+              "id": "672cbc12-7141-408b-aba3-6b9cb89f2d98",
+              "recording": {
+                "title": "Faded Love",
+                "disambiguation": "",
+                "id": "d97c436a-0e36-4ff7-ac48-75243f4198b8",
+                "video": false,
+                "length": 199333,
+                "first-release-date": "1971-01-02"
+              }
+            },
+            {
+              "title": "I Washed My Hands in Muddy Water",
+              "position": 11,
+              "number": "11",
+              "length": 236000,
+              "id": "871908d2-4164-48d2-b341-54cb24451637",
+              "recording": {
+                "disambiguation": "",
+                "title": "I Washed My Hands in Muddy Water",
+                "id": "b8a7eeaf-8804-454a-adef-e34fee9c70c3",
+                "length": 236239,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              }
+            },
+            {
+              "id": "6112b1ab-0e21-49ea-b4d4-b292f722bcb4",
+              "recording": {
+                "id": "b34aa1c1-5248-46f5-b45a-e5e021b340c6",
+                "disambiguation": "",
+                "title": "Make the World Go Away",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 230107
+              },
+              "title": "Make the World Go Away",
+              "length": 230640,
+              "position": 12,
+              "number": "12"
+            },
+            {
+              "recording": {
+                "first-release-date": "2000-05-15",
+                "length": 168333,
+                "video": false,
+                "id": "339c5d74-46bd-46a5-9dbc-35864b664449",
+                "disambiguation": "",
+                "title": "It Ain’t No Big Thing (but It’s Growing)"
+              },
+              "id": "2b317f70-05d2-4a74-ab8e-b095315155f5",
+              "length": 168333,
+              "number": "13",
+              "position": 13,
+              "title": "It Ain’t No Big Thing (But It’s Growing)"
+            },
+            {
+              "title": "A Hundred Years From Now",
+              "position": 14,
+              "number": "14",
+              "length": 101560,
+              "id": "fd82d442-cb7c-417f-a52a-4e8cfd6d5b60",
+              "recording": {
+                "title": "A Hundred Years From Now",
+                "disambiguation": "",
+                "id": "66dd69c9-059f-4019-8405-b2098d34405b",
+                "length": 101560,
+                "video": false,
+                "first-release-date": "2000-05-15"
+              }
+            },
+            {
+              "title": "If I Were You",
+              "length": 181000,
+              "position": 15,
+              "number": "15",
+              "id": "7e6419eb-8581-4c5e-b404-019e8a352bc6",
+              "recording": {
+                "disambiguation": "",
+                "title": "If I Were You",
+                "id": "b3b46a23-30f7-4c35-b580-ce9c55112ed9",
+                "length": 181000,
+                "video": false,
+                "first-release-date": "2000-05-15"
+              }
+            },
+            {
+              "recording": {
+                "title": "Got My Mojo Working / Keep Your Hands Off of It",
+                "disambiguation": "",
+                "id": "c8345139-e4a5-4b25-9720-d2be63dd0ac8",
+                "video": false,
+                "length": 274640,
+                "first-release-date": "2000-05-15"
+              },
+              "id": "6d57ab26-fc04-498e-a16a-731da1ebf166",
+              "length": 274640,
+              "number": "16",
+              "position": 16,
+              "title": "Got My Mojo Working / Keep Your Hands Off of It"
+            },
+            {
+              "title": "Where Did They Go, Lord",
+              "position": 17,
+              "number": "17",
+              "length": 148093,
+              "id": "ceac774e-bd93-4f92-b1ea-75d8fc5b1cb9",
+              "recording": {
+                "video": false,
+                "length": 146000,
+                "first-release-date": "1978",
+                "title": "Where Did They Go, Lord",
+                "disambiguation": "",
+                "id": "810a2a62-6ae3-4de4-a5d6-8da8635d531d"
+              }
+            },
+            {
+              "id": "6e005343-01c4-4bf4-a492-147c2a27128b",
+              "recording": {
+                "first-release-date": "2000-05-15",
+                "video": false,
+                "length": 193374,
+                "id": "b3a8060c-2bc2-41ab-b455-20b8f83034d5",
+                "disambiguation": "",
+                "title": "I Was Born About Ten Thousand Years Ago"
+              },
+              "title": "I Was Born About Ten Thousand Years Ago",
+              "length": 193374,
+              "position": 18,
+              "number": "18"
+            }
+          ],
+          "title": "",
+          "format": "CD"
+        }
+      ],
+      "quality": "normal",
+      "title": "Elvis Country: I’m 10,000 Years Old",
+      "status": "Official",
+      "packaging": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "label-info": [
+        {
+          "catalog-number": "07863 67929 2",
+          "label": {
+            "sort-name": "RCA",
+            "name": "RCA",
+            "label-code": 316,
+            "type": "Imprint",
+            "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+            "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
+            "disambiguation": "RCA Records: simple ‘RCA’ or ‘RCA’ with lightning bolt in circle"
+          }
+        }
+      ],
+      "barcode": "078636792927",
+      "asin": null,
+      "cover-art-archive": {
+        "count": 8,
+        "front": true,
+        "artwork": true,
+        "darkened": false,
+        "back": true
+      },
+      "date": "2000"
+    },
+    {
+      "media": [
+        {
+          "track-count": 15,
+          "id": "2d2f542a-9d53-3b72-90e5-5cf79c4c095c",
+          "track-offset": 0,
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "title": "Elvis Country (I’m 10,000 Years Old)",
+          "tracks": [
+            {
+              "length": 137694,
+              "number": "1",
+              "position": 1,
+              "title": "Snowbird",
+              "recording": {
+                "id": "35668a2f-38cd-4780-9181-fce17850309b",
+                "disambiguation": "",
+                "title": "Snowbird",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 137694
+              },
+              "id": "414ed71b-6782-34c1-ada6-4583929cb895"
+            },
+            {
+              "recording": {
+                "id": "754a0ad3-f3e0-422f-8edf-89ceb4df818a",
+                "disambiguation": "",
+                "title": "Tomorrow Never Comes",
+                "first-release-date": "1971-01-02",
+                "length": 247000,
+                "video": false
+              },
+              "id": "0437cd8e-a50f-3d15-a201-4a428907f0aa",
+              "position": 2,
+              "number": "2",
+              "length": 246897,
+              "title": "Tomorrow Never Comes"
+            },
+            {
+              "length": 118305,
+              "number": "3",
+              "position": 3,
+              "title": "Little Cabin on the Hill",
+              "recording": {
+                "id": "b7323142-71d6-4df8-acdb-b29ab5aa5976",
+                "disambiguation": "",
+                "title": "Little Cabin on the Hill",
+                "first-release-date": "1971-01-02",
+                "length": 118305,
+                "video": false
+              },
+              "id": "78f51f16-d8e8-3917-809d-e52a8515f6a0"
+            },
+            {
+              "id": "55c1eb50-c2aa-3dda-b263-db390bb12af9",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "length": 189600,
+                "video": false,
+                "id": "1851d4f4-7883-4f42-b12b-115f1830378a",
+                "title": "Whole Lotta Shakin’ Goin’ On",
+                "disambiguation": ""
+              },
+              "title": "Whole Lotta Shakin’ Goin’ On",
+              "position": 4,
+              "number": "4",
+              "length": 189474
+            },
+            {
+              "id": "fca8c176-8e44-3c14-baac-7a8582e67348",
+              "recording": {
+                "disambiguation": "",
+                "title": "Funny How Time Slips Away",
+                "id": "afe63bd5-9f8d-4d49-9489-0374a16806b3",
+                "video": false,
+                "length": 272000,
+                "first-release-date": "1971-01-02"
+              },
+              "title": "Funny How Time Slips Away",
+              "position": 5,
+              "number": "5",
+              "length": 271719
+            },
+            {
+              "length": 178956,
+              "position": 6,
+              "number": "6",
+              "title": "I Really Don’t Want to Know",
+              "recording": {
+                "first-release-date": "2012-01-03",
+                "video": false,
+                "length": 178956,
+                "id": "43a6f56d-ed84-4f01-a8b5-8d17b8143537",
+                "title": "I Really Don’t Want to Know",
+                "disambiguation": ""
+              },
+              "id": "a1e53263-c31c-3094-937e-9686a532db9f"
+            },
+            {
+              "number": "7",
+              "position": 7,
+              "length": 190008,
+              "title": "There Goes My Everything",
+              "recording": {
+                "video": false,
+                "length": 189933,
+                "first-release-date": "1971-01-02",
+                "disambiguation": "",
+                "title": "There Goes My Everything",
+                "id": "260c4a7c-d00b-4ca0-ac99-486dd5be63e8"
+              },
+              "id": "6c18ed2f-4457-38a8-b044-6f946dc511a0"
+            },
+            {
+              "title": "It’s Your Baby, You Rock It",
+              "length": 183762,
+              "position": 8,
+              "number": "8",
+              "id": "468f9b77-177a-391d-9206-cf299bdf3c2b",
+              "recording": {
+                "length": 184000,
+                "video": false,
+                "first-release-date": "1971-01-02",
+                "disambiguation": "",
+                "title": "It’s Your Baby, You Rock It",
+                "id": "4a3bb6e4-7456-471c-9238-47ede6b77773"
+              }
+            },
+            {
+              "id": "326cf67e-86a4-334e-bb79-90bd0d0677e7",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 153866,
+                "id": "3d07329b-ec84-4eec-9a38-8304d1fd360a",
+                "title": "The Fool",
+                "disambiguation": ""
+              },
+              "title": "The Fool",
+              "length": 153716,
+              "number": "9",
+              "position": 9
+            },
+            {
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "length": 199333,
+                "video": false,
+                "id": "d97c436a-0e36-4ff7-ac48-75243f4198b8",
+                "disambiguation": "",
+                "title": "Faded Love"
+              },
+              "id": "fc4ad7d1-08ab-3c28-9b1f-7079659384c4",
+              "length": 199227,
+              "position": 10,
+              "number": "10",
+              "title": "Faded Love"
+            },
+            {
+              "title": "I Washed My Hands in Muddy Water",
+              "length": 236239,
+              "position": 11,
+              "number": "11",
+              "id": "e27ce94a-59c0-3a94-b26e-4ed60ed04aa4",
+              "recording": {
+                "disambiguation": "",
+                "title": "I Washed My Hands in Muddy Water",
+                "id": "b8a7eeaf-8804-454a-adef-e34fee9c70c3",
+                "length": 236239,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              }
+            },
+            {
+              "title": "Make the World Go Away",
+              "length": 234010,
+              "position": 12,
+              "number": "12",
+              "id": "f300310b-d2e5-35ab-9785-9b942a6e4b66",
+              "recording": {
+                "disambiguation": "",
+                "title": "Make the World Go Away",
+                "id": "f8329019-96e4-4d2b-8851-a28e2ee5966b",
+                "video": false,
+                "length": 234010,
+                "first-release-date": "2012-01-03"
+              }
+            },
+            {
+              "title": "I Was Born About Ten Thousand Years Ago",
+              "number": "13",
+              "position": 13,
+              "length": 195720,
+              "id": "776a31e2-976f-3442-a7e5-1a3b43564662",
+              "recording": {
+                "video": false,
+                "length": 195720,
+                "first-release-date": "2012-01-03",
+                "title": "I Was Born About Ten Thousand Years Ago",
+                "disambiguation": "",
+                "id": "f82d716b-92a6-4d2b-b47d-1e9aa2fa9f45"
+              }
+            },
+            {
+              "id": "be4f8ee5-39ba-3fac-985b-4b1517dd16de",
+              "recording": {
+                "first-release-date": "1995-10-10",
+                "video": false,
+                "length": 100200,
+                "id": "88cac2a5-2feb-4e41-a261-4855c0b9ad79",
+                "disambiguation": "informal recording",
+                "title": "A Hundred Years From Now"
+              },
+              "title": "A Hundred Years From Now",
+              "position": 14,
+              "number": "14",
+              "length": 102748
+            },
+            {
+              "number": "15",
+              "position": 15,
+              "length": 148723,
+              "title": "Where Did They Go, Lord",
+              "recording": {
+                "id": "5382d1d3-134f-415a-b724-f90ec184e86b",
+                "disambiguation": "",
+                "title": "Where Did They Go, Lord",
+                "first-release-date": "1995-10-10",
+                "video": false,
+                "length": 149426
+              },
+              "id": "24f64620-6048-346c-87d3-1b054b4b929a"
+            }
+          ],
+          "position": 1
+        },
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-offset": 0,
+          "id": "fc139d5e-5785-3257-a8a4-8aba58a92329",
+          "track-count": 14,
+          "position": 2,
+          "tracks": [
+            {
+              "recording": {
+                "disambiguation": "with overdubs",
+                "title": "Love Letters",
+                "id": "3aa8cfbe-ee90-4fea-846f-443de2bf9a5c",
+                "length": 172386,
+                "video": false,
+                "first-release-date": "1968-02"
+              },
+              "id": "b464e481-a0f6-3e25-a4e6-ee29c44b2732",
+              "number": "1",
+              "position": 1,
+              "length": 174666,
+              "title": "Love Letters"
+            },
+            {
+              "number": "2",
+              "position": 2,
+              "length": 149880,
+              "title": "When I’m Over You",
+              "recording": {
+                "id": "a47be41e-5c6a-497f-b461-be577ea0bc67",
+                "title": "When I’m Over You",
+                "disambiguation": "",
+                "first-release-date": "1971-06",
+                "video": false,
+                "length": 149837
+              },
+              "id": "5fc43bb7-0b5d-3cfa-879c-40398888bccb"
+            },
+            {
+              "title": "If I Were You",
+              "number": "3",
+              "position": 3,
+              "length": 183053,
+              "id": "159b04aa-cb9e-3aef-b3de-9851fd9a5d92",
+              "recording": {
+                "length": 182506,
+                "video": false,
+                "first-release-date": "1971-06",
+                "title": "If I Were You",
+                "disambiguation": "",
+                "id": "03b657dd-d275-463b-b24a-44799a679553"
+              }
+            },
+            {
+              "id": "308661d0-8659-3f0c-9f07-01fa60d7057d",
+              "recording": {
+                "first-release-date": "1971-06",
+                "video": false,
+                "length": 277933,
+                "id": "e3ec8a19-da29-4d31-bc95-61d2e1114a2d",
+                "disambiguation": "",
+                "title": "Got My Mojo Working / Keep Your Hands Off of It"
+              },
+              "title": "Got My Mojo Working",
+              "length": 279146,
+              "position": 4,
+              "number": "4"
+            },
+            {
+              "recording": {
+                "title": "Heart of Rome",
+                "disambiguation": "",
+                "id": "2893c1fb-9e25-4d02-96b4-8016ff8b011d",
+                "length": 177586,
+                "video": false,
+                "first-release-date": "1971-06"
+              },
+              "id": "082ce4e9-4efa-3114-86b4-63e1d84e5a0d",
+              "length": 177586,
+              "position": 5,
+              "number": "5",
+              "title": "Heart of Rome"
+            },
+            {
+              "id": "6d64091c-2221-3523-99ec-c862b7b0be29",
+              "recording": {
+                "first-release-date": "1971-06",
+                "length": 170573,
+                "video": false,
+                "id": "a091531d-3e30-494a-a4a5-16aa390fad82",
+                "disambiguation": "",
+                "title": "Only Believe"
+              },
+              "title": "Only Believe",
+              "position": 6,
+              "number": "6",
+              "length": 172493
+            },
+            {
+              "recording": {
+                "video": false,
+                "length": 197066,
+                "first-release-date": "1971-06",
+                "title": "This Is Our Dance",
+                "disambiguation": "",
+                "id": "935004be-612e-4693-ab9b-8b0abc7f6d19"
+              },
+              "id": "c937249c-d011-38d7-9014-da59b49500f4",
+              "number": "7",
+              "position": 7,
+              "length": 197040,
+              "title": "This Is Our Dance"
+            },
+            {
+              "number": "8",
+              "position": 8,
+              "length": 155360,
+              "title": "Cindy Cindy",
+              "recording": {
+                "id": "d40cb203-d6eb-4aa0-972c-c964d01976d3",
+                "disambiguation": "",
+                "title": "Cindy, Cindy",
+                "first-release-date": "1971-06",
+                "length": 153333,
+                "video": false
+              },
+              "id": "a43f4207-e7e4-354b-9762-c66f87dcb202"
+            },
+            {
+              "title": "I’ll Never Know",
+              "length": 147600,
+              "number": "9",
+              "position": 9,
+              "id": "4c556727-9bcd-3530-9fd5-615aea3eac24",
+              "recording": {
+                "length": 146560,
+                "video": false,
+                "first-release-date": "1971-06",
+                "title": "I’ll Never Know",
+                "disambiguation": "",
+                "id": "d97c68a4-d804-4022-8c3c-e03f27635886"
+              }
+            },
+            {
+              "position": 10,
+              "number": "10",
+              "length": 169906,
+              "title": "It Ain’t No Big Thing (but It’s Growing)",
+              "recording": {
+                "title": "It Ain’t No Big Thing (but It’s Growing)",
+                "disambiguation": "",
+                "id": "0078b448-c6ec-4c66-a102-ce211aa564ed",
+                "length": 169666,
+                "video": false,
+                "first-release-date": "1971-06"
+              },
+              "id": "62b1d319-536b-379f-a296-0f67733031f1"
+            },
+            {
+              "recording": {
+                "length": 191800,
+                "video": false,
+                "first-release-date": "1995-10-10",
+                "title": "Life",
+                "disambiguation": "",
+                "id": "56095491-8c3e-488b-b030-91ea50869a5c"
+              },
+              "id": "f5da2975-0570-3486-9b76-3da9767fff6f",
+              "number": "11",
+              "position": 11,
+              "length": 195093,
+              "title": "Life"
+            },
+            {
+              "id": "b68872c0-b49b-3a8e-ae4b-00f4112ed5d9",
+              "recording": {
+                "id": "531b04c2-ede6-4e20-9511-8c4ebcd85ebc",
+                "title": "The Sound of Your Cry",
+                "disambiguation": "",
+                "first-release-date": "1971-09-21",
+                "length": 194000,
+                "video": false
+              },
+              "title": "The Sound of Your Cry",
+              "length": 198213,
+              "number": "12",
+              "position": 12
+            },
+            {
+              "number": "13",
+              "position": 13,
+              "length": 199946,
+              "title": "Sylvia",
+              "recording": {
+                "length": 199946,
+                "video": false,
+                "first-release-date": "2012-01-03",
+                "disambiguation": "",
+                "title": "Sylvia",
+                "id": "94b213bf-c0aa-4c84-a33f-25e64a0f9f8c"
+              },
+              "id": "772f3d69-0f8e-3e87-b8f9-29d1b3917ad6"
+            },
+            {
+              "title": "Rags to Riches",
+              "length": 115666,
+              "position": 14,
+              "number": "14",
+              "id": "e0e6976c-ba3f-3b39-abff-2f3ce5a98aeb",
+              "recording": {
+                "id": "2fe166ba-5df0-4c09-921c-209503ea54d5",
+                "disambiguation": "",
+                "title": "Rags to Riches",
+                "first-release-date": "1995-10-10",
+                "video": false,
+                "length": 115786
+              }
+            }
+          ],
+          "title": "Love Letters From Elvis",
+          "format": "CD"
+        }
+      ],
+      "packaging-id": "8f931351-d2e2-310f-afc6-37b89ddba246",
+      "title": "Elvis Country",
+      "quality": "normal",
+      "packaging": "Digipak",
+      "status": "Official",
+      "country": "US",
+      "release-events": [
+        {
+          "area": {
+            "sort-name": "United States",
+            "name": "United States",
+            "type-id": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "disambiguation": "",
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          },
+          "date": "2012-01-03"
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "disambiguation": "Legacy Edition of Elvis Country (I'm 10,000 Years Old) and Love Letters From Elvis",
+      "id": "ce9df1bf-80a5-4e46-a5aa-a25db3b6b942",
+      "date": "2012-01-03",
+      "cover-art-archive": {
+        "back": false,
+        "darkened": false,
+        "artwork": true,
+        "front": true,
+        "count": 24
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "label-info": [
+        {
+          "catalog-number": "88691 90439 2",
+          "label": {
+            "id": "45ffe1d8-92da-4750-9a4a-f42861f46e2c",
+            "type-id": "88ee6ae7-f413-3490-a1d2-54f6a9f0838c",
+            "disambiguation": "reissue division of Sony Music Entertainment",
+            "type": "Reissue Production",
+            "name": "Legacy",
+            "sort-name": "Legacy",
+            "label-code": 2361
+          }
+        },
+        {
+          "label": {
+            "name": "RCA",
+            "sort-name": "RCA",
+            "label-code": 316,
+            "type": "Imprint",
+            "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+            "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
+            "disambiguation": "RCA Records: simple ‘RCA’ or ‘RCA’ with lightning bolt in circle"
+          },
+          "catalog-number": "88691 90439 2"
+        }
+      ],
+      "asin": "B00664R0WK",
+      "barcode": "886919043921"
+    },
+    {
+      "title": "Elvis Country",
+      "quality": "normal",
+      "packaging": null,
+      "status": "Official",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 24,
+          "id": "c12d2c9b-1549-39db-95c7-0eb0293026a1",
+          "track-offset": 0,
+          "tracks": [
+            {
+              "length": 137000,
+              "position": 1,
+              "number": "1",
+              "title": "Snowbird",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 137694,
+                "id": "35668a2f-38cd-4780-9181-fce17850309b",
+                "disambiguation": "",
+                "title": "Snowbird"
+              },
+              "id": "522209bc-f3b8-47e6-9306-dfed60577474"
+            },
+            {
+              "recording": {
+                "video": false,
+                "length": 247000,
+                "first-release-date": "1971-01-02",
+                "title": "Tomorrow Never Comes",
+                "disambiguation": "",
+                "id": "754a0ad3-f3e0-422f-8edf-89ceb4df818a"
+              },
+              "id": "ff2877ab-2548-49c1-b16d-871be7feccea",
+              "position": 2,
+              "number": "2",
+              "length": 246000,
+              "title": "Tomorrow Never Comes"
+            },
+            {
+              "recording": {
+                "title": "Little Cabin on the Hill",
+                "disambiguation": "",
+                "id": "b7323142-71d6-4df8-acdb-b29ab5aa5976",
+                "length": 118305,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "45e87028-ed51-4729-9d65-e27fad0bd947",
+              "length": 118000,
+              "number": "3",
+              "position": 3,
+              "title": "Little Cabin on the Hill"
+            },
+            {
+              "recording": {
+                "id": "1851d4f4-7883-4f42-b12b-115f1830378a",
+                "title": "Whole Lotta Shakin’ Goin’ On",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "length": 189600,
+                "video": false
+              },
+              "id": "3a8561bc-fc6b-471c-a1b5-a345842a41c2",
+              "number": "4",
+              "position": 4,
+              "length": 189000,
+              "title": "Whole Lotta Shakin’ Goin’ On"
+            },
+            {
+              "recording": {
+                "video": false,
+                "length": 271000,
+                "first-release-date": "2008",
+                "disambiguation": "",
+                "title": "Funny How Time Slips Away",
+                "id": "ac38e164-df80-4584-9876-af0e30e753c0"
+              },
+              "id": "16cf19bd-2b6d-414c-8d26-e07d669da8c7",
+              "length": 271000,
+              "number": "5",
+              "position": 5,
+              "title": "Funny How Time Slips Away"
+            },
+            {
+              "length": 178000,
+              "position": 6,
+              "number": "6",
+              "title": "I Really Don’t Want to Know",
+              "recording": {
+                "first-release-date": "2008",
+                "length": 178000,
+                "video": false,
+                "id": "c76154fa-9830-4866-b03b-e344c8d79549",
+                "title": "I Really Don’t Want to Know",
+                "disambiguation": ""
+              },
+              "id": "8c9d75b4-9430-4ef4-a00d-a9378d985e28"
+            },
+            {
+              "id": "4faa0936-4582-4167-b326-81a32dd4ddf1",
+              "recording": {
+                "title": "There Goes My Everything",
+                "disambiguation": "",
+                "id": "260c4a7c-d00b-4ca0-ac99-486dd5be63e8",
+                "length": 189933,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "title": "There Goes My Everything",
+              "length": 191000,
+              "position": 7,
+              "number": "7"
+            },
+            {
+              "number": "8",
+              "position": 8,
+              "length": 182000,
+              "title": "It’s Your Baby, You Rock It",
+              "recording": {
+                "video": false,
+                "length": 184000,
+                "first-release-date": "1971-01-02",
+                "disambiguation": "",
+                "title": "It’s Your Baby, You Rock It",
+                "id": "4a3bb6e4-7456-471c-9238-47ede6b77773"
+              },
+              "id": "a5f04040-d119-4eeb-a797-c4e28d1dd962"
+            },
+            {
+              "number": "9",
+              "position": 9,
+              "length": 153000,
+              "title": "The Fool",
+              "recording": {
+                "disambiguation": "",
+                "title": "The Fool",
+                "id": "3d07329b-ec84-4eec-9a38-8304d1fd360a",
+                "video": false,
+                "length": 153866,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "35a5e54b-0d75-4fcd-a32c-f1804f22a757"
+            },
+            {
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 199333,
+                "id": "d97c436a-0e36-4ff7-ac48-75243f4198b8",
+                "title": "Faded Love",
+                "disambiguation": ""
+              },
+              "id": "6a2e38fb-cac4-4158-9485-2a324be33ccf",
+              "length": 201000,
+              "position": 10,
+              "number": "10",
+              "title": "Faded Love"
+            },
+            {
+              "number": "11",
+              "position": 11,
+              "length": 237000,
+              "title": "I Washed My Hands in Muddy Water",
+              "recording": {
+                "length": 236239,
+                "video": false,
+                "first-release-date": "1971-01-02",
+                "title": "I Washed My Hands in Muddy Water",
+                "disambiguation": "",
+                "id": "b8a7eeaf-8804-454a-adef-e34fee9c70c3"
+              },
+              "id": "a34a1804-fe6c-4b04-bf5f-19f192d510b3"
+            },
+            {
+              "length": 228000,
+              "number": "12",
+              "position": 12,
+              "title": "Make the World Go Away",
+              "recording": {
+                "id": "b34aa1c1-5248-46f5-b45a-e5e021b340c6",
+                "disambiguation": "",
+                "title": "Make the World Go Away",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 230107
+              },
+              "id": "bd37dcfa-26bd-431c-90cb-3b7e1c0569cb"
+            },
+            {
+              "length": 193000,
+              "position": 13,
+              "number": "13",
+              "title": "I Was Born About Ten Thousand Years Ago",
+              "recording": {
+                "id": "3bd92f79-37c2-4659-8449-082c190c9423",
+                "disambiguation": "",
+                "title": "I Was Born About Ten Thousand Years Ago",
+                "first-release-date": "2008",
+                "video": false,
+                "length": 193000
+              },
+              "id": "310b3e82-c0bb-411c-b523-eb9eb557c625"
+            },
+            {
+              "title": "Where Did They Go, Lord",
+              "number": "14",
+              "position": 14,
+              "length": 150000,
+              "id": "af4b3534-4f88-4855-8e89-6a68fd07eea9",
+              "recording": {
+                "first-release-date": "2008",
+                "video": false,
+                "length": 150000,
+                "id": "6697132f-acd7-4621-89fe-217944c2c483",
+                "title": "Where Did They Go, Lord",
+                "disambiguation": ""
+              }
+            },
+            {
+              "number": "15",
+              "position": 15,
+              "length": 42000,
+              "title": "Faded Love (Country version)",
+              "recording": {
+                "id": "19ab5922-9b6e-4766-b755-43545dd6b6e7",
+                "disambiguation": "",
+                "title": "Faded Love (Country version)",
+                "first-release-date": "2008",
+                "video": false,
+                "length": 42000
+              },
+              "id": "b019aa08-3719-4e0d-9cff-e610d81797b7"
+            },
+            {
+              "recording": {
+                "disambiguation": "",
+                "title": "The Fool (take 1)",
+                "id": "7b433e61-673f-4838-a475-37af6b1128cb",
+                "length": 157000,
+                "video": false,
+                "first-release-date": "2008"
+              },
+              "id": "0b9d5230-0d19-4fa2-a6f3-59b65937df85",
+              "number": "16",
+              "position": 16,
+              "length": 157000,
+              "title": "The Fool (take 1)"
+            },
+            {
+              "recording": {
+                "title": "A Hundred Years From Now (takes 1 & 2)",
+                "disambiguation": "",
+                "id": "17dc9ed9-73a2-4c56-88ee-1d5e1640908e",
+                "video": false,
+                "length": 231000,
+                "first-release-date": "2008"
+              },
+              "id": "be68724a-1596-4fa6-af97-d4fcb0d93b65",
+              "length": 231000,
+              "position": 17,
+              "number": "17",
+              "title": "A Hundred Years From Now (takes 1 & 2)"
+            },
+            {
+              "title": "Little Cabin on the Hill (take 1)",
+              "length": 145000,
+              "number": "18",
+              "position": 18,
+              "id": "5814d4c4-e21b-4968-b3ed-efbe02960786",
+              "recording": {
+                "video": false,
+                "length": 145000,
+                "first-release-date": "2008",
+                "disambiguation": "",
+                "title": "Little Cabin on the Hill (take 1)",
+                "id": "6da4d40b-9ad7-4aeb-90f2-bb08d3dd84ed"
+              }
+            },
+            {
+              "id": "773275d2-048f-4773-88bc-97016cc08702",
+              "recording": {
+                "title": "It’s Your Baby, You Rock It",
+                "disambiguation": "",
+                "id": "0d63dd78-d03e-48d3-a919-842bbdd1d4bd",
+                "length": 241000,
+                "video": false,
+                "first-release-date": "2008"
+              },
+              "title": "It’s Your Baby, You Rock It",
+              "number": "19",
+              "position": 19,
+              "length": 241000
+            },
+            {
+              "recording": {
+                "id": "e45ca777-87d4-4635-aac4-aeb6098f6d7b",
+                "disambiguation": "",
+                "title": "Faded Love (take 3)",
+                "first-release-date": "2008",
+                "length": 264000,
+                "video": false
+              },
+              "id": "460f4bdd-58e5-487d-8804-2cb67926cf8c",
+              "number": "20",
+              "position": 20,
+              "length": 264000,
+              "title": "Faded Love (take 3)"
+            },
+            {
+              "id": "b1a6ee3e-a5bb-4735-a3fc-732fcb0fee2d",
+              "recording": {
+                "title": "Tomorrow Never Comes (take 1)",
+                "disambiguation": "",
+                "id": "1b507910-5365-47c0-8e81-3123d06cc501",
+                "video": false,
+                "length": 214000,
+                "first-release-date": "2008"
+              },
+              "title": "Tomorrow Never Comes (take 1)",
+              "length": 214000,
+              "number": "21",
+              "position": 21
+            },
+            {
+              "number": "22",
+              "position": 22,
+              "length": 275000,
+              "title": "Tomorrow Never Comes (take 2)",
+              "recording": {
+                "first-release-date": "2008",
+                "video": false,
+                "length": 275000,
+                "id": "b957b9e7-a27a-4280-9822-b7fd984e769c",
+                "title": "Tomorrow Never Comes (take 2)",
+                "disambiguation": ""
+              },
+              "id": "64851ee1-6780-4b15-a2aa-933d51a2f553"
+            },
+            {
+              "id": "83636d68-dcc9-4796-b144-c2152f2bc875",
+              "recording": {
+                "disambiguation": "",
+                "title": "Snowbird (rehearsal & take 1)",
+                "id": "23b322be-049d-413b-b548-c49af47a09d0",
+                "length": 204000,
+                "video": false,
+                "first-release-date": "2008"
+              },
+              "title": "Snowbird (rehearsal & take 1)",
+              "position": 23,
+              "number": "23",
+              "length": 204000
+            },
+            {
+              "id": "dc65be13-32ce-40e9-a4e6-95d325ab8f3b",
+              "recording": {
+                "title": "Where Did They Go Lord (take 1)",
+                "disambiguation": "",
+                "id": "0a01c7c9-af44-49ba-bb00-213a3bb2465f",
+                "video": false,
+                "length": 138000,
+                "first-release-date": "2008"
+              },
+              "title": "Where Did They Go Lord (take 1)",
+              "length": 138000,
+              "position": 24,
+              "number": "24"
+            }
+          ],
+          "position": 1,
+          "format": "CD",
+          "title": "Side 1"
+        },
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "d0630115-cc7d-33a9-a108-c1cc9e6c88c5",
+          "track-count": 16,
+          "track-offset": 0,
+          "tracks": [
+            {
+              "title": "I Really Don’t Want to Know",
+              "number": "1",
+              "position": 1,
+              "length": 168000,
+              "id": "3a5f6552-a02e-478e-8a63-9cfe4d97c3c0",
+              "recording": {
+                "video": false,
+                "length": 170000,
+                "first-release-date": "1971-01-02",
+                "title": "I Really Don’t Want to Know",
+                "disambiguation": "",
+                "id": "7622d611-6647-4ad6-9555-10143b2466ac"
+              }
+            },
+            {
+              "id": "10e0dbbe-cce8-416c-930a-759c073b5f28",
+              "recording": {
+                "id": "82b0d690-2440-409b-b502-269f54c2a8a3",
+                "disambiguation": "",
+                "title": "Faded Love (takes 2 & 1)",
+                "first-release-date": "2008",
+                "video": false,
+                "length": 292000
+              },
+              "title": "Faded Love (takes 2 & 1)",
+              "position": 2,
+              "number": "2",
+              "length": 292000
+            },
+            {
+              "recording": {
+                "video": false,
+                "length": 295000,
+                "first-release-date": "2008",
+                "disambiguation": "",
+                "title": "Tomorrow Never Comes (takes 12 & 13)",
+                "id": "121dedf3-2fd3-422e-8da7-2bfb9fad656a"
+              },
+              "id": "d8b0734a-e2d0-4677-82fa-8a4436018f35",
+              "length": 295000,
+              "number": "3",
+              "position": 3,
+              "title": "Tomorrow Never Comes (takes 12 & 13)"
+            },
+            {
+              "recording": {
+                "disambiguation": "",
+                "title": "Make the World Go Away (takes 1 & 3)",
+                "id": "9b874be0-4db1-497c-9a49-ee54f4d64f6d",
+                "video": false,
+                "length": 388000,
+                "first-release-date": "2008"
+              },
+              "id": "7b972e79-14dc-47ff-82bf-e1c7f2013f3b",
+              "position": 4,
+              "number": "4",
+              "length": 388000,
+              "title": "Make the World Go Away (takes 1 & 3)"
+            },
+            {
+              "title": "Funny How Time Slips Away",
+              "number": "5",
+              "position": 5,
+              "length": 263000,
+              "id": "53688024-35d4-4ef1-a5bb-280cb18bbfbc",
+              "recording": {
+                "id": "afe63bd5-9f8d-4d49-9489-0374a16806b3",
+                "disambiguation": "",
+                "title": "Funny How Time Slips Away",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 272000
+              }
+            },
+            {
+              "recording": {
+                "first-release-date": "2008",
+                "video": false,
+                "length": 272000,
+                "id": "3582386d-da2a-4d1f-a2ec-d4cc7dbf366b",
+                "title": "I Washed My Hands in Muddy Water",
+                "disambiguation": ""
+              },
+              "id": "474adf6f-dcf5-4cb3-b087-83d5b5e9018f",
+              "number": "6",
+              "position": 6,
+              "length": 272000,
+              "title": "I Washed My Hands in Muddy Water"
+            },
+            {
+              "id": "42104a37-545f-474f-abb0-a4c927cd3ad7",
+              "recording": {
+                "id": "d4a81302-7373-4171-b610-6529d6c8316c",
+                "disambiguation": "",
+                "title": "I Didn’t Make It on Playing Guitar",
+                "first-release-date": "2008",
+                "length": 221000,
+                "video": false
+              },
+              "title": "I Didn’t Make It on Playing Guitar",
+              "length": 221000,
+              "position": 7,
+              "number": "7"
+            },
+            {
+              "position": 8,
+              "number": "8",
+              "length": 520000,
+              "title": "Tomorrow Never Comes (takes 3 & 11)",
+              "recording": {
+                "video": false,
+                "length": 520000,
+                "first-release-date": "2008",
+                "disambiguation": "",
+                "title": "Tomorrow Never Comes (takes 3 & 11)",
+                "id": "8217b57c-6702-4acb-a479-7836de66b430"
+              },
+              "id": "fc66c69b-2d35-433f-9487-b65e3e482ac0"
+            },
+            {
+              "title": "There Goes My Everything (take 1)",
+              "position": 9,
+              "number": "9",
+              "length": 212000,
+              "id": "98d339b8-061b-40ba-b747-be5217b553d0",
+              "recording": {
+                "length": 212000,
+                "video": false,
+                "first-release-date": "2008",
+                "disambiguation": "",
+                "title": "There Goes My Everything (take 1)",
+                "id": "cef70fc0-bf8c-4b70-9de6-3e7211693bb7"
+              }
+            },
+            {
+              "title": "September Warm Up (instrumental)",
+              "length": 113000,
+              "number": "10",
+              "position": 10,
+              "id": "207f5c37-984c-4db0-972a-b6296683dcde",
+              "recording": {
+                "first-release-date": "2008",
+                "length": 113000,
+                "video": false,
+                "id": "f729fa4b-0477-46d6-bde7-8857338eb6a7",
+                "disambiguation": "",
+                "title": "September Warm Up (instrumental)"
+              }
+            },
+            {
+              "title": "Snowbird (takes 4, 5 & 2)",
+              "number": "11",
+              "position": 11,
+              "length": 150000,
+              "id": "aa467ed1-8179-4ddf-8e97-eb06376abc6b",
+              "recording": {
+                "title": "Snowbird (takes 4, 5 & 2)",
+                "disambiguation": "",
+                "id": "a1f892c5-d55f-4f8c-a487-a70de0c3176a",
+                "video": false,
+                "length": 150000,
+                "first-release-date": "2008"
+              }
+            },
+            {
+              "length": 172000,
+              "number": "12",
+              "position": 12,
+              "title": "Where Did They Go, Lord (takes 2 & 3)",
+              "recording": {
+                "first-release-date": "2008",
+                "length": 172000,
+                "video": false,
+                "id": "b147741f-5a0c-4e2b-85d2-923151040c77",
+                "disambiguation": "",
+                "title": "Where Did They Go, Lord (takes 2 & 3)"
+              },
+              "id": "b702ffcf-8c79-4e05-846c-8d6f2ed8e9a9"
+            },
+            {
+              "number": "13",
+              "position": 13,
+              "length": 383000,
+              "title": "Whole Lotta Shakin’ Goin On (rough mix with horns)",
+              "recording": {
+                "id": "ef52468a-5f6c-4f3d-bf58-c711b5096cce",
+                "title": "Whole Lotta Shakin’ Goin On (rough mix with horns)",
+                "disambiguation": "",
+                "first-release-date": "2008",
+                "length": 383000,
+                "video": false
+              },
+              "id": "d8254bdf-7ecd-4198-b5b5-aa711688cb07"
+            },
+            {
+              "length": 211000,
+              "position": 14,
+              "number": "14",
+              "title": "When I’m Over You",
+              "recording": {
+                "first-release-date": "2008",
+                "length": 211000,
+                "video": false,
+                "id": "f6e8518e-4c92-4ac1-9deb-9ca5132f8189",
+                "title": "When I’m Over You",
+                "disambiguation": ""
+              },
+              "id": "83332be9-83a2-4b4a-a64c-725b8bc41872"
+            },
+            {
+              "recording": {
+                "first-release-date": "2008",
+                "length": 224000,
+                "video": false,
+                "id": "6f6abce5-e479-40c6-90b2-63469755faa4",
+                "disambiguation": "",
+                "title": "The Next Step Is Love"
+              },
+              "id": "2e940723-83d9-473e-a048-c9bfc09ceb0f",
+              "number": "15",
+              "position": 15,
+              "length": 224000,
+              "title": "The Next Step Is Love"
+            },
+            {
+              "recording": {
+                "disambiguation": "",
+                "title": "Love Letters",
+                "id": "d96ad4b8-066b-4a62-8e3f-1807e74b588a",
+                "video": false,
+                "length": 173000,
+                "first-release-date": "2008"
+              },
+              "id": "0c35285e-6e14-4f1e-8771-967ad7873f5f",
+              "length": 173000,
+              "position": 16,
+              "number": "16",
+              "title": "Love Letters"
+            }
+          ],
+          "position": 2,
+          "format": "CD",
+          "title": "The Undubbed June 7 Masters"
+        }
+      ],
+      "packaging-id": null,
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "disambiguation": "",
+      "id": "e3f75da4-f5ac-44f2-91fa-b09500089d2c",
+      "country": "XE",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "XE"
+            ],
+            "type": null,
+            "disambiguation": "",
+            "type-id": null,
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "sort-name": "Europe",
+            "name": "Europe"
+          },
+          "date": "2008"
+        }
+      ],
+      "date": "2008",
+      "cover-art-archive": {
+        "back": true,
+        "darkened": false,
+        "artwork": true,
+        "front": true,
+        "count": 2
+      },
+      "asin": null,
+      "barcode": "8869740723240",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "label-info": [
+        {
+          "label": {
+            "disambiguation": "specializes in Elvis reissues and collectibles",
+            "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+            "id": "61aa2c3d-b883-4a85-97cf-5e0f07196313",
+            "type": "Imprint",
+            "label-code": null,
+            "name": "Follow That Dream Records",
+            "sort-name": "Follow That Dream Records"
+          },
+          "catalog-number": "8869740723-2"
+        },
+        {
+          "label": {
+            "sort-name": "RCA",
+            "name": "RCA",
+            "label-code": 316,
+            "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
+            "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+            "disambiguation": "RCA Records: simple ‘RCA’ or ‘RCA’ with lightning bolt in circle",
+            "type": "Imprint"
+          },
+          "catalog-number": "8869740723-2"
+        },
+        {
+          "label": {
+            "name": "Sony BMG Music Entertainment",
+            "sort-name": "Sony BMG Music Entertainment",
+            "label-code": 13989,
+            "id": "f9ada3ae-3081-44df-8581-ca27a3462b68",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "disambiguation": "Aug 5, 2004 – Oct 1, 2008",
+            "type": "Original Production"
+          },
+          "catalog-number": "8869740723-2"
+        }
+      ]
+    },
+    {
+      "packaging": "Cardboard/Paper Sleeve",
+      "status": "Official",
+      "title": "Elvis Country (I’m 10,000 Years Old)",
+      "quality": "normal",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 12,
+          "id": "ba38c6ad-4699-3889-aea5-62b052b75403",
+          "track-offset": 0,
+          "tracks": [
+            {
+              "number": "1",
+              "position": 1,
+              "length": 137000,
+              "title": "Snowbird",
+              "recording": {
+                "disambiguation": "",
+                "title": "Snowbird",
+                "id": "35668a2f-38cd-4780-9181-fce17850309b",
+                "length": 137694,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "cdab0fd2-6555-41a5-bc54-dfde23b86006"
+            },
+            {
+              "title": "Tomorrow Never Comes",
+              "length": 247000,
+              "number": "2",
+              "position": 2,
+              "id": "728c6b85-6ec2-45e3-b7c6-0c6231392864",
+              "recording": {
+                "id": "754a0ad3-f3e0-422f-8edf-89ceb4df818a",
+                "disambiguation": "",
+                "title": "Tomorrow Never Comes",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 247000
+              }
+            },
+            {
+              "id": "dec07449-4c76-40fe-b322-a086e2f2d471",
+              "recording": {
+                "id": "b7323142-71d6-4df8-acdb-b29ab5aa5976",
+                "title": "Little Cabin on the Hill",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 118305
+              },
+              "title": "Little Cabin on the Hill",
+              "position": 3,
+              "number": "3",
+              "length": 118000
+            },
+            {
+              "recording": {
+                "id": "1851d4f4-7883-4f42-b12b-115f1830378a",
+                "title": "Whole Lotta Shakin’ Goin’ On",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "length": 189600,
+                "video": false
+              },
+              "id": "91ce3393-32cc-4350-bb96-a1d80ee78de5",
+              "length": 190000,
+              "position": 4,
+              "number": "4",
+              "title": "Whole Lot‐Ta Shakin’ Goin’ On"
+            },
+            {
+              "title": "Funny How Time Slips Away",
+              "length": 272000,
+              "position": 5,
+              "number": "5",
+              "id": "fd3f8c55-8e8b-459c-96ba-158d2736c91a",
+              "recording": {
+                "id": "afe63bd5-9f8d-4d49-9489-0374a16806b3",
+                "disambiguation": "",
+                "title": "Funny How Time Slips Away",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 272000
+              }
+            },
+            {
+              "number": "6",
+              "position": 6,
+              "length": 171000,
+              "title": "I Really Don’t Want to Know",
+              "recording": {
+                "disambiguation": "",
+                "title": "I Really Don’t Want to Know",
+                "id": "7622d611-6647-4ad6-9555-10143b2466ac",
+                "video": false,
+                "length": 170000,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "c8843f2b-962f-4fa2-9873-4a0b7e124cb5"
+            },
+            {
+              "length": 190000,
+              "position": 7,
+              "number": "7",
+              "title": "There Goes My Everything",
+              "recording": {
+                "id": "260c4a7c-d00b-4ca0-ac99-486dd5be63e8",
+                "title": "There Goes My Everything",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 189933
+              },
+              "id": "51b022c8-8703-451a-9cf2-f691c844b8a7"
+            },
+            {
+              "recording": {
+                "disambiguation": "",
+                "title": "It’s Your Baby, You Rock It",
+                "id": "4a3bb6e4-7456-471c-9238-47ede6b77773",
+                "video": false,
+                "length": 184000,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "1a4ff306-c9a8-478d-b3af-90ada1646774",
+              "length": 184000,
+              "number": "8",
+              "position": 8,
+              "title": "It’s Your Baby, You Rock It"
+            },
+            {
+              "title": "The Fool",
+              "number": "9",
+              "position": 9,
+              "length": 154000,
+              "id": "683d987d-133b-41b1-8558-451a2ef55d1d",
+              "recording": {
+                "length": 153866,
+                "video": false,
+                "first-release-date": "1971-01-02",
+                "disambiguation": "",
+                "title": "The Fool",
+                "id": "3d07329b-ec84-4eec-9a38-8304d1fd360a"
+              }
+            },
+            {
+              "id": "3a834271-8ec4-4123-8b18-83202924ace2",
+              "recording": {
+                "first-release-date": "1971-01-02",
+                "video": false,
+                "length": 199333,
+                "id": "d97c436a-0e36-4ff7-ac48-75243f4198b8",
+                "disambiguation": "",
+                "title": "Faded Love"
+              },
+              "title": "Faded Love",
+              "length": 199000,
+              "position": 10,
+              "number": "10"
+            },
+            {
+              "recording": {
+                "title": "I Washed My Hands in Muddy Water",
+                "disambiguation": "",
+                "id": "b8a7eeaf-8804-454a-adef-e34fee9c70c3",
+                "length": 236239,
+                "video": false,
+                "first-release-date": "1971-01-02"
+              },
+              "id": "52465f30-29f2-4366-9474-b5e9990293c4",
+              "length": 237000,
+              "number": "11",
+              "position": 11,
+              "title": "I Washed My Hands in Muddy Water"
+            },
+            {
+              "title": "Make the World Go Away",
+              "length": 229000,
+              "position": 12,
+              "number": "12",
+              "id": "e6125515-7809-42d3-84ec-bf739b789f29",
+              "recording": {
+                "id": "b34aa1c1-5248-46f5-b45a-e5e021b340c6",
+                "title": "Make the World Go Away",
+                "disambiguation": "",
+                "first-release-date": "1971-01-02",
+                "length": 230107,
+                "video": false
+              }
+            }
+          ],
+          "position": 1,
+          "format": "CD",
+          "title": ""
+        }
+      ],
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "id": "fa4ba907-20b2-440a-8bfe-474cb60400bd",
+      "text-representation": {
+        "script": "Qaaa",
+        "language": "mul"
+      },
+      "disambiguation": "Remastered",
+      "release-events": [
+        {
+          "date": "2000",
+          "area": {
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "type-id": null,
+            "disambiguation": "",
+            "type": null,
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "sort-name": "Japan",
+            "name": "Japan"
+          }
+        }
+      ],
+      "country": "JP",
+      "date": "2000",
+      "cover-art-archive": {
+        "back": false,
+        "darkened": false,
+        "artwork": true,
+        "count": 1,
+        "front": true
+      },
+      "asin": null,
+      "barcode": "4988017092859",
+      "label-info": [
+        {
+          "catalog-number": "74321-72997-2",
+          "label": {
+            "label-code": null,
+            "name": "BMG Japan",
+            "sort-name": "BMG Japan",
+            "disambiguation": "",
+            "id": "3dd26d3b-7b24-4b84-a957-b43cffb0f1b6",
+            "type-id": "e1db00ba-f002-4edc-bc02-6f48e58e2a2e",
+            "type": "Manufacturer"
+          }
+        },
+        {
+          "label": {
+            "disambiguation": "RCA Records: simple ‘RCA’ or ‘RCA’ with lightning bolt in circle",
+            "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
+            "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+            "type": "Imprint",
+            "label-code": 316,
+            "name": "RCA",
+            "sort-name": "RCA"
+          },
+          "catalog-number": "74321-72997-2"
+        },
+        {
+          "catalog-number": "BVCM-37097",
+          "label": {
+            "label-code": null,
+            "sort-name": "BMG Japan",
+            "name": "BMG Japan",
+            "disambiguation": "",
+            "id": "3dd26d3b-7b24-4b84-a957-b43cffb0f1b6",
+            "type-id": "e1db00ba-f002-4edc-bc02-6f48e58e2a2e",
+            "type": "Manufacturer"
+          }
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    }
+  ],
+  "release-offset": 0,
+  "release-count": 10
+}

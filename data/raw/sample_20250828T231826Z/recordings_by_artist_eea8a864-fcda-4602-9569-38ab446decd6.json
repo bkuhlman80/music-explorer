@@ -1,0 +1,5004 @@
+{
+  "recordings": [
+    {
+      "relations": [
+        {
+          "attribute-values": {},
+          "end": null,
+          "work": {
+            "disambiguation": "",
+            "title": "Zat You, Santa Claus?",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "language": "eng",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "ended": false,
+          "attributes": [],
+          "target-type": "work",
+          "attribute-ids": {},
+          "source-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward",
+          "begin": null,
+          "type": "performance"
+        }
+      ],
+      "title": "’Zat You, Santa Claus?",
+      "video": false,
+      "disambiguation": "",
+      "id": "006781ab-27e1-4d07-8201-2e3e526a7ce5",
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis"
+          }
+        }
+      ],
+      "length": 172253
+    },
+    {
+      "relations": [
+        {
+          "source-credit": "",
+          "attribute-ids": {},
+          "target-type": "work",
+          "attributes": [],
+          "work": {
+            "iswcs": [
+              "T-071.063.907-8"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "language": "eng",
+            "title": "I’ll Be Glad When You’re Dead, You Rascal You",
+            "disambiguation": "",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "id": "3a95a6d1-2b23-3da4-be44-d964ac0be248"
+          },
+          "ended": false,
+          "end": null,
+          "attribute-values": {},
+          "type": "performance",
+          "begin": null,
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": ""
+        }
+      ],
+      "first-release-date": "1975",
+      "length": 175000,
+      "id": "0acbd339-1f47-4f49-8ce0-cdc0ef7a584a",
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          }
+        }
+      ],
+      "video": false,
+      "title": "(I'll Be Glad When You're Dead) You Rascal You",
+      "disambiguation": ""
+    },
+    {
+      "first-release-date": "2020",
+      "relations": [
+        {
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "type": "performance",
+          "begin": null,
+          "ended": false,
+          "work": {
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type": "Song",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "disambiguation": "",
+            "title": "Zat You, Santa Claus?",
+            "language": "eng"
+          },
+          "end": null,
+          "attribute-values": {},
+          "source-credit": "",
+          "target-type": "work",
+          "attribute-ids": {},
+          "attributes": []
+        }
+      ],
+      "id": "0e4cc56a-f6c5-41f4-95eb-4aba4b34e49d",
+      "artist-credit": [
+        {
+          "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "length": 170840,
+      "video": false,
+      "disambiguation": "",
+      "title": "’Zat You Santa Claus"
+    },
+    {
+      "video": false,
+      "title": "(Get Some) Cash for Your Trash",
+      "disambiguation": "",
+      "length": 184000,
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person"
+          }
+        }
+      ],
+      "id": "1429de3f-340e-47ee-a50d-967a5227d970",
+      "relations": [],
+      "first-release-date": "2000"
+    },
+    {
+      "video": false,
+      "disambiguation": "",
+      "title": "'Zat You Santa Claus",
+      "length": null,
+      "id": "161169f0-b66c-466c-a326-d146581912c8",
+      "artist-credit": [
+        {
+          "artist": {
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "relations": [
+        {
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "direction": "forward",
+          "begin": null,
+          "type": "performance",
+          "attribute-values": {},
+          "end": null,
+          "ended": false,
+          "work": {
+            "language": "eng",
+            "disambiguation": "",
+            "title": "Zat You, Santa Claus?",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "attributes": [],
+          "target-type": "work",
+          "attribute-ids": {},
+          "source-credit": ""
+        }
+      ],
+      "first-release-date": "2009-06-22"
+    },
+    {
+      "artist-credit": [
+        {
+          "artist": {
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "id": "165045dd-0087-4dfb-b7b7-95de16d701b8",
+      "length": 191933,
+      "video": false,
+      "title": "(What Did I Do to Be So) Black and Blue",
+      "disambiguation": "",
+      "first-release-date": "1996",
+      "relations": [
+        {
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "type": "performance",
+          "begin": null,
+          "work": {
+            "iswcs": [
+              "T-071.056.398-6"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "disambiguation": "",
+            "title": "Black and Blue",
+            "language": "eng",
+            "id": "4929a4c7-e8a9-33bc-b1bf-17fd825db9f8"
+          },
+          "ended": false,
+          "attribute-values": {},
+          "end": null,
+          "source-credit": "",
+          "target-type": "work",
+          "attribute-ids": {},
+          "attributes": []
+        }
+      ]
+    },
+    {
+      "length": 279000,
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          }
+        }
+      ],
+      "id": "188fbe97-9dfe-4342-974c-d51d1b999466",
+      "video": false,
+      "title": "(What Did I Do to Be So) Black and Blue",
+      "disambiguation": "",
+      "relations": [
+        {
+          "type": "performance",
+          "begin": null,
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "source-credit": "",
+          "target-type": "work",
+          "attribute-ids": {},
+          "attributes": [],
+          "work": {
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-071.056.398-6"
+            ],
+            "id": "4929a4c7-e8a9-33bc-b1bf-17fd825db9f8",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "disambiguation": "",
+            "title": "Black and Blue",
+            "language": "eng"
+          },
+          "ended": false,
+          "end": null,
+          "attribute-values": {}
+        }
+      ],
+      "first-release-date": "2003-01-13"
+    },
+    {
+      "relations": [
+        {
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "type": "performance",
+          "begin": null,
+          "ended": false,
+          "work": {
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "language": "eng",
+            "title": "Zat You, Santa Claus?",
+            "disambiguation": "",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59"
+          },
+          "end": null,
+          "attribute-values": {},
+          "source-credit": "",
+          "target-type": "work",
+          "attribute-ids": {},
+          "attributes": []
+        }
+      ],
+      "first-release-date": "2013-12-20",
+      "length": 165000,
+      "id": "191a2808-cb95-4537-9cf3-01b41a97da29",
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          }
+        }
+      ],
+      "disambiguation": "",
+      "video": false,
+      "title": "’Zat You Santa Clause"
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "title": "(Up a) Lazy River",
+      "id": "1b524e86-e4e7-492a-83e1-fa8e22a1eb63",
+      "artist-credit": [
+        {
+          "artist": {
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": ""
+        }
+      ],
+      "length": 229960,
+      "first-release-date": "1994",
+      "relations": []
+    },
+    {
+      "relations": [
+        {
+          "source-credit": "",
+          "target-type": "work",
+          "attributes": [],
+          "attribute-ids": {},
+          "work": {
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "title": "Zat You, Santa Claus?",
+            "disambiguation": "",
+            "language": "eng",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "ended": false,
+          "attribute-values": {},
+          "end": null,
+          "type": "performance",
+          "begin": null,
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": ""
+        }
+      ],
+      "first-release-date": "2010",
+      "video": false,
+      "disambiguation": "",
+      "title": "’Zat You, Santa Claus?",
+      "length": 168000,
+      "id": "1cacda23-6589-4be7-8a43-671632b63158",
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Louis Armstrong",
+          "artist": {
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6"
+          }
+        },
+        {
+          "artist": {
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "sort-name": "Commanders, The",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "country": "US",
+            "type": "Group",
+            "name": "The Commanders",
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong"
+          },
+          "joinphrase": "",
+          "name": "The Commanders"
+        }
+      ]
+    },
+    {
+      "relations": [
+        {
+          "target-type": "work",
+          "attributes": [
+            "cover"
+          ],
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          },
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "work": {
+            "type-id": null,
+            "iswcs": [
+              "T-070.023.587-5",
+              "T-900.305.892-2",
+              "T-900.305.893-3"
+            ],
+            "type": null,
+            "id": "69554705-1549-3f80-9955-a838bb94ab08",
+            "attributes": [],
+            "languages": [
+              "zxx"
+            ],
+            "title": "“C” Jam Blues",
+            "disambiguation": "",
+            "language": "zxx"
+          },
+          "ended": false,
+          "begin": null,
+          "type": "performance",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward"
+        }
+      ],
+      "title": "\"C\" Jam Blues",
+      "video": false,
+      "disambiguation": "",
+      "id": "1e7bb491-e5bf-410f-8021-484d91873f0f",
+      "artist-credit": [
+        {
+          "artist": {
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "length": 318706
+    },
+    {
+      "relations": [
+        {
+          "source-credit": "",
+          "attributes": [
+            "cover"
+          ],
+          "target-type": "work",
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          },
+          "ended": false,
+          "work": {
+            "id": "3a95a6d1-2b23-3da4-be44-d964ac0be248",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "title": "I’ll Be Glad When You’re Dead, You Rascal You",
+            "disambiguation": "",
+            "language": "eng",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "iswcs": [
+              "T-071.063.907-8"
+            ],
+            "type": "Song"
+          },
+          "end": null,
+          "attribute-values": {},
+          "type": "performance",
+          "begin": null,
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0"
+        }
+      ],
+      "first-release-date": "1993",
+      "disambiguation": "",
+      "video": false,
+      "title": "(I'll Be Glad When You're Dead) You Rascal, You",
+      "length": 181000,
+      "id": "1ebca586-2177-4e59-8bb3-2e336caa087c",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          }
+        }
+      ]
+    },
+    {
+      "first-release-date": "2024-07-18",
+      "relations": [],
+      "video": false,
+      "disambiguation": "",
+      "title": "(I’ll Be Glad When You’re Dead) You Rascal You (single version)",
+      "artist-credit": [
+        {
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": " & "
+        },
+        {
+          "artist": {
+            "name": "Louis Jordan and His Tympany Five",
+            "disambiguation": "",
+            "type": "Group",
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "sort-name": "Jordan, Louis and His Tympany Five",
+            "id": "e2be7eac-60a0-4c43-bead-0e74619cba4f"
+          },
+          "joinphrase": "",
+          "name": "Louis Jordan & His Tympany Five"
+        }
+      ],
+      "id": "1efe163d-9f8a-436f-8b71-37b050648af7",
+      "length": 186000
+    },
+    {
+      "relations": [
+        {
+          "type": "performance",
+          "begin": null,
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "source-credit": "",
+          "target-type": "work",
+          "attribute-ids": {},
+          "attributes": [],
+          "work": {
+            "language": "eng",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "disambiguation": "",
+            "title": "Zat You, Santa Claus?",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "ended": false,
+          "attribute-values": {},
+          "end": null
+        }
+      ],
+      "first-release-date": "2010-12-23",
+      "video": false,
+      "title": "’Zat You, Santa Claus?",
+      "disambiguation": "",
+      "length": 162000,
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": " & ",
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          }
+        },
+        {
+          "artist": {
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong",
+            "name": "The Commanders",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "country": "US",
+            "sort-name": "Commanders, The",
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62"
+          },
+          "joinphrase": "",
+          "name": "The Commanders"
+        }
+      ],
+      "id": "1f02670f-486d-486f-becb-da89a583ec8e"
+    },
+    {
+      "relations": [],
+      "first-release-date": "2019-10-25",
+      "video": false,
+      "disambiguation": "",
+      "title": "'Zat You, Santa Claus?",
+      "length": 161000,
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "id": "2161f69c-4f63-48bb-a683-e840c732eb8d"
+    },
+    {
+      "relations": [
+        {
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "type": "performance",
+          "begin": null,
+          "ended": false,
+          "work": {
+            "id": "12807a92-55f5-442e-8d0b-6a26e54afd30",
+            "attributes": [],
+            "languages": [],
+            "title": "\"If You Ever Been Down\" Blues",
+            "disambiguation": "",
+            "language": null,
+            "type-id": null,
+            "iswcs": [],
+            "type": null
+          },
+          "attribute-values": {},
+          "end": null,
+          "source-credit": "",
+          "target-type": "work",
+          "attributes": [],
+          "attribute-ids": {}
+        }
+      ],
+      "first-release-date": "1995",
+      "video": false,
+      "disambiguation": "",
+      "title": "\"If You Ever Been Down\" Blues",
+      "length": 183000,
+      "id": "22aee3c3-c9b1-4c02-8165-eafae3e3188b",
+      "artist-credit": [
+        {
+          "name": "Sippie Wallace",
+          "joinphrase": ", ",
+          "artist": {
+            "disambiguation": "",
+            "name": "Sippie Wallace",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Wallace, Sippie",
+            "id": "ac4c191a-92cf-4def-9a48-8635429edb96"
+          }
+        },
+        {
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person"
+          },
+          "joinphrase": ", ",
+          "name": "Louis Armstrong"
+        },
+        {
+          "name": "Artie Starks",
+          "joinphrase": "",
+          "artist": {
+            "sort-name": "Starks, Artie",
+            "id": "2f7045a6-cc56-4eb0-8cfe-c0cb43da7691",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Artie Starks"
+          }
+        }
+      ]
+    },
+    {
+      "relations": [],
+      "first-release-date": "1951",
+      "length": 159000,
+      "artist-credit": [
+        {
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          },
+          "joinphrase": " And ",
+          "name": "Louis Armstrong"
+        },
+        {
+          "artist": {
+            "id": "86107898-3fdd-495b-b04f-f733781a80c0",
+            "sort-name": "Middleton, Velma",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "type": "Person",
+            "name": "Velma Middleton",
+            "disambiguation": ""
+          },
+          "joinphrase": "",
+          "name": "Velma Middleton"
+        }
+      ],
+      "id": "22e4a551-07bc-4d3b-832f-bf56a038c3ef",
+      "video": false,
+      "disambiguation": "",
+      "title": "(I Wonder Why) You're Just in Love"
+    },
+    {
+      "relations": [],
+      "first-release-date": "1991",
+      "video": false,
+      "title": "'Bout Time (The One and Only Genuine Original Family Band)",
+      "disambiguation": "",
+      "length": 174000,
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "id": "256297e8-7d3f-47b7-8aa2-9dea251d65c8"
+    },
+    {
+      "first-release-date": "2015",
+      "relations": [
+        {
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "type": "performance",
+          "begin": null,
+          "ended": false,
+          "work": {
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type": "Song",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "language": "eng",
+            "title": "Zat You, Santa Claus?",
+            "disambiguation": "",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ]
+          },
+          "attribute-values": {},
+          "end": null,
+          "source-credit": "",
+          "attributes": [],
+          "target-type": "work",
+          "attribute-ids": {}
+        }
+      ],
+      "id": "296cc42f-fd0a-44e7-879f-d918e528bf88",
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Louis Armstrong",
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          }
+        },
+        {
+          "artist": {
+            "type": "Group",
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong",
+            "name": "The Commanders",
+            "sort-name": "Commanders, The",
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "country": "US"
+          },
+          "name": "The Commanders",
+          "joinphrase": ""
+        }
+      ],
+      "length": 177226,
+      "disambiguation": "",
+      "video": false,
+      "title": "’Zat You, Santa Claus?"
+    },
+    {
+      "relations": [
+        {
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "type": "performance",
+          "begin": null,
+          "work": {
+            "id": "3a95a6d1-2b23-3da4-be44-d964ac0be248",
+            "language": "eng",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "disambiguation": "",
+            "title": "I’ll Be Glad When You’re Dead, You Rascal You",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-071.063.907-8"
+            ]
+          },
+          "ended": false,
+          "end": null,
+          "attribute-values": {},
+          "source-credit": "",
+          "attributes": [],
+          "target-type": "work",
+          "attribute-ids": {}
+        }
+      ],
+      "video": false,
+      "disambiguation": "",
+      "title": "(I'll Be Glad When You're Dead) You Rascal You",
+      "length": null,
+      "id": "2a7504ef-9887-43c7-8a19-50c40b1e7366",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": " und ",
+          "artist": {
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          }
+        },
+        {
+          "artist": {
+            "type": "Person",
+            "disambiguation": "US jazz, blues and r&b musician and songwriter",
+            "name": "Louis Jordan",
+            "sort-name": "Jordan, Louis",
+            "id": "b8b30699-7814-4fd1-ab75-6f22f5da0fac",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          },
+          "joinphrase": "",
+          "name": "Louis Jordan"
+        }
+      ]
+    },
+    {
+      "length": 167000,
+      "id": "2c5e01d7-ff01-4024-aa80-dd265003707f",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": " & ",
+          "artist": {
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis"
+          }
+        },
+        {
+          "joinphrase": "",
+          "name": "The Commanders",
+          "artist": {
+            "name": "The Commanders",
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "country": "US",
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "sort-name": "Commanders, The"
+          }
+        }
+      ],
+      "title": "'Zat You, Santa Claus?",
+      "video": false,
+      "disambiguation": "",
+      "relations": [
+        {
+          "target-type": "work",
+          "attributes": [],
+          "attribute-ids": {},
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "ended": false,
+          "work": {
+            "disambiguation": "",
+            "title": "Zat You, Santa Claus?",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "language": "eng",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "begin": null,
+          "type": "performance",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "direction": "forward"
+        }
+      ],
+      "first-release-date": "2008"
+    },
+    {
+      "length": 186493,
+      "id": "2cef55cc-371c-4d0a-983f-feac183ffb7f",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          },
+          "joinphrase": " & ",
+          "name": "Louis Armstrong"
+        },
+        {
+          "name": "Louis Jordan",
+          "joinphrase": "",
+          "artist": {
+            "type": "Person",
+            "name": "Louis Jordan",
+            "disambiguation": "US jazz, blues and r&b musician and songwriter",
+            "sort-name": "Jordan, Louis",
+            "id": "b8b30699-7814-4fd1-ab75-6f22f5da0fac",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          }
+        }
+      ],
+      "video": false,
+      "title": "(I’ll Be Glad When You’re Dead) You Rascal You",
+      "disambiguation": "",
+      "relations": [
+        {
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          },
+          "target-type": "work",
+          "attributes": [
+            "cover"
+          ],
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "work": {
+            "title": "I’ll Be Glad When You’re Dead, You Rascal You",
+            "disambiguation": "",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "language": "eng",
+            "id": "3a95a6d1-2b23-3da4-be44-d964ac0be248",
+            "iswcs": [
+              "T-071.063.907-8"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "ended": false,
+          "begin": null,
+          "type": "performance",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward"
+        }
+      ],
+      "first-release-date": "2008-11-24"
+    },
+    {
+      "title": "(I Wonder Why) You're Just in Love",
+      "video": false,
+      "disambiguation": "",
+      "length": null,
+      "id": "2ea6e0d4-f2be-4cd0-8314-87abb605d039",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          },
+          "joinphrase": " Mit ",
+          "name": "Louis Armstrong"
+        },
+        {
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "86107898-3fdd-495b-b04f-f733781a80c0",
+            "sort-name": "Middleton, Velma",
+            "name": "Velma Middleton",
+            "disambiguation": "",
+            "type": "Person"
+          },
+          "name": "Velma Middleton",
+          "joinphrase": ""
+        }
+      ],
+      "relations": [],
+      "first-release-date": "1951"
+    },
+    {
+      "relations": [],
+      "first-release-date": "2001",
+      "video": false,
+      "disambiguation": "",
+      "title": "(Get Some) Cash for Trash",
+      "length": 185000,
+      "id": "3170edb4-7a77-4e16-897e-b3d3ec375dbd",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          }
+        }
+      ]
+    },
+    {
+      "length": 319000,
+      "id": "36c44e64-cb4c-47a5-86bc-8692576f15b3",
+      "artist-credit": [
+        {
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": ""
+        }
+      ],
+      "title": "“C” Jam Blues",
+      "video": false,
+      "disambiguation": "live",
+      "relations": [
+        {
+          "begin": null,
+          "type": "performance",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward",
+          "target-type": "work",
+          "attributes": [],
+          "attribute-ids": {},
+          "source-credit": "",
+          "end": null,
+          "attribute-values": {},
+          "work": {
+            "language": "zxx",
+            "languages": [
+              "zxx"
+            ],
+            "attributes": [],
+            "title": "“C” Jam Blues",
+            "disambiguation": "",
+            "id": "69554705-1549-3f80-9955-a838bb94ab08",
+            "iswcs": [
+              "T-070.023.587-5",
+              "T-900.305.892-2",
+              "T-900.305.893-3"
+            ],
+            "type": null,
+            "type-id": null
+          },
+          "ended": false
+        }
+      ],
+      "first-release-date": "2001"
+    },
+    {
+      "first-release-date": "2000-03-21",
+      "relations": [
+        {
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "direction": "forward",
+          "begin": "1950-08-23",
+          "type": "performance",
+          "attribute-values": {},
+          "end": "1950-08-23",
+          "ended": true,
+          "work": {
+            "id": "3a95a6d1-2b23-3da4-be44-d964ac0be248",
+            "language": "eng",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "title": "I’ll Be Glad When You’re Dead, You Rascal You",
+            "disambiguation": "",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-071.063.907-8"
+            ]
+          },
+          "attributes": [
+            "cover"
+          ],
+          "target-type": "work",
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          },
+          "source-credit": ""
+        }
+      ],
+      "id": "36ca8a02-3b9d-47ba-ace0-e3eccd1e1a1e",
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          }
+        }
+      ],
+      "length": 186000,
+      "disambiguation": "",
+      "video": false,
+      "title": "(I'll Be Glad When You're Dead) You Rascal You"
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "title": "(Get Some) Cash For Your Trash",
+      "id": "36dcad31-4c96-4b45-86fd-aa4569fe0f03",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis"
+          }
+        }
+      ],
+      "length": 183438,
+      "first-release-date": "2017-08-04",
+      "relations": []
+    },
+    {
+      "first-release-date": "2009-11-13",
+      "relations": [
+        {
+          "attribute-values": {},
+          "end": null,
+          "work": {
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "disambiguation": "",
+            "title": "Zat You, Santa Claus?",
+            "language": "eng",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ]
+          },
+          "ended": false,
+          "target-type": "work",
+          "attribute-ids": {},
+          "attributes": [],
+          "source-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward",
+          "begin": null,
+          "type": "performance"
+        }
+      ],
+      "id": "39a81490-68a9-41ab-9ba2-b3942d5e87e0",
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Louis Armstrong",
+          "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person"
+          }
+        },
+        {
+          "name": "The Commanders",
+          "joinphrase": "",
+          "artist": {
+            "type": "Group",
+            "name": "The Commanders",
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong",
+            "sort-name": "Commanders, The",
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "country": "US"
+          }
+        }
+      ],
+      "length": 177960,
+      "video": false,
+      "disambiguation": "",
+      "title": "’Zat You, Santa Claus?"
+    },
+    {
+      "length": 187600,
+      "artist-credit": [
+        {
+          "artist": {
+            "name": "Louis Jordan and His Tympany Five",
+            "disambiguation": "",
+            "type": "Group",
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "id": "e2be7eac-60a0-4c43-bead-0e74619cba4f",
+            "sort-name": "Jordan, Louis and His Tympany Five"
+          },
+          "joinphrase": " feat. ",
+          "name": "Louis Jordan and His Tympany Five"
+        },
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          }
+        }
+      ],
+      "id": "3a11a186-3c6d-4c8a-8a2c-58d22befc719",
+      "video": false,
+      "disambiguation": "",
+      "title": "(I’ll Be Glad When You’re Dead) You, Rascal You",
+      "relations": [
+        {
+          "ended": false,
+          "work": {
+            "language": "eng",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "disambiguation": "",
+            "title": "I’ll Be Glad When You’re Dead, You Rascal You",
+            "id": "3a95a6d1-2b23-3da4-be44-d964ac0be248",
+            "iswcs": [
+              "T-071.063.907-8"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "attribute-values": {},
+          "end": null,
+          "source-credit": "",
+          "attributes": [],
+          "target-type": "work",
+          "attribute-ids": {},
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "type": "performance",
+          "begin": null
+        }
+      ],
+      "first-release-date": "1992"
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "title": "'Zat You Santa Claus?",
+      "id": "3a2a10e1-adf4-4b97-83f1-5ee68ffacaac",
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          }
+        }
+      ],
+      "length": 169426,
+      "first-release-date": "2003",
+      "relations": [
+        {
+          "source-credit": "",
+          "target-type": "work",
+          "attribute-ids": {},
+          "attributes": [],
+          "ended": false,
+          "work": {
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "disambiguation": "",
+            "title": "Zat You, Santa Claus?",
+            "language": "eng",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "end": null,
+          "attribute-values": {},
+          "type": "performance",
+          "begin": null,
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0"
+        }
+      ]
+    },
+    {
+      "video": false,
+      "title": "(What Did I Do to Be So) Black and Blue",
+      "disambiguation": "",
+      "length": 255813,
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          }
+        }
+      ],
+      "id": "438ae251-acbf-4637-aeff-c3944b9c4ae6",
+      "relations": [
+        {
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "type": "performance",
+          "begin": null,
+          "work": {
+            "id": "4929a4c7-e8a9-33bc-b1bf-17fd825db9f8",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "title": "Black and Blue",
+            "disambiguation": "",
+            "language": "eng",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-071.056.398-6"
+            ]
+          },
+          "ended": false,
+          "end": null,
+          "attribute-values": {},
+          "source-credit": "",
+          "target-type": "work",
+          "attribute-ids": {},
+          "attributes": []
+        }
+      ],
+      "first-release-date": "2003"
+    },
+    {
+      "video": false,
+      "title": "’Zat You, Santa Claus?",
+      "disambiguation": "",
+      "length": null,
+      "id": "452f6fc8-7a06-4a33-99e3-6ec7b13a946f",
+      "artist-credit": [
+        {
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          },
+          "joinphrase": " and ",
+          "name": "Louis Armstrong"
+        },
+        {
+          "name": "The Commanders",
+          "joinphrase": "",
+          "artist": {
+            "type": "Group",
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong",
+            "name": "The Commanders",
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "sort-name": "Commanders, The",
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          }
+        }
+      ],
+      "relations": [
+        {
+          "type": "performance",
+          "begin": null,
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "source-credit": "",
+          "attribute-ids": {},
+          "target-type": "work",
+          "attributes": [],
+          "ended": false,
+          "work": {
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "language": "eng",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "disambiguation": "",
+            "title": "Zat You, Santa Claus?",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ]
+          },
+          "attribute-values": {},
+          "end": null
+        }
+      ],
+      "first-release-date": "2021-11-19"
+    },
+    {
+      "title": "(I’ll Be Glad When You’re Dead) You Rascal You",
+      "video": false,
+      "disambiguation": "",
+      "length": 185000,
+      "id": "463e438d-f885-487e-b833-7886a9b11ea2",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": " with ",
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person"
+          }
+        },
+        {
+          "artist": {
+            "type": "Person",
+            "disambiguation": "US jazz, blues and r&b musician and songwriter",
+            "name": "Louis Jordan",
+            "sort-name": "Jordan, Louis",
+            "id": "b8b30699-7814-4fd1-ab75-6f22f5da0fac",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          },
+          "joinphrase": "",
+          "name": "Louis Jordan"
+        }
+      ],
+      "relations": [
+        {
+          "end": null,
+          "attribute-values": {},
+          "work": {
+            "type": "Song",
+            "iswcs": [
+              "T-071.063.907-8"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "disambiguation": "",
+            "title": "I’ll Be Glad When You’re Dead, You Rascal You",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "language": "eng",
+            "id": "3a95a6d1-2b23-3da4-be44-d964ac0be248"
+          },
+          "ended": false,
+          "target-type": "work",
+          "attributes": [
+            "cover"
+          ],
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          },
+          "source-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward",
+          "begin": null,
+          "type": "performance"
+        }
+      ],
+      "first-release-date": "2001"
+    },
+    {
+      "video": false,
+      "disambiguation": "",
+      "title": "(Back Home Again in) Indiana",
+      "length": 233000,
+      "id": "49ac34b8-d5f3-48fb-a84e-de0da2d14b02",
+      "artist-credit": [
+        {
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "relations": [],
+      "first-release-date": "2014-09-01"
+    },
+    {
+      "first-release-date": "1968",
+      "relations": [],
+      "disambiguation": "",
+      "video": false,
+      "title": "'Tain't What You Do (It's the Way That Cha Do It)",
+      "id": "4a017928-da2e-4e4f-8fbc-031af692d0e2",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": ""
+        }
+      ],
+      "length": 169000
+    },
+    {
+      "title": "’Zat You, Santa Claus? (single version)",
+      "video": false,
+      "disambiguation": "",
+      "id": "4a53a529-c81a-4b88-b746-60864d1dc606",
+      "artist-credit": [
+        {
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": ""
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": " & "
+        },
+        {
+          "artist": {
+            "type": "Group",
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong",
+            "name": "The Commanders",
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "sort-name": "Commanders, The",
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          },
+          "name": "The Commanders",
+          "joinphrase": ""
+        }
+      ],
+      "length": 160000,
+      "first-release-date": "2017-12-08",
+      "relations": []
+    },
+    {
+      "relations": [],
+      "first-release-date": "2008",
+      "title": "(I've Got) A Heart Full of Rhythm",
+      "video": false,
+      "disambiguation": "radio transcription, 1937-04-30",
+      "length": 128000,
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          }
+        }
+      ],
+      "id": "4b1df8c9-5fc2-4a34-8c0d-2409a00fdd1a"
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "title": "“Pennies From Heaven” Medley: Let’s Call a Heart a Heart / So Do I / The Skeleton in the Closet (alternate take B)",
+      "length": 266520,
+      "artist-credit": [
+        {
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": ""
+        }
+      ],
+      "id": "4c9a406e-ac5c-47c6-a174-38f986e8b1de",
+      "relations": [
+        {
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-type": "work",
+          "source-credit": "",
+          "end": "1936-08-17",
+          "work": {
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "iswcs": [
+              "T-070.095.463-7"
+            ],
+            "type": "Song",
+            "id": "99f6fe0e-5d6c-41bc-8ebd-2aabe78ff758",
+            "language": "eng",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "title": "Let’s Call a Heart a Heart",
+            "disambiguation": ""
+          },
+          "begin": "1936-08-17",
+          "type": "performance",
+          "ordering-key": 1,
+          "direction": "forward",
+          "attribute-ids": {
+            "medley": "37da3398-5d1b-4acb-be25-df95e33e423c"
+          },
+          "attributes": [
+            "medley"
+          ],
+          "attribute-values": {},
+          "ended": true
+        },
+        {
+          "ordering-key": 3,
+          "type": "performance",
+          "begin": "1936-08-17",
+          "direction": "forward",
+          "attribute-ids": {},
+          "attributes": [],
+          "ended": true,
+          "attribute-values": {},
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "source-credit": "",
+          "target-type": "work",
+          "work": {
+            "title": "Skeleton in the Closet",
+            "disambiguation": "",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "language": "eng",
+            "id": "ea8ec415-4f93-4c87-a9c1-0cc7978ce6dd",
+            "iswcs": [
+              "T-070.135.820-4"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "end": "1936-08-17"
+        },
+        {
+          "attributes": [
+            "medley"
+          ],
+          "attribute-ids": {
+            "medley": "37da3398-5d1b-4acb-be25-df95e33e423c"
+          },
+          "attribute-values": {},
+          "ended": true,
+          "begin": "1936-08-17",
+          "type": "performance",
+          "ordering-key": 2,
+          "direction": "forward",
+          "target-type": "work",
+          "source-credit": "",
+          "end": "1936-08-17",
+          "work": {
+            "type": "Song",
+            "iswcs": [
+              "T-070.136.250-6"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "title": "So Do I",
+            "disambiguation": "",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "language": "eng",
+            "id": "bfcea462-00c6-4570-bdb0-cedad02cf0d5"
+          },
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0"
+        }
+      ],
+      "first-release-date": "2009"
+    },
+    {
+      "video": false,
+      "title": "(What Did I Do to Be So) Black and Blue",
+      "disambiguation": "",
+      "length": 256333,
+      "artist-credit": [
+        {
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": ""
+        }
+      ],
+      "id": "5213d6b9-f61d-45f7-a66f-5aa906d9272b",
+      "relations": [
+        {
+          "attributes": [],
+          "target-type": "work",
+          "attribute-ids": {},
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "ended": false,
+          "work": {
+            "type": "Song",
+            "iswcs": [
+              "T-071.056.398-6"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "language": "eng",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "disambiguation": "",
+            "title": "Black and Blue",
+            "id": "4929a4c7-e8a9-33bc-b1bf-17fd825db9f8"
+          },
+          "begin": null,
+          "type": "performance",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "direction": "forward"
+        }
+      ],
+      "first-release-date": "1998-11-10"
+    },
+    {
+      "relations": [
+        {
+          "target-type": "work",
+          "attribute-ids": {},
+          "attributes": [],
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "work": {
+            "title": "Zat You, Santa Claus?",
+            "disambiguation": "",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "language": "eng",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "ended": false,
+          "begin": null,
+          "type": "performance",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward"
+        }
+      ],
+      "first-release-date": "2010",
+      "length": 169280,
+      "artist-credit": [
+        {
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": " & "
+        },
+        {
+          "artist": {
+            "type": "Group",
+            "name": "The Commanders",
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong",
+            "sort-name": "Commanders, The",
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "country": "US"
+          },
+          "joinphrase": "",
+          "name": "The Commanders"
+        }
+      ],
+      "id": "523118cc-36a5-44a8-bfec-111e4984df43",
+      "video": false,
+      "disambiguation": "",
+      "title": "’Zat You, Santa Claus?"
+    },
+    {
+      "id": "534a796e-48a1-4ca2-bfde-4e8ead32ce3d",
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          }
+        }
+      ],
+      "length": 210000,
+      "video": false,
+      "disambiguation": "live, 1947-11-30: Symphony Hall, Boston, MA, USA",
+      "title": "\"C\" Jam Blues",
+      "first-release-date": "1992",
+      "relations": [
+        {
+          "source-credit": "",
+          "attribute-ids": {
+            "live": "70007db6-a8bc-46d7-a770-80e6a0bb551a"
+          },
+          "target-type": "work",
+          "attributes": [
+            "live"
+          ],
+          "work": {
+            "iswcs": [
+              "T-070.023.587-5",
+              "T-900.305.892-2",
+              "T-900.305.893-3"
+            ],
+            "type": null,
+            "type-id": null,
+            "language": "zxx",
+            "attributes": [],
+            "languages": [
+              "zxx"
+            ],
+            "disambiguation": "",
+            "title": "“C” Jam Blues",
+            "id": "69554705-1549-3f80-9955-a838bb94ab08"
+          },
+          "ended": true,
+          "attribute-values": {},
+          "end": "1947-11-30",
+          "type": "performance",
+          "begin": "1947-11-30",
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": ""
+        },
+        {
+          "attribute-ids": {},
+          "target-type": "work",
+          "attributes": [],
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "ended": false,
+          "work": {
+            "type": null,
+            "iswcs": [
+              "T-070.023.587-5",
+              "T-900.305.892-2",
+              "T-900.305.893-3"
+            ],
+            "type-id": null,
+            "languages": [
+              "zxx"
+            ],
+            "attributes": [],
+            "disambiguation": "",
+            "title": "“C” Jam Blues",
+            "language": "zxx",
+            "id": "69554705-1549-3f80-9955-a838bb94ab08"
+          },
+          "begin": null,
+          "type": "performance",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "direction": "forward"
+        }
+      ]
+    },
+    {
+      "relations": [],
+      "first-release-date": "2011-08-23",
+      "video": false,
+      "title": "’S Wonderful",
+      "disambiguation": "",
+      "length": 421706,
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          }
+        }
+      ],
+      "id": "5aa32067-1ce7-434a-88cf-e6b2c848050e"
+    },
+    {
+      "length": 186600,
+      "artist-credit": [
+        {
+          "artist": {
+            "sort-name": "Jordan, Louis and His Tympany Five",
+            "id": "e2be7eac-60a0-4c43-bead-0e74619cba4f",
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "type": "Group",
+            "disambiguation": "",
+            "name": "Louis Jordan and His Tympany Five"
+          },
+          "name": "Louis Jordan and His Tympany Five",
+          "joinphrase": " with "
+        },
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis"
+          }
+        }
+      ],
+      "id": "5b9d161e-8e9a-459a-8a8b-7369488cc6e5",
+      "video": false,
+      "disambiguation": "",
+      "title": "(I'll Be Glad When You're Dead) You Rascal You",
+      "relations": [
+        {
+          "type": "performance",
+          "begin": "1950-08-23",
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "source-credit": "",
+          "attribute-ids": {},
+          "target-type": "work",
+          "attributes": [],
+          "ended": true,
+          "work": {
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "iswcs": [
+              "T-071.063.907-8"
+            ],
+            "type": "Song",
+            "id": "3a95a6d1-2b23-3da4-be44-d964ac0be248",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "disambiguation": "",
+            "title": "I’ll Be Glad When You’re Dead, You Rascal You",
+            "language": "eng"
+          },
+          "attribute-values": {},
+          "end": "1950-08-23"
+        }
+      ],
+      "first-release-date": "1992"
+    },
+    {
+      "relations": [
+        {
+          "attribute-ids": {},
+          "target-type": "work",
+          "attributes": [],
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "ended": false,
+          "work": {
+            "language": "eng",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "title": "Jack‐Armstrong Blues",
+            "disambiguation": "",
+            "id": "8f05da4a-6611-4848-9843-48034bf1a615",
+            "iswcs": [],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "begin": null,
+          "type": "performance",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "direction": "forward"
+        }
+      ],
+      "first-release-date": "1945-03",
+      "length": null,
+      "id": "60504a1e-3c82-4963-a269-d2c6bb7ac6ba",
+      "artist-credit": [
+        {
+          "joinphrase": " featuring ",
+          "name": "V‐DISC All Star Jam Session",
+          "artist": {
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "sort-name": "V‐Disc All Stars, The",
+            "id": "4df36ae9-e472-417d-9af4-01441d55b2c2",
+            "name": "The V‐Disc All Stars",
+            "disambiguation": "catch-all jazz band playing for V-Disc Records during WWII, goes by many names",
+            "type": "Group"
+          }
+        },
+        {
+          "artist": {
+            "name": "Jack Teagarden",
+            "disambiguation": "",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "79dcf09e-2290-4740-9edc-907f82420160",
+            "sort-name": "Teagarden, Jack"
+          },
+          "joinphrase": " and ",
+          "name": "Jack Teagarden"
+        },
+        {
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "title": "“Jack ‐ Armstrong” Blues",
+      "video": false,
+      "disambiguation": "mx. VP 1054"
+    },
+    {
+      "video": false,
+      "title": "\"C\" Jam Blues",
+      "disambiguation": "",
+      "artist-credit": [
+        {
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": ""
+        }
+      ],
+      "id": "63938996-b720-41e0-9289-1a6dc57c23fc",
+      "length": 321000,
+      "first-release-date": "2000",
+      "relations": [
+        {
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward",
+          "begin": null,
+          "type": "performance",
+          "attribute-values": {},
+          "end": null,
+          "work": {
+            "type": null,
+            "iswcs": [
+              "T-070.023.587-5",
+              "T-900.305.892-2",
+              "T-900.305.893-3"
+            ],
+            "type-id": null,
+            "language": "zxx",
+            "title": "“C” Jam Blues",
+            "disambiguation": "",
+            "attributes": [],
+            "languages": [
+              "zxx"
+            ],
+            "id": "69554705-1549-3f80-9955-a838bb94ab08"
+          },
+          "ended": false,
+          "target-type": "work",
+          "attribute-ids": {},
+          "attributes": [],
+          "source-credit": ""
+        }
+      ]
+    },
+    {
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          }
+        }
+      ],
+      "id": "65d7f2a8-acf0-46c0-9794-cf5dbe7d5a09",
+      "length": null,
+      "disambiguation": "",
+      "video": false,
+      "title": "'way Down Younder In New Orleans",
+      "first-release-date": "2003",
+      "relations": [
+        {
+          "begin": null,
+          "type": "performance",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward",
+          "attribute-ids": {},
+          "target-type": "work",
+          "attributes": [],
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "work": {
+            "type": "Song",
+            "iswcs": [
+              "T-070.197.698-8"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "language": "eng",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "title": "’Way Down Yonder in New Orleans",
+            "disambiguation": "",
+            "id": "7de27226-7eaf-46d2-b81c-e9be5ded4958"
+          },
+          "ended": false
+        }
+      ]
+    },
+    {
+      "first-release-date": "1990-09-07",
+      "relations": [],
+      "title": "(Back Home Again In) Indiana",
+      "video": false,
+      "disambiguation": "live, 1957-07-04: Newport Jazz Festival, Newport, RI, USA",
+      "id": "676df28c-8637-469c-b2ff-b30c55e86914",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6"
+          }
+        }
+      ],
+      "length": 275626
+    },
+    {
+      "length": 168840,
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          }
+        }
+      ],
+      "id": "6b6781ae-16c4-40ea-a15f-717cb564c3e7",
+      "disambiguation": "",
+      "video": false,
+      "title": "'Zat You, Santa Claus?",
+      "relations": [
+        {
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward",
+          "begin": null,
+          "type": "performance",
+          "attribute-values": {},
+          "end": null,
+          "work": {
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "language": "eng",
+            "disambiguation": "",
+            "title": "Zat You, Santa Claus?",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type": "Song"
+          },
+          "ended": false,
+          "attributes": [],
+          "target-type": "work",
+          "attribute-ids": {},
+          "source-credit": ""
+        }
+      ],
+      "first-release-date": "2013"
+    },
+    {
+      "title": "'Zat You, Santa Claus",
+      "video": false,
+      "disambiguation": "",
+      "id": "6baa3f26-f9b4-4141-beef-34798902ae1d",
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Louis Armstrong",
+          "artist": {
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          }
+        },
+        {
+          "artist": {
+            "type": "Group",
+            "name": "The Commanders",
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong",
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "sort-name": "Commanders, The",
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          },
+          "joinphrase": "",
+          "name": "The Commanders"
+        }
+      ],
+      "length": 169000,
+      "first-release-date": "2014-09-04",
+      "relations": [
+        {
+          "attribute-ids": {},
+          "target-type": "work",
+          "attributes": [],
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "ended": false,
+          "work": {
+            "language": "eng",
+            "disambiguation": "",
+            "title": "Zat You, Santa Claus?",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "begin": null,
+          "type": "performance",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "direction": "forward"
+        }
+      ]
+    },
+    {
+      "relations": [
+        {
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward",
+          "begin": "1958-10-03",
+          "type": "performance",
+          "attribute-values": {},
+          "end": "1958-10-03",
+          "work": {
+            "id": "291f1eeb-030e-35f4-bd70-9206eb9dc752",
+            "title": "Indiana (Back Home Again in Indiana)",
+            "disambiguation": "",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "language": "eng",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-900.363.111-6"
+            ]
+          },
+          "ended": true,
+          "target-type": "work",
+          "attributes": [
+            "live"
+          ],
+          "attribute-ids": {
+            "live": "70007db6-a8bc-46d7-a770-80e6a0bb551a"
+          },
+          "source-credit": ""
+        }
+      ],
+      "first-release-date": "2007-08-21",
+      "video": false,
+      "disambiguation": "",
+      "title": "(Back Home Again in) Indiana",
+      "length": 230186,
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          }
+        }
+      ],
+      "id": "6c9ef131-ecb9-4f4b-a082-09948dc20e46"
+    },
+    {
+      "relations": [
+        {
+          "begin": null,
+          "type": "performance",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward",
+          "target-type": "work",
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          },
+          "attributes": [
+            "cover"
+          ],
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "work": {
+            "id": "3a95a6d1-2b23-3da4-be44-d964ac0be248",
+            "language": "eng",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "disambiguation": "",
+            "title": "I’ll Be Glad When You’re Dead, You Rascal You",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-071.063.907-8"
+            ]
+          },
+          "ended": false
+        }
+      ],
+      "first-release-date": "2008-06-20",
+      "length": 182000,
+      "id": "7042e130-eafd-4343-a4e0-94cab5776330",
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6"
+          }
+        }
+      ],
+      "disambiguation": "",
+      "video": false,
+      "title": "(I'll Be Glad When You're Dead) You Rascal You"
+    },
+    {
+      "relations": [],
+      "first-release-date": "2000",
+      "length": 334826,
+      "artist-credit": [
+        {
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "id": "7153cf22-c199-4e52-9d30-db89739df13a",
+      "disambiguation": "",
+      "video": false,
+      "title": "'Twas the Night Before Christmas"
+    },
+    {
+      "length": 230000,
+      "id": "73bcdf44-8d55-47fc-b4d1-afd51a8a5dff",
+      "artist-credit": [
+        {
+          "artist": {
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "video": false,
+      "disambiguation": "",
+      "title": "(Back Home Again In) Indiana",
+      "relations": []
+    },
+    {
+      "relations": [
+        {
+          "ended": false,
+          "work": {
+            "type": "Song",
+            "iswcs": [
+              "T-071.056.398-6"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "language": "eng",
+            "title": "Black and Blue",
+            "disambiguation": "",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "id": "4929a4c7-e8a9-33bc-b1bf-17fd825db9f8"
+          },
+          "attribute-values": {},
+          "end": null,
+          "source-credit": "",
+          "attribute-ids": {},
+          "target-type": "work",
+          "attributes": [],
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "type": "performance",
+          "begin": null
+        }
+      ],
+      "video": false,
+      "disambiguation": "",
+      "title": "(What Did I Do To Be So) Black & Blue?",
+      "length": 191000,
+      "id": "745ea921-e05e-4af2-b11c-0e8530dcaf2c",
+      "artist-credit": [
+        {
+          "artist": {
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": ""
+        }
+      ]
+    },
+    {
+      "video": false,
+      "title": "'C' Jam Blues",
+      "disambiguation": "",
+      "artist-credit": [
+        {
+          "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": ""
+        }
+      ],
+      "id": "75eebd2a-7d0f-4aa3-ac4a-5830c63bde1d",
+      "length": 211520,
+      "first-release-date": "2009",
+      "relations": [
+        {
+          "type": "performance",
+          "begin": null,
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "source-credit": "",
+          "target-type": "work",
+          "attributes": [
+            "cover"
+          ],
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          },
+          "ended": false,
+          "work": {
+            "type": null,
+            "iswcs": [
+              "T-070.023.587-5",
+              "T-900.305.892-2",
+              "T-900.305.893-3"
+            ],
+            "type-id": null,
+            "language": "zxx",
+            "disambiguation": "",
+            "title": "“C” Jam Blues",
+            "languages": [
+              "zxx"
+            ],
+            "attributes": [],
+            "id": "69554705-1549-3f80-9955-a838bb94ab08"
+          },
+          "end": null,
+          "attribute-values": {}
+        }
+      ]
+    },
+    {
+      "artist-credit": [
+        {
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": " and "
+        },
+        {
+          "name": "The Commanders",
+          "joinphrase": "",
+          "artist": {
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong",
+            "name": "The Commanders",
+            "type": "Group",
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "sort-name": "Commanders, The"
+          }
+        }
+      ],
+      "id": "76ec8a6e-636a-41e1-b3b7-84412d3d77db",
+      "length": 160000,
+      "video": false,
+      "title": "’Zat You, Santa Claus?",
+      "disambiguation": "",
+      "first-release-date": "1953",
+      "relations": [
+        {
+          "work": {
+            "language": "eng",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "disambiguation": "",
+            "title": "Zat You, Santa Claus?",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "ended": true,
+          "attribute-values": {},
+          "end": "1953-10-22",
+          "source-credit": "",
+          "attribute-ids": {},
+          "target-type": "work",
+          "attributes": [],
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "type": "performance",
+          "begin": "1953-10-22"
+        }
+      ]
+    },
+    {
+      "first-release-date": "2024-12-06",
+      "relations": [],
+      "disambiguation": "",
+      "video": false,
+      "title": "'Zat You, Santa Claus? (single version)",
+      "artist-credit": [
+        {
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          },
+          "joinphrase": " & ",
+          "name": "Louis Armstrong"
+        },
+        {
+          "artist": {
+            "type": "Group",
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong",
+            "name": "The Commanders",
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "sort-name": "Commanders, The",
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          },
+          "name": "The Commanders",
+          "joinphrase": ""
+        }
+      ],
+      "id": "79106023-fee9-4866-8e8e-40226d912bda",
+      "length": 169092
+    },
+    {
+      "relations": [
+        {
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "type": "performance",
+          "begin": null,
+          "work": {
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "title": "Zat You, Santa Claus?",
+            "disambiguation": "",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "language": "eng"
+          },
+          "ended": false,
+          "end": null,
+          "attribute-values": {},
+          "source-credit": "",
+          "target-type": "work",
+          "attribute-ids": {},
+          "attributes": []
+        }
+      ],
+      "first-release-date": "2007",
+      "length": 166000,
+      "id": "7db6c95c-d2dd-4ebe-b36d-74a327657377",
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "disambiguation": "",
+      "video": false,
+      "title": "'Zat You, Santa Claus?"
+    },
+    {
+      "length": 262960,
+      "id": "7de2b683-d9d0-40b4-b0e3-483bd5994e82",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis"
+          }
+        }
+      ],
+      "video": false,
+      "title": "(Back Home In) Indiana",
+      "disambiguation": "",
+      "relations": [],
+      "first-release-date": "1987"
+    },
+    {
+      "relations": [
+        {
+          "target-type": "work",
+          "attributes": [],
+          "attribute-ids": {},
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "work": {
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "language": "eng",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "title": "Zat You, Santa Claus?",
+            "disambiguation": "",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59"
+          },
+          "ended": false,
+          "begin": null,
+          "type": "performance",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward"
+        }
+      ],
+      "first-release-date": "1999",
+      "length": 170826,
+      "id": "7ea1fdbe-ca54-4d5e-b48d-cc9df12a3405",
+      "artist-credit": [
+        {
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": ""
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "video": false,
+      "disambiguation": "",
+      "title": "'Zat You, Santa Clause?"
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "title": "’S Wonderful",
+      "id": "82357a6c-e8d1-4d80-9db2-73e623e6a40d",
+      "artist-credit": [
+        {
+          "artist": {
+            "sort-name": "Fitzgerald, Ella",
+            "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "name": "Ella Fitzgerald",
+            "disambiguation": "American jazz singer"
+          },
+          "joinphrase": " & ",
+          "name": "Ella"
+        },
+        {
+          "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          },
+          "name": "Louis",
+          "joinphrase": ""
+        }
+      ],
+      "length": 209466,
+      "first-release-date": "2015-09-11",
+      "relations": [
+        {
+          "begin": null,
+          "type": "performance",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "direction": "forward",
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          },
+          "target-type": "work",
+          "attributes": [
+            "cover"
+          ],
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "ended": false,
+          "work": {
+            "id": "f583f1d2-a199-3c7b-b8bd-6a61b1d3e0cb",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "title": "’S Wonderful",
+            "disambiguation": "",
+            "language": "eng",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "iswcs": [
+              "T-802.704.407-2"
+            ],
+            "type": "Song"
+          }
+        }
+      ]
+    },
+    {
+      "relations": [
+        {
+          "begin": null,
+          "type": "performance",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "direction": "forward",
+          "attributes": [],
+          "target-type": "work",
+          "attribute-ids": {},
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "ended": false,
+          "work": {
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-071.056.398-6"
+            ],
+            "id": "4929a4c7-e8a9-33bc-b1bf-17fd825db9f8",
+            "language": "eng",
+            "disambiguation": "",
+            "title": "Black and Blue",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1967",
+      "title": "(What Did I Do to Be So) Black and Blue",
+      "video": false,
+      "disambiguation": "",
+      "length": 279866,
+      "id": "82ac43a2-6c94-4790-b501-c7434d1479b7",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis"
+          }
+        }
+      ]
+    },
+    {
+      "first-release-date": "2018-12-06",
+      "relations": [
+        {
+          "begin": null,
+          "type": "performance",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "direction": "forward",
+          "attribute-ids": {},
+          "target-type": "work",
+          "attributes": [],
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "ended": false,
+          "work": {
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "language": "eng",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "title": "Zat You, Santa Claus?",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "video": false,
+      "disambiguation": "",
+      "title": "’Zat You Santa Clause",
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          }
+        }
+      ],
+      "id": "86e52b7b-8b4b-4259-b977-50e831f1f32c",
+      "length": 175000
+    },
+    {
+      "relations": [],
+      "first-release-date": "2024-07-12",
+      "length": 221626,
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6"
+          }
+        }
+      ],
+      "id": "97c0e6bf-4c9c-41aa-b7b6-bdeac999643f",
+      "disambiguation": "",
+      "video": false,
+      "title": "(Back Home Again In) Indiana (Live At The BBC)"
+    },
+    {
+      "relations": [
+        {
+          "attribute-values": {},
+          "end": null,
+          "ended": false,
+          "work": {
+            "disambiguation": "",
+            "title": "I’ll Be Glad When You’re Dead, You Rascal You",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "language": "eng",
+            "id": "3a95a6d1-2b23-3da4-be44-d964ac0be248",
+            "iswcs": [
+              "T-071.063.907-8"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "target-type": "work",
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          },
+          "attributes": [
+            "cover"
+          ],
+          "source-credit": "",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "direction": "forward",
+          "begin": null,
+          "type": "performance"
+        }
+      ],
+      "first-release-date": "1989",
+      "length": 186000,
+      "artist-credit": [
+        {
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person"
+          },
+          "joinphrase": " feat. ",
+          "name": "Louis Armstrong"
+        },
+        {
+          "artist": {
+            "sort-name": "Jordan, Louis",
+            "id": "b8b30699-7814-4fd1-ab75-6f22f5da0fac",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "disambiguation": "US jazz, blues and r&b musician and songwriter",
+            "name": "Louis Jordan"
+          },
+          "name": "Louis Jordan",
+          "joinphrase": ""
+        }
+      ],
+      "id": "9a93adf8-5b6d-42a4-a4a6-67f5681a42e2",
+      "video": false,
+      "disambiguation": "1950-08-23",
+      "title": "(I'll Be Glad When You're Dead) You Rascal You"
+    },
+    {
+      "artist-credit": [
+        {
+          "artist": {
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": ""
+        }
+      ],
+      "id": "9af1e0a8-5d96-4852-8d54-1e80384e6e6b",
+      "length": 260946,
+      "disambiguation": "",
+      "video": false,
+      "title": "(Back Home Again in) Indiana",
+      "relations": [
+        {
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "type": "performance",
+          "begin": null,
+          "work": {
+            "iswcs": [
+              "T-900.363.111-6"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "disambiguation": "",
+            "title": "Indiana (Back Home Again in Indiana)",
+            "language": "eng",
+            "id": "291f1eeb-030e-35f4-bd70-9206eb9dc752"
+          },
+          "ended": false,
+          "attribute-values": {},
+          "end": null,
+          "source-credit": "",
+          "attributes": [
+            "cover"
+          ],
+          "target-type": "work",
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9b40a1ba-fad3-4bcb-8839-44c5c746d50f",
+      "artist-credit": [
+        {
+          "name": "Bing Crosby",
+          "joinphrase": " & ",
+          "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "sort-name": "Crosby, Bing",
+            "id": "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+            "disambiguation": "",
+            "name": "Bing Crosby",
+            "type": "Person"
+          }
+        },
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "length": 183000,
+      "video": false,
+      "disambiguation": "",
+      "title": "’Way Down Yonder in New Orleans",
+      "first-release-date": "1960",
+      "relations": [
+        {
+          "type": "performance",
+          "begin": "1960-06-28",
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "source-credit": "",
+          "target-type": "work",
+          "attributes": [],
+          "attribute-ids": {},
+          "work": {
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "iswcs": [
+              "T-070.197.698-8"
+            ],
+            "type": "Song",
+            "id": "7de27226-7eaf-46d2-b81c-e9be5ded4958",
+            "language": "eng",
+            "title": "’Way Down Yonder in New Orleans",
+            "disambiguation": "",
+            "languages": [
+              "eng"
+            ],
+            "attributes": []
+          },
+          "ended": true,
+          "attribute-values": {},
+          "end": "1960-07-05"
+        }
+      ]
+    },
+    {
+      "first-release-date": "2022",
+      "relations": [
+        {
+          "begin": null,
+          "type": "performance",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward",
+          "target-type": "work",
+          "attribute-ids": {},
+          "attributes": [],
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "work": {
+            "title": "Zat You, Santa Claus?",
+            "disambiguation": "",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "language": "eng",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "ended": false
+        }
+      ],
+      "video": false,
+      "disambiguation": "",
+      "title": "'Zat You, Santa Claus? (single version)",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": ", "
+        },
+        {
+          "name": "The Commanders",
+          "joinphrase": "",
+          "artist": {
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "country": "US",
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "sort-name": "Commanders, The",
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong",
+            "name": "The Commanders",
+            "type": "Group"
+          }
+        }
+      ],
+      "id": "9fc7fee2-7d1c-4788-8be9-c126f189c3f2",
+      "length": 169000
+    },
+    {
+      "first-release-date": "2022-11-11",
+      "relations": [
+        {
+          "source-credit": "",
+          "target-type": "work",
+          "attributes": [],
+          "attribute-ids": {},
+          "work": {
+            "type": "Song",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "disambiguation": "",
+            "title": "Zat You, Santa Claus?",
+            "language": "eng",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59"
+          },
+          "ended": false,
+          "attribute-values": {},
+          "end": null,
+          "type": "performance",
+          "begin": null,
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": ""
+        }
+      ],
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Louis Armstrong",
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          }
+        },
+        {
+          "name": "The Commanders",
+          "joinphrase": "",
+          "artist": {
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "country": "US",
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "sort-name": "Commanders, The",
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong",
+            "name": "The Commanders",
+            "type": "Group"
+          }
+        }
+      ],
+      "id": "9ffdc2fe-0823-4db6-9337-97c619b63410",
+      "length": 169000,
+      "video": false,
+      "title": "'Zat You, Santa Claus? (Single Version)",
+      "disambiguation": "Dolby Atmos Mix"
+    },
+    {
+      "first-release-date": "2000",
+      "relations": [],
+      "video": false,
+      "disambiguation": "",
+      "title": "\"If You Ever Been Down\" Blues",
+      "id": "a0f51984-fd1c-4192-9fc5-8077600e7d6c",
+      "artist-credit": [
+        {
+          "artist": {
+            "sort-name": "Wallace, Sippie",
+            "id": "ac4c191a-92cf-4def-9a48-8635429edb96",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "name": "Sippie Wallace",
+            "disambiguation": ""
+          },
+          "name": "Beulah \"Sippie\" Wallace",
+          "joinphrase": ", "
+        },
+        {
+          "artist": {
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          },
+          "joinphrase": ", ",
+          "name": "Louis Armstrong"
+        },
+        {
+          "joinphrase": "",
+          "name": "Artie Starks",
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Artie Starks",
+            "sort-name": "Starks, Artie",
+            "id": "2f7045a6-cc56-4eb0-8cfe-c0cb43da7691",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          }
+        }
+      ],
+      "length": null
+    },
+    {
+      "length": 161026,
+      "id": "a5f609b0-443c-43f0-b7ec-c730c726f694",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "; ",
+          "artist": {
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          }
+        },
+        {
+          "name": "The Commanders",
+          "joinphrase": "",
+          "artist": {
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "sort-name": "Commanders, The",
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "type": "Group",
+            "name": "The Commanders",
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong"
+          }
+        }
+      ],
+      "title": "'Zat You, Santa Claus? (Single Version)",
+      "video": false,
+      "disambiguation": "",
+      "relations": [],
+      "first-release-date": "2016-01-01"
+    },
+    {
+      "first-release-date": "1968",
+      "relations": [
+        {
+          "work": {
+            "type": null,
+            "iswcs": [],
+            "type-id": null,
+            "language": null,
+            "languages": [],
+            "attributes": [],
+            "title": "'Bout Time",
+            "disambiguation": "",
+            "id": "4cb6ef9f-fba1-3370-9f0a-837ab18a56b8"
+          },
+          "ended": false,
+          "attribute-values": {},
+          "end": null,
+          "source-credit": "",
+          "attribute-ids": {},
+          "target-type": "work",
+          "attributes": [],
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "type": "performance",
+          "begin": null
+        }
+      ],
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          }
+        }
+      ],
+      "id": "a8ebb4fc-0ffe-4722-979d-944e1ae6469d",
+      "length": 173773,
+      "video": false,
+      "disambiguation": "",
+      "title": "’Bout Time"
+    },
+    {
+      "title": "(Get Some) Cash for Your Cash",
+      "video": false,
+      "disambiguation": "",
+      "length": 183560,
+      "id": "a90cfff3-3f9f-4950-8fb7-edcfbe48c2e5",
+      "artist-credit": [
+        {
+          "artist": {
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "relations": [],
+      "first-release-date": "2002"
+    },
+    {
+      "relations": [
+        {
+          "work": {
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "disambiguation": "",
+            "title": "Zat You, Santa Claus?",
+            "language": "eng",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "ended": false,
+          "end": null,
+          "attribute-values": {},
+          "source-credit": "",
+          "attribute-ids": {},
+          "target-type": "work",
+          "attributes": [],
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "type": "performance",
+          "begin": null
+        }
+      ],
+      "title": "'Zat You, Santa Claus?",
+      "video": false,
+      "disambiguation": "",
+      "id": "a956083a-f6cd-4310-8757-6f64c809daef",
+      "artist-credit": [
+        {
+          "artist": {
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "length": 169769
+    },
+    {
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Louis Armstrong",
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": ""
+          }
+        },
+        {
+          "joinphrase": "",
+          "name": "The Commanders",
+          "artist": {
+            "name": "The Commanders",
+            "disambiguation": "big band led by Eddie Grady, 1950s; collaborated with Louis Armstrong",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "country": "US",
+            "id": "16596106-87af-4cf0-a5b8-7791b7057a62",
+            "sort-name": "Commanders, The"
+          }
+        }
+      ],
+      "id": "ac7390bc-94d9-45a7-bb36-7bbc20f46b80",
+      "length": 221773,
+      "video": false,
+      "disambiguation": "",
+      "title": "’Zat You Santa Claus",
+      "first-release-date": "2001-10-01",
+      "relations": [
+        {
+          "attributes": [],
+          "target-type": "work",
+          "attribute-ids": {},
+          "source-credit": "",
+          "attribute-values": {},
+          "end": null,
+          "work": {
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "language": "eng",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "title": "Zat You, Santa Claus?",
+            "disambiguation": "",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type": "Song"
+          },
+          "ended": false,
+          "begin": null,
+          "type": "performance",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward"
+        }
+      ]
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "title": "(Back Home Again In) Indiana (Live)",
+      "length": 257000,
+      "id": "acaaddff-2f9e-487a-9a42-48469d954f74",
+      "artist-credit": [
+        {
+          "artist": {
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "relations": [],
+      "first-release-date": "2025"
+    },
+    {
+      "id": "ae87efaf-b97b-4a6c-8b4f-d7992e74087e",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          }
+        }
+      ],
+      "length": 190000,
+      "title": "(Was I To Blame For) Falling In Love With You",
+      "video": false,
+      "disambiguation": "",
+      "first-release-date": "2000",
+      "relations": [
+        {
+          "type": "performance",
+          "begin": null,
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "source-credit": "",
+          "target-type": "work",
+          "attributes": [],
+          "attribute-ids": {},
+          "ended": false,
+          "work": {
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "disambiguation": "",
+            "title": "(Was I to Blame for) Falling in Love With You",
+            "language": "eng",
+            "id": "c7aa022f-8a05-4f1e-a706-6876942bd53c",
+            "iswcs": [
+              "T-070.197.594-1"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "attribute-values": {},
+          "end": null
+        }
+      ]
+    },
+    {
+      "relations": [
+        {
+          "source-credit": "",
+          "target-type": "work",
+          "attributes": [
+            "cover",
+            "live"
+          ],
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+            "live": "70007db6-a8bc-46d7-a770-80e6a0bb551a"
+          },
+          "ended": false,
+          "work": {
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-900.363.111-6"
+            ],
+            "id": "291f1eeb-030e-35f4-bd70-9206eb9dc752",
+            "language": "eng",
+            "disambiguation": "",
+            "title": "Indiana (Back Home Again in Indiana)",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ]
+          },
+          "end": null,
+          "attribute-values": {},
+          "type": "performance",
+          "begin": null,
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0"
+        }
+      ],
+      "first-release-date": "1986",
+      "length": 286760,
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person"
+          }
+        }
+      ],
+      "id": "af555f8a-0035-4b88-8f6c-b01fd4b52512",
+      "video": false,
+      "title": "(Back Home Again In) Indiana",
+      "disambiguation": "live, 1962-08-01: Chicago, IL, USA"
+    },
+    {
+      "video": false,
+      "disambiguation": "",
+      "title": "(I'll Be Glad When You're Dead) You Rascal You",
+      "length": 186546,
+      "id": "b41b8392-60a4-4424-b09b-eecc3bf1df64",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "; ",
+          "artist": {
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          }
+        },
+        {
+          "artist": {
+            "type": "Group",
+            "disambiguation": "",
+            "name": "Louis Jordan and His Tympany Five",
+            "sort-name": "Jordan, Louis and His Tympany Five",
+            "id": "e2be7eac-60a0-4c43-bead-0e74619cba4f",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "country": "US"
+          },
+          "joinphrase": "",
+          "name": "Louis Jordan & His Tympany Five"
+        }
+      ],
+      "relations": [],
+      "first-release-date": "2016-01-01"
+    },
+    {
+      "first-release-date": "1999",
+      "relations": [],
+      "id": "b702c99e-cff7-4b44-8f19-dc1ce8e5c82c",
+      "artist-credit": [
+        {
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": ""
+        }
+      ],
+      "length": 252000,
+      "disambiguation": "",
+      "video": false,
+      "title": "(Back Home Again In) Indiana"
+    },
+    {
+      "video": false,
+      "disambiguation": "",
+      "title": "(Get Some) Cash for Your Trash",
+      "artist-credit": [
+        {
+          "artist": {
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "id": "b907dab2-6cc9-4f0f-ae89-de627e52ddae",
+      "length": 185733,
+      "first-release-date": "2008-10-15",
+      "relations": []
+    },
+    {
+      "length": 182400,
+      "artist-credit": [
+        {
+          "name": "Bing Crosby",
+          "joinphrase": " & ",
+          "artist": {
+            "disambiguation": "",
+            "name": "Bing Crosby",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "sort-name": "Crosby, Bing",
+            "id": "2437980f-513a-44fc-80f1-b90d9d7fcf8f"
+          }
+        },
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person"
+          }
+        }
+      ],
+      "id": "be12e9d3-b2ba-49a5-a4f4-8db8c3dc8483",
+      "video": false,
+      "title": "'Way Down Yonder In New Orleans",
+      "disambiguation": "",
+      "relations": [
+        {
+          "type": "performance",
+          "begin": null,
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "source-credit": "",
+          "attribute-ids": {},
+          "target-type": "work",
+          "attributes": [],
+          "work": {
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-070.197.698-8"
+            ],
+            "id": "7de27226-7eaf-46d2-b81c-e9be5ded4958",
+            "language": "eng",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "disambiguation": "",
+            "title": "’Way Down Yonder in New Orleans"
+          },
+          "ended": false,
+          "end": null,
+          "attribute-values": {}
+        }
+      ],
+      "first-release-date": "2018"
+    },
+    {
+      "relations": [],
+      "first-release-date": "2015-11",
+      "disambiguation": "",
+      "video": false,
+      "title": "(Back Home Again in) Indiana",
+      "length": 231626,
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "id": "c0ec5f37-b459-466b-a8dc-af57047d6c8e"
+    },
+    {
+      "video": false,
+      "title": "(I’ll Be Glad When You’re Dead) You Rascal You",
+      "disambiguation": "",
+      "id": "c4d63bcd-8703-44fa-b70e-50cac6244999",
+      "artist-credit": [
+        {
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": ""
+          },
+          "joinphrase": " with ",
+          "name": "Louis Armstrong"
+        },
+        {
+          "name": "Louis Jordan and His Tympany Five",
+          "joinphrase": "",
+          "artist": {
+            "name": "Louis Jordan and His Tympany Five",
+            "disambiguation": "",
+            "type": "Group",
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "id": "e2be7eac-60a0-4c43-bead-0e74619cba4f",
+            "sort-name": "Jordan, Louis and His Tympany Five"
+          }
+        }
+      ],
+      "length": 186000,
+      "first-release-date": "2011-08-09",
+      "relations": [
+        {
+          "work": {
+            "title": "I’ll Be Glad When You’re Dead, You Rascal You",
+            "disambiguation": "",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "language": "eng",
+            "id": "3a95a6d1-2b23-3da4-be44-d964ac0be248",
+            "iswcs": [
+              "T-071.063.907-8"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "ended": false,
+          "attribute-values": {},
+          "end": null,
+          "source-credit": "",
+          "target-type": "work",
+          "attributes": [
+            "cover"
+          ],
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          },
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "type": "performance",
+          "begin": null
+        }
+      ]
+    },
+    {
+      "title": "“Reminiscin’ With Louis”",
+      "video": false,
+      "disambiguation": "mx. JB 7468",
+      "length": null,
+      "id": "ca979e86-3e1f-4d78-868b-7ed1d049c598",
+      "artist-credit": [
+        {
+          "joinphrase": " and ",
+          "name": "Louis Armstrong",
+          "artist": {
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          }
+        },
+        {
+          "name": "Art Ford",
+          "joinphrase": "",
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "efa71ea8-1082-4988-8607-a05a376653e8",
+            "sort-name": "Ford, Art",
+            "name": "Art Ford",
+            "disambiguation": "",
+            "type": "Person"
+          }
+        }
+      ],
+      "relations": [],
+      "first-release-date": "1947-07"
+    },
+    {
+      "length": 188000,
+      "id": "cb4aa714-1314-4cf7-a564-29ed88a37177",
+      "artist-credit": [
+        {
+          "artist": {
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": " & "
+        },
+        {
+          "artist": {
+            "sort-name": "Crosby, Bing",
+            "id": "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Bing Crosby"
+          },
+          "name": "Bing Crosby",
+          "joinphrase": ""
+        }
+      ],
+      "disambiguation": "",
+      "video": false,
+      "title": "’Way Down Yonder in New Orleans",
+      "relations": [
+        {
+          "begin": "1960-06-28",
+          "type": "performance",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "direction": "forward",
+          "target-type": "work",
+          "attribute-ids": {},
+          "attributes": [],
+          "source-credit": "",
+          "attribute-values": {},
+          "end": "1960-06-28",
+          "ended": true,
+          "work": {
+            "id": "7de27226-7eaf-46d2-b81c-e9be5ded4958",
+            "title": "’Way Down Yonder in New Orleans",
+            "disambiguation": "",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "language": "eng",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "iswcs": [
+              "T-070.197.698-8"
+            ],
+            "type": "Song"
+          }
+        }
+      ],
+      "first-release-date": "1990"
+    },
+    {
+      "disambiguation": "live, 1956-07-14: Lewisohn Stadium, New York, NY, USA",
+      "video": false,
+      "title": "(Back Home Again in) Indiana",
+      "id": "d1c3ab17-d9eb-4454-afa6-5747f4937d18",
+      "artist-credit": [
+        {
+          "artist": {
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": ""
+        }
+      ],
+      "length": 288826,
+      "first-release-date": "1956",
+      "relations": [
+        {
+          "begin": "1956-07-14",
+          "type": "performance",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward",
+          "target-type": "work",
+          "attributes": [
+            "live"
+          ],
+          "attribute-ids": {
+            "live": "70007db6-a8bc-46d7-a770-80e6a0bb551a"
+          },
+          "source-credit": "",
+          "attribute-values": {},
+          "end": "1956-07-14",
+          "work": {
+            "id": "291f1eeb-030e-35f4-bd70-9206eb9dc752",
+            "language": "eng",
+            "title": "Indiana (Back Home Again in Indiana)",
+            "disambiguation": "",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "iswcs": [
+              "T-900.363.111-6"
+            ],
+            "type": "Song"
+          },
+          "ended": true
+        }
+      ]
+    },
+    {
+      "video": false,
+      "disambiguation": "",
+      "title": "(I’ll Be Glad When You’re Dead) You Rascal You",
+      "artist-credit": [
+        {
+          "artist": {
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "id": "d466dff7-5696-42cc-a26a-f0e6a4046900",
+      "length": null,
+      "first-release-date": "1998",
+      "relations": [
+        {
+          "ended": false,
+          "work": {
+            "language": "eng",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "title": "I’ll Be Glad When You’re Dead, You Rascal You",
+            "disambiguation": "",
+            "id": "3a95a6d1-2b23-3da4-be44-d964ac0be248",
+            "iswcs": [
+              "T-071.063.907-8"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "attribute-values": {},
+          "end": null,
+          "source-credit": "",
+          "attributes": [
+            "cover"
+          ],
+          "target-type": "work",
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          },
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "type": "performance",
+          "begin": null
+        }
+      ]
+    },
+    {
+      "relations": [],
+      "first-release-date": "2000",
+      "video": false,
+      "title": "(Get Some) Cash For Your Trash",
+      "disambiguation": "",
+      "length": 182000,
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6"
+          }
+        }
+      ],
+      "id": "d5a34670-8473-4bdf-8432-92855a5377c9"
+    },
+    {
+      "relations": [],
+      "first-release-date": "2000",
+      "disambiguation": "",
+      "video": false,
+      "title": "(Back Home Again In) Indiana [album version]",
+      "length": 230000,
+      "id": "d616b2db-0c6f-4dc7-bcd4-63efe9411cd2",
+      "artist-credit": [
+        {
+          "artist": {
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis"
+          },
+          "joinphrase": " & ",
+          "name": "Louis Armstrong"
+        },
+        {
+          "artist": {
+            "type": "Person",
+            "disambiguation": "American broadcast journalist",
+            "name": "Edward R. Murrow",
+            "id": "8bf73b5e-a5fa-482f-b301-ffe1c9fd25ea",
+            "sort-name": "Murrow, Edward R.",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          },
+          "name": "Edward R Murrow",
+          "joinphrase": ""
+        }
+      ]
+    },
+    {
+      "relations": [],
+      "first-release-date": "2020-11-27",
+      "title": "'Zat You, Santa Claus? (Single Version)",
+      "video": false,
+      "disambiguation": "",
+      "length": 161000,
+      "id": "dbbcffde-53cf-4dde-9e85-28d4f2051f36",
+      "artist-credit": [
+        {
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Fitzgerald, Ella",
+            "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+            "disambiguation": "American jazz singer",
+            "name": "Ella Fitzgerald",
+            "type": "Person"
+          },
+          "joinphrase": " & ",
+          "name": "Ella Fitzgerald"
+        },
+        {
+          "artist": {
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ]
+    },
+    {
+      "id": "dc535bd3-ef36-4802-9661-2e437e396963",
+      "artist-credit": [
+        {
+          "artist": {
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "length": null,
+      "disambiguation": "",
+      "video": false,
+      "title": "(Was I to Blame for) Falling in Love With You",
+      "relations": []
+    },
+    {
+      "relations": [],
+      "first-release-date": "2002",
+      "disambiguation": "",
+      "video": false,
+      "title": "'way Down Yonder in New Orleans",
+      "length": 321480,
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6"
+          }
+        }
+      ],
+      "id": "e32e1205-26b7-49a5-80ec-83d8156b5927"
+    },
+    {
+      "relations": [
+        {
+          "attribute-values": {},
+          "end": null,
+          "ended": false,
+          "work": {
+            "id": "69554705-1549-3f80-9955-a838bb94ab08",
+            "disambiguation": "",
+            "title": "“C” Jam Blues",
+            "languages": [
+              "zxx"
+            ],
+            "attributes": [],
+            "language": "zxx",
+            "type-id": null,
+            "type": null,
+            "iswcs": [
+              "T-070.023.587-5",
+              "T-900.305.892-2",
+              "T-900.305.893-3"
+            ]
+          },
+          "target-type": "work",
+          "attributes": [],
+          "attribute-ids": {},
+          "source-credit": "",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "direction": "forward",
+          "begin": null,
+          "type": "performance"
+        }
+      ],
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Louis Armstrong",
+          "artist": {
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis"
+          }
+        }
+      ],
+      "id": "e5d3f9fc-30ef-4bcb-a7a6-abfecff295bd",
+      "length": 210146,
+      "title": "\"C\" Jam Blues",
+      "video": false,
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "title": "'Zat You, Santa Clause",
+      "length": 169840,
+      "id": "e72f7d93-b82d-4543-81ad-1f933e3916ce",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": "",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+          }
+        }
+      ],
+      "relations": [],
+      "first-release-date": "2002-10-01"
+    },
+    {
+      "length": 161000,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "type": "Person",
+            "name": "Louis Armstrong",
+            "disambiguation": ""
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "id": "e847e569-0474-44c6-82df-aeec6a627d2b",
+      "disambiguation": "",
+      "video": false,
+      "title": "'Zat You, Santa Claus?",
+      "relations": [],
+      "first-release-date": "2022-01-01"
+    },
+    {
+      "id": "f0d6f65d-030d-4126-885e-c28328c69d90",
+      "artist-credit": [
+        {
+          "artist": {
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6"
+          },
+          "joinphrase": "",
+          "name": "Louis Armstrong"
+        }
+      ],
+      "length": 195000,
+      "disambiguation": "",
+      "video": false,
+      "title": "(I'll Be Glad When You're Dead) You Rascal You",
+      "first-release-date": "1960",
+      "relations": [
+        {
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "type": "performance",
+          "begin": null,
+          "ended": false,
+          "work": {
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-071.063.907-8"
+            ],
+            "id": "3a95a6d1-2b23-3da4-be44-d964ac0be248",
+            "title": "I’ll Be Glad When You’re Dead, You Rascal You",
+            "disambiguation": "",
+            "languages": [
+              "eng"
+            ],
+            "attributes": [],
+            "language": "eng"
+          },
+          "attribute-values": {},
+          "end": null,
+          "source-credit": "",
+          "attributes": [
+            "cover"
+          ],
+          "target-type": "work",
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          }
+        }
+      ]
+    },
+    {
+      "relations": [
+        {
+          "ended": false,
+          "work": {
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "iswcs": [
+              "T-900.363.111-6"
+            ],
+            "type": "Song",
+            "id": "291f1eeb-030e-35f4-bd70-9206eb9dc752",
+            "language": "eng",
+            "disambiguation": "",
+            "title": "Indiana (Back Home Again in Indiana)",
+            "languages": [
+              "eng"
+            ],
+            "attributes": []
+          },
+          "attribute-values": {},
+          "end": null,
+          "source-credit": "",
+          "attributes": [
+            "cover"
+          ],
+          "target-type": "work",
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          },
+          "direction": "forward",
+          "target-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "type": "performance",
+          "begin": null
+        }
+      ],
+      "first-release-date": "1995-09-26",
+      "length": 327600,
+      "artist-credit": [
+        {
+          "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "sort-name": "Armstrong, Louis",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          },
+          "name": "Louis Armstrong",
+          "joinphrase": ""
+        }
+      ],
+      "id": "f35fc5db-47fb-4c7c-adfe-9af9ce68e87e",
+      "video": false,
+      "title": "(Back Home Again in) Indiana",
+      "disambiguation": ""
+    },
+    {
+      "length": 176986,
+      "id": "f834fe71-6684-4c31-9638-54a1728d712a",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "type": "Person",
+            "disambiguation": "",
+            "name": "Louis Armstrong"
+          }
+        }
+      ],
+      "disambiguation": "",
+      "video": false,
+      "title": "'Zat You, Santa Claus? (The Heavy remix)",
+      "relations": [
+        {
+          "work": {
+            "language": "eng",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "title": "Zat You, Santa Claus?",
+            "disambiguation": "",
+            "id": "385c9f81-65d8-392d-8a49-ea824c1c0d59",
+            "iswcs": [
+              "T-070.214.236-6"
+            ],
+            "type": "Song",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6"
+          },
+          "ended": false,
+          "end": null,
+          "attribute-values": {},
+          "source-credit": "",
+          "target-type": "work",
+          "attributes": [],
+          "attribute-ids": {},
+          "direction": "forward",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "type": "performance",
+          "begin": null
+        }
+      ],
+      "first-release-date": "2008-09-23"
+    },
+    {
+      "first-release-date": "1994-05-31",
+      "relations": [
+        {
+          "attribute-values": {},
+          "end": null,
+          "work": {
+            "id": "291f1eeb-030e-35f4-bd70-9206eb9dc752",
+            "attributes": [],
+            "languages": [
+              "eng"
+            ],
+            "title": "Indiana (Back Home Again in Indiana)",
+            "disambiguation": "",
+            "language": "eng",
+            "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+            "type": "Song",
+            "iswcs": [
+              "T-900.363.111-6"
+            ]
+          },
+          "ended": false,
+          "attribute-ids": {
+            "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+          },
+          "target-type": "work",
+          "attributes": [
+            "cover"
+          ],
+          "source-credit": "",
+          "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+          "target-credit": "",
+          "direction": "forward",
+          "begin": null,
+          "type": "performance"
+        }
+      ],
+      "video": false,
+      "title": "(Back Home Again In) Indiana",
+      "disambiguation": "",
+      "artist-credit": [
+        {
+          "name": "Louis Armstrong",
+          "joinphrase": "",
+          "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "sort-name": "Armstrong, Louis",
+            "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+            "disambiguation": "",
+            "name": "Louis Armstrong",
+            "type": "Person"
+          }
+        }
+      ],
+      "id": "fd038d49-80aa-43c5-a974-fb2cf3df6cf4",
+      "length": 237000
+    }
+  ],
+  "recording-offset": 0,
+  "recording-count": 16360
+}

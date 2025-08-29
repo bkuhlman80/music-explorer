@@ -1,0 +1,1497 @@
+{
+  "aliases": [
+    {
+      "begin": null,
+      "locale": "en",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name",
+      "ended": false,
+      "primary": false,
+      "sort-name": "Elvis",
+      "name": "Elvis",
+      "end": null
+    },
+    {
+      "locale": null,
+      "type-id": null,
+      "begin": null,
+      "type": null,
+      "ended": false,
+      "primary": null,
+      "end": null,
+      "sort-name": "Presley, Elvis A.",
+      "name": "Elvis A. Presley"
+    },
+    {
+      "ended": false,
+      "type": "Legal name",
+      "begin": null,
+      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+      "locale": null,
+      "name": "Elvis Aaron Presley",
+      "sort-name": "Presley, Elvis Aaron",
+      "end": null,
+      "primary": null
+    },
+    {
+      "begin": null,
+      "locale": "en",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name",
+      "ended": false,
+      "primary": true,
+      "name": "Elvis Presley",
+      "sort-name": "Presley, Elvis",
+      "end": null
+    },
+    {
+      "end": null,
+      "sort-name": "Presley Elvis",
+      "name": "Presley Elvis",
+      "primary": null,
+      "locale": null,
+      "type-id": null,
+      "begin": null,
+      "type": null,
+      "ended": false
+    },
+    {
+      "primary": null,
+      "end": null,
+      "sort-name": "Priesley",
+      "name": "Priesley",
+      "type": "Search hint",
+      "ended": false,
+      "locale": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "begin": null
+    },
+    {
+      "locale": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "begin": null,
+      "ended": false,
+      "type": "Search hint",
+      "primary": null,
+      "end": null,
+      "sort-name": "The King",
+      "name": "The King"
+    },
+    {
+      "primary": null,
+      "end": null,
+      "name": "The King of Rock and Roll",
+      "sort-name": "The King of Rock and Roll",
+      "ended": false,
+      "type": "Search hint",
+      "locale": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "begin": null
+    },
+    {
+      "ended": false,
+      "type": "Artist name",
+      "begin": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "locale": "uk",
+      "sort-name": "Преслі, Елвіс",
+      "name": "Елвіс Преслі",
+      "end": null,
+      "primary": true
+    },
+    {
+      "primary": true,
+      "end": null,
+      "name": "Элвис Пресли",
+      "sort-name": "Пресли, Элвис",
+      "locale": "ru",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "begin": null,
+      "ended": false,
+      "type": "Artist name"
+    },
+    {
+      "begin": null,
+      "locale": "tg",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "type": "Artist name",
+      "primary": true,
+      "name": "Элвис Пресли",
+      "sort-name": "Пресли, Элвис",
+      "end": null
+    },
+    {
+      "type": "Artist name",
+      "ended": false,
+      "locale": "ar",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "begin": null,
+      "primary": true,
+      "end": null,
+      "name": "إلفيس بريسلي",
+      "sort-name": "بريسلي, إلفيس"
+    },
+    {
+      "primary": true,
+      "end": null,
+      "sort-name": "پرسلی, الویس",
+      "name": "الویس پرسلی",
+      "locale": "fa",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "begin": null,
+      "type": "Artist name",
+      "ended": false
+    },
+    {
+      "begin": null,
+      "locale": "ja",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "type": "Artist name",
+      "sort-name": "エルヴィス・プレスリー",
+      "name": "エルヴィス・プレスリー",
+      "end": null,
+      "primary": true
+    },
+    {
+      "ended": false,
+      "type": "Artist name",
+      "begin": null,
+      "locale": "yue",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "name": "埃爾維斯·皮禮士利",
+      "sort-name": "埃爾維斯·皮禮士利",
+      "end": null
+    }
+  ],
+  "begin-area": {
+    "name": "Tupelo",
+    "sort-name": "Tupelo",
+    "type": null,
+    "disambiguation": "",
+    "id": "157e3c0e-1b68-403d-a515-6e37cb67947b",
+    "type-id": null
+  },
+  "tags": [
+    {
+      "name": "actors",
+      "count": 2
+    },
+    {
+      "name": "aln-sh",
+      "count": 1
+    },
+    {
+      "name": "blue-eyed soul",
+      "count": 4
+    },
+    {
+      "name": "blues",
+      "count": 4
+    },
+    {
+      "name": "christmas music",
+      "count": 2
+    },
+    {
+      "name": "country",
+      "count": 6
+    },
+    {
+      "count": 3,
+      "name": "film soundtrack"
+    },
+    {
+      "count": 4,
+      "name": "gospel"
+    },
+    {
+      "count": 2,
+      "name": "guitarists"
+    },
+    {
+      "count": 6,
+      "name": "pop"
+    },
+    {
+      "name": "pop rock",
+      "count": 2
+    },
+    {
+      "name": "r&b",
+      "count": 2
+    },
+    {
+      "count": 6,
+      "name": "rock"
+    },
+    {
+      "count": 3,
+      "name": "rock & roll"
+    },
+    {
+      "count": 7,
+      "name": "rock and roll"
+    },
+    {
+      "name": "rock musicians",
+      "count": 2
+    },
+    {
+      "name": "rock n roll",
+      "count": 1
+    },
+    {
+      "name": "rock-and-roll",
+      "count": 2
+    },
+    {
+      "name": "rockabilly",
+      "count": 9
+    },
+    {
+      "count": 2,
+      "name": "singers"
+    },
+    {
+      "count": 2,
+      "name": "soul"
+    }
+  ],
+  "name": "Elvis Presley",
+  "sort-name": "Presley, Elvis",
+  "end-area": {
+    "name": "Memphis",
+    "sort-name": "Memphis",
+    "type": null,
+    "disambiguation": "",
+    "type-id": null,
+    "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a"
+  },
+  "isnis": [
+    "0000000121241960",
+    "0000000368638871"
+  ],
+  "area": {
+    "sort-name": "United States",
+    "name": "United States",
+    "disambiguation": "",
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "type-id": null,
+    "type": null,
+    "iso-3166-1-codes": [
+      "US"
+    ]
+  },
+  "life-span": {
+    "begin": "1935-01-08",
+    "end": "1977-08-16",
+    "ended": true
+  },
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "genres": [
+    {
+      "count": 4,
+      "id": "650bda08-20ca-4012-b873-3b68c5768bdf",
+      "disambiguation": "",
+      "name": "blue-eyed soul"
+    },
+    {
+      "name": "blues",
+      "disambiguation": "",
+      "count": 4,
+      "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2"
+    },
+    {
+      "name": "christmas music",
+      "disambiguation": "",
+      "count": 2,
+      "id": "31aee5bc-c1e8-43d7-a7bc-902df802ccbb"
+    },
+    {
+      "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+      "count": 6,
+      "disambiguation": "",
+      "name": "country"
+    },
+    {
+      "name": "gospel",
+      "id": "08289b42-7e41-4987-9263-c28bb4c59da0",
+      "count": 4,
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "count": 6,
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop"
+    },
+    {
+      "name": "pop rock",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "count": 2,
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "count": 2,
+      "id": "31be54b2-4d0c-42df-aa44-c496c7b4c3c3",
+      "name": "r&b"
+    },
+    {
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "count": 6,
+      "disambiguation": "",
+      "name": "rock"
+    },
+    {
+      "disambiguation": "",
+      "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+      "count": 7,
+      "name": "rock and roll"
+    },
+    {
+      "disambiguation": "",
+      "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+      "count": 9,
+      "name": "rockabilly"
+    },
+    {
+      "name": "soul",
+      "id": "1b5e7b16-336b-473e-a364-5120413a9827",
+      "count": 2,
+      "disambiguation": ""
+    }
+  ],
+  "relations": [
+    {
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000180228",
+        "id": "5986e704-6641-42f4-8644-dfe13de865bf"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-type": "url",
+      "source-credit": "",
+      "type": "allmusic",
+      "attributes": [],
+      "ended": false
+    },
+    {
+      "url": {
+        "id": "0b0a65b9-7a0c-47c3-a899-e20fe8d17233",
+        "resource": "https://www.bandsintown.com/a/1234"
+      },
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "begin": null,
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "target-type": "url",
+      "attributes": [],
+      "type": "bandsintown",
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/01809552-4f87-45b0-afff-2c6f0730a3be",
+        "id": "bdea9bf5-70ed-46aa-a6f3-22433fcc5eec"
+      },
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-credit": "",
+      "end": "2020-11-19",
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "target-type": "url",
+      "attributes": [],
+      "type": "BBC Music page",
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://personal.readysoft.es/ribes/elvis/elvis.htm",
+        "id": "d9d32a1f-5dd0-4cb7-b2e7-5abe287a8e91"
+      },
+      "attribute-values": {},
+      "type": "discography page",
+      "attributes": [],
+      "ended": false,
+      "begin": null,
+      "target-type": "url",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "type": "discography page",
+      "ended": false,
+      "begin": null,
+      "target-type": "url",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.elvisrecords.com/",
+        "id": "8da78391-d652-4c04-8ce8-8b4ca910f36d"
+      },
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "c6b7d346-c037-4ff6-b233-2b74620dd960",
+        "resource": "http://www.sergent.com.au/elvis/Menu.html"
+      },
+      "attributes": [],
+      "type": "discography page",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "target-type": "url",
+      "begin": null
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "id": "d1eb80db-a775-42b8-aeec-1ace243ff60d",
+        "resource": "https://www.discogs.com/artist/27518"
+      },
+      "attributes": [],
+      "type": "discogs",
+      "ended": false,
+      "target-type": "url",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.elvisnews.com/",
+        "id": "7438a548-69e2-40ad-8609-35d6789cce66"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "target-type": "url",
+      "begin": null,
+      "type": "fanpage",
+      "attributes": [],
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "type": "free streaming",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE",
+        "id": "16f9201a-6912-4779-98ee-2fee9079bea8"
+      },
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "type": "free streaming",
+      "ended": false,
+      "begin": null,
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "5246ea01-aefb-4f41-8c24-817d45c4df8d",
+        "resource": "https://www.deezer.com/artist/1125"
+      },
+      "attribute-values": {}
+    },
+    {
+      "type": "image",
+      "attributes": [],
+      "ended": false,
+      "begin": null,
+      "target-type": "url",
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "id": "1160b623-4ded-4016-b469-c1492e031df2",
+        "resource": "https://commons.wikimedia.org/wiki/File:Elvis_Presley_promoting_Jailhouse_Rock.jpg"
+      },
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "url": {
+        "resource": "https://www.imdb.com/name/nm0000062/",
+        "id": "e3b7e7a5-57d3-4eb2-8418-2fa558bd506a"
+      },
+      "attribute-values": {},
+      "attributes": [],
+      "type": "IMDb",
+      "ended": false,
+      "source-credit": "",
+      "begin": null,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "type": "last.fm",
+      "ended": false,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "id": "7a43ca62-2f1f-4e8a-8c6a-fbe78a55277d",
+        "resource": "https://www.last.fm/music/Elvis+Presley"
+      }
+    },
+    {
+      "source-credit": "",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-type": "url",
+      "begin": null,
+      "ended": false,
+      "attributes": [],
+      "type": "lyrics",
+      "attribute-values": {},
+      "url": {
+        "id": "5532b101-05c2-4d7d-be11-fe7165f4cccf",
+        "resource": "http://muzikum.eu/en/122-3887/elvis-presley/lyrics.html"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "direction": "forward",
+      "target-credit": ""
+    },
+    {
+      "type": "lyrics",
+      "attributes": [],
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "90c37278-8716-4ffd-83df-a6fa13af8196",
+        "resource": "https://genius.com/artists/Elvis-presley"
+      }
+    },
+    {
+      "ended": false,
+      "attributes": [],
+      "type": "lyrics",
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "78fb7a81-fb2c-42b6-bf9f-37eb4b6bfa32",
+        "resource": "https://www.musixmatch.com/artist/Elvis-Presley"
+      }
+    },
+    {
+      "begin": null,
+      "target-type": "url",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "source-credit": "",
+      "attributes": [],
+      "ended": false,
+      "type": "myspace",
+      "url": {
+        "resource": "https://myspace.com/thekingelvis",
+        "id": "fbafa259-d2d3-4a81-8dd4-e59634a037f1"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "resource": "http://www.elvis.com/",
+        "id": "11ee6067-fbc7-4157-bac2-0034a0e4dd8e"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "target-type": "url",
+      "begin": null,
+      "attributes": [],
+      "type": "official homepage",
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "resource": "http://www.elvisthemusic.com/",
+        "id": "bce63a0b-5289-479b-bf6c-3ccb851a2fd5"
+      },
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "attribute-ids": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "type": "official homepage",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "type": "other databases",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "id": "2af61233-f44c-434c-a543-bfe4b7f5e682",
+        "resource": "http://id.loc.gov/authorities/names/n78079487"
+      }
+    },
+    {
+      "attributes": [],
+      "type": "other databases",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "http://musicmoz.org/Bands_and_Artists/P/Presley,_Elvis/",
+        "id": "80d62250-5358-412c-991b-6947c3d867b3"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13898654b",
+        "id": "524a7f27-e223-47af-882a-c2f2f846cc1a"
+      },
+      "ended": false,
+      "attributes": [],
+      "type": "other databases",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "resource": "https://d-nb.info/gnd/118596357",
+        "id": "f5db601e-dad6-409e-97b6-cf48063a41f2"
+      },
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "attribute-ids": {},
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "type": "other databases",
+      "ended": false
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "ended": false,
+      "type": "other databases",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://ibdb.com/person.php?id=84045",
+        "id": "8669fbcf-4d96-41e6-a9d8-0368197b8bdb"
+      },
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "resource": "https://imvdb.com/n/elvis-presley",
+        "id": "0d3aeaa0-fa0f-4c1b-800d-bfdc17b977ac"
+      },
+      "attributes": [],
+      "ended": false,
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "begin": null,
+      "source-credit": ""
+    },
+    {
+      "type": "other databases",
+      "attributes": [],
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://snaccooperative.org/ark:/99166/w6fb512h",
+        "id": "687f8ebd-dae9-4e4d-868b-eb6ae360fb30"
+      },
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "resource": "https://nla.gov.au/nla.party-950844",
+        "id": "cb682fb7-665b-438f-828e-58a43a347db4"
+      },
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "type": "other databases"
+    },
+    {
+      "ended": false,
+      "attributes": [],
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "resource": "https://openlibrary.org/works/OL511786A",
+        "id": "843e0b81-f5a9-4e65-9d70-56f751e4b9be"
+      }
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "type": "other databases",
+      "ended": false,
+      "attribute-values": {},
+      "url": {
+        "id": "50003dfa-3251-4bf4-9c70-f7beca577d32",
+        "resource": "http://soundtrackcollector.com/composer/3122/"
+      },
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "type": "other databases",
+      "ended": false,
+      "begin": null,
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "id": "e2de799b-493f-492b-bf21-c54a3a7bb539",
+        "resource": "https://rateyourmusic.com/artist/elvis_presley"
+      },
+      "attribute-values": {}
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.45cat.com/artist/elvis-presley",
+        "id": "06392295-c430-4d87-b552-c121b275ffbe"
+      },
+      "type": "other databases",
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.muziekweb.nl/Link/M00000097506/POPULAR/",
+        "id": "e364b41b-d03d-4e8d-a8ee-de44ee957c28"
+      },
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-credit": "",
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Elvis_Presley",
+        "id": "4ba86468-8119-4bdb-a516-91ea5fdfea6e"
+      },
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-ids": {},
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "other databases"
+    },
+    {
+      "ended": false,
+      "attributes": [],
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "id": "bc62b312-5d75-4b3f-91e4-0f644e9b89db",
+        "resource": "https://www.whosampled.com/Elvis-Presley/"
+      }
+    },
+    {
+      "url": {
+        "id": "7ae43669-a403-4036-84b7-e3aa4716fa36",
+        "resource": "http://www.musik-sammler.de/artist/1843"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "source-credit": "",
+      "type": "other databases",
+      "attributes": [],
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "http://www.worldcat.org/wcidentities/lccn-n78-79487",
+        "id": "50a9fad5-a2f3-4ce4-92f5-60ef83f86d00"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "source-credit": "",
+      "attributes": [],
+      "type": "other databases",
+      "ended": false
+    },
+    {
+      "ended": true,
+      "attributes": [],
+      "type": "purchase for download",
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "end": "2020-10-12",
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "28f23018-6466-45c5-9313-a09230d411b5",
+        "resource": "https://play.google.com/store/music/artist?id=Auockoc4x2cefmyvkatvky4fbgm"
+      }
+    },
+    {
+      "url": {
+        "resource": "https://itunes.apple.com/us/artist/id197443",
+        "id": "035c0a75-6597-4254-8204-d01236cd55f2"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "source-credit": "",
+      "attributes": [],
+      "type": "purchase for download",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attributes": [],
+      "type": "purchase for download",
+      "ended": false,
+      "attribute-values": {},
+      "url": {
+        "id": "4e492f5f-4dd0-445a-8123-cecbec861703",
+        "resource": "https://uk.7digital.com/artist/elvis-presley-(2)"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "ended": true,
+      "type": "purchase for download",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "0658fdc7-c28f-4c5d-b51f-cac46b73e4a7",
+        "resource": "https://itunes.apple.com/artist/id197443"
+      },
+      "attribute-values": {}
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "id": "cbbd4a52-92fd-44b7-934b-e8697741d611",
+        "resource": "https://tower.jp/artist/176222"
+      },
+      "attributes": [],
+      "type": "purchase for mail-order",
+      "ended": false,
+      "target-type": "url",
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "begin": null,
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "id": "396e10a5-b40e-4ff7-a05f-fe26091486c2",
+        "resource": "https://secondhandsongs.com/artist/103"
+      },
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "begin": null,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "type": "secondhandsongs"
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "id": "8517b5d0-8e37-4999-a3b1-86423d53aac9",
+        "resource": "https://www.setlist.fm/setlists/elvis-presley-73d6a2b1.html"
+      },
+      "attributes": [],
+      "ended": false,
+      "type": "setlistfm",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-type": "url",
+      "begin": null,
+      "source-credit": ""
+    },
+    {
+      "ended": true,
+      "attributes": [],
+      "type": "social network",
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "end": "2019-04",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://plus.google.com/+elvispresley/posts",
+        "id": "854442d6-3eb6-4d99-9468-77c3c2e2ddd5"
+      },
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "url": {
+        "resource": "https://twitter.com/elvispresley",
+        "id": "432909af-abec-491a-880c-d00140846bfa"
+      },
+      "attribute-values": {},
+      "attributes": [],
+      "ended": false,
+      "type": "social network",
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.facebook.com/elvis",
+        "id": "179ac773-bbd3-4b44-bc22-23e3eb1d0df5"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "ended": false,
+      "attributes": [],
+      "type": "social network"
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.instagram.com/elvis/",
+        "id": "59fe3499-3f54-4947-9bb0-8f52e02d0bba"
+      },
+      "attribute-values": {},
+      "ended": false,
+      "attributes": [],
+      "type": "social network",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "ended": false,
+      "attributes": [],
+      "type": "social network",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.threads.com/@elvis",
+        "id": "eee5bb62-08ac-4862-828f-419cfdb3d2e1"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "direction": "forward",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "attributes": [],
+      "type": "social network",
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-ids": {},
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "id": "96907da8-eeea-4c60-abd2-a1bfe5e68092",
+        "resource": "https://www.tiktok.com/@elvispresley"
+      },
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "type": "songkick",
+      "ended": false,
+      "source-credit": "",
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "target-type": "url",
+      "attribute-ids": {},
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "id": "8160615c-03eb-4099-96e5-50c6cafc1c8f",
+        "resource": "https://www.songkick.com/artists/561119"
+      },
+      "attribute-values": {}
+    },
+    {
+      "begin": null,
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "target-type": "url",
+      "source-credit": "",
+      "attributes": [],
+      "ended": false,
+      "type": "soundcloud",
+      "url": {
+        "resource": "https://soundcloud.com/elvissonymusic",
+        "id": "89493bcf-a2f9-4f0c-806e-214e799771a2"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "type": "streaming",
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "url": {
+        "id": "daf24167-13a2-4c16-8049-a0cf2b9e3958",
+        "resource": "https://music.amazon.com/artists/B001Q5ADBE"
+      },
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/197443",
+        "id": "a4c978db-b3bb-4fdd-8a2d-404b79d9f96b"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "streaming"
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "ended": false,
+      "attributes": [],
+      "type": "streaming",
+      "url": {
+        "resource": "https://music.apple.com/us/artist/197443",
+        "id": "07c9f914-1ade-4992-b79c-1cbdbb4a5e1e"
+      },
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-credit": "",
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "type": "streaming",
+      "url": {
+        "resource": "https://tidal.com/artist/1588",
+        "id": "7b0690d2-a887-4503-a640-14b3192787ed"
+      },
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-credit": "",
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "source-credit": "",
+      "attributes": [],
+      "type": "streaming",
+      "ended": false,
+      "url": {
+        "id": "17d626b1-3a7c-4559-bc7c-d8cb5d0d4adf",
+        "resource": "https://us.napster.com/artist/elvis-presley"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "type": "vgmdb",
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "0af15ab3-c615-46d6-b95b-a5fcd2a92ed9",
+      "attribute-ids": {},
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "url": {
+        "id": "89124459-85f4-4536-8e64-632471b32de0",
+        "resource": "https://vgmdb.net/artist/22555"
+      },
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "resource": "http://viaf.org/viaf/23404836",
+        "id": "14ec189c-c75c-4550-886b-8ff3b99887c6"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "VIAF"
+    },
+    {
+      "attribute-ids": {},
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q303",
+        "id": "8f9ae5e1-bfc0-4658-80d2-6cc1affd986e"
+      },
+      "attribute-values": {},
+      "ended": false,
+      "attributes": [],
+      "type": "wikidata",
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698"
+    },
+    {
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.youtube.com/user/elvis",
+        "id": "602425ed-8d9c-494b-9ce1-57c7cd4671fe"
+      },
+      "attribute-values": {},
+      "attributes": [],
+      "type": "youtube",
+      "ended": false,
+      "begin": null,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "id": "c88e06b4-efff-47fb-82ea-3e32697cd095",
+        "resource": "https://www.youtube.com/user/ElvisPresleyVEVO"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "youtube"
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "resource": "https://music.youtube.com/channel/UChgxarBUCnPJV871-46bJ2g",
+        "id": "7b200238-1d17-420e-b122-58471b00219b"
+      },
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "attribute-ids": {},
+      "target-type": "url",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "ended": false,
+      "type": "youtube music"
+    }
+  ],
+  "gender": "Male",
+  "ipis": [
+    "00056021705",
+    "00056021803",
+    "00058226279"
+  ],
+  "disambiguation": "“The King of Rock and Roll”",
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "id": "01809552-4f87-45b0-afff-2c6f0730a3be",
+  "country": "US",
+  "type": "Person"
+}

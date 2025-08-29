@@ -1,0 +1,89 @@
+{
+  "release-offset": 0,
+  "release-count": 1,
+  "releases": [
+    {
+      "country": "XW",
+      "label-info": [
+        {
+          "catalog-number": null,
+          "label": {
+            "disambiguation": "",
+            "name": "XL Recordings",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "sort-name": "XL Recordings",
+            "id": "14221f01-8939-4ea0-b8f1-b5a21beae80a",
+            "label-code": 5667,
+            "type": "Original Production"
+          }
+        }
+      ],
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "asin": "B0725YJJLS",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "disambiguation": "",
+            "name": "[Worldwide]",
+            "type-id": null,
+            "sort-name": "[Worldwide]"
+          },
+          "date": "2017-06-22"
+        }
+      ],
+      "date": "2017-06-22",
+      "cover-art-archive": {
+        "back": false,
+        "artwork": true,
+        "front": true,
+        "count": 2,
+        "darkened": false
+      },
+      "title": "Man of War",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "barcode": "634904087760",
+      "quality": "normal",
+      "disambiguation": "",
+      "packaging": "None",
+      "status": "Official",
+      "id": "b0d97846-2edb-43d7-9c5a-add06202beca",
+      "media": [
+        {
+          "position": 1,
+          "track-offset": 0,
+          "tracks": [
+            {
+              "position": 1,
+              "length": 269000,
+              "number": "1",
+              "recording": {
+                "title": "Man of War",
+                "id": "e7bf5ae0-dc12-46d2-8f17-39e3545c74a9",
+                "first-release-date": "2017-06-22",
+                "length": 269093,
+                "disambiguation": "",
+                "video": false
+              },
+              "title": "Man of War",
+              "id": "3c809e58-25ba-45b4-8ba7-d481325b19af"
+            }
+          ],
+          "track-count": 1,
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": "",
+          "id": "066d7f1c-0f87-3d15-a821-e13c295937df"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1160 @@
+{
+  "ipis": [
+    "00240089393",
+    "00240089491",
+    "00240089589"
+  ],
+  "begin-area": {
+    "sort-name": "Brooklyn",
+    "type": null,
+    "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+    "type-id": null,
+    "name": "Brooklyn",
+    "disambiguation": ""
+  },
+  "gender": "Male",
+  "area": {
+    "name": "United States",
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "type-id": null,
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "type": null,
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "disambiguation": "US rapper",
+  "name": "JAY‐Z",
+  "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "aliases": [
+    {
+      "ended": false,
+      "sort-name": "Hova",
+      "begin": null,
+      "locale": null,
+      "name": "Hova",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": null,
+      "end": null,
+      "type": "Artist name"
+    },
+    {
+      "end": null,
+      "primary": null,
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "locale": null,
+      "name": "Hova da God",
+      "begin": null,
+      "ended": false,
+      "sort-name": "Hova da God"
+    },
+    {
+      "type": "Artist name",
+      "end": "2017",
+      "primary": null,
+      "name": "JAY Z",
+      "locale": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "begin": "2013",
+      "sort-name": "JAY Z",
+      "ended": true
+    },
+    {
+      "locale": null,
+      "name": "JAY:Z",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": null,
+      "end": "2017",
+      "type": "Artist name",
+      "ended": true,
+      "sort-name": "JAY:Z",
+      "begin": "2017"
+    },
+    {
+      "primary": null,
+      "end": null,
+      "type": null,
+      "type-id": null,
+      "locale": null,
+      "name": "JAY‐Z",
+      "begin": "2017",
+      "ended": false,
+      "sort-name": "JAY‐Z"
+    },
+    {
+      "locale": null,
+      "name": "Jay - Z",
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "end": null,
+      "primary": null,
+      "type": "Search hint",
+      "ended": false,
+      "sort-name": "Jay - Z",
+      "begin": null
+    },
+    {
+      "sort-name": "Jay Z",
+      "ended": false,
+      "begin": null,
+      "name": "Jay Z",
+      "locale": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "type": "Search hint",
+      "primary": null,
+      "end": null
+    },
+    {
+      "begin": null,
+      "ended": false,
+      "sort-name": "Jay-Hova",
+      "end": null,
+      "primary": null,
+      "type": "Artist name",
+      "locale": null,
+      "name": "Jay-Hova",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "ended": false,
+      "sort-name": "Jayz",
+      "begin": null,
+      "locale": null,
+      "name": "Jayz",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": null,
+      "end": null,
+      "type": "Artist name"
+    },
+    {
+      "begin": "1997",
+      "sort-name": "Jay‐Z",
+      "ended": true,
+      "type": "Artist name",
+      "end": "2013",
+      "primary": null,
+      "name": "Jay‐Z",
+      "locale": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "end": "1996",
+      "primary": null,
+      "type": "Artist name",
+      "locale": null,
+      "name": "Jaÿ‐Z",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "begin": "1996",
+      "ended": true,
+      "sort-name": "Jaÿ‐Z"
+    },
+    {
+      "ended": false,
+      "sort-name": "Jigga",
+      "begin": null,
+      "locale": null,
+      "name": "Jigga",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": null,
+      "end": null,
+      "type": "Artist name"
+    },
+    {
+      "type": null,
+      "end": null,
+      "primary": null,
+      "name": "S. Carter",
+      "locale": null,
+      "type-id": null,
+      "begin": null,
+      "sort-name": "Carter, S.",
+      "ended": false
+    },
+    {
+      "type-id": null,
+      "name": "Shawn C Carter",
+      "locale": null,
+      "type": null,
+      "primary": null,
+      "end": null,
+      "sort-name": "Carter, Shawn C",
+      "ended": false,
+      "begin": null
+    },
+    {
+      "locale": null,
+      "name": "Shawn Carter",
+      "type-id": null,
+      "primary": null,
+      "end": null,
+      "type": null,
+      "ended": false,
+      "sort-name": "Carter, Shawn",
+      "begin": null
+    },
+    {
+      "type": "Legal name",
+      "end": null,
+      "primary": false,
+      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+      "name": "Shawn Corey Carter",
+      "locale": "en",
+      "begin": null,
+      "sort-name": "Carter, Shawn Corey",
+      "ended": false
+    },
+    {
+      "begin": null,
+      "ended": false,
+      "sort-name": "Carter, Shawn",
+      "primary": null,
+      "end": null,
+      "type": "Artist name",
+      "locale": null,
+      "name": "jay z",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    }
+  ],
+  "tags": [
+    {
+      "count": 2,
+      "name": "boom bap"
+    },
+    {
+      "name": "chipmunk soul",
+      "count": 1
+    },
+    {
+      "count": 9,
+      "name": "east coast hip hop"
+    },
+    {
+      "name": "grammy winner",
+      "count": 1
+    },
+    {
+      "count": 1,
+      "name": "hardcore hip hop"
+    },
+    {
+      "count": 6,
+      "name": "hip hop"
+    },
+    {
+      "count": 1,
+      "name": "pop"
+    },
+    {
+      "name": "pop rap",
+      "count": 10
+    }
+  ],
+  "sort-name": "Jay‐Z",
+  "genres": [
+    {
+      "id": "d8048b43-9edb-4e1a-aa88-bb91fa847d4a",
+      "name": "boom bap",
+      "disambiguation": "",
+      "count": 2
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "name": "chipmunk soul",
+      "id": "cec1580a-ef3c-4928-b302-58015335c7b0"
+    },
+    {
+      "count": 9,
+      "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+      "disambiguation": "",
+      "name": "east coast hip hop"
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "name": "hardcore hip hop",
+      "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90"
+    },
+    {
+      "count": 6,
+      "disambiguation": "",
+      "name": "hip hop",
+      "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+    },
+    {
+      "count": 1,
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "name": "pop",
+      "disambiguation": ""
+    },
+    {
+      "count": 10,
+      "name": "pop rap",
+      "disambiguation": "",
+      "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237"
+    }
+  ],
+  "type": "Person",
+  "end-area": null,
+  "relations": [
+    {
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "type": "allmusic",
+      "end": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000224257",
+        "id": "a726139b-5c88-4224-81ed-e796642615eb"
+      },
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0001311966",
+        "id": "a3b6a10c-5aa6-49e8-8571-05580432b8d2"
+      },
+      "end": null,
+      "type": "allmusic",
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "Shawn Carter"
+    },
+    {
+      "end": "2020-11-19",
+      "type": "BBC Music page",
+      "url": {
+        "id": "b00d52c8-27c0-4331-8cd4-4542aad4e34b",
+        "resource": "https://www.bbc.co.uk/music/artists/f82bcf78-5b69-4622-a5ef-73800768d9ac"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "target-type": "url",
+      "begin": null,
+      "ended": true,
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "id": "274e3ec3-99aa-46db-9cb2-f5d81d6325e4",
+        "resource": "https://musicriser.com/richest-musician/#-1-Jay-Z"
+      },
+      "attributes": [],
+      "type": "blog",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "target-type": "url",
+      "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f",
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-type": "url",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "type": "discogs",
+      "url": {
+        "id": "257c3842-b803-4bde-9973-6801e08babb8",
+        "resource": "https://www.discogs.com/artist/21742"
+      },
+      "attributes": []
+    },
+    {
+      "end": null,
+      "type": "discogs",
+      "url": {
+        "resource": "https://www.discogs.com/artist/447899",
+        "id": "02b7e948-bfe9-427c-8ac5-bf81d25ea8de"
+      },
+      "attributes": [],
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "Shawn Carter",
+      "ended": false,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "url": {
+        "resource": "https://www.theaudiodb.com/artist/111357",
+        "id": "62a550dd-495d-4161-931d-2e34a4ecd0d7"
+      },
+      "type": "fanpage",
+      "end": null,
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "ended": false,
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": "",
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24"
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "type": "free streaming",
+      "end": null,
+      "attributes": [],
+      "url": {
+        "resource": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
+        "id": "b3ca8b88-24cc-4de4-9200-e8af9cb86d49"
+      }
+    },
+    {
+      "end": null,
+      "type": "free streaming",
+      "url": {
+        "resource": "https://www.deezer.com/artist/1309",
+        "id": "cbe33c0f-687f-4ace-90ad-3becfb8c8ad3"
+      },
+      "attributes": [],
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "url": {
+        "id": "d0a61d3e-93cb-479d-8079-ab5c14a09b41",
+        "resource": "https://commons.wikimedia.org/wiki/File:Jay-Z_@_Shawn_'Jay-Z'_Carter_Foundation_Carnival_(crop_2).jpg"
+      },
+      "end": null,
+      "type": "image",
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": ""
+    },
+    {
+      "type": "IMDb",
+      "end": null,
+      "url": {
+        "id": "37f27ed7-95e5-4250-96c0-886e87aa6113",
+        "resource": "https://www.imdb.com/name/nm0419650/"
+      },
+      "attributes": [],
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": "",
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "id": "4aa97aec-47d5-4d8c-b6f6-388c68797a9b",
+        "resource": "https://www.last.fm/music/Jay-Z"
+      },
+      "attributes": [],
+      "type": "last.fm",
+      "end": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "end": null,
+      "type": "lyrics",
+      "url": {
+        "resource": "https://genius.com/artists/Jay-z",
+        "id": "a76834e2-f02b-4259-9069-c7f8d2fb38f9"
+      },
+      "attributes": []
+    },
+    {
+      "type": "myspace",
+      "end": null,
+      "attributes": [],
+      "url": {
+        "id": "e6b65463-46d7-4437-8cc9-b58f7f598b20",
+        "resource": "https://myspace.com/jayz"
+      },
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": "",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156"
+    },
+    {
+      "type": "official homepage",
+      "end": null,
+      "attributes": [],
+      "url": {
+        "resource": "http://www.jay-z.com/",
+        "id": "dd4ce284-3760-4282-aeb9-809f2d0fc888"
+      },
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "attributes": [],
+      "url": {
+        "id": "bfd46891-c978-4e1e-a486-73d7b7ccba53",
+        "resource": "http://id.loc.gov/authorities/names/n97085822"
+      },
+      "end": null,
+      "type": "other databases"
+    },
+    {
+      "attributes": [],
+      "url": {
+        "id": "4e6ea198-e31a-40b4-8766-3ae8b193169b",
+        "resource": "http://musicmoz.org/Bands_and_Artists/J/Jay-Z/"
+      },
+      "end": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "end": null,
+      "type": "other databases",
+      "url": {
+        "id": "77d273cd-86fc-4613-9656-5086570ce413",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb140030500"
+      },
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {},
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "12fd63fb-1833-45b4-ae93-6338eb6b5105",
+        "resource": "https://d-nb.info/gnd/135065631"
+      },
+      "attributes": [],
+      "end": null,
+      "type": "other databases"
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "end": null,
+      "type": "other databases",
+      "attributes": [],
+      "url": {
+        "id": "0e3cb084-37d2-434e-957c-7c23a43570c4",
+        "resource": "https://imvdb.com/n/jay-z"
+      }
+    },
+    {
+      "attributes": [],
+      "url": {
+        "resource": "http://snaccooperative.org/ark:/99166/w6x38h3t",
+        "id": "54a0c98c-1cfe-4cc8-a8dd-52d07b2ee3ee"
+      },
+      "type": "other databases",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "ended": false,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "url": {
+        "id": "ca78aba7-950d-477f-9cf6-c9abe90f2067",
+        "resource": "https://rateyourmusic.com/artist/jay-z"
+      },
+      "type": "other databases",
+      "end": null
+    },
+    {
+      "attributes": [],
+      "url": {
+        "id": "ccc11c78-12f2-484c-9336-2543ab27fee8",
+        "resource": "https://www.musik-sammler.de/artist/jay-z/"
+      },
+      "end": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "id": "cb14cfb5-2739-4c75-91ce-4b8f1d73c4dd",
+        "resource": "https://www.whosampled.com/Jay-Z/"
+      },
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-n97085822",
+        "id": "46c1017c-7aea-4a78-a083-a9d9689e9f05"
+      },
+      "end": null,
+      "type": "other databases"
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "end": null,
+      "type": "purchase for download",
+      "url": {
+        "id": "f68fc0e0-dc80-4a6e-8ad5-9b2865861ad3",
+        "resource": "https://itunes.apple.com/us/artist/id1352449404"
+      },
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "Jay-Z / Linkin Park",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "type": "purchase for download",
+      "attributes": [],
+      "url": {
+        "id": "0713adc5-5c6c-422a-96bf-d7f56dc85015",
+        "resource": "https://mora.jp/artist/246592/"
+      }
+    },
+    {
+      "type": "purchase for download",
+      "end": null,
+      "url": {
+        "resource": "https://www.beatport.com/artist/jay-z/64129",
+        "id": "32195fbf-be68-4245-b594-83ecf7c3edbf"
+      },
+      "attributes": [],
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "type": "secondhandsongs",
+      "end": null,
+      "attributes": [],
+      "url": {
+        "id": "5d6e83bd-1472-4f88-8a8b-60df2300afaf",
+        "resource": "https://secondhandsongs.com/artist/248"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "type": "setlistfm",
+      "end": null,
+      "attributes": [],
+      "url": {
+        "id": "c7572161-d27a-4427-976f-09809ec3b7f5",
+        "resource": "https://www.setlist.fm/setlists/jayz-2bd69c72.html"
+      }
+    },
+    {
+      "attributes": [],
+      "url": {
+        "id": "84affd89-02eb-4338-b29d-12a46da33396",
+        "resource": "https://plus.google.com/108917439978195869882"
+      },
+      "end": "2019-04",
+      "type": "social network",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "url": {
+        "resource": "https://twitter.com/sc",
+        "id": "9e3e3306-a0cc-445c-8577-ba44c50ec3ac"
+      },
+      "type": "social network",
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "type": "social network",
+      "end": null,
+      "url": {
+        "resource": "https://www.facebook.com/JayZ",
+        "id": "cc1f97b5-b911-422a-b199-9eb4a7d27427"
+      },
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {}
+    },
+    {
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "ended": false,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "url": {
+        "id": "fd0f6138-b0b0-40ed-9651-86d91fedf31a",
+        "resource": "https://www.instagram.com/jayz/"
+      },
+      "attributes": [],
+      "type": "social network",
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "target-type": "url",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "type": "songkick",
+      "url": {
+        "resource": "https://www.songkick.com/artists/173376",
+        "id": "aaeb09af-6080-4596-ae87-3e0d947ce7d3"
+      },
+      "attributes": []
+    },
+    {
+      "url": {
+        "id": "313b81c1-424b-47a6-baa0-eca93c17d435",
+        "resource": "https://soundcloud.com/jay-z-official"
+      },
+      "attributes": [],
+      "type": "soundcloud",
+      "end": null,
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "ended": false,
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": "",
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710"
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "url": {
+        "resource": "https://music.amazon.com/artists/B001Q55UQ2",
+        "id": "0ea6ac62-2f16-4efb-95e5-362e588306cc"
+      },
+      "type": "streaming",
+      "end": null
+    },
+    {
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "ended": false,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attributes": [],
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/1352449404",
+        "id": "4864c83f-261d-4e4d-bafa-3c6fc69a2144"
+      },
+      "type": "streaming",
+      "end": null
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "type": "streaming",
+      "end": null,
+      "url": {
+        "id": "656fa9c5-b27e-4393-8eaa-84bf7de4dc17",
+        "resource": "https://music.apple.com/us/artist/1352449404"
+      },
+      "attributes": []
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "end": null,
+      "type": "streaming",
+      "attributes": [],
+      "url": {
+        "resource": "https://tidal.com/artist/7804",
+        "id": "56cb6a9b-8472-49c2-ba96-ed046a7bbd9a"
+      }
+    },
+    {
+      "attributes": [],
+      "url": {
+        "id": "89bf679d-b6b9-45f4-b123-53140cf4a36b",
+        "resource": "https://us.napster.com/artist/jay-z"
+      },
+      "end": null,
+      "type": "streaming",
+      "begin": null,
+      "target-type": "url",
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {},
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "type-id": "34beaf28-cbdd-4bf7-bc41-e7de18135245",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.ticketmaster.com/artist/781009",
+        "id": "2f24b6c7-0c17-4ab6-bb20-2ee618a6ba31"
+      },
+      "end": null,
+      "type": "ticketing"
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "type-id": "0af15ab3-c615-46d6-b95b-a5fcd2a92ed9",
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "type": "vgmdb",
+      "end": null,
+      "url": {
+        "id": "4bcca5ca-7795-4298-8faa-999dae48f5c3",
+        "resource": "https://vgmdb.net/artist/14384"
+      },
+      "attributes": []
+    },
+    {
+      "type": "VIAF",
+      "end": null,
+      "url": {
+        "id": "70bf5a3e-5f28-46d0-a65e-077bef650a12",
+        "resource": "http://viaf.org/viaf/85637620"
+      },
+      "attributes": [],
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "type": "wikidata",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q62766",
+        "id": "0e11122f-1f32-4e60-bb25-47ed599f618c"
+      },
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-type": "url",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "type": "youtube",
+      "end": null,
+      "url": {
+        "resource": "https://www.youtube.com/user/jayz",
+        "id": "f2a616cb-d6b7-4785-a8ea-60b1813eea89"
+      },
+      "attributes": [],
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "target-type": "url",
+      "begin": null
+    },
+    {
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "url": {
+        "id": "cb41718d-89d0-4931-baa5-6c1116657189",
+        "resource": "https://music.youtube.com/channel/UCbJG1HvzgzaMe_15xfiUyWw"
+      },
+      "type": "youtube music",
+      "end": null
+    }
+  ],
+  "isnis": [
+    "0000000118335528",
+    "0000000368615389"
+  ],
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "life-span": {
+    "begin": "1969-12-04",
+    "end": null,
+    "ended": false
+  }
+}

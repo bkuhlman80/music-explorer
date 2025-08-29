@@ -1,0 +1,4848 @@
+{
+  "release-group-offset": 0,
+  "release-group-count": 1272,
+  "release-groups": [
+    {
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "name": "am pop",
+          "count": 2
+        },
+        {
+          "name": "contemporary pop/rock",
+          "count": 1
+        },
+        {
+          "name": "country",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "country rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        }
+      ],
+      "title": "Elvis Country: I’m 10,000 Years Old",
+      "secondary-types": [],
+      "genres": [
+        {
+          "name": "country",
+          "count": 2,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+          "count": 1,
+          "name": "country rock"
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock"
+        }
+      ],
+      "first-release-date": "1971-01-02",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "01e9f928-9fe4-3153-9404-e6b2b1e95f34",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Our Memories of Elvis, Volume 2",
+      "first-release-date": "1979",
+      "genres": [
+        {
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": ""
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "id": "034d803f-25f6-46fa-887f-de0e7c7e2d28",
+      "disambiguation": ""
+    },
+    {
+      "tags": [
+        {
+          "name": "am pop",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "blue-eyed soul"
+        },
+        {
+          "count": 4,
+          "name": "christmas"
+        },
+        {
+          "name": "christmas music",
+          "count": 2
+        },
+        {
+          "name": "contemporary pop/rock",
+          "count": 1
+        },
+        {
+          "name": "holidays",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 2
+        },
+        {
+          "name": "pop/rock",
+          "count": 1
+        },
+        {
+          "count": 4,
+          "name": "rock"
+        }
+      ],
+      "secondary-types": [],
+      "title": "Elvis Sings the Wonderful World of Christmas",
+      "secondary-type-ids": [],
+      "primary-type": "Album",
+      "id": "07af1498-2709-30f5-80b8-232ce07f605c",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "blue-eyed soul",
+          "disambiguation": "",
+          "count": 1,
+          "id": "650bda08-20ca-4012-b873-3b68c5768bdf"
+        },
+        {
+          "id": "31aee5bc-c1e8-43d7-a7bc-902df802ccbb",
+          "count": 2,
+          "disambiguation": "",
+          "name": "christmas music"
+        },
+        {
+          "count": 2,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 4,
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1971-10-20"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "0cbd184c-39f2-44e3-9733-ba72b62ea564",
+      "genres": [
+        {
+          "name": "ballad",
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "name": "rock and roll",
+          "disambiguation": "",
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57"
+        }
+      ],
+      "first-release-date": "1978",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Elvis Sings For Children And Grownups Too!",
+      "tags": [
+        {
+          "name": "ballad",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "14af63f5-8358-4978-aa85-45a52822acd0",
+      "genres": [],
+      "first-release-date": "1975",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Easy Come, Easy Go",
+      "tags": [],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "disambiguation": "",
+      "id": "15423dcf-0ed0-3e6e-ace1-4fca4b10d4f3",
+      "primary-type": "Album",
+      "first-release-date": "1963-08-11",
+      "genres": [
+        {
+          "name": "ballad",
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop"
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        },
+        {
+          "name": "rock and roll",
+          "disambiguation": "",
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57"
+        },
+        {
+          "count": 1,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "disambiguation": "",
+          "name": "rockabilly"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Elvis’ Golden Records, Volume 3",
+      "tags": [
+        {
+          "name": "ballad",
+          "count": 1
+        },
+        {
+          "name": "early pop/rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "name": "rock & roll",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "name": "rockabilly",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Elvis’ Golden Records",
+      "tags": [
+        {
+          "count": 1,
+          "name": "blue-eyed soul"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "rock & roll"
+        },
+        {
+          "count": 2,
+          "name": "rock and roll"
+        },
+        {
+          "count": 3,
+          "name": "rockabilly"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "blue-eyed soul",
+          "id": "650bda08-20ca-4012-b873-3b68c5768bdf",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "name": "pop",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 2,
+          "disambiguation": "",
+          "name": "rock and roll"
+        },
+        {
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 3,
+          "disambiguation": "",
+          "name": "rockabilly"
+        }
+      ],
+      "first-release-date": "1958-03-21",
+      "disambiguation": "",
+      "id": "15e3760c-1163-359f-a6a9-a998dbb8ac81",
+      "primary-type": "Album"
+    },
+    {
+      "title": "Sings Country and Gospel CD2",
+      "secondary-types": [],
+      "tags": [],
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "id": "16ae8c6c-d12f-41f5-8a2c-294d0f8881ae",
+      "primary-type": null,
+      "primary-type-id": null,
+      "genres": [],
+      "first-release-date": ""
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Burning Love and Hits From His Movies",
+      "tags": [
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock"
+        }
+      ],
+      "first-release-date": "1972-11",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "1d1c653c-d99f-3e55-86c0-8f867328f650"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "1e7df7a0-8ac8-4b47-981f-9f840f3af263",
+      "genres": [
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock"
+        },
+        {
+          "name": "rockabilly",
+          "disambiguation": "",
+          "count": 1,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1"
+        }
+      ],
+      "first-release-date": "1971-10",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "I Got Lucky",
+      "tags": [
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        },
+        {
+          "name": "hip-hop/rap",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        }
+      ],
+      "title": "The Other Sides: Worldwide Gold Award Hits, Volume 2",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "1971-08",
+      "genres": [
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop"
+        },
+        {
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "disambiguation": "",
+          "name": "rock and roll"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "24d102ca-2085-3262-901e-85f99232746b",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [],
+      "title": "His Greatest Hits",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "genres": [],
+      "first-release-date": "1983",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "id": "28b7a89e-0c8a-488c-938f-b7ac0d420f6f",
+      "disambiguation": ""
+    },
+    {
+      "primary-type": "Album",
+      "id": "29181c3c-4878-4fb6-a8fa-b66e11b65056",
+      "disambiguation": "",
+      "first-release-date": "1981",
+      "genres": [
+        {
+          "name": "blues",
+          "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "disambiguation": "",
+          "name": "country"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        },
+        {
+          "name": "rock and roll",
+          "disambiguation": "",
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "tags": [
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "name": "country",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        }
+      ],
+      "title": "Guitar Man",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "The King...Elvis",
+      "tags": [
+        {
+          "name": "country",
+          "count": 1
+        },
+        {
+          "name": "lounge",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "country",
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "id": "de2785b2-f282-4718-a422-37dc93964bdd",
+          "count": 1,
+          "name": "lounge"
+        },
+        {
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1979",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "2985da79-4c6a-405b-a0f7-b63ff3c88cf6"
+    },
+    {
+      "genres": [
+        {
+          "disambiguation": "",
+          "id": "650bda08-20ca-4012-b873-3b68c5768bdf",
+          "count": 1,
+          "name": "blue-eyed soul"
+        },
+        {
+          "name": "country",
+          "count": 4,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "id": "06e51963-e18c-4372-8962-96a0afe5a831",
+          "count": 1,
+          "name": "country soul"
+        },
+        {
+          "disambiguation": "",
+          "count": 3,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "disambiguation": "",
+          "name": "rock and roll"
+        },
+        {
+          "id": "1b5e7b16-336b-473e-a364-5120413a9827",
+          "count": 2,
+          "disambiguation": "",
+          "name": "soul"
+        },
+        {
+          "name": "traditional country",
+          "count": 1,
+          "id": "037150a6-d83b-4307-908a-84201867186d",
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1969-06-17",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "id": "2a753764-89d5-3b72-8dff-8c599f1ea925",
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "title": "From Elvis in Memphis",
+      "secondary-types": [],
+      "tags": [
+        {
+          "name": "am pop",
+          "count": 5
+        },
+        {
+          "count": 1,
+          "name": "blue-eyed soul"
+        },
+        {
+          "count": 1,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "name": "country",
+          "count": 4
+        },
+        {
+          "count": 1,
+          "name": "country soul"
+        },
+        {
+          "name": "pop",
+          "count": 3
+        },
+        {
+          "count": 1,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 2,
+          "name": "rock & roll"
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "count": 2,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "traditional country"
+        }
+      ]
+    },
+    {
+      "disambiguation": "",
+      "id": "2ac479cc-0126-3709-bb55-7028e4c559ef",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "name": "rock",
+          "count": 2,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": ""
+        },
+        {
+          "name": "rock and roll",
+          "disambiguation": "",
+          "count": 3,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57"
+        }
+      ],
+      "first-release-date": "1975",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "The Sun Sessions",
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "rock and roll"
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "disambiguation": "",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "disambiguation": "",
+          "name": "pop rock"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "disambiguation": "",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1,
+          "name": "rock and roll"
+        }
+      ],
+      "first-release-date": "1976",
+      "id": "2b4a9df8-c74b-479b-b0bf-6b6f1e20644a",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rock & roll",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "A Legendary Performer, Volume 2"
+    },
+    {
+      "primary-type": "Album",
+      "id": "2ebeec96-6ef7-3d4d-943c-0b4a2af1d7cc",
+      "disambiguation": "",
+      "genres": [
+        {
+          "disambiguation": "",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "name": "rock and roll",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 5,
+          "disambiguation": ""
+        },
+        {
+          "name": "rockabilly",
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 5,
+          "disambiguation": ""
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1956-03-13",
+      "tags": [
+        {
+          "count": 1,
+          "name": "am pop"
+        },
+        {
+          "count": 1,
+          "name": "early pop/rock"
+        },
+        {
+          "name": "energetic",
+          "count": 1
+        },
+        {
+          "name": "i forgot to remember to forget",
+          "count": 1
+        },
+        {
+          "name": "longing",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "love"
+        },
+        {
+          "count": 1,
+          "name": "passionate"
+        },
+        {
+          "name": "playful",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 2
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "rock & roll"
+        },
+        {
+          "count": 5,
+          "name": "rock and roll"
+        },
+        {
+          "count": 5,
+          "name": "rockabilly"
+        },
+        {
+          "name": "romantic",
+          "count": 1
+        },
+        {
+          "name": "uplifting",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "urban"
+        },
+        {
+          "name": "warm",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "title": "Elvis Presley",
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-types": [],
+      "title": "The King",
+      "tags": [],
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "id": "309f48f0-455b-48e9-92c3-9319c2524d9a",
+      "primary-type": null,
+      "primary-type-id": null,
+      "genres": [],
+      "first-release-date": ""
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Sings Hits From His Movies",
+      "genres": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1972",
+      "id": "3ae96b6e-cce9-4ddf-9251-51252b3376a9",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "title": "40 Greatest Hits",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": [
+        {
+          "name": "ballad",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "id": "3f23c3cb-eb73-4e56-9df8-8573f4d9384b",
+      "primary-type": "Album",
+      "genres": [
+        {
+          "disambiguation": "",
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        },
+        {
+          "name": "rock and roll",
+          "disambiguation": "",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1975"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Always on My Mind",
+      "first-release-date": "1981",
+      "genres": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "3fd3eccf-148a-420f-9f93-befc4506a979",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "contemporary gospel",
+          "count": 1,
+          "id": "6aeacd9a-3964-4ca4-9e3c-23ec8bd8848d",
+          "disambiguation": ""
+        },
+        {
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country"
+        },
+        {
+          "disambiguation": "",
+          "id": "08289b42-7e41-4987-9263-c28bb4c59da0",
+          "count": 1,
+          "name": "gospel"
+        },
+        {
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "disambiguation": "",
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rockabilly"
+        },
+        {
+          "disambiguation": "",
+          "id": "d8a2d193-431d-418c-9ec5-69be9fa60f79",
+          "count": 1,
+          "name": "southern gospel"
+        }
+      ],
+      "first-release-date": "1972-02-20",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "40c090b7-cf63-33c2-9493-e15075a72035",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Elvis Now",
+      "tags": [
+        {
+          "count": 2,
+          "name": "am pop"
+        },
+        {
+          "name": "contemporary gospel",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "name": "gospel",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "name": "pop/rock",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        },
+        {
+          "name": "southern gospel",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "genres": [
+        {
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "name": "rock and roll"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1981",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "41524b94-3d13-39e7-a6f6-3c4e8b4b1ad1",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "The History of Rock, Volume 1: Elvis Presley",
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "genres": [
+        {
+          "name": "rock",
+          "count": 3,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": ""
+        },
+        {
+          "name": "rock and roll",
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1973",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "id": "446e629a-95ff-3ba1-9537-78bfad57dfb7",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [
+        {
+          "name": "rock",
+          "count": 3
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        }
+      ],
+      "title": "Rock ’n’ On, Volume 2",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "secondary-types": [],
+      "title": "Elvis Is Back!",
+      "tags": [
+        {
+          "name": "country",
+          "count": 1
+        },
+        {
+          "name": "early rock and roll",
+          "count": 2
+        },
+        {
+          "count": 3,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        },
+        {
+          "name": "rockabilly",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "id": "4524e346-681e-364d-b975-bad70d71f2d7",
+      "primary-type": "Album",
+      "genres": [
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country"
+        },
+        {
+          "count": 3,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        },
+        {
+          "name": "rock and roll",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1960-04-08"
+    },
+    {
+      "id": "46a2de91-f769-3b91-b550-d55c2d2d665d",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "genres": [
+        {
+          "name": "ballad",
+          "disambiguation": "",
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1
+        },
+        {
+          "name": "blues",
+          "disambiguation": "",
+          "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "count": 3,
+          "id": "08289b42-7e41-4987-9263-c28bb4c59da0",
+          "name": "gospel"
+        },
+        {
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "name": "pop rock",
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1971",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "tags": [
+        {
+          "name": "ballad",
+          "count": 1
+        },
+        {
+          "name": "blues",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "gospel"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "You’ll Never Walk Alone",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [],
+      "first-release-date": "2022",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "4720b636-a49a-43bf-899c-5f6a610d76ad",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Legendary Radio Brodcast Recordings Coffret",
+      "tags": []
+    },
+    {
+      "id": "47782bd9-d824-44c5-8cc9-5174a30ace8a",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "genres": [
+        {
+          "name": "folk rock",
+          "id": "445dc48f-5233-4b4f-987f-867ff9ade836",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1975",
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Elvis Forever",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "genres": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1973",
+      "id": "48e2926f-639a-4289-8303-451f1dadefc1",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [],
+      "title": "Elvis",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "tags": [],
+      "secondary-types": [],
+      "title": "Re:Versions",
+      "genres": [],
+      "first-release-date": "2008",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "id": "48f7424f-26b8-483e-8ca6-2ce71a0c7636",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "A Date With Elvis",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": [
+        {
+          "name": "rhythm & blues",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "rock & roll"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        },
+        {
+          "name": "rockabilly",
+          "count": 2
+        }
+      ],
+      "genres": [
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "name": "rock and roll",
+          "disambiguation": "",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "disambiguation": "",
+          "name": "rockabilly"
+        }
+      ],
+      "first-release-date": "1959-07-24",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "id": "4d31526b-655d-38c7-acc5-48559055a4dd",
+      "primary-type": "Album"
+    },
+    {
+      "id": "5334291d-f8f1-39d7-b293-361c0d473191",
+      "primary-type": "Album",
+      "disambiguation": "1973 album aka \"The Fool\"",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 2,
+          "disambiguation": ""
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "name": "rockabilly",
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 2,
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1973-07-16",
+      "tags": [
+        {
+          "count": 2,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "early pop/rock"
+        },
+        {
+          "name": "pop",
+          "count": 2
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "count": 2,
+          "name": "rockabilly"
+        }
+      ],
+      "secondary-types": [],
+      "title": "Elvis",
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Raised on Rock / For Ol’ Times Sake",
+      "tags": [
+        {
+          "name": "am pop",
+          "count": 1
+        },
+        {
+          "name": "ballad",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "ballad",
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": ""
+        },
+        {
+          "name": "rock and roll",
+          "disambiguation": "",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "name": "rockabilly"
+        }
+      ],
+      "first-release-date": "1973-11-01",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "53dc4b12-cf49-31f2-bb27-e93a70b1c617"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [
+        {
+          "name": "country",
+          "count": 1
+        }
+      ],
+      "title": "Country Classics",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "genres": [
+        {
+          "name": "country",
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 1,
+          "disambiguation": ""
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1980",
+      "id": "55d380e2-7697-43c3-9224-062c4d52988b",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "genres": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1976-01-01",
+      "primary-type": "Album",
+      "id": "58b141d3-fa24-4ecd-9354-19418d2c4c81",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Elvis in Hollywood"
+    },
+    {
+      "id": "5a06e8c1-0894-4cfa-958c-1bc05979c3bc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1977",
+      "genres": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "tags": [],
+      "title": "Elvis Presley",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "disambiguation": "",
+      "id": "5f710742-9301-4c80-8d22-bef536cd84b8",
+      "primary-type": "Album",
+      "first-release-date": "1982",
+      "genres": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Suspicious Minds",
+      "tags": [],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "tags": [],
+      "title": "Elvis Presley 2",
+      "secondary-types": [],
+      "first-release-date": "1989",
+      "genres": [],
+      "primary-type-id": null,
+      "id": "60574300-73a4-42e3-840e-84e69b43d4ef",
+      "primary-type": null,
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "count": 1,
+          "name": "1–4 wochen"
+        },
+        {
+          "name": "ballad",
+          "count": 3
+        },
+        {
+          "count": 2,
+          "name": "blues"
+        },
+        {
+          "name": "blues rock",
+          "count": 3
+        },
+        {
+          "count": 5,
+          "name": "christmas"
+        },
+        {
+          "name": "christmas music",
+          "count": 6
+        },
+        {
+          "count": 3,
+          "name": "country gospel"
+        },
+        {
+          "name": "early pop/rock",
+          "count": 1
+        },
+        {
+          "name": "english",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "gospel"
+        },
+        {
+          "count": 1,
+          "name": "holidays"
+        },
+        {
+          "count": 1,
+          "name": "offizielle charts"
+        },
+        {
+          "name": "pop",
+          "count": 2
+        },
+        {
+          "name": "pop rock",
+          "count": 3
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "rhythm & blues"
+        },
+        {
+          "name": "rock",
+          "count": 2
+        },
+        {
+          "name": "rock & roll",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "rock and roll"
+        },
+        {
+          "count": 3,
+          "name": "southern gospel"
+        },
+        {
+          "name": "traditional gospel",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "title": "Elvis’ Christmas Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "ballad",
+          "disambiguation": "",
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 3
+        },
+        {
+          "name": "blues",
+          "count": 2,
+          "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+          "disambiguation": ""
+        },
+        {
+          "count": 3,
+          "id": "58e325d5-54fd-4e98-b39a-3aa6bc319273",
+          "disambiguation": "",
+          "name": "blues rock"
+        },
+        {
+          "count": 6,
+          "id": "31aee5bc-c1e8-43d7-a7bc-902df802ccbb",
+          "disambiguation": "",
+          "name": "christmas music"
+        },
+        {
+          "name": "country gospel",
+          "count": 3,
+          "id": "91748dd2-616c-4ba4-8178-90a08dfc3780",
+          "disambiguation": ""
+        },
+        {
+          "id": "08289b42-7e41-4987-9263-c28bb4c59da0",
+          "count": 2,
+          "disambiguation": "",
+          "name": "gospel"
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 2,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "count": 3,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e"
+        },
+        {
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "disambiguation": "",
+          "count": 2,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "name": "rock and roll"
+        },
+        {
+          "id": "d8a2d193-431d-418c-9ec5-69be9fa60f79",
+          "count": 3,
+          "disambiguation": "",
+          "name": "southern gospel"
+        }
+      ],
+      "first-release-date": "1957-10-15",
+      "id": "626a3486-a3ef-3cf6-bdda-11c55b529509",
+      "primary-type": "Album",
+      "disambiguation": "1957 version, includes “Peace in the Valley”"
+    },
+    {
+      "primary-type": "Album",
+      "id": "63b80a2c-bfa9-391b-b199-fbaaafeedfdf",
+      "disambiguation": "",
+      "first-release-date": "1976-05",
+      "genres": [
+        {
+          "name": "ballad",
+          "disambiguation": "",
+          "count": 1,
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b"
+        },
+        {
+          "disambiguation": "",
+          "id": "2de61e9c-de1d-47c8-999d-5b44c0cfeca1",
+          "count": 1,
+          "name": "country pop"
+        },
+        {
+          "name": "country rock",
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "disambiguation": "",
+          "name": "rock and roll"
+        },
+        {
+          "count": 1,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "disambiguation": "",
+          "name": "rockabilly"
+        },
+        {
+          "disambiguation": "",
+          "id": "1b5e7b16-336b-473e-a364-5120413a9827",
+          "count": 1,
+          "name": "soul"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "tags": [
+        {
+          "name": "ballad",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "name": "country pop",
+          "count": 1
+        },
+        {
+          "name": "country rock",
+          "count": 1
+        },
+        {
+          "name": "early rock roll",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        }
+      ],
+      "secondary-types": [],
+      "title": "From Elvis Presley Boulevard, Memphis, Tennessee",
+      "secondary-type-ids": []
+    },
+    {
+      "id": "6590150a-22bf-3904-8b38-1a978f6b03f0",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "ballad",
+          "disambiguation": "",
+          "count": 1,
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b"
+        },
+        {
+          "name": "pop",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock"
+        },
+        {
+          "disambiguation": "",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "name": "rockabilly",
+          "count": 1,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1965-08-10",
+      "tags": [
+        {
+          "count": 2,
+          "name": "am pop"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "name": "early pop/rock",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "title": "Elvis for Everyone!",
+      "secondary-types": [],
+      "secondary-type-ids": []
+    },
+    {
+      "primary-type-id": null,
+      "genres": [],
+      "first-release-date": "",
+      "primary-type": null,
+      "id": "6b361382-7790-420a-8746-c789f89af2a2",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "tags": [],
+      "title": "Sings Country and Gospel",
+      "secondary-types": []
+    },
+    {
+      "id": "79dabce4-71c2-34ce-9d5d-83f9442fb325",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "genres": [
+        {
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock and roll"
+        },
+        {
+          "count": 2,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "disambiguation": "",
+          "name": "rockabilly"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1956-10-19",
+      "tags": [
+        {
+          "count": 3,
+          "name": "early pop rock and roll"
+        },
+        {
+          "name": "early pop/rock",
+          "count": 2
+        },
+        {
+          "name": "pop/rock",
+          "count": 2
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        },
+        {
+          "name": "rockabilly",
+          "count": 2
+        }
+      ],
+      "secondary-types": [],
+      "title": "Elvis",
+      "secondary-type-ids": []
+    },
+    {
+      "id": "84324cfa-4827-30e8-88ef-e432a98de181",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "count": 4,
+          "id": "08289b42-7e41-4987-9263-c28bb4c59da0",
+          "disambiguation": "",
+          "name": "gospel"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 2
+        },
+        {
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "id": "d8a2d193-431d-418c-9ec5-69be9fa60f79",
+          "disambiguation": "",
+          "name": "southern gospel"
+        }
+      ],
+      "first-release-date": "1967-02",
+      "tags": [
+        {
+          "count": 4,
+          "name": "gospel"
+        },
+        {
+          "name": "pop",
+          "count": 2
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "southern gospel"
+        },
+        {
+          "name": "traditional gospel",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "title": "How Great Thou Art",
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Pure Gold",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": [
+        {
+          "name": "50 s oldies",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "am pop"
+        },
+        {
+          "count": 1,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "name": "early pop/rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "pop/rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        }
+      ],
+      "genres": [
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop"
+        },
+        {
+          "name": "rock and roll",
+          "disambiguation": "",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1
+        }
+      ],
+      "first-release-date": "1975",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "id": "85ac6c84-c622-3553-8d75-ce20313b461d",
+      "primary-type": "Album"
+    },
+    {
+      "genres": [
+        {
+          "disambiguation": "",
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "name": "rock",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "disambiguation": "",
+          "name": "rock and roll"
+        },
+        {
+          "disambiguation": "",
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 2,
+          "name": "rockabilly"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1959-11-13",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "85f7b747-aab0-3923-ae6c-312a7fd661c2",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "50,000,000 Elvis Fans Can’t Be Wrong: Elvis’ Gold Records, Volume 2",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rock & roll",
+          "count": 3
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        },
+        {
+          "name": "rockabilly",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "86830b54-b672-3bf6-a9ca-27158f50b1be",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "pop",
+          "count": 2,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "name": "rockabilly"
+        }
+      ],
+      "first-release-date": "1962-06-05",
+      "secondary-types": [],
+      "title": "Pot Luck",
+      "tags": [
+        {
+          "count": 1,
+          "name": "early pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "early rock and roll"
+        },
+        {
+          "name": "pop",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "name": "pop/rock",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "secondary-type-ids": []
+    },
+    {
+      "tags": [],
+      "secondary-types": [],
+      "title": "ELVIS PRESLEY NEW REMIX",
+      "secondary-type-ids": [],
+      "primary-type": "Album",
+      "id": "8ed8564f-c21b-413f-b61c-43e29f69dffc",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [],
+      "first-release-date": "2022-10-31"
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        }
+      ],
+      "title": "Les 40 Plus Grands Succes Originaux",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type": "Album",
+      "id": "8f911647-4c2f-4266-b4fe-7f9c7b29aba5",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "name": "rock and roll",
+          "disambiguation": "",
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57"
+        }
+      ],
+      "first-release-date": "1976"
+    },
+    {
+      "disambiguation": "",
+      "id": "9342e66c-3e60-4962-95d6-8da70d629ced",
+      "primary-type": "Album",
+      "genres": [
+        {
+          "id": "08289b42-7e41-4987-9263-c28bb4c59da0",
+          "count": 1,
+          "disambiguation": "",
+          "name": "gospel"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1983",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Elvis Sings Inspirational Favorites",
+      "tags": [
+        {
+          "name": "gospel",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "984165d8-7181-366c-9602-e5446f4a56ee",
+      "genres": [
+        {
+          "name": "pop rock",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock"
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "name": "rock and roll"
+        },
+        {
+          "disambiguation": "",
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1970-10-01",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Almost in Love",
+      "tags": [
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "first-release-date": "1970-11-11",
+      "genres": [
+        {
+          "disambiguation": "",
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 3,
+          "disambiguation": ""
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "name": "rockabilly"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "99d47a96-4666-3d8f-a613-75561cda1b48",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "name": "am pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 1,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "count": 3,
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "name": "pop/rock",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rock & roll",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "secondary-types": [],
+      "title": "That’s the Way It Is"
+    },
+    {
+      "genres": [
+        {
+          "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+          "count": 1,
+          "disambiguation": "",
+          "name": "blues"
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop"
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "name": "pop rock"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "name": "rock and roll"
+        },
+        {
+          "name": "rockabilly",
+          "disambiguation": "",
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 1
+        }
+      ],
+      "first-release-date": "1975-01-01",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "id": "9bbbe5c6-a7ac-3899-84d5-2788a9003e8d",
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Promised Land",
+      "tags": [
+        {
+          "name": "am pop",
+          "count": 2
+        },
+        {
+          "name": "blues",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "name": "pop/rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "name": "rock & roll",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [],
+      "first-release-date": "1978",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "9cad47f1-d04a-4516-871f-47ae09a0e8a5",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "From Elvis With Love",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": []
+    },
+    {
+      "secondary-type-ids": [],
+      "tags": [],
+      "secondary-types": [],
+      "title": "Love Me Tender",
+      "first-release-date": "2014-09-09",
+      "genres": [],
+      "primary-type-id": null,
+      "primary-type": null,
+      "id": "9ccb2956-b795-4fed-9e25-183af17160d2",
+      "disambiguation": ""
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock"
+        },
+        {
+          "name": "rock and roll",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1,
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1956-10-01",
+      "id": "9df3b846-b373-4710-aa10-fa72124f1a25",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Rock ’n’ Roll"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Separate Ways",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "r&b",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "country",
+          "disambiguation": "",
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 1
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "disambiguation": "",
+          "id": "31be54b2-4d0c-42df-aa44-c496c7b4c3c3",
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "name": "rock",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1973-01",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "a2f63113-9d48-3bd1-8f16-a13ea96dab54"
+    },
+    {
+      "genres": [
+        {
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "disambiguation": "",
+          "name": "rock and roll"
+        }
+      ],
+      "first-release-date": "1970",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "a4d5d77d-7d75-4bbe-8122-bfc97e46c7f1",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Please Don’t Stop Loving Me"
+    },
+    {
+      "secondary-type-ids": [],
+      "title": "Moody Blue",
+      "secondary-types": [],
+      "tags": [
+        {
+          "name": "am pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "classic rock"
+        },
+        {
+          "count": 1,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "name": "rock",
+          "count": 3
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "first-release-date": "1977",
+      "genres": [
+        {
+          "count": 1,
+          "id": "93244085-20e5-4f16-9067-1d19143b3810",
+          "disambiguation": "",
+          "name": "classic rock"
+        },
+        {
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 1,
+          "disambiguation": "",
+          "name": "country"
+        },
+        {
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 2,
+          "disambiguation": ""
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e"
+        },
+        {
+          "count": 3,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "disambiguation": "",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "name": "rockabilly",
+          "count": 1,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "disambiguation": ""
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "a61b9898-0d5c-3850-a655-68dcc1462688"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "a789fcd1-8e24-354b-b2a9-a44d789784f5",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "country",
+          "disambiguation": "",
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe"
+        },
+        {
+          "name": "rock",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1982",
+      "title": "Memories of Christmas",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": [
+        {
+          "name": "country",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "genres": [],
+      "primary-type-id": null,
+      "first-release-date": "2017",
+      "disambiguation": "",
+      "id": "aaa3dbb2-32f4-4f22-adb1-cb89b2f5c2e7",
+      "primary-type": null,
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Elvis 100 Hits",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": []
+    },
+    {
+      "disambiguation": "",
+      "id": "abea8ec1-a4ce-4551-b033-0b2ce1f66287",
+      "primary-type": "Album",
+      "genres": [],
+      "first-release-date": "1978-11",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "A Legendary Performer, Volume 3",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": [],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "genres": [
+        {
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "name": "rock and roll",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1,
+          "disambiguation": ""
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1983",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "abf1bc17-30d8-40f6-b8bc-f2be706be390",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Love Songs",
+      "tags": [
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "genres": [
+        {
+          "name": "contemporary gospel",
+          "id": "6aeacd9a-3964-4ca4-9e3c-23ec8bd8848d",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "name": "gospel",
+          "disambiguation": "",
+          "count": 4,
+          "id": "08289b42-7e41-4987-9263-c28bb4c59da0"
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "name": "southern gospel",
+          "count": 1,
+          "id": "d8a2d193-431d-418c-9ec5-69be9fa60f79",
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1972-04-01",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "id": "ac2a98ba-6578-3196-8d8e-7f2ca9687338",
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "He Touched Me",
+      "tags": [
+        {
+          "name": "am pop",
+          "count": 1
+        },
+        {
+          "name": "contemporary gospel",
+          "count": 1
+        },
+        {
+          "count": 4,
+          "name": "gospel"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "pop/rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "southern gospel"
+        }
+      ]
+    },
+    {
+      "first-release-date": "1982",
+      "genres": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "ac93c553-799c-4bd3-9f40-4c12d9508e1e",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Historia de la música rock - 26",
+      "tags": []
+    },
+    {
+      "genres": [],
+      "primary-type-id": null,
+      "first-release-date": "1993",
+      "disambiguation": "",
+      "id": "b26227f5-7de8-448d-be5d-fd978dfe9985",
+      "primary-type": null,
+      "secondary-type-ids": [],
+      "title": "In Memory Volume 4",
+      "secondary-types": [],
+      "tags": []
+    },
+    {
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Fool",
+      "tags": [],
+      "first-release-date": "1973",
+      "genres": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "b9a77fd5-2c24-4490-818c-5c42d85ba0d8"
+    },
+    {
+      "tags": [
+        {
+          "name": "ballad",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Elvis Presley (La grande storia del rock)",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "bf67243a-fc07-49a9-9c77-eb2ad96915d0",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "genres": [
+        {
+          "count": 1,
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "disambiguation": "",
+          "name": "ballad"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "name": "rock and roll",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1,
+          "disambiguation": ""
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1982"
+    },
+    {
+      "tags": [
+        {
+          "name": "gospel",
+          "count": 1
+        }
+      ],
+      "title": "He Walks Beside Me: Favorite Songs of Faith and Inspiration",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "bff274f9-9baa-47f4-8ca3-b111def07c2c",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "genres": [
+        {
+          "id": "08289b42-7e41-4987-9263-c28bb4c59da0",
+          "count": 1,
+          "disambiguation": "",
+          "name": "gospel"
+        }
+      ],
+      "first-release-date": "1978",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": null,
+      "id": "c416cc2a-d6ad-40c1-84f0-b10b89d5792b",
+      "genres": [],
+      "primary-type-id": null,
+      "first-release-date": "1989",
+      "secondary-types": [],
+      "title": "Elvis Presley 1",
+      "tags": [],
+      "secondary-type-ids": []
+    },
+    {
+      "disambiguation": "",
+      "id": "c4824181-ab25-4dcf-a5b5-68aac6e9e694",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "name": "rock and roll"
+        },
+        {
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rockabilly"
+        }
+      ],
+      "first-release-date": "1969-03",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Elvis Sings Flaming Star",
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "primary-type": "Album",
+      "id": "c9c32477-461d-30ed-bfc8-7b82fbb61e65",
+      "disambiguation": "1970’s version, doesn’t include “Peace in the Valley”",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 2,
+          "disambiguation": "",
+          "name": "rock"
+        }
+      ],
+      "first-release-date": "1970",
+      "tags": [
+        {
+          "count": 1,
+          "name": "christmas"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "rock",
+          "count": 2
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Elvis’ Christmas Album",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "genres": [
+        {
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "disambiguation": "",
+          "name": "rock and roll"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1975",
+      "disambiguation": "C’mon Everybody / I Got Lucky",
+      "primary-type": "Album",
+      "id": "cc4835e0-817b-40ca-a465-c3de8986048e",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Solid Rocks",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": [
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        }
+      ]
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "d22db16e-c735-44ce-ae4c-47ef335c0aad",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock"
+        },
+        {
+          "name": "rockabilly",
+          "disambiguation": "",
+          "count": 1,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1"
+        }
+      ],
+      "first-release-date": "1970-04",
+      "title": "Let’s Be Friends",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": [
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Back in Memphis",
+      "tags": [
+        {
+          "name": "am pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+          "disambiguation": "",
+          "name": "blues"
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "disambiguation": "",
+          "name": "rock and roll"
+        },
+        {
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rockabilly"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1969-10-14",
+      "disambiguation": "",
+      "id": "d2fa78f3-50d9-3d5c-8760-a00074d5d376",
+      "primary-type": "Album"
+    },
+    {
+      "genres": [],
+      "first-release-date": "1957-09",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "d3869144-8eda-4b6f-981c-b8fd2c95ac6c",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "The Best of Elvis",
+      "tags": []
+    },
+    {
+      "secondary-type-ids": [],
+      "title": "Today",
+      "secondary-types": [],
+      "tags": [
+        {
+          "name": "am pop",
+          "count": 1
+        },
+        {
+          "name": "contemporary pop/rock",
+          "count": 1
+        },
+        {
+          "name": "country rock",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "pop/rock",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rockabilly",
+          "count": 1
+        }
+      ],
+      "genres": [
+        {
+          "name": "country rock",
+          "disambiguation": "",
+          "id": "fb07b1e3-411d-4146-a0d6-3479c0e7557b",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "disambiguation": "",
+          "name": "rockabilly"
+        }
+      ],
+      "first-release-date": "1975-05-07",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "d4edda0a-d70a-34aa-a31b-5bb00f3cdb8b"
+    },
+    {
+      "genres": [],
+      "first-release-date": "1983",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "id": "d5bcac09-2201-4ec7-a683-9a1e314da42b",
+      "primary-type": "Album",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "A Legendary Performer, Volume 4",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": []
+    },
+    {
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "name": "contemporary pop/rock",
+          "count": 2
+        },
+        {
+          "count": 3,
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "name": "rhythm & blues",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "rock & roll"
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "secondary-types": [],
+      "title": "Something for Everybody",
+      "genres": [
+        {
+          "count": 3,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "disambiguation": "",
+          "name": "pop rock"
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        },
+        {
+          "name": "rock and roll",
+          "disambiguation": "",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "disambiguation": "",
+          "name": "rockabilly"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1961-06-17",
+      "id": "d6090b20-bee8-38e1-bb25-8c4ee0a52204",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "country",
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "name": "pop",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": ""
+        },
+        {
+          "name": "progressive country",
+          "id": "b612bf3b-65fe-42d0-9a2f-1d90872ccaee",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        },
+        {
+          "disambiguation": "",
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 3,
+          "name": "rockabilly"
+        },
+        {
+          "disambiguation": "",
+          "id": "037150a6-d83b-4307-908a-84201867186d",
+          "count": 1,
+          "name": "traditional country"
+        }
+      ],
+      "first-release-date": "1974-03-20",
+      "disambiguation": "",
+      "id": "d7695480-d8e5-3cbb-beed-7de7021f2d0b",
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "title": "Good Times",
+      "secondary-types": [],
+      "tags": [
+        {
+          "count": 2,
+          "name": "am pop"
+        },
+        {
+          "count": 1,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "progressive country"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "name": "rock & roll",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "rockabilly"
+        },
+        {
+          "count": 1,
+          "name": "traditional country"
+        }
+      ]
+    },
+    {
+      "first-release-date": "1960-11-10",
+      "genres": [
+        {
+          "id": "08289b42-7e41-4987-9263-c28bb4c59da0",
+          "count": 3,
+          "disambiguation": "",
+          "name": "gospel"
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        },
+        {
+          "name": "rockabilly",
+          "disambiguation": "",
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 1
+        },
+        {
+          "name": "southern gospel",
+          "disambiguation": "",
+          "id": "d8a2d193-431d-418c-9ec5-69be9fa60f79",
+          "count": 1
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "id": "d76fa095-8801-30b7-85be-65cbad806378",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "name": "am pop",
+          "count": 1
+        },
+        {
+          "name": "contemporary pop/rock",
+          "count": 1
+        },
+        {
+          "name": "early pop/rock",
+          "count": 1
+        },
+        {
+          "name": "gospel",
+          "count": 3
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rock & roll",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        },
+        {
+          "name": "southern gospel",
+          "count": 1
+        },
+        {
+          "name": "traditional gospel",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "title": "His Hand in Mine"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Elvis Forever: 32 Hits",
+      "tags": [
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "count": 5,
+          "name": "pop rock"
+        },
+        {
+          "name": "rock",
+          "count": 2
+        },
+        {
+          "name": "rock and roll",
+          "count": 2
+        }
+      ],
+      "first-release-date": "1983",
+      "genres": [
+        {
+          "name": "pop",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 5,
+          "name": "pop rock"
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 2
+        },
+        {
+          "count": 2,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "disambiguation": "",
+          "name": "rock and roll"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "d98e4b3b-6cc9-3ab1-94ff-12e119434d62"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "name": "rock and roll",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1,
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1976",
+      "disambiguation": "",
+      "id": "d9943d58-86ee-4f7e-b34a-38a9939aed54",
+      "primary-type": "Album",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Disque D’or / “Pure Gold”",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": [
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        }
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "ballad",
+          "count": 1,
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "disambiguation": ""
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1974-01-02",
+      "primary-type": "Album",
+      "id": "d9f9fda1-be7f-3dff-b661-948096359f3f",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        }
+      ],
+      "title": "A Legendary Performer, Volume 1",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "count": 1,
+          "name": "am pop"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "name": "contemporary pop/rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "name": "pop/rock",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rock & roll",
+          "count": 1
+        },
+        {
+          "name": "rockabilly",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "title": "Love Letters From Elvis",
+      "first-release-date": "1971-06",
+      "genres": [
+        {
+          "disambiguation": "",
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "name": "country"
+        },
+        {
+          "disambiguation": "",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 1
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "name": "rockabilly",
+          "count": 1,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "disambiguation": ""
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "id": "db779002-25dc-45f5-b39a-339879b30007",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Welcome to My World",
+      "tags": [
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "first-release-date": "1979",
+      "genres": [
+        {
+          "name": "country",
+          "count": 1,
+          "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+          "disambiguation": ""
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "id": "dc34117c-6a21-3d24-8232-8765ed4774d1",
+      "primary-type": "Album"
+    },
+    {
+      "tags": [
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Worldwide 50 Gold Award Hits, Vol. 1",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type": "Album",
+      "id": "dc4f8f48-70e5-4d0b-895a-45a06ca0194c",
+      "disambiguation": "",
+      "genres": [
+        {
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": ""
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1970"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "C’mon Everybody",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [],
+      "first-release-date": "1977",
+      "disambiguation": "",
+      "id": "dd089332-282e-405e-b985-1d4125311099",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "christmas music",
+          "disambiguation": "",
+          "id": "31aee5bc-c1e8-43d7-a7bc-902df802ccbb",
+          "count": 1
+        }
+      ],
+      "first-release-date": "2009",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "dec3c59c-4815-4dd8-bfac-82760d892340",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Elvis & Friends Christmas Album",
+      "tags": [
+        {
+          "name": "christmas music",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "genres": [
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "name": "rock and roll"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1973",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "e229e3c5-6e2e-3f6d-b092-07578b6bab8f",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "A Portrait in Music",
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Blue Christmas",
+      "tags": [
+        {
+          "name": "ballad",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "christmas music"
+        },
+        {
+          "name": "country gospel",
+          "count": 1
+        },
+        {
+          "name": "gospel",
+          "count": 1
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "soft rock",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "e6cbdb6b-c846-31a0-8e75-466afffe5bc7",
+      "genres": [
+        {
+          "disambiguation": "",
+          "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "31aee5bc-c1e8-43d7-a7bc-902df802ccbb",
+          "name": "christmas music"
+        },
+        {
+          "name": "country gospel",
+          "disambiguation": "",
+          "id": "91748dd2-616c-4ba4-8178-90a08dfc3780",
+          "count": 1
+        },
+        {
+          "id": "08289b42-7e41-4987-9263-c28bb4c59da0",
+          "count": 1,
+          "disambiguation": "",
+          "name": "gospel"
+        },
+        {
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "name": "pop"
+        },
+        {
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "id": "7d0c6a6b-5d56-4b1e-a8c7-e32194f246b9",
+          "count": 1,
+          "disambiguation": "",
+          "name": "soft rock"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1976"
+    },
+    {
+      "disambiguation": "",
+      "id": "e701076a-a861-4e81-9629-46e956973786",
+      "primary-type": "Album",
+      "genres": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1996",
+      "title": "The Louisiana Hayride Archives, Volume 1",
+      "secondary-types": [],
+      "tags": [],
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "G.I. Blues, The Cafe Europa Sessions",
+      "tags": [],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "id": "e9d2e23d-994f-481f-9108-006d0dcb4618",
+      "primary-type": null,
+      "first-release-date": "2011-03-21",
+      "genres": [],
+      "primary-type-id": null
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Double Dynamite",
+      "tags": [
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "rock",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": ""
+        },
+        {
+          "name": "rock and roll",
+          "disambiguation": "",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1
+        }
+      ],
+      "first-release-date": "1977",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "ee9c8bc5-53c5-480e-bd85-676da1b26cef"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Elvis’ Gold Records Volume 4",
+      "tags": [
+        {
+          "name": "early pop/rock",
+          "count": 2
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "rock & roll"
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "disambiguation": "",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "name": "rockabilly",
+          "disambiguation": "",
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 1
+        }
+      ],
+      "first-release-date": "1968-02",
+      "disambiguation": "",
+      "id": "f1b85dfa-0cc8-396b-bb99-57333f844b4a",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        },
+        {
+          "name": "rock and roll",
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "count": 1,
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "1982",
+      "primary-type": "Album",
+      "id": "f48b08be-c8be-45f5-9b37-be3a3ebd50cd",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        }
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "By Request"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": null,
+      "id": "f4980561-4563-4893-8597-cd266545b987",
+      "primary-type-id": null,
+      "genres": [],
+      "first-release-date": "2020",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "The Elvis On Tour Recordings",
+      "tags": [],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "For LP Fans Only",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": [
+        {
+          "name": "early pop/rock",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        },
+        {
+          "name": "rock & roll",
+          "count": 2
+        },
+        {
+          "name": "rock and roll",
+          "count": 1
+        },
+        {
+          "name": "rockabilly",
+          "count": 3
+        }
+      ],
+      "first-release-date": "1959-02-06",
+      "genres": [
+        {
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "name": "rock",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "e4581b76-a842-440b-9b0f-1aa7a00a5c57",
+          "disambiguation": "",
+          "name": "rock and roll"
+        },
+        {
+          "disambiguation": "",
+          "count": 3,
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "name": "rockabilly"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "id": "f7f9a238-040e-30ae-aab8-5ffb826c6ca6",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "C’mon Everybody",
+      "tags": [
+        {
+          "name": "pop rock",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "name": "pop rock",
+          "disambiguation": "",
+          "count": 1,
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e"
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        },
+        {
+          "id": "f1a053eb-61bb-448a-964d-35784c4ae8c1",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rockabilly"
+        }
+      ],
+      "first-release-date": "1971-07-01",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "ff814642-ac85-4c82-880d-7ffcd35b4a00"
+    }
+  ]
+}

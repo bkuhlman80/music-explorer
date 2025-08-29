@@ -1,0 +1,3559 @@
+{
+  "release-group-offset": 0,
+  "release-groups": [
+    {
+      "title": "Wishing on a Star",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "02b572e5-9bde-30eb-af27-1395a0ae0a06",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "1998-02-14",
+      "genres": [
+        {
+          "count": 1,
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "tags": [],
+      "secondary-type-ids": [],
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2002",
+      "title": "Excuse Me Miss",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "108efa3a-ec5a-4688-b49b-2fefff2edd56",
+      "secondary-types": []
+    },
+    {
+      "tags": [
+        {
+          "name": "chipmunk soul",
+          "count": 1
+        },
+        {
+          "name": "east coast hip hop",
+          "count": 2
+        },
+        {
+          "name": "east coast rap",
+          "count": 4
+        },
+        {
+          "name": "hardcore hip hop",
+          "count": 2
+        },
+        {
+          "name": "hardcore rap",
+          "count": 1
+        },
+        {
+          "name": "hip hop",
+          "count": 7
+        },
+        {
+          "count": 3,
+          "name": "hip hop rap"
+        },
+        {
+          "name": "hip-hop",
+          "count": 2
+        },
+        {
+          "name": "pop rap",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rap"
+        }
+      ],
+      "genres": [
+        {
+          "name": "chipmunk soul",
+          "disambiguation": "",
+          "id": "cec1580a-ef3c-4928-b302-58015335c7b0",
+          "count": 1
+        },
+        {
+          "name": "east coast hip hop",
+          "disambiguation": "",
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "count": 2
+        },
+        {
+          "disambiguation": "",
+          "name": "hardcore hip hop",
+          "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90",
+          "count": 2
+        },
+        {
+          "count": 7,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": ""
+        },
+        {
+          "name": "pop rap",
+          "disambiguation": "",
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "first-release-date": "2001-09-11",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "id": "11ae8c9c-27c1-3308-9761-edb87c8f54ea",
+      "primary-type": "Album",
+      "title": "The Blueprint",
+      "disambiguation": ""
+    },
+    {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2003-12-08",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Change Clothes",
+      "secondary-types": [],
+      "id": "1b39b363-3d2f-4916-9acd-ad6582858ed9",
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "secondary-types": [],
+      "id": "1b97fe26-be57-3589-9138-1bd3611d166c",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Unfinished Business",
+      "first-release-date": "2004-10-26",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "count": 1,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop"
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "name": "urban crossover",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "name": "r b",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "count": 1,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop"
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2003-07-28",
+      "primary-type": "Single",
+      "title": "Frontin’",
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "20fa4077-19b9-3cd4-82cf-f0787f36372c"
+    },
+    {
+      "id": "228d1cda-d468-3ad7-9214-f645b1bf8dd7",
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "disambiguation": "",
+      "title": "S. Carter Collection",
+      "primary-type": "Album",
+      "first-release-date": "2003-04-19",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "genres": [],
+      "tags": []
+    },
+    {
+      "primary-type": "Album",
+      "title": "OJAYZIS",
+      "disambiguation": "",
+      "secondary-types": [
+        "Remix",
+        "Mixtape/Street"
+      ],
+      "id": "22ce3e29-f246-3510-ba6f-4cd5a6ef3fe4",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2008-08-20",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b",
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 1
+        }
+      ],
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        }
+      ],
+      "title": "Roc-A-Fella Billionaires",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "24bee9c2-66a7-3113-8494-2b9bf63fa96d",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2007"
+    },
+    {
+      "secondary-type-ids": [],
+      "genres": [],
+      "tags": [],
+      "disambiguation": "",
+      "title": "Girls, Girls, Girls",
+      "primary-type": "Single",
+      "id": "268bb54e-801e-4f2a-8f90-986f9395fbbd",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2001"
+    },
+    {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "1998-12-15",
+      "primary-type": "Single",
+      "title": "Hard Knock Life (Ghetto Anthem)",
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "284c4d71-6c7e-36ff-91dd-00be3f89eaa7",
+      "tags": [
+        {
+          "name": "car on cover",
+          "count": 1
+        },
+        {
+          "name": "east coast hip hop",
+          "count": 2
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "name": "hardcore hip hop",
+          "count": 1
+        },
+        {
+          "name": "hip hop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop rap"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "name": "east coast hip hop",
+          "disambiguation": "",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "hardcore hip hop",
+          "disambiguation": "",
+          "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90"
+        },
+        {
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "name": "pop rap",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-types": [],
+      "id": "28e6996c-fdfd-461f-bb66-c19a913e4f1f",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Run This Town / Posthumus Zone",
+      "first-release-date": "2010-07-20",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "genres": [],
+      "tags": []
+    },
+    {
+      "primary-type": "Album",
+      "title": "The Hits & Unreleased, Volume 1",
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "2a22728c-b7ac-3832-aa71-8199704d30d1",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2001",
+      "genres": [
+        {
+          "count": 2,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop"
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "count": 1,
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ],
+      "secondary-types": [],
+      "id": "33202210-acce-40a4-b203-2a297d9b1e90",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Time After Time / All of My Days",
+      "first-release-date": "1996",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    {
+      "tags": [
+        {
+          "name": "east coast hip hop",
+          "count": 2
+        },
+        {
+          "count": 3,
+          "name": "east coast rap"
+        },
+        {
+          "name": "gangsta rap",
+          "count": 2
+        },
+        {
+          "name": "hardcore hip hop",
+          "count": 2
+        },
+        {
+          "name": "hardcore rap",
+          "count": 1
+        },
+        {
+          "name": "hip hop",
+          "count": 7
+        },
+        {
+          "name": "pop rap",
+          "count": 3
+        },
+        {
+          "name": "slow jam",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "count": 2,
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "disambiguation": "",
+          "name": "east coast hip hop"
+        },
+        {
+          "disambiguation": "",
+          "name": "gangsta rap",
+          "id": "bc8c2f79-dcea-43f3-962b-f0663868d42c",
+          "count": 2
+        },
+        {
+          "count": 2,
+          "disambiguation": "",
+          "name": "hardcore hip hop",
+          "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90"
+        },
+        {
+          "count": 7,
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        },
+        {
+          "count": 3,
+          "name": "pop rap",
+          "disambiguation": "",
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1998-09-28",
+      "primary-type": "Album",
+      "title": "Vol. 2… Hard Knock Life",
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "342d74c6-4c01-4541-b3ae-4524c47ad543"
+    },
+    {
+      "first-release-date": "2001-12-18",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "34316efd-0c39-392c-aae1-a1151eccdfa4",
+      "secondary-types": [
+        "Live"
+      ],
+      "title": "Unplugged",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "tags": [
+        {
+          "count": 1,
+          "name": "east coast hip hop"
+        },
+        {
+          "name": "hardcore hip hop",
+          "count": 1
+        },
+        {
+          "name": "hip hop",
+          "count": 2
+        },
+        {
+          "name": "jazz funk",
+          "count": 1
+        },
+        {
+          "name": "live",
+          "count": 1
+        }
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "name": "east coast hip hop",
+          "disambiguation": "",
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86"
+        },
+        {
+          "count": 1,
+          "name": "hardcore hip hop",
+          "disambiguation": "",
+          "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90"
+        },
+        {
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": "",
+          "count": 2
+        }
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "first-release-date": "2004-04-13",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [],
+      "id": "35a21d96-d6e9-450a-94b7-2b2cab8e709e",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "99 Problems / My 1st Song"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1997-10-27",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "In My Lifetime, Vol. 1",
+      "secondary-types": [],
+      "id": "3a7cb4ec-575e-3614-b71d-1248c2e470cf",
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 7
+        },
+        {
+          "count": 1,
+          "name": "hip hop rap"
+        }
+      ],
+      "genres": [
+        {
+          "count": 7,
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "secondary-type-ids": []
+    },
+    {
+      "disambiguation": "",
+      "title": "Blue Magic",
+      "primary-type": "Single",
+      "id": "40b30538-24e4-30e5-ad6d-0af5a323b27a",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2007",
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "disambiguation": "",
+          "name": "east coast hip hop",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 1
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "east coast hip hop"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "genres": [],
+      "tags": [],
+      "disambiguation": "",
+      "title": "Brooklyn Soul",
+      "primary-type": "Album",
+      "id": "410fb2a7-77ba-4000-a9b8-22cae81c283b",
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2007-12"
+    },
+    {
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "count": 1,
+          "name": "east coast rap;hardcore rap;pop;pop/rock;rap"
+        },
+        {
+          "name": "hip hop",
+          "count": 1
+        }
+      ],
+      "title": "'03 Bonnie & Clyde",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "43588487-3216-3df4-ae2f-2d4cbbed2840",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2002-11-12"
+    },
+    {
+      "tags": [],
+      "genres": [],
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "first-release-date": "2015-01-15",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "id": "4375886b-42da-4d65-8edd-46110168f130",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Before Reasonable Doubt: The Demos"
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "east coast hip hop"
+        },
+        {
+          "count": 2,
+          "name": "gangsta"
+        },
+        {
+          "name": "gangsta rap",
+          "count": 1
+        },
+        {
+          "count": 6,
+          "name": "hip hop"
+        },
+        {
+          "name": "hip hop rap",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "hip-hop"
+        },
+        {
+          "count": 5,
+          "name": "pop rap"
+        },
+        {
+          "count": 1,
+          "name": "rnb swing"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "name": "east coast hip hop",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "gangsta rap",
+          "disambiguation": "",
+          "id": "bc8c2f79-dcea-43f3-962b-f0663868d42c"
+        },
+        {
+          "count": 6,
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        },
+        {
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "name": "pop rap",
+          "disambiguation": "",
+          "count": 5
+        },
+        {
+          "name": "rock",
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2007-11-06",
+      "title": "American Gangster",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "4632d7ca-8813-303b-b85d-c1125cb05671",
+      "secondary-types": []
+    },
+    {
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "genres": [],
+      "tags": [],
+      "id": "46f24caf-6e49-4245-bc41-fdcc4c277fd1",
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "disambiguation": "",
+      "title": "A Prelude to Blueprint 3",
+      "primary-type": "Album",
+      "first-release-date": "2009",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "genres": [
+        {
+          "name": "contemporary r&b",
+          "disambiguation": "",
+          "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "id": "b739a895-85ed-4ad3-8717-4e9ef5387dd8",
+          "disambiguation": "",
+          "name": "dance-pop"
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "funk",
+          "disambiguation": "",
+          "id": "fe4ba6a1-9873-4fd0-a12b-a70c81818514"
+        },
+        {
+          "id": "092f40b5-9157-41f2-8243-68b704cd0ed1",
+          "name": "garage house",
+          "disambiguation": "",
+          "count": 2
+        },
+        {
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "disambiguation": "",
+          "name": "pop rap",
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "count": 2
+        }
+      ],
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "name": "bee on cover",
+          "count": 1
+        },
+        {
+          "name": "contemporary r b",
+          "count": 1
+        },
+        {
+          "name": "contemporary r&b",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "dance-pop"
+        },
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "name": "funk",
+          "count": 1
+        },
+        {
+          "name": "garage house",
+          "count": 2
+        },
+        {
+          "name": "hip hop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "hip-hop"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "other pop"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "pop rap",
+          "count": 2
+        },
+        {
+          "name": "rnb swing",
+          "count": 1
+        }
+      ],
+      "title": "Deja vu",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "4880d6ab-3074-3483-9297-6f0dbb518688",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2006-07-12"
+    },
+    {
+      "first-release-date": "1998",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [],
+      "id": "49c896f9-4ba4-4a27-bb61-844ac883c961",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Can I Get a...",
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "count": 1,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": ""
+        }
+      ]
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "gangsta rap"
+        },
+        {
+          "name": "hardcore hip hop",
+          "count": 1
+        },
+        {
+          "name": "hip hop",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "hip-hop"
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "id": "bc8c2f79-dcea-43f3-962b-f0663868d42c",
+          "disambiguation": "",
+          "name": "gangsta rap"
+        },
+        {
+          "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90",
+          "name": "hardcore hip hop",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": "",
+          "count": 2
+        }
+      ],
+      "first-release-date": "2002-03-18",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "4ebb9809-5436-3c8c-8736-ae8a4b61f793",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Chapter One",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "first-release-date": "1999",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "502300b9-00c8-448a-a44a-8ea9471a1d2a",
+      "secondary-types": [],
+      "title": "Jigga My N****",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": []
+    },
+    {
+      "tags": [],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "genres": [],
+      "first-release-date": "2012-10-10",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-types": [
+        "Live"
+      ],
+      "id": "50c95a97-b6bf-45d8-8647-af3d5b15d3a7",
+      "primary-type": "EP",
+      "title": "Live In Brooklyn",
+      "disambiguation": ""
+    },
+    {
+      "tags": [],
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "genres": [],
+      "first-release-date": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "id": "55e3b0e8-79c6-42e0-8a94-19b0a1dca8f7",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Roc N' Rolla"
+    },
+    {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2010-09-24",
+      "disambiguation": "",
+      "title": "So Appalled",
+      "primary-type": "Single",
+      "id": "5a1239bb-171e-4fc7-9333-665675a8dc5a",
+      "secondary-types": [],
+      "tags": [],
+      "genres": [],
+      "secondary-type-ids": []
+    },
+    {
+      "genres": [
+        {
+          "count": 1,
+          "id": "d8048b43-9edb-4e1a-aa88-bb91fa847d4a",
+          "disambiguation": "",
+          "name": "boom bap"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "instrumental",
+          "id": "4ae63770-68af-4fae-b0f1-5e53f372c743"
+        },
+        {
+          "id": "65e2f3ad-e0bd-4627-bd83-cba7c8b6d011",
+          "disambiguation": "",
+          "name": "lo-fi",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "boom bap"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "name": "lo-fi",
+          "count": 1
+        }
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "NY State of Mind, Vol. 1",
+      "secondary-types": [
+        "Remix"
+      ],
+      "id": "5a379158-82bf-4e15-87b6-134960c1da46",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2011-11-07"
+    },
+    {
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "genres": [],
+      "tags": [],
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "id": "5b11f1d7-31ca-4e92-98db-15f002ac0f61",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "The Black Gangster",
+      "first-release-date": "2015-02-11",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Run This Town",
+      "secondary-types": [],
+      "id": "5bdf3c84-2b24-42b1-b7d4-7978867ad72f",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2009-08-09",
+      "genres": [
+        {
+          "count": 1,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": ""
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "pop rap",
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "name": "pop rap",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "genres": [],
+      "tags": [],
+      "primary-type": "Single",
+      "title": "Guilty Until Proven Innocent",
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "5f520d3c-7f1e-4b67-9437-e7145ceb1927",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2001"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2005",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Serious Business DJ Clue & Keyz Collaboration",
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "id": "63fba28a-73d0-3b85-914b-ae961506b688",
+      "tags": [],
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "genres": []
+    },
+    {
+      "secondary-type-ids": [],
+      "genres": [],
+      "tags": [],
+      "disambiguation": "",
+      "title": "Young Forever",
+      "primary-type": "Single",
+      "id": "68590609-09cb-4f50-a0f8-6b8edc6afda7",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2010-05-11"
+    },
+    {
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "2006",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Remix"
+      ],
+      "id": "6bf65ca6-30fa-30ba-88fc-e5a053cae3a3",
+      "primary-type": "Album",
+      "disambiguation": "Bash Brothers \"Chronic\" remix",
+      "title": "The Black Chronic"
+    },
+    {
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "id": "6db47d50-591a-4f37-8aad-4d20ae0004c8",
+      "primary-type": "Album",
+      "title": "My President Is Black",
+      "disambiguation": "",
+      "first-release-date": "2008",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "count": 1,
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "first-release-date": "2007-03-29",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "735f045f-55b7-3e3d-ae56-c27dea6a81c8",
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "Umbrella",
+      "primary-type": "Single",
+      "tags": [
+        {
+          "count": 2,
+          "name": "barbade"
+        },
+        {
+          "name": "contemporary r&b",
+          "count": 1
+        },
+        {
+          "name": "electro",
+          "count": 1
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+          "name": "contemporary r&b",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "electro",
+          "disambiguation": "",
+          "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4"
+        },
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1
+        },
+        {
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 1
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "name": "pop",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": []
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2000-12-04",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "I Just Wanna Love U (Give It 2 Me)",
+      "secondary-types": [],
+      "id": "75a9fda0-55ac-318d-86c5-9a91d455b60a"
+    },
+    {
+      "tags": [
+        {
+          "name": "east coast hip hop",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "east coast rap"
+        },
+        {
+          "count": 4,
+          "name": "gangsta rap"
+        },
+        {
+          "count": 1,
+          "name": "hardcore hip hop"
+        },
+        {
+          "name": "hardcore rap",
+          "count": 1
+        },
+        {
+          "name": "hip hop",
+          "count": 5
+        },
+        {
+          "count": 2,
+          "name": "hip hop rap"
+        },
+        {
+          "count": 1,
+          "name": "pop rap"
+        },
+        {
+          "count": 1,
+          "name": "pop-rap"
+        },
+        {
+          "count": 4,
+          "name": "thug rap"
+        }
+      ],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "east coast hip hop",
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "count": 1
+        },
+        {
+          "count": 4,
+          "disambiguation": "",
+          "name": "gangsta rap",
+          "id": "bc8c2f79-dcea-43f3-962b-f0663868d42c"
+        },
+        {
+          "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90",
+          "name": "hardcore hip hop",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 5
+        },
+        {
+          "count": 1,
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "disambiguation": "",
+          "name": "pop rap"
+        }
+      ],
+      "secondary-type-ids": [],
+      "first-release-date": "1999-12-13",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "id": "75d65362-a9b4-3e9c-82c6-5392e6615c0a",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Vol. 3… Life and Times of S. Carter"
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "east coast hip hop"
+        },
+        {
+          "name": "east coast rap",
+          "count": 5
+        },
+        {
+          "name": "gangsta rap",
+          "count": 5
+        },
+        {
+          "name": "hardcore hip hop",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "hardcore rap"
+        },
+        {
+          "name": "hip hop",
+          "count": 3
+        },
+        {
+          "name": "hip hop rap",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "hip-hop"
+        },
+        {
+          "name": "pop-rap",
+          "count": 1
+        },
+        {
+          "name": "rap",
+          "count": 1
+        },
+        {
+          "name": "thug rap",
+          "count": 3
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "name": "east coast hip hop",
+          "disambiguation": "",
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "count": 1
+        },
+        {
+          "count": 5,
+          "id": "bc8c2f79-dcea-43f3-962b-f0663868d42c",
+          "name": "gangsta rap",
+          "disambiguation": ""
+        },
+        {
+          "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90",
+          "disambiguation": "",
+          "name": "hardcore hip hop",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2000-10-31",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "The Dynasty: Roc La Familia",
+      "secondary-types": [],
+      "id": "775bc732-a8ad-3298-ab66-fd1549a96a3f"
+    },
+    {
+      "genres": [
+        {
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "disambiguation": "",
+          "name": "east coast hip hop",
+          "count": 3
+        },
+        {
+          "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90",
+          "disambiguation": "",
+          "name": "hardcore hip hop",
+          "count": 4
+        },
+        {
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 9
+        },
+        {
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "disambiguation": "",
+          "name": "pop rap",
+          "count": 3
+        }
+      ],
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "count": 3,
+          "name": "east coast hip hop"
+        },
+        {
+          "count": 7,
+          "name": "east coast rap"
+        },
+        {
+          "count": 4,
+          "name": "hardcore hip hop"
+        },
+        {
+          "count": 2,
+          "name": "hardcore rap"
+        },
+        {
+          "count": 9,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "hip hop rap"
+        },
+        {
+          "name": "hip-hop",
+          "count": 2
+        },
+        {
+          "name": "pop rap",
+          "count": 3
+        },
+        {
+          "name": "rap hip hop",
+          "count": 1
+        }
+      ],
+      "id": "77befaa0-662e-3d84-ba45-c862e16dc109",
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "The Black Album",
+      "primary-type": "Album",
+      "first-release-date": "2003-11-14",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2011",
+      "title": "Original Album Classics",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "796a7f09-c70a-4f6a-8efa-028db3f08d7f",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "genres": [
+        {
+          "count": 1,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop"
+        }
+      ],
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ],
+      "secondary-types": [],
+      "id": "79a65e45-7042-4440-b1e5-d030ed138307",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "H•A•M",
+      "first-release-date": "2010-01-11",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2004-11-30",
+      "title": "Numb/Encore",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "7c1014eb-454c-3867-8854-3c95d265f8de",
+      "secondary-types": [],
+      "tags": [
+        {
+          "name": "alternative",
+          "count": 1
+        },
+        {
+          "name": "alternative metal",
+          "count": 2
+        },
+        {
+          "name": "alternative rock",
+          "count": 2
+        },
+        {
+          "name": "heavy metal",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "name": "post-grunge",
+          "count": 1
+        },
+        {
+          "name": "rap metal",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rap rock"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "id": "7983ff25-ddf9-411e-a7f9-6cca238bff79",
+          "disambiguation": "",
+          "name": "alternative metal",
+          "count": 2
+        },
+        {
+          "count": 2,
+          "disambiguation": "",
+          "name": "alternative rock",
+          "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal",
+          "disambiguation": "",
+          "id": "a6719055-99c4-47eb-beaa-71081f2376f9"
+        },
+        {
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "post-grunge",
+          "id": "bbb1310c-24cb-4fc9-97c4-f93e4549f1e2"
+        },
+        {
+          "count": 1,
+          "name": "rap metal",
+          "disambiguation": "",
+          "id": "22623d74-4676-4853-aed9-921ae6fad495"
+        },
+        {
+          "count": 1,
+          "name": "rap rock",
+          "disambiguation": "",
+          "id": "b4b184b7-6224-478e-a273-f9da9ee30136"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7d46184b-8650-4b8c-b2da-2a2bac2af65b",
+      "secondary-types": [
+        "Remix"
+      ],
+      "title": "American Wonder",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2011",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "first-release-date": "2005",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "7eefca23-0505-37f3-b40f-34ace88363a1",
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "title": "God's Gift: The Nas/Jay-Z Project",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "tags": [],
+      "genres": [],
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ]
+    },
+    {
+      "secondary-types": [],
+      "id": "806329bf-f77d-33ed-a831-75120d907c4d",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Sunshine",
+      "first-release-date": "1997-10-13",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [
+        {
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop rap",
+          "disambiguation": "",
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237"
+        }
+      ],
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        },
+        {
+          "name": "pop rap",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "888bb479-46cd-3c66-bf33-434b7c6ec2b7",
+      "secondary-types": [
+        "Remix"
+      ],
+      "title": "The Re‐Mix",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2004-05-01",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "genres": [],
+      "tags": [
+        {
+          "count": 1,
+          "name": "alt metal"
+        }
+      ]
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "alt hip hop"
+        },
+        {
+          "count": 1,
+          "name": "alternative & punk"
+        },
+        {
+          "name": "alternative and punk",
+          "count": 8
+        },
+        {
+          "name": "alternative hip hop",
+          "count": 1
+        },
+        {
+          "name": "alternative metal",
+          "count": 8
+        },
+        {
+          "name": "alternative punk",
+          "count": 1
+        },
+        {
+          "count": 6,
+          "name": "crossover"
+        },
+        {
+          "name": "east coast hip hop",
+          "count": 4
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "name": "hardcore hip hop",
+          "count": 1
+        },
+        {
+          "name": "hardcore rap",
+          "count": 3
+        },
+        {
+          "count": 4,
+          "name": "heavy metal"
+        },
+        {
+          "count": 7,
+          "name": "hip hop"
+        },
+        {
+          "count": 2,
+          "name": "hip-hop"
+        },
+        {
+          "count": 5,
+          "name": "mash up"
+        },
+        {
+          "name": "nu metal",
+          "count": 6
+        },
+        {
+          "count": 2,
+          "name": "nü metal"
+        },
+        {
+          "name": "pop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop rap"
+        },
+        {
+          "name": "pop/rock",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "rap hip-hop"
+        },
+        {
+          "name": "rap metal",
+          "count": 3
+        },
+        {
+          "count": 1,
+          "name": "rap rock"
+        },
+        {
+          "name": "rap-metal",
+          "count": 2
+        },
+        {
+          "name": "rock",
+          "count": 2
+        }
+      ],
+      "genres": [
+        {
+          "id": "924943cd-73c8-45c0-96eb-74f2a15e5d6e",
+          "disambiguation": "",
+          "name": "alternative hip hop",
+          "count": 1
+        },
+        {
+          "count": 8,
+          "id": "7983ff25-ddf9-411e-a7f9-6cca238bff79",
+          "disambiguation": "",
+          "name": "alternative metal"
+        },
+        {
+          "id": "e096efc6-6c9c-4240-b627-d7bbb5e8fa2a",
+          "disambiguation": "",
+          "name": "alternative punk",
+          "count": 1
+        },
+        {
+          "count": 4,
+          "disambiguation": "",
+          "name": "east coast hip hop",
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "count": 1,
+          "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90",
+          "name": "hardcore hip hop",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "heavy metal",
+          "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+          "count": 4
+        },
+        {
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": "",
+          "count": 7
+        },
+        {
+          "count": 6,
+          "id": "bbad9cda-bde2-448e-821c-7ebf85a54020",
+          "disambiguation": "",
+          "name": "nu metal"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        },
+        {
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "name": "pop rap",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "id": "22623d74-4676-4853-aed9-921ae6fad495",
+          "name": "rap metal",
+          "disambiguation": "",
+          "count": 3
+        },
+        {
+          "count": 1,
+          "id": "b4b184b7-6224-478e-a273-f9da9ee30136",
+          "name": "rap rock",
+          "disambiguation": ""
+        },
+        {
+          "count": 2,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-type-ids": [],
+      "first-release-date": "2004-11-29",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-types": [],
+      "id": "8ef859e3-feb2-4dd1-93da-22b91280d768",
+      "primary-type": "EP",
+      "disambiguation": "",
+      "title": "MTV Ultimate Mash‐Ups Presents: Collision Course"
+    },
+    {
+      "first-release-date": "2009-09-08",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "id": "8f046e37-21ef-46de-9aa6-4f89e3d48bbb",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "The Blueprint 3",
+      "tags": [
+        {
+          "count": 4,
+          "name": "east coast hip hop"
+        },
+        {
+          "name": "east coast rap",
+          "count": 2
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "name": "hardcore rap",
+          "count": 3
+        },
+        {
+          "count": 8,
+          "name": "hip hop"
+        },
+        {
+          "name": "hip hop rap",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "pop rap"
+        },
+        {
+          "count": 1,
+          "name": "pop/r&b"
+        },
+        {
+          "name": "rap",
+          "count": 3
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "name": "east coast hip hop",
+          "disambiguation": "",
+          "count": 4
+        },
+        {
+          "count": 1,
+          "name": "electronic",
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "count": 8,
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        },
+        {
+          "count": 3,
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "disambiguation": "",
+          "name": "pop rap"
+        }
+      ]
+    },
+    {
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "first-release-date": "1996-10-22",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [],
+      "id": "90d719d8-d409-4d0c-9d9a-12e2d56a884a",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Can’t Knock the Hustle"
+    },
+    {
+      "tags": [],
+      "genres": [],
+      "secondary-type-ids": [],
+      "first-release-date": "1997",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "90e82a5d-8dec-44e3-bc79-1909c423f1a7",
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "Who You Wit",
+      "primary-type": "Single"
+    },
+    {
+      "genres": [],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "tags": [],
+      "primary-type": "EP",
+      "disambiguation": "",
+      "title": "Live From the Hangar Tour",
+      "secondary-types": [
+        "Live"
+      ],
+      "id": "965cface-1731-46bb-8cc1-0d62a5d49740",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "2019-12-05"
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "count": 1,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop"
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "1996-02-20",
+      "primary-type": "Single",
+      "title": "Dead Presidents",
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "9dc6955c-b819-35da-9188-b3254fafcfec"
+    },
+    {
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "first-release-date": "1994",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [],
+      "id": "9f58f849-59db-4bab-b737-cf50a34d2d89",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "In My Lifetime / I Can’t Get Wid Dat"
+    },
+    {
+      "tags": [
+        {
+          "count": 2,
+          "name": "alternative metal"
+        },
+        {
+          "count": 1,
+          "name": "crossover"
+        },
+        {
+          "count": 1,
+          "name": "east coast hip hop"
+        },
+        {
+          "name": "hardcore hip hop",
+          "count": 2
+        },
+        {
+          "name": "heavy metal",
+          "count": 1
+        },
+        {
+          "name": "hip hop",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "nu metal"
+        },
+        {
+          "name": "post-grunge",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rap metal"
+        },
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "count": 2,
+          "disambiguation": "",
+          "name": "alternative metal",
+          "id": "7983ff25-ddf9-411e-a7f9-6cca238bff79"
+        },
+        {
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "name": "east coast hip hop",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90",
+          "disambiguation": "",
+          "name": "hardcore hip hop",
+          "count": 2
+        },
+        {
+          "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+          "disambiguation": "",
+          "name": "heavy metal",
+          "count": 1
+        },
+        {
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop",
+          "count": 2
+        },
+        {
+          "name": "nu metal",
+          "disambiguation": "",
+          "id": "bbad9cda-bde2-448e-821c-7ebf85a54020",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "post-grunge",
+          "id": "bbb1310c-24cb-4fc9-97c4-f93e4549f1e2",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "rap metal",
+          "disambiguation": "",
+          "id": "22623d74-4676-4853-aed9-921ae6fad495"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        }
+      ],
+      "first-release-date": "2004-11-15",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [],
+      "id": "a3ea5d93-476e-4f23-bbb7-7a3e4196abc6",
+      "primary-type": "Single",
+      "title": "Dirt Off Your Shoulder/Lying from You",
+      "disambiguation": ""
+    },
+    {
+      "tags": [
+        {
+          "count": 2,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "oldies"
+        },
+        {
+          "name": "pop rap",
+          "count": 3
+        }
+      ],
+      "genres": [
+        {
+          "count": 2,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": ""
+        },
+        {
+          "count": 3,
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "name": "pop rap",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "2010-11-08",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "a6b05024-8298-47bd-969e-b4a725525806",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "The Hits Collection Volume One"
+    },
+    {
+      "title": "Reasonable Doubt",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "a7f852ba-08bc-36f1-92f3-4dc127f4b70a",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1996-06-25",
+      "genres": [
+        {
+          "name": "boom bap",
+          "disambiguation": "",
+          "id": "d8048b43-9edb-4e1a-aa88-bb91fa847d4a",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "east coast hip hop",
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "id": "bc8c2f79-dcea-43f3-962b-f0663868d42c",
+          "name": "gangsta rap",
+          "disambiguation": ""
+        },
+        {
+          "count": 3,
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        },
+        {
+          "count": 1,
+          "id": "6061fb1b-d733-4643-a3d4-940c9a5e2ab8",
+          "disambiguation": "",
+          "name": "jazz rap"
+        }
+      ],
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "count": 1,
+          "name": "boom bap"
+        },
+        {
+          "count": 1,
+          "name": "east coast hip hop"
+        },
+        {
+          "count": 2,
+          "name": "gangsta rap"
+        },
+        {
+          "count": 3,
+          "name": "hip hop"
+        },
+        {
+          "count": 3,
+          "name": "hip hop rap"
+        },
+        {
+          "count": 1,
+          "name": "jazz rap"
+        }
+      ]
+    },
+    {
+      "tags": [],
+      "secondary-type-ids": [],
+      "genres": [],
+      "first-release-date": "1996",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-types": [],
+      "id": "a90b84f0-7021-432e-bd0e-801014090b5c",
+      "primary-type": "EP",
+      "disambiguation": "",
+      "title": "Hustlers EP"
+    },
+    {
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "count": 1,
+          "name": "alternative hip hop",
+          "disambiguation": "",
+          "id": "924943cd-73c8-45c0-96eb-74f2a15e5d6e"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "chipmunk soul",
+          "id": "cec1580a-ef3c-4928-b302-58015335c7b0"
+        },
+        {
+          "count": 7,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": ""
+        },
+        {
+          "count": 7,
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "name": "pop rap",
+          "disambiguation": ""
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative hip hop"
+        },
+        {
+          "count": 1,
+          "name": "chipmunk soul"
+        },
+        {
+          "name": "conscious",
+          "count": 2
+        },
+        {
+          "name": "hip hop",
+          "count": 7
+        },
+        {
+          "count": 7,
+          "name": "pop rap"
+        }
+      ],
+      "disambiguation": "",
+      "title": "Watch the Throne",
+      "primary-type": "Album",
+      "id": "a96597aa-93b4-4e14-9e6e-03892ab24979",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2011-08-08"
+    },
+    {
+      "genres": [
+        {
+          "count": 2,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop rap",
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237"
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "pop rap"
+        }
+      ],
+      "id": "a9ffe73c-c44a-3223-a5c2-4094733283af",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "title": "Greatest Hits",
+      "primary-type": "Album",
+      "first-release-date": "2006-08-21",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "genres": [
+        {
+          "count": 1,
+          "id": "cec1580a-ef3c-4928-b302-58015335c7b0",
+          "name": "chipmunk soul",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "name": "conscious hip hop",
+          "disambiguation": "",
+          "id": "c0e73bb6-37a4-485e-aaea-11c63b40c9f3"
+        },
+        {
+          "count": 1,
+          "name": "east coast hip hop",
+          "disambiguation": "",
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86"
+        },
+        {
+          "count": 3,
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "name": "chipmunk soul",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "conscious hip hop"
+        },
+        {
+          "name": "east coast hip hop",
+          "count": 1
+        },
+        {
+          "count": 3,
+          "name": "hip hop"
+        }
+      ],
+      "id": "aa35dd3d-b629-4a5f-abe9-a8463f80b37e",
+      "secondary-types": [],
+      "title": "4:44",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2017-06-30",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "The Blueprint Collector’s Edition",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "aabab579-ad67-482c-ba98-d96b26114c37",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2009-09-08",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "genres": [
+        {
+          "count": 2,
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2004-05-10",
+      "disambiguation": "",
+      "title": "99 Problems / Dirt Off Your Shoulder",
+      "primary-type": "Single",
+      "id": "ab47690e-fcdb-39a6-bd53-e1ba991d1b94",
+      "secondary-types": [],
+      "tags": [],
+      "genres": [],
+      "secondary-type-ids": []
+    },
+    {
+      "primary-type": "Album",
+      "title": "The Best of Both Worlds",
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "ab707828-0ec1-32ef-aada-fd1bc503da52",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2002-03-26",
+      "genres": [
+        {
+          "name": "contemporary r&b",
+          "disambiguation": "",
+          "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "east coast hip hop",
+          "disambiguation": "",
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86"
+        },
+        {
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": "",
+          "count": 2
+        },
+        {
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "disambiguation": "",
+          "name": "pop rap",
+          "count": 3
+        }
+      ],
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "name": "contemporary r&b",
+          "count": 1
+        },
+        {
+          "name": "east coast hip hop",
+          "count": 1
+        },
+        {
+          "name": "hip hop",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "name": "hip-hop"
+        },
+        {
+          "count": 3,
+          "name": "pop rap"
+        },
+        {
+          "count": 1,
+          "name": "rnb swing"
+        }
+      ]
+    },
+    {
+      "genres": [
+        {
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 2
+        }
+      ],
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "count": 2,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "hip-hop"
+        }
+      ],
+      "id": "b6a51622-99fe-3908-95dd-6826cc4adb4a",
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "Stop / Excuse Me Miss Again",
+      "primary-type": "Single",
+      "first-release-date": "2003",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    {
+      "tags": [],
+      "genres": [],
+      "secondary-type-ids": [],
+      "first-release-date": "1998",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [],
+      "id": "b9902021-3e6e-46ab-accb-76f0aae48eb5",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Nigga What, Nigga Who"
+    },
+    {
+      "first-release-date": "2010-07-19",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "be41ae87-4531-44a1-bdd7-7bd718f32e62",
+      "secondary-types": [
+        "DJ-mix",
+        "Mixtape/Street"
+      ],
+      "title": "Creative Control",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [
+        "0d47f47a-3fe5-3d69-ac9d-d566c23968bf",
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "genres": [
+        {
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 1
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "1996",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Ain’t No Nigga",
+      "secondary-types": [],
+      "id": "bfffe199-8100-47dc-8cc6-e09f763eb022"
+    },
+    {
+      "secondary-types": [],
+      "id": "c0353546-6ada-4de1-a6ac-a15482c9653d",
+      "primary-type": "Single",
+      "title": "Meiplé",
+      "disambiguation": "",
+      "first-release-date": "2009-12-01",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "genres": [],
+      "tags": []
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2002-11-12",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "The Blueprint²: The Gift & The Curse",
+      "secondary-types": [],
+      "id": "c0cdbbdd-006d-3f4a-90bb-31e259d839e4",
+      "tags": [
+        {
+          "count": 1,
+          "name": "cd 1"
+        },
+        {
+          "count": 1,
+          "name": "east coast hip hop"
+        },
+        {
+          "name": "east coast rap",
+          "count": 1
+        },
+        {
+          "name": "hardcore hip hop",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "name": "hardcore rap"
+        },
+        {
+          "name": "hip hop",
+          "count": 5
+        },
+        {
+          "name": "hip hop rap",
+          "count": 2
+        },
+        {
+          "count": 3,
+          "name": "hip-hop"
+        },
+        {
+          "name": "rap",
+          "count": 2
+        }
+      ],
+      "genres": [
+        {
+          "name": "east coast hip hop",
+          "disambiguation": "",
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "count": 1
+        },
+        {
+          "id": "12b013ff-cf03-4fa0-8e1b-c9b7f5d27f90",
+          "name": "hardcore hip hop",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 5,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop"
+        }
+      ],
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "genres": [],
+      "tags": [],
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "id": "c7e6e687-d01f-4886-b182-03212e8b5c6b",
+      "primary-type": "Album",
+      "title": "God's Black",
+      "disambiguation": "",
+      "first-release-date": "2004-11-09",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "tags": [],
+      "genres": [],
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "first-release-date": "2004",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "c87cf1c3-8893-353c-b831-6de6ba86f19d",
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "title": "The Purple Album",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "tags": [
+        {
+          "name": "east coast hip hop",
+          "count": 1
+        },
+        {
+          "name": "hip hop",
+          "count": 1
+        }
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86",
+          "name": "east coast hip hop",
+          "disambiguation": ""
+        },
+        {
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "first-release-date": "2006-12-04",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "c93c4eb4-91ee-3ee7-8607-dcad89aa2d4b",
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "Show Me What You Got",
+      "primary-type": "Single"
+    },
+    {
+      "tags": [],
+      "genres": [],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2011-03-23",
+      "disambiguation": "",
+      "title": "Headliner & Legends",
+      "primary-type": "Album",
+      "id": "cb584f95-7ca5-4a7f-84e0-73e54658aa3e",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2009-10-27",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "DJ Hero Renegade Edition",
+      "secondary-types": [
+        "Soundtrack"
+      ],
+      "id": "cfd0f1c1-fc85-4cf1-8b7a-8a4e77951f8a",
+      "tags": [
+        {
+          "count": 1,
+          "name": "gangsta rap"
+        },
+        {
+          "name": "hip hop",
+          "count": 2
+        },
+        {
+          "count": 3,
+          "name": "pop rap"
+        },
+        {
+          "count": 1,
+          "name": "us"
+        },
+        {
+          "name": "vgm",
+          "count": 1
+        }
+      ],
+      "genres": [
+        {
+          "name": "gangsta rap",
+          "disambiguation": "",
+          "id": "bc8c2f79-dcea-43f3-962b-f0663868d42c",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 2
+        },
+        {
+          "count": 3,
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "disambiguation": "",
+          "name": "pop rap"
+        }
+      ],
+      "secondary-type-ids": [
+        "22a628ad-c082-3c4f-b1b6-d41665107b88"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "genres": [
+        {
+          "count": 3,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop"
+        }
+      ],
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 3
+        }
+      ],
+      "id": "d003c3ef-7a25-49ef-a1e8-576e2c0ed93e",
+      "secondary-types": [
+        "Live"
+      ],
+      "title": "2008-06-28: Glastonbury Festival of Contemporary Performing Arts, UK",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2008-06-28",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "title": "The Red Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Remix",
+        "Mixtape/Street"
+      ],
+      "id": "d0d0ee78-cf91-453c-8410-6dd21e19d8b2",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2009",
+      "genres": [
+        {
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b",
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b",
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": ""
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2008",
+      "disambiguation": "",
+      "title": "The Best of Both Coasts: Exclusive Remixes",
+      "primary-type": "Album",
+      "id": "d15dfcdb-7400-4d45-8f55-ce9b6cba5c84",
+      "secondary-types": [
+        "Remix",
+        "Mixtape/Street"
+      ]
+    },
+    {
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2000-02-14",
+      "primary-type": "Single",
+      "title": "Anything",
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "d5e53edc-fb50-3582-9d39-8b7977232145"
+    },
+    {
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "id": "d76fa31e-6623-4eb4-99e5-ac4a9a2ae439",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Jay-Z Sings the Blues “The Forgotten Stories”",
+      "first-release-date": "2008",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [],
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "tags": []
+    },
+    {
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "genres": [
+        {
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop",
+          "count": 1
+        }
+      ],
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        }
+      ],
+      "id": "d77dd87a-fd61-489a-ba92-49443e4410c0",
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "title": "Operation Desert Storm, Part 2",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2003",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "tags": [
+        {
+          "count": 3,
+          "name": "east coast hip hop"
+        },
+        {
+          "name": "east coast rap;hardcore rap;pop-rap;rap",
+          "count": 1
+        },
+        {
+          "name": "hip hop",
+          "count": 6
+        },
+        {
+          "count": 1,
+          "name": "hip hop rap"
+        },
+        {
+          "name": "pop rap",
+          "count": 3
+        }
+      ],
+      "genres": [
+        {
+          "count": 3,
+          "disambiguation": "",
+          "name": "east coast hip hop",
+          "id": "1bafab01-c092-47bc-84ee-a6b503b3cb86"
+        },
+        {
+          "count": 6,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop"
+        },
+        {
+          "disambiguation": "",
+          "name": "pop rap",
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "count": 3
+        }
+      ],
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2006-11-17",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Kingdom Come",
+      "secondary-types": [],
+      "id": "d8f91a57-9c02-3a83-81c5-b99c572c7a10"
+    },
+    {
+      "disambiguation": "",
+      "title": "Monster",
+      "primary-type": "Single",
+      "id": "decefff8-4623-476e-bd07-1cd864ef13e2",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2010-08-27",
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "deefd275-7d40-3ac9-83eb-7152b8aebc33",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Inventing the Remix, Part 1",
+      "first-release-date": "2004",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "name": "hip hop",
+          "disambiguation": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "tags": [],
+      "secondary-type-ids": [],
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2010-10-29",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "The Joy",
+      "secondary-types": [],
+      "id": "e4f5ae47-c1e4-4a86-9113-31acf265b9fd"
+    },
+    {
+      "id": "e98ad551-1073-3ee7-b112-a95b5ef0a4e3",
+      "secondary-types": [],
+      "title": "Collabo EP",
+      "disambiguation": "",
+      "primary-type": "EP",
+      "first-release-date": "2002",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "count": 1,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop"
+        }
+      ],
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "hip-hop"
+        }
+      ]
+    },
+    {
+      "id": "eab33a57-2413-3c14-adb5-27e3720ce4eb",
+      "secondary-types": [],
+      "title": "Big Pimpin’",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "first-release-date": "2000-06-12",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 2
+        }
+      ],
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "title": "Empire State of Mind",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "eb868fd7-c9ca-44b1-b887-b3802492136e",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2009-10-20",
+      "genres": [
+        {
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop",
+          "count": 4
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+        }
+      ],
+      "tags": [
+        {
+          "name": "east coast rap",
+          "count": 1
+        },
+        {
+          "name": "hardcore rap",
+          "count": 1
+        },
+        {
+          "count": 4,
+          "name": "hip hop"
+        },
+        {
+          "count": 2,
+          "name": "hip-hop"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ],
+      "disambiguation": "",
+      "title": "Magna Carta… Holy Grail",
+      "primary-type": "Album",
+      "id": "ec8d1e4a-2413-407a-8192-f3cdcf1d5dad",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2013-07-04"
+    },
+    {
+      "tags": [],
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ],
+      "genres": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2007",
+      "primary-type": "Album",
+      "title": "The Latin Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "id": "ecb425e0-63bf-3793-85e5-83df713ba5f6"
+    },
+    {
+      "first-release-date": "",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-types": [
+        "Mixtape/Street"
+      ],
+      "id": "ef9c3e7c-d731-4e87-9b0a-5994dc56c02a",
+      "primary-type": "EP",
+      "title": "The Blueprint 3",
+      "disambiguation": "",
+      "tags": [],
+      "genres": [],
+      "secondary-type-ids": [
+        "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2011",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "The Best Of",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "f43bb772-447c-4115-b6cc-69a1b38aae97",
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "pop rap"
+        }
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "hip hop",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "count": 1
+        },
+        {
+          "id": "da2fc3b4-b97d-491a-ac0f-8a731bee7237",
+          "name": "pop rap",
+          "disambiguation": "",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "tags": [
+        {
+          "name": "hip hop",
+          "count": 1
+        }
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        }
+      ],
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2007-11-23",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Roc Boys (And the Winner Is)...",
+      "secondary-types": [],
+      "id": "f74e03b4-b9f4-4019-8785-d4c6eac3216f"
+    },
+    {
+      "secondary-type-ids": [],
+      "genres": [],
+      "tags": [],
+      "id": "fbe1d744-7686-3cd0-9306-f25eddd453c8",
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "Izzo (H.o.V.a.)",
+      "primary-type": "Single",
+      "first-release-date": "2001-08-21",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    {
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+          "disambiguation": "",
+          "name": "hip hop"
+        }
+      ],
+      "secondary-type-ids": [],
+      "first-release-date": "2006",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "fc50099c-c049-43b7-a350-47659317ad28",
+      "secondary-types": [],
+      "title": "Upgrade U",
+      "disambiguation": "",
+      "primary-type": "Single"
+    },
+    {
+      "first-release-date": "1998-02-03",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [],
+      "id": "ffbada63-9ce0-4d9c-830d-5cb0a4a24040",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "The City is Mine",
+      "tags": [],
+      "secondary-type-ids": [],
+      "genres": []
+    }
+  ],
+  "release-group-count": 198
+}
