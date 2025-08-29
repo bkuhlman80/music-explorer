@@ -28,10 +28,11 @@ pull:
 	@mkdir -p data/raw
 	@$(ACT) && PYTHONPATH=$(PWD) $(PY) -m app.pipeline.pull_sample \
 		--base-url "$(MB_BASE_URL)" \
-		--user-agent "$(USER_AGENT)" \
+		--user-agent '$(USER_AGENT)' \
 		--rate-limit-ms $(MB_RATE_LIMIT_MS) \
 		--seed "$(if $(ARTIST),$(ARTIST),$(ARTISTS_SEED))" \
 		--outdir data/raw
+
 
 clean:
 	@$(ACT) && PYTHONPATH=$(PWD) $(PY) -m app.pipeline.clean
