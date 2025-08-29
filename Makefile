@@ -1,18 +1,14 @@
-# Music Explorer Makefile
-
-# --- env ---
 ifneq (,$(wildcard env/.env))
 include env/.env
 export
 endif
 PY := python3
 VENV := .venv
-ACT := source $(VENV)/bin/activate
+ACT := . $(VENV)/bin/activate
 
 .PHONY: all setup freeze pull clean build lint fmt test figures report run deploy clobber reset dictionary dictionary-enrich restart ci
 all: setup build test
 
-# --- environment ---
 setup:
 	@test -d $(VENV) || $(PY) -m venv $(VENV)
 	@$(ACT) && $(PY) -m pip install --upgrade pip
@@ -22,17 +18,14 @@ setup:
 freeze:
 	@$(ACT) && pip freeze > env/requirements.txt
 
-# --- data pipeline ---
-# make pull ARTIST="Radiohead"  # else uses ARTISTS_SEED from .env
 pull:
 	@mkdir -p data/raw
 	@$(ACT) && PYTHONPATH=$(PWD) $(PY) -m app.pipeline.pull_sample \
-		--base-url "$(MB_BASE_URL)" \
-		--user-agent '$(USER_AGENT)' \
+		--base-url $(MB_BASE_URL) \
+		--user-agent $(USER_AGENT) \
 		--rate-limit-ms $(MB_RATE_LIMIT_MS) \
-		--seed "$(if $(ARTIST),$(ARTIST),$(ARTISTS_SEED))" \
+		--seed $(ARTISTS_SEED) \
 		--outdir data/raw
-
 
 clean:
 	@$(ACT) && PYTHONPATH=$(PWD) $(PY) -m app.pipeline.clean
@@ -46,7 +39,6 @@ dictionary:
 dictionary-enrich:
 	@$(ACT) && $(PY) app/tools/enrich_dictionary.py --infile DATA_DICTIONARY.csv --outfile DATA_DICTIONARY_enriched.csv
 
-# --- quality ---
 lint:
 	@$(ACT) && ruff check app tests
 	@$(ACT) && black --check app tests
@@ -57,14 +49,12 @@ fmt:
 test:
 	@$(ACT) && pytest -q
 
-# --- artifacts ---
 figures:
 	@$(ACT) && $(PY) app/figures/export.py
 
 report:
 	@$(ACT) && $(PY) app/report/build.py
 
-# --- app ---
 run:
 	@$(ACT) && streamlit run app/Main.py --server.port $(STREAMLIT_PORT)
 
@@ -72,10 +62,8 @@ restart:
 	@pkill -f "streamlit run" || true
 	@$(ACT) && streamlit run app/Main.py --server.port $(STREAMLIT_PORT)
 
-# --- CI bundle ---
 ci: setup lint clean build test report
 
-# --- housekeeping ---
 clobber:
 	@rm -rf data/clean/* data/marts/* docs/figures/* docs/report.pdf
 
