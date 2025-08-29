@@ -48,8 +48,12 @@ jobs:
             STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
             ENV
 
-      - name: Debug .env
-        run: cat env/.env
+      - name: Debug Make pull
+        run: |
+          set -x
+          make -n pull
+          cat env/.env
+
 
       - name: Pull raw (skip if no UA)
         run: |

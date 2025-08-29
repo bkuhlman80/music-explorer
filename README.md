@@ -22,6 +22,8 @@ The result is a reproducible, cloud-hosted portfolio artifact that highlights sk
 - Average session depth of ≥ 3 unique views per user.  
 
 ---
+![CI](https://github.com/bkuhlman80/music-explorer/actions/workflows/ci.yml/badge.svg)
+
 
 ## Repo Map
 
