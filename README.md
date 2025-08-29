@@ -42,4 +42,4 @@ env/
 requirements.txt # Python dependencies
 DATA_DICTIONARY.csv # Schema of raw → clean → marts
 PROVENANCE.md # Data pull commands and logs
-LICENSE_NOTES.md # Reuse terms for data/code
+LICENSE_NOTES.md # Reuse terms for data/code# Trigger CI
