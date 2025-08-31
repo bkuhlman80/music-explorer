@@ -3,9 +3,18 @@ on:
   push: { branches: [ main ] }
   pull_request: { branches: [ main ] }
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build-test-report:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: [ "3.11", "3.12", "3.13" ]
+
     env:
       PYTHONUTF8: "1"
       STREAMLIT_BROWSER_GATHER_USAGE_STATS: "false"
@@ -18,13 +27,15 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
-        with: { python-version: "3.11" }
+        with:
+          python-version: ${{ matrix.python-version }}
 
-      - uses: actions/cache@v4
+      - name: Pip cache
+        uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('env/requirements.txt') }}
-          restore-keys: ${{ runner.os }}-pip-
+          key: ${{ runner.os }}-${{ matrix.python-version }}-pip-${{ hashFiles('env/requirements.txt', 'env/requirements-dev.txt') }}
+          restore-keys: ${{ runner.os }}-${{ matrix.python-version }}-pip-
 
       - name: Install deps (locked)
         run: |
@@ -33,24 +44,18 @@ jobs:
 
       - name: Write .env
         run: |
-            mkdir -p env
-            cat > env/.env <<ENV
-            USER_AGENT="${USER_AGENT}"
-            MB_BASE_URL="${MB_BASE_URL}"
-            MB_RATE_LIMIT_MS=${MB_RATE_LIMIT_MS}
-            MB_MAX_RETRIES=3
-            MB_TIMEOUT_S=30
-            ARTISTS_SEED="${ARTISTS_SEED}"
-            TZ="UTC"
-            STREAMLIT_PORT=8501
-            STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
-            ENV
-
-      - name: Debug Make pull
-        run: |
-          set -x
-          make -n pull
-          cat env/.env
+          mkdir -p env
+          cat > env/.env <<ENV
+          USER_AGENT="${USER_AGENT}"
+          MB_BASE_URL="${MB_BASE_URL}"
+          MB_RATE_LIMIT_MS=${MB_RATE_LIMIT_MS}
+          MB_MAX_RETRIES=3
+          MB_TIMEOUT_S=30
+          ARTISTS_SEED="${ARTISTS_SEED}"
+          TZ="UTC"
+          STREAMLIT_PORT=8501
+          STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
+          ENV
 
       - name: Pull raw (skip if no UA)
         run: |
@@ -63,22 +68,29 @@ jobs:
       - name: Build marts
         run: source .venv/bin/activate && make build
 
-      - name: Tests
-        run: source .venv/bin/activate && make test
+      - name: Lint
+        run: source .venv/bin/activate && make lint
 
       - name: Figures
-        run: source .venv/bin/activate && make figures || true
+        run: source .venv/bin/activate && make figures
+        
+      - name: Tests
+        run: source .venv/bin/activate && make test
 
       - name: Report
         run: source .venv/bin/activate && make report
 
+      - name: Profile data dictionary
+        run: source .venv/bin/activate && make profile-dict
+
       - name: Upload artifacts
+        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: music-explorer-artifacts
+          name: music-explorer-${{ matrix.python-version }}
+          if-no-files-found: warn
           path: |
             docs/report.pdf
             docs/figures/*.png
+            docs/DATA_DICTIONARY_profile.csv
             data/marts/*.csv
-          if-no-files-found: warn
-        

@@ -4,9 +4,7 @@ import pytest
 from datetime import datetime, UTC
 NOW_YEAR = datetime.now(UTC).year
 
-
 MARTS = Path("data/marts")
-NOW_YEAR = datetime.utcnow().year
 
 def load_csv(p: Path) -> pd.DataFrame:
     if not p.exists():

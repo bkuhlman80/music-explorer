@@ -1,0 +1,338 @@
+decade,genre,count
+1940,blues,1
+1940,dixieland,1
+1940,jazz,2
+1940,ragtime,1
+1950,ballad,2
+1950,big band,1
+1950,blue-eyed soul,1
+1950,blues,1
+1950,blues rock,1
+1950,christmas music,1
+1950,country gospel,1
+1950,dixieland,3
+1950,gospel,2
+1950,jazz,14
+1950,musical,1
+1950,opera,1
+1950,pop,5
+1950,pop rock,2
+1950,ragtime,1
+1950,rock,8
+1950,rock and roll,8
+1950,rockabilly,6
+1950,smooth jazz,2
+1950,southern gospel,1
+1950,swing,4
+1950,traditional pop,3
+1950,vocal jazz,8
+1960,ballad,2
+1960,blue-eyed soul,1
+1960,blues,1
+1960,country,2
+1960,country soul,1
+1960,dixieland,7
+1960,gospel,2
+1960,jazz,17
+1960,jazz pop,1
+1960,pop,13
+1960,pop rock,3
+1960,ragtime,1
+1960,rock,10
+1960,rock and roll,9
+1960,rockabilly,9
+1960,soul,1
+1960,southern gospel,2
+1960,swing,7
+1960,traditional country,1
+1960,traditional pop,2
+1960,vocal jazz,2
+1970,ballad,9
+1970,big band,3
+1970,blue-eyed soul,1
+1970,blues,3
+1970,chicago blues,1
+1970,christmas music,2
+1970,classic rock,1
+1970,contemporary gospel,2
+1970,cool jazz,1
+1970,country,9
+1970,country gospel,1
+1970,country pop,1
+1970,country rock,3
+1970,dixieland,4
+1970,folk rock,1
+1970,gospel,5
+1970,hip hop,1
+1970,jazz,17
+1970,lounge,1
+1970,pop,30
+1970,pop rock,13
+1970,progressive country,1
+1970,r&b,1
+1970,rock,37
+1970,rock and roll,19
+1970,rockabilly,14
+1970,soft rock,1
+1970,soul,1
+1970,southern gospel,2
+1970,swing,9
+1970,traditional country,1
+1980,ballad,1
+1980,big band,3
+1980,blues,4
+1980,country,3
+1980,dixieland,4
+1980,gospel,1
+1980,jazz,15
+1980,pop,4
+1980,pop rock,2
+1980,rock,7
+1980,rock and roll,7
+1980,swing,3
+1980,traditional pop,1
+1980,vocal jazz,2
+1990,acid house,1
+1990,alternative rock,26
+1990,art pop,1
+1990,art rock,2
+1990,blues,2
+1990,boom bap,1
+1990,breaks,1
+1990,britpop,4
+1990,chicago house,1
+1990,dance,1
+1990,deep house,2
+1990,disco,1
+1990,downtempo,1
+1990,east coast hip hop,4
+1990,electro,1
+1990,electronic,17
+1990,experimental,2
+1990,french house,5
+1990,gangsta rap,3
+1990,grunge,2
+1990,hardcore hip hop,3
+1990,hip hop,14
+1990,house,9
+1990,indie rock,8
+1990,jazz rap,1
+1990,leftfield,2
+1990,pop,1
+1990,pop rap,4
+1990,pop rock,2
+1990,post-britpop,2
+1990,psychedelic,1
+1990,rock,27
+1990,space rock revival,1
+1990,tech house,4
+1990,techno,5
+2000,acid house,2
+2000,alternative hip hop,1
+2000,alternative metal,3
+2000,alternative punk,1
+2000,alternative rock,19
+2000,art pop,2
+2000,art rock,12
+2000,avant-garde,1
+2000,ballad,3
+2000,big beat,1
+2000,breakbeat,3
+2000,britpop,1
+2000,broken beat,1
+2000,chipmunk soul,1
+2000,christmas music,6
+2000,classic rock,1
+2000,classical,1
+2000,contemporary christian,1
+2000,contemporary country,6
+2000,contemporary r&b,3
+2000,country,23
+2000,country pop,12
+2000,country rock,3
+2000,dance,2
+2000,dance-pop,2
+2000,dance-rock,1
+2000,deep house,1
+2000,disco,8
+2000,downtempo,3
+2000,dream pop,1
+2000,east coast hip hop,13
+2000,edm,1
+2000,electro,10
+2000,electro house,3
+2000,electro-disco,1
+2000,electronic,47
+2000,electronic rock,1
+2000,electronica,2
+2000,euro house,1
+2000,eurodance,1
+2000,experimental,13
+2000,experimental rock,6
+2000,folk,1
+2000,french electro,1
+2000,french house,5
+2000,funk,1
+2000,funky house,1
+2000,gangsta rap,4
+2000,garage house,1
+2000,glitch,1
+2000,glitch pop,1
+2000,hardcore hip hop,8
+2000,heavy metal,3
+2000,hip hop,47
+2000,house,22
+2000,idm,2
+2000,indie folk,3
+2000,indie rock,6
+2000,instrumental,2
+2000,interview,1
+2000,jazz,1
+2000,jazz rock,1
+2000,krautrock,1
+2000,leftfield,3
+2000,neon pop punk,1
+2000,non-music,1
+2000,nu metal,2
+2000,pop,23
+2000,pop rap,11
+2000,pop rock,10
+2000,post-grunge,2
+2000,post-rock,1
+2000,progressive,1
+2000,progressive house,3
+2000,punk,1
+2000,rap metal,3
+2000,rap rock,2
+2000,rock,40
+2000,singer-songwriter,2
+2000,soul,1
+2000,southern rock,1
+2000,spoken word,1
+2000,synth funk,1
+2000,synth-pop,3
+2000,tech house,3
+2000,techno,7
+2000,teen pop,2
+2000,uk garage,1
+2010,alternative hip hop,1
+2010,alternative pop,3
+2010,alternative rock,15
+2010,ambient,4
+2010,ambient pop,3
+2010,arena rock,1
+2010,art pop,2
+2010,art rock,6
+2010,ballad,2
+2010,bluegrass,1
+2010,blues,1
+2010,boom bap,1
+2010,chamber pop,2
+2010,chipmunk soul,2
+2010,classical,1
+2010,conscious hip hop,1
+2010,contemporary country,3
+2010,contemporary r&b,4
+2010,country,18
+2010,country pop,15
+2010,country rock,10
+2010,dance,3
+2010,dance-pop,6
+2010,deep house,1
+2010,disco,4
+2010,downtempo,1
+2010,dream pop,1
+2010,dubstep,2
+2010,east coast hip hop,1
+2010,electric blues,1
+2010,electro,9
+2010,electro house,2
+2010,electro-disco,1
+2010,electronic,29
+2010,electronica,2
+2010,electropop,5
+2010,experimental,4
+2010,experimental rock,1
+2010,folk,1
+2010,folk pop,1
+2010,french house,1
+2010,funk,3
+2010,future bass,1
+2010,glitch,1
+2010,heartland rock,1
+2010,hip hop,12
+2010,house,10
+2010,idm,1
+2010,indie rock,5
+2010,instrumental,5
+2010,jazz,2
+2010,leftfield,2
+2010,lo-fi,1
+2010,modern classical,1
+2010,nu disco,2
+2010,orchestral,1
+2010,piano rock,1
+2010,pop,37
+2010,pop punk,2
+2010,pop rap,4
+2010,pop rock,16
+2010,power pop,1
+2010,progressive house,2
+2010,r&b,1
+2010,rock,33
+2010,singer-songwriter,4
+2010,soft rock,7
+2010,synth funk,1
+2010,synth-pop,4
+2010,synthwave,1
+2010,techno,4
+2010,trance,3
+2010,trap edm,1
+2020,acoustic rock,1
+2020,alternative country,1
+2020,alternative folk,1
+2020,alternative pop,7
+2020,alternative rock,6
+2020,ambient,11
+2020,americana,1
+2020,art rock,1
+2020,ballad,2
+2020,blues,2
+2020,chamber pop,2
+2020,chillwave,1
+2020,classical,2
+2020,contemporary country,9
+2020,contemporary folk,2
+2020,country,10
+2020,country pop,9
+2020,dance,1
+2020,dance-pop,1
+2020,downtempo,1
+2020,drill,1
+2020,east coast hip hop,1
+2020,electro house,1
+2020,electronic,19
+2020,electropop,2
+2020,experimental,1
+2020,experimental rock,1
+2020,folk,2
+2020,folk pop,4
+2020,heartland rock,1
+2020,house,6
+2020,hypnagogic pop,1
+2020,idm,1
+2020,indie folk,5
+2020,indie pop,2
+2020,indie rock,2
+2020,jazz,11
+2020,jersey club,1
+2020,pop,23
+2020,pop punk,1
+2020,pop rap,1
+2020,pop rock,8
+2020,power pop,1
+2020,rock,9
+2020,singer-songwriter,8
+2020,soft rock,1
+2020,synth-pop,7
+2020,trance,6
