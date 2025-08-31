@@ -6,17 +6,24 @@ PY := python3
 VENV := .venv
 ACT := . $(VENV)/bin/activate
 
-.PHONY: all setup freeze pull clean build lint fmt test figures report run deploy clobber reset dictionary dictionary-enrich restart ci
-all: setup build test
+.PHONY: all setup freeze lock lock-upgrade pull clean build lint fmt test figures report run deploy clobber reset dictionary dictionary-enrich profile-dict restart ci
 
 setup:
 	@test -d $(VENV) || $(PY) -m venv $(VENV)
-	@$(ACT) && $(PY) -m pip install --upgrade pip
-	@$(ACT) && $(PY) -m pip install -r env/requirements.txt
+	@$(ACT) && $(PY) -m pip install --upgrade pip pip-tools
+	@$(ACT) && pip-sync env/requirements.txt env/requirements-dev.txt
 	@echo "OK"
 
 freeze:
-	@$(ACT) && pip freeze > env/requirements.txt
+	@echo "Use 'make lock' or 'make lock-upgrade' instead."
+
+lock:
+	@$(ACT) && pip-compile --generate-hashes env/requirements.in  -o env/requirements.txt
+	@$(ACT) && pip-compile --generate-hashes env/dev.in           -o env/requirements-dev.txt
+
+lock-upgrade:
+	@$(ACT) && pip-compile --upgrade --generate-hashes env/requirements.in  -o env/requirements.txt
+	@$(ACT) && pip-compile --upgrade --generate-hashes env/dev.in           -o env/requirements-dev.txt
 
 pull:
 	@mkdir -p data/raw
@@ -36,8 +43,8 @@ build:
 dictionary:
 	@$(ACT) && $(PY) app/tools/emit_dictionary.py --indir data/raw --out DATA_DICTIONARY.csv
 
-dictionary-enrich:
-	@$(ACT) && $(PY) app/tools/enrich_dictionary.py --infile DATA_DICTIONARY.csv --outfile DATA_DICTIONARY_enriched.csv
+profile-dict:
+	@$(ACT) && $(PY) app/tools/profile_dictionary.py --out docs/DATA_DICTIONARY_profile.csv
 
 lint:
 	@$(ACT) && ruff check app tests
@@ -62,7 +69,7 @@ restart:
 	@pkill -f "streamlit run" || true
 	@$(ACT) && streamlit run app/Main.py --server.port $(STREAMLIT_PORT)
 
-ci: setup lint clean build test report
+ci: setup lint clean build test figures report profile-dict
 
 clobber:
 	@rm -rf data/clean/* data/marts/* docs/figures/* docs/report.pdf
