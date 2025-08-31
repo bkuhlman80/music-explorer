@@ -19,7 +19,7 @@ freeze:
 
 lock:
 	@$(ACT) && pip-compile --generate-hashes env/requirements.in  -o env/requirements.txt
-	@$(ACT) && pip-compile --generate-hashes env/dev.in           -o env/requirements-dev.txt
+	@$(ACT) && pip-compile -c env/requirements.txt --generate-hashes env/dev.in -o env/requirements-dev.txt
 
 lock-upgrade:
 	@$(ACT) && pip-compile --upgrade --generate-hashes env/requirements.in  -o env/requirements.txt

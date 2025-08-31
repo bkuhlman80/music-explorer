@@ -26,12 +26,10 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('env/requirements.txt') }}
           restore-keys: ${{ runner.os }}-pip-
 
-      - name: Install deps
+      - name: Install deps (locked)
         run: |
-          python -m venv .venv
-          source .venv/bin/activate
-          python -m pip install --upgrade pip
-          python -m pip install -r env/requirements.txt
+          python -m pip install --upgrade pip pip-tools
+          pip-sync env/requirements.txt env/requirements-dev.txt
 
       - name: Write .env
         run: |
