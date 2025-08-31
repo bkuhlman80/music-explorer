@@ -15,7 +15,7 @@ def test_marts_exist():
     for name in ["artists", "release_groups", "release_groups_by_year"]:
         assert (BASE / f"{name}.csv").exists() or (BASE / f"{name}.parquet").exists()
 
-def test_artists_schema():
+def test_artists_schema(): 
     df = read_any("artists")
     for c in ["artist_id", "artist_name"]:
         assert c in df.columns

@@ -23,7 +23,7 @@ lock:
 
 lock-upgrade:
 	@$(ACT) && pip-compile --upgrade --generate-hashes env/requirements.in  -o env/requirements.txt
-	@$(ACT) && pip-compile --upgrade --generate-hashes env/dev.in           -o env/requirements-dev.txt
+	@$(ACT) && pip-compile -c env/requirements.txt --upgrade --generate-hashes env/dev.in -o env/requirements-dev.txt
 
 pull:
 	@mkdir -p data/raw
@@ -53,7 +53,7 @@ lint:
 fmt:
 	@$(ACT) && black app tests
 
-test:
+test: figures
 	@$(ACT) && pytest -q
 
 figures:
