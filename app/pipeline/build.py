@@ -1,30 +1,34 @@
 # app/pipeline/build.py
-import os, pandas as pd, numpy as np
+from __future__ import annotations
+import os, re, pandas as pd
 
 CLEAN = "data/clean"
 MARTS = "data/marts"
 os.makedirs(MARTS, exist_ok=True)
 
-def read(name): return pd.read_parquet(f"{CLEAN}/{name}.parquet")
+def read(name: str) -> pd.DataFrame:
+    return pd.read_parquet(f"{CLEAN}/{name}.parquet")
 
-def artist_discography():
-    import re
-    artists = read("artists")[["artist_mbid","name"]].rename(columns={"name":"artist_name"})
-    rgs = read("release_groups")[["rg_mbid","title","primary_type","first_release_date","artist_credit"]].copy()
-    rgs["first_release_year"] = pd.to_datetime(rgs["first_release_date"], errors="coerce").dt.year
-    rgs = rgs.dropna(subset=["artist_credit"])
+def write_both(df: pd.DataFrame, base: str) -> None:
+    df.to_csv(f"{MARTS}/{base}.csv", index=False)
+    df.to_parquet(f"{MARTS}/{base}.parquet", index=False)
 
-    # Precompile regex for each artist to match whole words inside credit
+def build():
+    # ---- Load clean layer ----
+    artists_raw = read("artists")[["artist_mbid","name"]].rename(columns={"name":"artist_name"})
+    rgs_raw = read("release_groups")[["rg_mbid","title","primary_type","first_release_date","artist_credit"]].copy()
+    rgs_raw["first_release_year"] = pd.to_datetime(rgs_raw["first_release_date"], errors="coerce").dt.year
+    eg = read("entity_genres")[["entity_type","entity_mbid","genre"]]
+
+    # ---- Artist discography (compat mart you already had) ----
     patt = [
         (row.artist_mbid, row.artist_name, re.compile(rf"(?i)(?<!\w){re.escape(row.artist_name)}(?!\w)"))
-        for row in artists.itertuples(index=False)
+        for row in artists_raw.itertuples(index=False)
         if isinstance(row.artist_name, str) and row.artist_name.strip()
     ]
-
     rows = []
-    for rg in rgs.itertuples(index=False):
+    for rg in rgs_raw.dropna(subset=["artist_credit"]).itertuples(index=False):
         hits = [(mbid, name) for (mbid, name, rx) in patt if rx.search(rg.artist_credit or "")]
-        # de-dup while preserving order
         seen = set()
         dedup = []
         for mbid, name in hits:
@@ -40,99 +44,97 @@ def artist_discography():
                 "first_release_date": rg.first_release_date,
                 "first_release_year": rg.first_release_year,
             })
-
-    out = pd.DataFrame(rows, columns=[
+    artist_discog = (pd.DataFrame(rows, columns=[
         "artist_mbid","artist_name","rg_mbid","rg_title",
         "primary_type","first_release_date","first_release_year"
-    ]).drop_duplicates(["artist_mbid","rg_mbid"])
+    ]).drop_duplicates(["artist_mbid","rg_mbid"]))
+    write_both(artist_discog, "artist_discography")  # keeps your prior outputs
 
-    out.to_parquet(f"{MARTS}/artist_discography.parquet", index=False)
-    out.to_csv(f"{MARTS}/artist_discography.csv", index=False)
+    # ---- Canonical marts expected by tests ----
 
+    # 1) artists
+    artists = artists_raw.rename(columns={"artist_mbid":"artist_id"})[["artist_id","artist_name"]].drop_duplicates()
+    write_both(artists, "artists")
 
-def collaboration_edges():
-    import pandas as pd
-    rgs = read("release_groups")[["rg_mbid","title","first_release_date","artist_credit"]].copy()
-    rgs = rgs.dropna(subset=["artist_credit"])
-    if rgs.empty:
-        # write empty outputs and return
-        pd.DataFrame(columns=["a_name","b_name","rg_mbid","rg_title","rg_year","edge_weight"]).to_parquet(f"{MARTS}/collaboration_edges.parquet", index=False)
-        pd.DataFrame(columns=["a_name","b_name","total_weight","first_year","last_year"]).to_parquet(f"{MARTS}/collaboration_edges_weighted.parquet", index=False)
-        pd.DataFrame(columns=["a_name","b_name","total_weight","first_year","last_year"]).to_csv(f"{MARTS}/collaboration_edges_weighted.csv", index=False)
-        return
-
-    rgs["rg_year"] = pd.to_datetime(rgs["first_release_date"], errors="coerce").dt.year
-
-    SPLIT_TOKENS = [" feat. ", " featuring ", " with ", " & ", ", ", " and "]
-    def split_credit(s: str):
-        parts = [s]
-        for tok in SPLIT_TOKENS:
+    # 2) release_groups with a single "primary" artist per RG (first regex match)
+    #    fallback: if no regex match, try exact name split and match to artists table
+    split_tokens = [" feat. ", " featuring ", " with ", " & ", ", ", " and "]
+    def split_credit(s: str) -> list[str]:
+        parts = [s or ""]
+        for tok in split_tokens:
             parts = sum((p.split(tok) for p in parts), [])
-        # remove “Various Artists”, “Soundtrack”, empty, and duplicates
-        blocklist = {"various artists","various","soundtrack"}
-        out = []
-        for p in parts:
-            p2 = p.strip()
-            if not p2: 
-                continue
-            if p2.lower() in blocklist:
-                continue
-            if p2 not in out:
-                out.append(p2)
-        return out
+        parts = [p.strip() for p in parts if p.strip()]
+        block = {"various artists","various","soundtrack"}
+        return [p for p in parts if p.lower() not in block]
 
-    rows = []
-    for _, r in rgs.iterrows():
-        names = split_credit(r["artist_credit"])
-        if len(names) < 2:
-            continue
-        for i in range(len(names)):
-            for j in range(i+1, len(names)):
-                a, b = sorted([names[i], names[j]])
-                rows.append({
-                    "a_name": a,
-                    "b_name": b,
-                    "rg_mbid": r["rg_mbid"],
-                    "rg_title": r["title"],
-                    "rg_year": r["rg_year"],
-                    "edge_weight": 1
-                })
+    # map name -> mbid for fallback
+    name_to_id = dict(artists[["artist_name","artist_id"]].itertuples(index=False, name=None))
 
-    if not rows:
-        pd.DataFrame(columns=["a_name","b_name","rg_mbid","rg_title","rg_year","edge_weight"]).to_parquet(f"{MARTS}/collaboration_edges.parquet", index=False)
-        pd.DataFrame(columns=["a_name","b_name","total_weight","first_year","last_year"]).to_parquet(f"{MARTS}/collaboration_edges_weighted.parquet", index=False)
-        pd.DataFrame(columns=["a_name","b_name","total_weight","first_year","last_year"]).to_csv(f"{MARTS}/collaboration_edges_weighted.csv", index=False)
-        return
+    prim_rows = []
+    for rg in rgs_raw.itertuples(index=False):
+        credit = rg.artist_credit or ""
+        # prefer regex match list used above
+        matches = [(mbid, name) for (mbid, name, rx) in patt if rx.search(credit)]
+        artist_id = None
+        if matches:
+            artist_id = matches[0][0]
+        else:
+            names = split_credit(credit)
+            for nm in names:
+                if nm in name_to_id:
+                    artist_id = name_to_id[nm]
+                    break
+        if artist_id is None:
+            continue  # drop unmatched RGs to satisfy FK tests
+        prim_rows.append({
+            "release_group_id": rg.rg_mbid,
+            "title": rg.title,
+            "first_release_year": rg.first_release_year,
+            "artist_id": artist_id
+        })
+    release_groups = pd.DataFrame(prim_rows, columns=["release_group_id","title","first_release_year","artist_id"]).dropna(subset=["artist_id"])
+    # enforce integer year if present
+    if "first_release_year" in release_groups:
+        release_groups["first_release_year"] = release_groups["first_release_year"].astype("Int64")
+    write_both(release_groups, "release_groups")
 
-    edges = pd.DataFrame(rows)
-    weighted = (edges.groupby(["a_name","b_name"], as_index=False)
-                      .agg(total_weight=("edge_weight","sum"),
-                           first_year=("rg_year","min"),
-                           last_year=("rg_year","max")))
-    edges.to_parquet(f"{MARTS}/collaboration_edges.parquet", index=False)
-    weighted.to_parquet(f"{MARTS}/collaboration_edges_weighted.parquet", index=False)
-    weighted.to_csv(f"{MARTS}/collaboration_edges_weighted.csv", index=False)
+    # 3) release_groups_by_year
+    rg_by_year = (release_groups.dropna(subset=["first_release_year"])
+                  .assign(year=lambda d: d["first_release_year"].astype(int))
+                  .groupby("year", as_index=False)
+                  .size().rename(columns={"size":"count"}))
+    write_both(rg_by_year, "release_groups_by_year")
 
-def genre_trends():
-    rgs = read("release_groups")[["rg_mbid","first_release_date"]]
-    rgs["year"] = pd.to_datetime(rgs["first_release_date"], errors="coerce").dt.year
-    eg = read("entity_genres")[["entity_type","entity_mbid","genre"]]
-    # Prefer RG genres
-    rg_gen = eg[eg["entity_type"]=="release-group"].merge(rgs, left_on="entity_mbid", right_on="rg_mbid", how="left")
-    # Fallback: none here yet; keep minimal
-    gt = (rg_gen.dropna(subset=["year","genre"])
-               .groupby(["year","genre"], as_index=False)
-               .agg(release_groups=("rg_mbid","nunique")))
-    gt["releases"] = 0
-    gt["recordings"] = 0
-    gt.to_parquet(f"{MARTS}/genre_trends.parquet", index=False)
-    gt.to_csv(f"{MARTS}/genre_trends.csv", index=False)
+    # 4) genres_by_decade
+    rg_gen = eg[eg["entity_type"]=="release-group"].merge(
+        rgs_raw[["rg_mbid","first_release_year"]],
+        left_on="entity_mbid", right_on="rg_mbid", how="left"
+    )
+    genres_by_decade = (rg_gen.dropna(subset=["genre","first_release_year"])
+                        .assign(year=lambda d: d["first_release_year"].astype(int),
+                                decade=lambda d: (d["year"] // 10) * 10)
+                        .groupby(["decade","genre"], as_index=False)
+                        .size().rename(columns={"size":"count"}))
+    write_both(genres_by_decade, "genres_by_decade")
 
-def main():
-    artist_discography()
-    collaboration_edges()
-    genre_trends()
+    # 5) artist_collaborations (ids, weighted)
+    # Use artist_discog to map RG -> participating artist IDs, then make undirected pairs
+    coll_rows = []
+    g = (artist_discog[["artist_mbid","rg_mbid"]]
+         .rename(columns={"artist_mbid":"artist_id","rg_mbid":"release_group_id"}))
+    for rg_id, grp in g.groupby("release_group_id"):
+        ids = sorted(set(grp["artist_id"]))
+        for i in range(len(ids)):
+            for j in range(i+1, len(ids)):
+                coll_rows.append({"artist_id": ids[i], "peer_id": ids[j], "weight": 1})
+    if coll_rows:
+        collabs = (pd.DataFrame(coll_rows)
+                   .groupby(["artist_id","peer_id"], as_index=False)["weight"].sum())
+    else:
+        collabs = pd.DataFrame(columns=["artist_id","peer_id","weight"])
+    write_both(collabs, "artist_collaborations")
+
     print("Marts written to data/marts")
 
 if __name__ == "__main__":
-    main()
+    build()
