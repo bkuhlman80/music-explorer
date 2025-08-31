@@ -51,11 +51,20 @@ FIELD_NOTES = {
 # Heuristics (regex on field path). Only fill if unit/description empty.
 HEURISTICS = [
     (re.compile(r"(?:^|[\.\[\]])id$"), ("uuid", "Primary or foreign key MBID (UUID)")),
-    (re.compile(r"(?:^|[\.\[\]])length(?:[\.\[].*)?$"), ("ms", "Duration in milliseconds")),
-    (re.compile(r"(?:^|[\.\[\]])(date|begin|end|first-release-date)(?:[\.\[].*)?$"),
-     ("date", "Date in YYYY-MM-DD when available")),
-    (re.compile(r"(?:^|[\.\[\]])country$"), ("ISO-2", "Country code (ISO-3166-1 alpha-2)")),
+    (
+        re.compile(r"(?:^|[\.\[\]])length(?:[\.\[].*)?$"),
+        ("ms", "Duration in milliseconds"),
+    ),
+    (
+        re.compile(r"(?:^|[\.\[\]])(date|begin|end|first-release-date)(?:[\.\[].*)?$"),
+        ("date", "Date in YYYY-MM-DD when available"),
+    ),
+    (
+        re.compile(r"(?:^|[\.\[\]])country$"),
+        ("ISO-2", "Country code (ISO-3166-1 alpha-2)"),
+    ),
 ]
+
 
 def enrich(unit, desc, field):
     # keep existing if already filled
@@ -76,6 +85,7 @@ def enrich(unit, desc, field):
 
     return unit, desc
 
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--infile", default="DATA_DICTIONARY.csv")
@@ -85,20 +95,33 @@ def main():
     rows = []
     with open(args.infile, newline="", encoding="utf-8") as f:
         r = csv.DictReader(f)
-        want_cols = ["table","field","type","unit","description","source_field"]
+        want_cols = ["table", "field", "type", "unit", "description", "source_field"]
         if r.fieldnames != want_cols:
             raise SystemExit(f"Unexpected header. Got {r.fieldnames}, want {want_cols}")
         for row in r:
-            unit, desc = enrich(row.get("unit",""), row.get("description",""), row["field"])
+            unit, desc = enrich(
+                row.get("unit", ""), row.get("description", ""), row["field"]
+            )
             row["unit"], row["description"] = unit, desc
             rows.append(row)
 
     with open(args.outfile, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["table","field","type","unit","description","source_field"])
+        w = csv.DictWriter(
+            f,
+            fieldnames=[
+                "table",
+                "field",
+                "type",
+                "unit",
+                "description",
+                "source_field",
+            ],
+        )
         w.writeheader()
         w.writerows(rows)
 
     print(f"Wrote {args.outfile} with enriched units and descriptions")
+
 
 if __name__ == "__main__":
     main()

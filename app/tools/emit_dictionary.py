@@ -1,4 +1,3 @@
-
 import os, re, json, csv, sys, argparse
 from collections import defaultdict
 from typing import Any
@@ -19,11 +18,13 @@ ARRAY_ROOT_HINTS = {
     "labels": "labels",
 }
 
+
 def infer_table_from_filename(fn: str):
     for pat, tbl in PATTERNS:
         if pat.search(fn):
             return tbl
     return None
+
 
 def walk(prefix: str, node: Any, acc: dict):
     t = type(node).__name__.lower()
@@ -37,6 +38,7 @@ def walk(prefix: str, node: Any, acc: dict):
         else:
             acc[f"{prefix}[]"] = "list(empty)"
 
+
 def emit_rows(table: str, acc: dict):
     rows = []
     for path, typ in sorted(acc.items()):
@@ -45,6 +47,7 @@ def emit_rows(table: str, acc: dict):
         field = path.split(".", 1)[1] if path.startswith(table + ".") else path
         rows.append((table, field, typ))
     return rows
+
 
 def process_file(path: str):
     with open(path, "r", encoding="utf-8") as f:
@@ -92,6 +95,7 @@ def process_file(path: str):
 
     return results
 
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--indir", default="data/raw")
@@ -119,6 +123,7 @@ def main():
                 w.writerow([tbl.replace("-", "_"), field, typ, "", "", field])
 
     print(f"Wrote {args.out}")
+
 
 if __name__ == "__main__":
     main()

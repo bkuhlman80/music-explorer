@@ -22,8 +22,13 @@ gpath = M / "genres_by_decade.csv"
 if gpath.exists():
     gbd = pd.read_csv(gpath)
     # total per genre, pick top 5
-    top5 = (gbd.groupby("genre")["count"].sum()
-             .sort_values(ascending=False).head(5).index.tolist())
+    top5 = (
+        gbd.groupby("genre")["count"]
+        .sum()
+        .sort_values(ascending=False)
+        .head(5)
+        .index.tolist()
+    )
     for g in top5:
         df = gbd[gbd["genre"] == g].sort_values("decade")
         plt.figure(figsize=(6, 3.5))
@@ -42,9 +47,11 @@ if adpath.exists():
     if not ad.empty:
         # pick most frequent artist
         artist = ad["artist_name"].value_counts().idxmax()
-        sub = (ad[ad["artist_name"] == artist]
-                 .dropna(subset=["first_release_year"])
-                 .sort_values("first_release_year"))
+        sub = (
+            ad[ad["artist_name"] == artist]
+            .dropna(subset=["first_release_year"])
+            .sort_values("first_release_year")
+        )
         if not sub.empty:
             # cumulative count over years
             y = sub["first_release_year"].astype(int)
