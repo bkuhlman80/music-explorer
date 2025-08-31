@@ -24,6 +24,7 @@ The result is a reproducible, cloud-hosted portfolio artifact that highlights sk
 ---
 ![CI](https://github.com/bkuhlman80/music-explorer/actions/workflows/ci.yml/badge.svg)
 
+## Live Demo: https://kuhl-music-explorer.streamlit.app/ 
 
 ## Repo Map
 
