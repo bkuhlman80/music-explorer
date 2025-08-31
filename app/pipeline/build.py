@@ -1,6 +1,8 @@
 # app/pipeline/build.py
 from __future__ import annotations
-import os, re, pandas as pd
+import os
+import re
+import pandas as pd
 
 CLEAN = "data/clean"
 MARTS = "data/marts"

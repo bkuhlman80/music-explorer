@@ -1,6 +1,5 @@
 from pathlib import Path
 import pandas as pd
-import numpy as np
 
 MARTS = Path("data/marts")
 DOCS = Path("docs/figures")

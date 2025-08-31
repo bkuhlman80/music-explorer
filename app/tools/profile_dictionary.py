@@ -7,7 +7,7 @@ table, layer, field, dtype, n_rows, n_nonnull, pct_missing,
 n_unique, min, max, example
 """
 from __future__ import annotations
-import argparse, json
+import argparse
 from pathlib import Path
 import pandas as pd
 

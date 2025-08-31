@@ -1,5 +1,7 @@
 # app/tools/enrich_dictionary.py
-import argparse, csv, re
+import argparse
+import csv
+import re
 
 # Field-level defaults (applied by exact field match, case-sensitive)
 FIELD_NOTES = {

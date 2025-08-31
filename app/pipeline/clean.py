@@ -1,4 +1,6 @@
-import os, json, glob
+import os
+import json
+import glob
 import pandas as pd
 
 try:
@@ -317,11 +319,11 @@ def clean_genres_and_tags(raw):
 
 def main():
     raw = list(_load_raw())
-    artists = clean_artists(raw)
-    rgs = clean_release_groups(raw)
-    releases = clean_releases(raw)
+    clean_artists(raw)
+    clean_release_groups(raw)
+    clean_releases(raw)
     recs, tr = clean_recordings_and_tracks(raw)
-    labels = clean_labels(raw)
+    clean_labels(raw)
     genres, tags = clean_genres_and_tags(raw)
     _finalize_rejects()
     print("Clean layer written to data/clean")

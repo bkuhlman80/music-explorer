@@ -1,15 +1,17 @@
-import time, csv, os
-
+import os
+import sys
+import time
+import csv
+import json
+import argparse
 from pathlib import Path
+from urllib.parse import urlencode, quote
+from datetime import datetime, timezone
+import requests
 from dotenv import load_dotenv
 
-# Load env/.env explicitly so running `python -m ...` works
+# load env after imports (keeps E402 away)
 load_dotenv(dotenv_path=Path("env/.env"))
-
-import os, sys, time, json, argparse
-from urllib.parse import urlencode, quote
-import requests
-from datetime import datetime, timezone
 
 stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
@@ -97,7 +99,7 @@ def main():
 
     # 2) artist detail
     time.sleep(args.rate_limit_ms / 1000)
-    adetail = get(
+    _ = get(  # response presently unused
         f"{base}/artist/{artist_mbid}",
         {"fmt": "json", "inc": "aliases+genres+tags+url-rels+area-rels"},
         outpath=os.path.join(outdir, f"artist_detail_{artist_mbid}.json"),
