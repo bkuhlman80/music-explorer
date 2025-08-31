@@ -25,18 +25,18 @@ page = st.sidebar.radio("Pages", PAGES)
 if page == "Overview":
     st.title("Music Explorer")
     st.caption("Data: MusicBrainz (CC BY-NC-SA 4.0).")
-    
-    import numpy as np
-    import pathlib
 
-    kpi_file = pathlib.Path("data/marts/kpi_latency_samples.csv")
-    if kpi_file.exists():
-        dfk = pd.read_csv(kpi_file)
-        mean_ms = int(dfk["elapsed_ms"].mean())
-        st.metric("Avg query latency (ms)", f"{mean_ms} ms", help="Target ≤ 3000 ms")
+    # KPI latency metric
+    from pathlib import Path
+    kpi_path = Path("data/marts/kpi_latency_samples.csv")
+    if kpi_path.exists():
+        kpi = pd.read_csv(kpi_path)
+        mean_ms = int(kpi["elapsed_ms"].mean())
+        st.metric("Avg query latency", f"{mean_ms} ms", help="Target ≤ 3000 ms")
     else:
         st.info("No KPI samples yet. Run `make pull` to collect timings.")
 
+    # Release groups metric
     try:
         d1 = load_csv("artist_discography")
         metric_int("Release groups", d1["rg_mbid"].nunique())
@@ -44,15 +44,24 @@ if page == "Overview":
         st.error(f"artist_discography load failed: {e}")
         st.stop()
 
+    # Genre trends chart
     try:
         g = load_csv("genre_trends")
-        if not g.empty and {"year","genre","release_groups"}.issubset(g.columns):
-            pivot = g.pivot_table(index="year", columns="genre", values="release_groups", aggfunc="sum").fillna(0)
+        if not g.empty and {"year", "genre", "release_groups"}.issubset(g.columns):
+            pivot = (
+                g.pivot_table(
+                    index="year",
+                    columns="genre",
+                    values="release_groups",
+                    aggfunc="sum",
+                ).fillna(0)
+            )
             st.line_chart(pivot)
         else:
             st.info("genre_trends.csv is empty or missing required columns.")
     except Exception as e:
         st.error(f"genre_trends load failed: {e}")
+
 
 elif page == "Explore":
     try:

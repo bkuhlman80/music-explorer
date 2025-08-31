@@ -54,7 +54,6 @@ jobs:
           make -n pull
           cat env/.env
 
-
       - name: Pull raw (skip if no UA)
         run: |
           source .venv/bin/activate

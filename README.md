@@ -13,6 +13,11 @@ The result is a reproducible, cloud-hosted portfolio artifact that highlights sk
 
 ---
 
+![New release groups per year](docs/figures/rg_per_year.png)  
+*Source: MusicBrainz, CC BY-NC-SA 4.0, pulled 2025-08-28.*
+
+---
+
 ## Primary User Tasks
 - Search artists by name and view a release timeline.  
 - Explore collaboration networks through interactive graphs.  
@@ -24,33 +29,46 @@ The result is a reproducible, cloud-hosted portfolio artifact that highlights sk
 - Average session depth of ≥ 3 unique views per user.  
 
 ---
-
 ## Repo Map
 
-projects/music-explorer/
-README.md # Project overview and usage guide
-Makefile # One-click setup, pipeline, testing, deploy
-app/ # Streamlit app code (Overview, Explore, Download)
-data/
-raw/ # Unmodified JSON pulls from MusicBrainz
-clean/ # Normalized tables (CSV/Parquet)
-marts/ # Aggregated data for analysis/viz
-docs/
-figures/ # Exported charts and hero figure
-report.pdf # 2-page summary for non-technical readers
-tests/ # Unit tests, schema checks, viz regression
-env/
-.env.example # Template environment config
-requirements.txt # Python dependencies
-DATA_DICTIONARY.csv # Schema of raw → clean → marts
-PROVENANCE.md # Data pull commands and logs
-LICENSE_NOTES.md # Reuse terms for data/code# Trigger CI
+- **README.md** — Project overview, usage guide  
+- **Makefile** — Repro targets (`setup`, `pull`, `clean`, `build`, `test`, `run`, `report`)  
+- **app/** — Application code  
+  - `Main.py` — Streamlit UI (Overview, Explore, Download)  
+  - `pipeline/` — Data pipeline scripts (`pull_sample.py`, `clean.py`, `build.py`)  
+  - `figures/` — Chart exporters for docs  
+  - `report/` — ReportLab PDF builder  
+  - `tools/` — Schema helpers (emit/enrich dictionary)  
+- **data/**  
+  - `raw/` — JSON from MusicBrainz API  
+  - `clean/` — Normalized Parquet tables  
+  - `marts/` — Aggregated CSV/Parquet for app + viz  
+- **docs/**  
+  - `figures/` — Exported PNGs (hero + top-5 genres)  
+  - `report.pdf` — Two-page summary for non-technical readers  
+- **tests/** — Unit tests and schema assertions  
+- **env/**  
+  - `.env.example` — Template env vars (with User-Agent string)  
+  - `requirements.txt` — Python deps  
+- **DATA_DICTIONARY.csv** — Raw → Clean → Mart schema map  
+- **PROVENANCE.md** — Data sourcing details, pull commands  
+- **LICENSE_NOTES.md** — Notes on MusicBrainz licensing (CC BY-NC-SA)  
+- **.github/workflows/** — CI config (`ci.yml`)  
 
+## Quick Start
+Clone the repo and run the pipeline end-to-end:
 
-# Quick Start
+git clone https://github.com/bkuhlman80/music-explorer.git
+cd music-explorer
 
-make setup
-make pull ARTIST="Daft Punk"
-make clean
-make build
-make run
+make setup                     # create .venv and install deps
+make pull ARTIST="Daft Punk"   # fetch raw JSON from MusicBrainz
+make clean                     # normalize to clean/ tables
+make build                     # build marts/ aggregates
+make run                       # launch Streamlit app at http://localhost:8501
+
+Optional:
+make figures → export charts to docs/figures/
+make report → build docs/report.pdf
+make test → run unit tests
+make deploy → push repo + trigger CI
