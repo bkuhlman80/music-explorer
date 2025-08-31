@@ -40,10 +40,11 @@ jobs:
           key: ${{ runner.os }}-${{ matrix.python-version }}-pip-${{ hashFiles('env/requirements.txt', 'env/requirements-dev.txt') }}
           restore-keys: ${{ runner.os }}-${{ matrix.python-version }}-pip-
 
-      - name: Install deps (locked)
+      - name: Create venv and install deps (locked)
         run: |
-          python -m pip install --upgrade pip pip-tools
-          pip-sync env/requirements.txt env/requirements-dev.txt
+          python -m venv .venv
+          .venv/bin/python -m pip install --upgrade pip pip-tools
+          .venv/bin/pip-sync env/requirements.txt env/requirements-dev.txt
 
       - name: Write .env
         run: |
