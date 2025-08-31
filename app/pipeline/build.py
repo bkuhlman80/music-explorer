@@ -42,6 +42,27 @@ def build():
     ).dt.year
     eg = read("entity_genres")[["entity_type", "entity_mbid", "genre"]]
 
+    # --- credit split helpers (used by discog + fallbacks) ---
+    split_tokens = [
+        " feat. ",
+        " featuring ",
+        " with ",
+        " & ",
+        ", ",
+        " and ",
+        " x ",
+        " / ",
+        "; ",
+    ]
+
+    def split_credit(s: str) -> list[str]:
+        parts = [s or ""]
+        for tok in split_tokens:
+            parts = sum((p.split(tok) for p in parts), [])
+        parts = [p.strip() for p in parts if p.strip()]
+        block = {"various artists", "various"}
+        return [p for p in parts if p.lower() not in block]
+
     # ---- Artist discography (compat mart you already had) ----
     patt = [
         (
@@ -52,6 +73,11 @@ def build():
         for row in artists_raw.itertuples(index=False)
         if isinstance(row.artist_name, str) and row.artist_name.strip()
     ]
+    name_to_id = dict(
+        artists_raw.rename(columns={"artist_mbid": "artist_id"})[
+            ["artist_name", "artist_id"]
+        ].itertuples(index=False, name=None)
+    )
     rows = []
     for rg in rgs_raw.dropna(subset=["artist_credit"]).itertuples(index=False):
         hits = [
@@ -61,6 +87,18 @@ def build():
         ]
         seen = set()
         dedup = []
+        # 1) regex hits
+        for mbid, name in hits:
+            if mbid not in seen:
+                seen.add(mbid)
+                dedup.append((mbid, name))
+        # 2) fallback: split credit tokens → map to ids
+        if len(dedup) < 2:
+            for nm in split_credit(rg.artist_credit or ""):
+                mbid = name_to_id.get(nm)
+                if mbid and mbid not in seen:
+                    seen.add(mbid)
+                    dedup.append((mbid, nm))
         for mbid, name in hits:
             if mbid not in seen:
                 seen.add(mbid)
@@ -151,9 +189,9 @@ def build():
         ].astype("Int64")
     write_both(release_groups, "release_groups")
 
-    # 3) release_groups_by_year
+    # 3) release_groups_by_year  (use all RGs, not only matched-to-artist)
     rg_by_year = (
-        release_groups.dropna(subset=["first_release_year"])
+        rgs_raw.dropna(subset=["first_release_year"])
         .assign(year=lambda d: d["first_release_year"].astype(int))
         .groupby("year", as_index=False)
         .size()
@@ -199,7 +237,35 @@ def build():
         )
     else:
         collabs = pd.DataFrame(columns=["artist_id", "peer_id", "weight"])
-    write_both(collabs, "artist_collaborations")
+    if not collabs.empty:
+        write_both(collabs, "artist_collaborations")
+    else:
+        # Fallback: name-level pairs from credit string
+        pairs = []
+        for rg in rgs_raw.dropna(subset=["artist_credit"]).itertuples(index=False):
+            names = split_credit(rg.artist_credit or "")
+            names = sorted(
+                set(
+                    [
+                        n
+                        for n in names
+                        if n.lower() not in {"various", "various artists"}
+                    ]
+                )
+            )
+            for i in range(len(names)):
+                for j in range(i + 1, len(names)):
+                    pairs.append({"name_a": names[i], "name_b": names[j], "weight": 1})
+        if pairs:
+            collabs_names = (
+                pd.DataFrame(pairs)
+                .groupby(["name_a", "name_b"], as_index=False)["weight"]
+                .sum()
+            )
+        else:
+            collabs_names = pd.DataFrame(columns=["name_a", "name_b", "weight"])
+        collabs_names.to_csv(f"{MARTS}/artist_collaborations.csv", index=False)
+        collabs_names.to_parquet(f"{MARTS}/artist_collaborations.parquet", index=False)
 
     print("Marts written to data/marts")
 

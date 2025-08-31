@@ -40,6 +40,9 @@ clean:
 build:
 	@$(ACT) && PYTHONPATH=$(PWD) $(PY) -m app.pipeline.build
 
+run:
+	@$(ACT) && streamlit run app/streamlit_app.py --server.port $(STREAMLIT_PORT)
+	
 dictionary:
 	@$(ACT) && $(PY) app/tools/emit_dictionary.py --indir data/raw --out DATA_DICTIONARY.csv
 
@@ -62,14 +65,11 @@ figures:
 report:
 	@$(ACT) && $(PY) app/report/build.py
 
-run:
-	@$(ACT) && streamlit run app/Main.py --server.port $(STREAMLIT_PORT)
-
 restart:
 	@pkill -f "streamlit run" || true
-	@$(ACT) && streamlit run app/Main.py --server.port $(STREAMLIT_PORT)
+	@$(ACT) && streamlit run app/streamlit_app.py --server.port $(STREAMLIT_PORT)
 
-ci: setup lint clean build test figures report profile-dict
+ci: setup lint clean build figures test report profile-dict
 
 clobber:
 	@rm -rf data/clean/* data/marts/* docs/figures/* docs/report.pdf
