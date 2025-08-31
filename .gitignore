@@ -1,8 +1,7 @@
-.venv/
-__pycache__/
-.DS_Store
 env/.env
 data/raw/
 data/clean/
 data/marts/*.parquet
-!data/marts/*.csv
+.venv/
+__pycache__/
+.DS_Store
