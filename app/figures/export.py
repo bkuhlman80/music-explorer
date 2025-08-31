@@ -6,6 +6,7 @@ M = Path("data/marts")
 D = Path("docs/figures")
 D.mkdir(parents=True, exist_ok=True)
 
+
 # 1) Hero: release groups per decade with fallbacks → docs/figures/rg_per_year.png
 def _rg_by_year_fallback() -> pd.DataFrame:
     p = M / "release_groups_by_year.csv"
@@ -18,9 +19,13 @@ def _rg_by_year_fallback() -> pd.DataFrame:
     if p.exists():
         df = pd.read_csv(p).rename(columns=str.lower)
         if "first_release_year" in df and df["first_release_year"].notna().any():
-            out = (df.dropna(subset=["first_release_year"])
-                     .assign(year=lambda d: d["first_release_year"].astype(int))
-                     .groupby("year").size().reset_index(name="count"))
+            out = (
+                df.dropna(subset=["first_release_year"])
+                .assign(year=lambda d: d["first_release_year"].astype(int))
+                .groupby("year")
+                .size()
+                .reset_index(name="count")
+            )
             if len(out):
                 return out
     # last resort from artist_discography
@@ -28,18 +33,26 @@ def _rg_by_year_fallback() -> pd.DataFrame:
     if p.exists():
         df = pd.read_csv(p)
         if "first_release_year" in df and df["first_release_year"].notna().any():
-            out = (df.dropna(subset=["first_release_year"])
-                     .assign(year=lambda d: d["first_release_year"].astype(int))
-                     .groupby("year").size().reset_index(name="count"))
+            out = (
+                df.dropna(subset=["first_release_year"])
+                .assign(year=lambda d: d["first_release_year"].astype(int))
+                .groupby("year")
+                .size()
+                .reset_index(name="count")
+            )
             return out
     return pd.DataFrame(columns=["year", "count"])
+
 
 rg_year = _rg_by_year_fallback()
 # aggregate to decades: 1960s, 1970s, …
 if len(rg_year):
-    rg_dec = (rg_year.assign(decade=lambda d: (d["year"] // 10) * 10)
-                      .groupby("decade", as_index=False)["count"].sum()
-                      .sort_values("decade"))
+    rg_dec = (
+        rg_year.assign(decade=lambda d: (d["year"] // 10) * 10)
+        .groupby("decade", as_index=False)["count"]
+        .sum()
+        .sort_values("decade")
+    )
     labels = [f"{d}s" for d in rg_dec["decade"]]
     plt.figure(figsize=(10, 4))
     plt.bar(labels, rg_dec["count"])
