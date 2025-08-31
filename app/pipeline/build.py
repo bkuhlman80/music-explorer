@@ -6,6 +6,7 @@ import re
 from pathlib import Path
 
 import pandas as pd
+import json
 
 from app.figures.collab_network import plot_collab_network
 from app.figures.genre_evolution import plot_genre_evolution
@@ -23,6 +24,60 @@ def write_both(df: pd.DataFrame, base: str) -> None:
     (Path(MARTS)).mkdir(parents=True, exist_ok=True)
     df.to_csv(f"{MARTS}/{base}.csv", index=False)
     df.to_parquet(f"{MARTS}/{base}.parquet", index=False)
+
+
+def collabs_from_recordings(jsonl_path: str):
+    p = Path(jsonl_path)
+    rows_id, rows_name = [], []
+    if not p.exists():
+        return (
+            pd.DataFrame(columns=["artist_id", "peer_id", "weight"]),
+            pd.DataFrame(columns=["name_a", "name_b", "weight"]),
+        )
+    with p.open() as f:
+        for line in f:
+            rec = json.loads(line)
+            ac = rec.get("artist-credit", [])
+            ids, names = [], []
+            for part in ac:
+                art = part.get("artist") or {}
+                aid = art.get("id")
+                nm = art.get("name") or art.get("sort-name")
+                if aid:
+                    ids.append(aid)
+                if nm:
+                    names.append(nm)
+            ids = sorted(set(ids))
+            names = sorted(set(names))
+            for i in range(len(ids)):
+                for j in range(i + 1, len(ids)):
+                    rows_id.append(
+                        {"artist_id": ids[i], "peer_id": ids[j], "weight": 1}
+                    )
+            for i in range(len(names)):
+                for j in range(i + 1, len(names)):
+                    rows_name.append(
+                        {"name_a": names[i], "name_b": names[j], "weight": 1}
+                    )
+    id_df = (
+        (
+            pd.DataFrame(rows_id)
+            .groupby(["artist_id", "peer_id"], as_index=False)["weight"]
+            .sum()
+        )
+        if rows_id
+        else pd.DataFrame(columns=["artist_id", "peer_id", "weight"])
+    )
+    name_df = (
+        (
+            pd.DataFrame(rows_name)
+            .groupby(["name_a", "name_b"], as_index=False)["weight"]
+            .sum()
+        )
+        if rows_name
+        else pd.DataFrame(columns=["name_a", "name_b", "weight"])
+    )
+    return id_df, name_df
 
 
 def build():
@@ -55,6 +110,10 @@ def build():
         " vs ",
         " meets ",
         " presents ",
+        " y ",
+        " con ",
+        " ft. ",
+        " Feat. ",
     ]
 
     def split_credit(s: str) -> list[str]:
@@ -226,6 +285,14 @@ def build():
         else pd.DataFrame(columns=["name_a", "name_b", "weight"])
     )
     write_both(collabs_names, "artist_collaborations_names")
+
+    # Fallback to recordings if both are empty
+    if collabs.empty and collabs_names.empty:
+        rec_id, rec_name = collabs_from_recordings("data/raw/recordings.jsonl")
+        if not rec_id.empty:
+            write_both(rec_id, "artist_collaborations")
+        if not rec_name.empty:
+            write_both(rec_name, "artist_collaborations_names")
 
     print("Marts written to data/marts")
 

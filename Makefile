@@ -28,10 +28,16 @@ lock-upgrade:
 pull:
 	@mkdir -p data/raw
 	@$(ACT) && PYTHONPATH=$(PWD) $(PY) -m app.pipeline.pull_sample \
-		--base-url $(MB_BASE_URL) \
-		--user-agent $(USER_AGENT) \
+		--base-url "$(MB_BASE_URL)" \
+		--user-agent "$(USER_AGENT)" \
 		--rate-limit-ms $(MB_RATE_LIMIT_MS) \
 		--seed $(ARTISTS_SEED) \
+		--outdir data/raw
+	@$(ACT) && PYTHONPATH=$(PWD) $(PY) -m app.pipeline.pull_recordings \
+		--base-url "$(MB_BASE_URL)" \
+		--user-agent "$(USER_AGENT)" \
+		--rate-limit-ms $(MB_RATE_LIMIT_MS) \
+		--limit-per-artist 200 \
 		--outdir data/raw
 
 clean:
