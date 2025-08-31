@@ -108,6 +108,11 @@ with tab2:
 with tab3:
     artists = load("artists", _mtime("artists"))
     edges = load("artist_collaborations", _mtime("artist_collaborations"))
+    if edges.empty:
+        edges = load(
+            "artist_collaborations_names", _mtime("artist_collaborations_names")
+        )
+
     mode = "id"
     if {"artist_id", "peer_id", "weight"}.issubset(edges.columns):
         edges = edges.rename(
