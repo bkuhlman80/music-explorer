@@ -50,7 +50,8 @@ if len(rg_year):
 else:
     plt.figure(figsize=(10, 4))
     plt.title("New release groups per decade (no data)")
-    plt.xlabel("Decade"); plt.ylabel("Count")
+    plt.xlabel("Decade")
+    plt.ylabel("Count")
 plt.savefig(D / "rg_per_year.png", dpi=150)  # keep filename expected by tests
 plt.close()
 
