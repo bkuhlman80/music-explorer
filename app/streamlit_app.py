@@ -107,62 +107,108 @@ with tab2:
 # ---------- Collab Network ----------
 with tab3:
     artists = load("artists", _mtime("artists"))
-    edges = load("artist_collaborations", _mtime("artist_collaborations"))
-    if edges.empty:
-        edges = load(
-            "artist_collaborations_names", _mtime("artist_collaborations_names")
-        )
 
-    mode = "id"
-    if {"artist_id", "peer_id", "weight"}.issubset(edges.columns):
+    # Prefer names-based mart; fall back to ID mart
+    edges = load("artist_collaborations_names", _mtime("artist_collaborations_names"))
+    mode = "name" if not edges.empty else "id"
+    if edges.empty:
+        edges = load("artist_collaborations", _mtime("artist_collaborations"))
+
+    # Normalize → src, dst, w
+    if {"name_a", "name_b", "weight"}.issubset(edges.columns):
+        edges = edges.rename(columns={"name_a": "src", "name_b": "dst", "weight": "w"})
+        mode = "name"
+    elif {"artist_id", "peer_id", "weight"}.issubset(edges.columns):
         edges = edges.rename(
             columns={"artist_id": "src", "peer_id": "dst", "weight": "w"}
         )
+        mode = "id"
     elif {"artist_id", "collab_id", "w"}.issubset(edges.columns):
         edges = edges.rename(columns={"artist_id": "src", "collab_id": "dst"})
-    elif {"name_a", "name_b", "weight"}.issubset(edges.columns):
-        mode = "name"
-        edges = edges.rename(columns={"name_a": "src", "name_b": "dst", "weight": "w"})
+        mode = "id"
     else:
         edges = pd.DataFrame(columns=["src", "dst", "w"])
+
+    with st.expander("Debug: collaboration marts"):
+        st.write(
+            {
+                "mode": mode,
+                "names_rows": int(
+                    load(
+                        "artist_collaborations_names",
+                        _mtime("artist_collaborations_names"),
+                    ).shape[0]
+                ),
+                "id_rows": int(
+                    load(
+                        "artist_collaborations", _mtime("artist_collaborations")
+                    ).shape[0]
+                ),
+            }
+        )
+        st.dataframe(edges.head(10))
+
     if edges.empty:
-        st.info("No collaborations found in the sample. Try a larger pull.")
+        st.info("No collaborations found. Try a larger sample and rebuild.")
     else:
-        # keep all or reduce to max 120 nodes by weighted degree
+        # reduce to <=120 nodes by weighted degree
         deg_long = pd.concat(
             [
-                edges.rename(columns={"artist_id": "id"})[["id", "w"]],
-                edges.rename(columns={"collab_id": "id"})[["id", "w"]],
-            ]
+                edges.rename(columns={"src": "id"})[["id", "w"]],
+                edges.rename(columns={"dst": "id"})[["id", "w"]],
+            ],
+            ignore_index=True,
         )
-        keep = deg_long.groupby("id")["w"].sum().sort_values(ascending=False)
-        keep = set(keep.head(min(120, len(keep))).index)
-        sub = edges[edges["artist_id"].isin(keep) & edges["collab_id"].isin(keep)]
+        keep = (
+            deg_long.groupby("id")["w"]
+            .sum()
+            .sort_values(ascending=False)
+            .head(min(120, deg_long["id"].nunique()))
+            .index
+        )
+        sub = edges[edges["src"].isin(keep) & edges["dst"].isin(keep)]
 
-        G = nx.Graph()
-        G.add_weighted_edges_from(
-            sub[["src", "dst", "w"]].itertuples(index=False, name=None)
-        )
-        if G.number_of_edges() == 0:
-            st.info("Not enough co-credited release groups to draw a network.")
+        if sub.empty:
+            st.info(
+                "Collaborations exist but were all filtered. Reduce ‘top N’ or pull more data."
+            )
         else:
-            if mode == "id":
-                name_map = artists.set_index("artist_id")["artist_name"].to_dict()
+            import networkx as nx
+
+            G = nx.Graph()
+            G.add_weighted_edges_from(
+                sub[["src", "dst", "w"]].itertuples(index=False, name=None)
+            )
+
+            if G.number_of_edges() == 0:
+                st.info("Not enough co-credits to draw a graph.")
             else:
-                name_map = {}
-            pos = nx.spring_layout(G, k=0.35, seed=42, weight="w")
-            fig = plt.figure(figsize=(8, 6))
-            ew = [
-                0.5 + 2.5 * (d.get("weight", d.get("w", 1)) / sub["w"].max())
-                for _, _, d in G.edges(data=True)
-            ]
-            nd = dict(G.degree(weight="weight"))
-            ns = [50 + 250 * (nd[n] / max(nd.values())) for n in G.nodes()]
-            nx.draw_networkx_nodes(G, pos, node_size=ns, alpha=0.85)
-            nx.draw_networkx_edges(G, pos, width=ew, alpha=0.25)
-            # label top 25
-            top_labels = set(sorted(nd, key=lambda x: nd[x], reverse=True)[:25])
-            labels = {n: name_map.get(n, str(n)) for n in top_labels}
-            nx.draw_networkx_labels(G, pos, labels=labels, font_size=8)
-            plt.title("Artist collaboration clusters")
-            st.pyplot(fig, clear_figure=True)
+                name_map = (
+                    artists.set_index("artist_id")["artist_name"].to_dict()
+                    if mode == "id"
+                    else {}
+                )
+                pos = nx.spring_layout(G, k=0.35, seed=42, weight="weight")
+                fig = plt.figure(figsize=(8, 6))
+
+                wmax = float(sub["w"].max())
+                ewidths = [
+                    0.5 + 2.5 * (d.get("weight", 1.0) / wmax)
+                    for _, _, d in G.edges(data=True)
+                ]
+                nd = dict(G.degree(weight="weight"))
+                nsmax = max(nd.values())
+                nsizes = [50 + 250 * (nd[n] / nsmax) for n in G.nodes]
+
+                nx.draw_networkx_nodes(G, pos, node_size=nsizes, alpha=0.85)
+                nx.draw_networkx_edges(G, pos, width=ewidths, alpha=0.25)
+
+                top_labels = set(sorted(nd, key=lambda x: nd[x], reverse=True)[:25])
+                labels = {
+                    n: (name_map.get(n, str(n)) if mode == "id" else str(n))
+                    for n in top_labels
+                }
+                nx.draw_networkx_labels(G, pos, labels=labels, font_size=8)
+
+                plt.title("Artist collaboration clusters")
+                st.pyplot(fig, clear_figure=True)
