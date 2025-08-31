@@ -33,21 +33,25 @@ Source: MusicBrainz, CC BY-NC-SA 4.0. Pulled 2025-08-28.
 
 ## Repo Map
 
-projects/music-explorer/
-README.md # Project overview and usage guide
-Makefile # One-click setup, pipeline, testing, deploy
-app/ # Streamlit app code (Overview, Explore, Download)
-data/
-raw/ # Unmodified JSON pulls from MusicBrainz
-clean/ # Normalized tables (CSV/Parquet)
-marts/ # Aggregated data for analysis/viz
-docs/
-figures/ # Exported charts and hero figure
-report.pdf # 2-page summary for non-technical readers
-tests/ # Unit tests, schema checks, viz regression
-env/
-.env.example # Template environment config
-requirements.txt # Python dependencies
-DATA_DICTIONARY.csv # Schema of raw → clean → marts
-PROVENANCE.md # Data pull commands and logs
-LICENSE_NOTES.md # Reuse terms for data/code# Trigger CI
+- **README.md** — Project overview, usage guide
+- **Makefile** — One-click setup, pipeline, testing, deploy
+- **app/** — Streamlit app (`Main.py`) + pipeline and tools
+  - `pipeline/` — Pull, clean, build
+  - `figures/` — Export charts
+  - `report/` — Generate PDF
+  - `tools/` — Schema dictionary helpers
+- **data/**
+  - `raw/` — JSON pulls from MusicBrainz
+  - `clean/` — Normalized tables (Parquet)
+  - `marts/` — Aggregated data for analysis (CSV/Parquet)
+- **docs/**
+  - `figures/` — Exported charts and hero figure
+  - `report.pdf` — 2-page non-technical summary
+- **tests/** — Unit tests, schema checks, viz regression
+- **env/**
+  - `.env.example` — Template environment config
+  - `requirements.txt` — Python dependencies
+- **DATA_DICTIONARY.csv** — Schema mapping raw → clean → marts
+- **PROVENANCE.md** — Data pull commands and logs
+- **LICENSE_NOTES.md** — Reuse terms for data/code
+- **.github/workflows/** — CI config
