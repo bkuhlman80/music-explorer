@@ -9,3 +9,4 @@ networkx
 reportlab
 python-dotenv
 watchdog==6.0.0
+streamlit

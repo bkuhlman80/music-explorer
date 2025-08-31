@@ -1,6 +1,7 @@
 # Music Explorer
 
-![CI](https://github.com/bkuhlman80/music-explorer/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/bkuhlman80/music-explorer/actions/workflows/ci.yml/badge.svg)](https://github.com/bkuhlman80/music-explorer/actions)
+Live demo: https://music-explorer.streamlit.app  (after deploy)
 
 The **Music Explorer** project demonstrates how to transform an open cultural dataset into clear, interactive insights for analysts and casual listeners alike. Using the [MusicBrainz](https://musicbrainz.org/) API, the project pulls structured data on artists, releases, and genres, then cleans and reshapes it into timelines, collaboration graphs, and trend visualizations.  
 
@@ -27,6 +28,11 @@ The result is a reproducible, cloud-hosted portfolio artifact that highlights sk
 - Query response time ≤ 3 seconds for artist or release searches.  
 - ≥ 90% accuracy in genre and collaboration counts versus source validation.  
 - Average session depth of ≥ 3 unique views per user.  
+
+## What to Notice
+- Rock and alt-rock peak in the mid-1990s.
+- Collaboration clusters align with genre families.
+- Release timelines show multi-year gaps around label transitions and side-projects.
 
 ---
 ## Repo Map

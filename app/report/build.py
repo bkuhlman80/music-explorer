@@ -3,6 +3,8 @@ from reportlab.lib.styles import getSampleStyleSheet
 from pathlib import Path
 
 FIG = Path("docs/figures/rg_per_year.png")
+FIG = Path("docs/figures/collab_network.png")
+FIG = Path("docs/figures/genre_evolution.png")
 DOC = Path("docs/report.pdf")
 DOC.parent.mkdir(parents=True, exist_ok=True)
 

@@ -1,12 +1,20 @@
 # app/pipeline/build.py
 from __future__ import annotations
+
+# stdlib
 import os
 import re
+
+# third-party
 import pandas as pd
+
+# local
+from app.figures.collab_network import plot_collab_network
+from app.figures.genre_evolution import plot_genre_evolution
 
 CLEAN = "data/clean"
 MARTS = "data/marts"
-os.makedirs(MARTS, exist_ok=True)
+FIG_DIR = "docs/figures"
 
 
 def read(name: str) -> pd.DataFrame:
@@ -19,6 +27,9 @@ def write_both(df: pd.DataFrame, base: str) -> None:
 
 
 def build():
+    os.makedirs(MARTS, exist_ok=True)
+    os.makedirs(FIG_DIR, exist_ok=True)
+
     # ---- Load clean layer ----
     artists_raw = read("artists")[["artist_mbid", "name"]].rename(
         columns={"name": "artist_name"}
@@ -191,6 +202,19 @@ def build():
     write_both(collabs, "artist_collaborations")
 
     print("Marts written to data/marts")
+
+    # figures
+    plot_collab_network(
+        artists_csv="data/marts/artists.csv",
+        collaborations_csv="data/marts/artist_collaborations.csv",
+        out_png=f"{FIG_DIR}/collab_network.png",
+        top_n=120,
+    )
+    plot_genre_evolution(
+        genres_by_decade_csv="data/marts/genres_by_decade.csv",
+        out_png=f"{FIG_DIR}/genre_evolution.png",
+        top_k=12,
+    )
 
 
 if __name__ == "__main__":
