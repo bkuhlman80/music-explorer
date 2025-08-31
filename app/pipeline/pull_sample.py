@@ -1,10 +1,11 @@
 
+import time, csv, os
+
 from pathlib import Path
 from dotenv import load_dotenv
 
 # Load env/.env explicitly so running `python -m ...` works
 load_dotenv(dotenv_path=Path("env/.env"))
-
 
 import os, sys, time, json, argparse
 from urllib.parse import urlencode, quote
@@ -23,7 +24,23 @@ def get(url, params=None, outpath=None, ua=None, timeout=30):
     headers = {"User-Agent": ua}
     if params:
         url = f"{url}?{urlencode(params)}"
+
+    t0 = time.time()
     resp = requests.get(url, headers=headers, timeout=timeout)
+    elapsed_ms = int((time.time() - t0) * 1000)
+
+    # --- KPI logging ---
+    os.makedirs("data/marts", exist_ok=True)
+    kpi_path = "data/marts/kpi_latency_samples.csv"
+    new = not os.path.exists(kpi_path)
+    with open(kpi_path, "a", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        if new:
+            w.writerow(["timestamp", "endpoint", "elapsed_ms", "status"])
+        w.writerow([time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                    url, elapsed_ms, resp.status_code])
+    # --------------------
+
     resp.raise_for_status()
     data = resp.json()
     if outpath:
@@ -31,6 +48,7 @@ def get(url, params=None, outpath=None, ua=None, timeout=30):
         with open(outpath, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
     return data
+
 
 def main():
     ap = argparse.ArgumentParser()

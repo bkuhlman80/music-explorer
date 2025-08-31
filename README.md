@@ -1,5 +1,7 @@
 # Music Explorer
 
+![CI](https://github.com/bkuhlman80/music-explorer/actions/workflows/ci.yml/badge.svg)
+
 The **Music Explorer** project demonstrates how to transform an open cultural dataset into clear, interactive insights for analysts and casual listeners alike. Using the [MusicBrainz](https://musicbrainz.org/) API, the project pulls structured data on artists, releases, and genres, then cleans and reshapes it into timelines, collaboration graphs, and trend visualizations.  
 
 Success is measured by three criteria:  
@@ -22,36 +24,33 @@ The result is a reproducible, cloud-hosted portfolio artifact that highlights sk
 - Average session depth of ≥ 3 unique views per user.  
 
 ---
-![CI](https://github.com/bkuhlman80/music-explorer/actions/workflows/ci.yml/badge.svg)
-
-## Live Demo
-https://kuhl-music-explorer.streamlit.app/ 
-
-<img width="562" height="455" alt="rg_per_year" src="https://github.com/user-attachments/assets/0e9bd330-1157-47f5-814f-2a79f9b76b62" />
-
-Source: MusicBrainz, CC BY-NC-SA 4.0. Pulled 2025-08-28.
 
 ## Repo Map
 
-- **README.md** — Project overview, usage guide
-- **Makefile** — One-click setup, pipeline, testing, deploy
-- **app/** — Streamlit app (`Main.py`) + pipeline and tools
-  - `pipeline/` — Pull, clean, build
-  - `figures/` — Export charts
-  - `report/` — Generate PDF
-  - `tools/` — Schema dictionary helpers
-- **data/**
-  - `raw/` — JSON pulls from MusicBrainz
-  - `clean/` — Normalized tables (Parquet)
-  - `marts/` — Aggregated data for analysis (CSV/Parquet)
-- **docs/**
-  - `figures/` — Exported charts and hero figure
-  - `report.pdf` — 2-page non-technical summary
-- **tests/** — Unit tests, schema checks, viz regression
-- **env/**
-  - `.env.example` — Template environment config
-  - `requirements.txt` — Python dependencies
-- **DATA_DICTIONARY.csv** — Schema mapping raw → clean → marts
-- **PROVENANCE.md** — Data pull commands and logs
-- **LICENSE_NOTES.md** — Reuse terms for data/code
-- **.github/workflows/** — CI config
+projects/music-explorer/
+README.md # Project overview and usage guide
+Makefile # One-click setup, pipeline, testing, deploy
+app/ # Streamlit app code (Overview, Explore, Download)
+data/
+raw/ # Unmodified JSON pulls from MusicBrainz
+clean/ # Normalized tables (CSV/Parquet)
+marts/ # Aggregated data for analysis/viz
+docs/
+figures/ # Exported charts and hero figure
+report.pdf # 2-page summary for non-technical readers
+tests/ # Unit tests, schema checks, viz regression
+env/
+.env.example # Template environment config
+requirements.txt # Python dependencies
+DATA_DICTIONARY.csv # Schema of raw → clean → marts
+PROVENANCE.md # Data pull commands and logs
+LICENSE_NOTES.md # Reuse terms for data/code# Trigger CI
+
+
+# Quick Start
+
+make setup
+make pull ARTIST="Daft Punk"
+make clean
+make build
+make run

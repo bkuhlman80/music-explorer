@@ -25,6 +25,17 @@ page = st.sidebar.radio("Pages", PAGES)
 if page == "Overview":
     st.title("Music Explorer")
     st.caption("Data: MusicBrainz (CC BY-NC-SA 4.0).")
+    
+    import numpy as np
+    import pathlib
+
+    kpi_file = pathlib.Path("data/marts/kpi_latency_samples.csv")
+    if kpi_file.exists():
+        dfk = pd.read_csv(kpi_file)
+        mean_ms = int(dfk["elapsed_ms"].mean())
+        st.metric("Avg query latency (ms)", f"{mean_ms} ms", help="Target ≤ 3000 ms")
+    else:
+        st.info("No KPI samples yet. Run `make pull` to collect timings.")
 
     try:
         d1 = load_csv("artist_discography")
