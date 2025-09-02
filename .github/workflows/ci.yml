@@ -49,7 +49,7 @@ jobs:
       - name: Write .env
         run: |
           mkdir -p env
-          cat > env/.env <<'ENV'
+          cat > env/.env <<ENV
           USER_AGENT=${USER_AGENT}
           MB_BASE_URL=${MB_BASE_URL}
           MB_RATE_LIMIT_MS=${MB_RATE_LIMIT_MS}
@@ -60,7 +60,6 @@ jobs:
           STREAMLIT_PORT=8501
           STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
           ENV
-
 
       - name: Pull raw (skip if no UA)
         run: |
