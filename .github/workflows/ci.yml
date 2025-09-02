@@ -20,11 +20,13 @@ jobs:
 
     env:
       PYTHONUTF8: "1"
+      LC_ALL: C.UTF-8
+      LANG: C.UTF-8
       STREAMLIT_BROWSER_GATHER_USAGE_STATS: "false"
       USER_AGENT: ${{ secrets.MB_USER_AGENT }}
       MB_BASE_URL: https://musicbrainz.org/ws/2
-      MB_RATE_LIMIT_MS: 1500
-      ARTISTS_SEED: "Radiohead,Daft Punk,Beyoncé"
+      MB_RATE_LIMIT_MS: "1500"
+      ARTISTS_SEED: Radiohead,Daft Punk,Beyonce
 
     steps:
       - uses: actions/checkout@v4
@@ -60,6 +62,7 @@ jobs:
           STREAMLIT_PORT=8501
           STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
           ENV
+
 
       - name: Pull raw (skip if no UA)
         run: |

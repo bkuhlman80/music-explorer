@@ -5,6 +5,10 @@ endif
 PY := python3
 VENV := .venv
 ACT := . $(VENV)/bin/activate
+SHELL := /usr/bin/bash
+.SHELLFLAGS := -euo pipefail -c
+.ONESHELL:
+
 
 .PHONY: all setup freeze lock lock-upgrade pull pull_recordings 
 	clean build lint fmt test figures report run deploy clobber reset 
@@ -28,9 +32,6 @@ lock-upgrade:
 	@$(ACT) && pip-compile -c env/requirements.txt --upgrade --generate-hashes env/dev.in -o env/requirements-dev.txt
 
 pull: pull_recordings
-
-SHELL := /usr/bin/env bash -euo pipefail
-.ONESHELL:
 
 pull_recordings:
 	. .venv/bin/activate && python app/pipeline/pull_recordings.py \
