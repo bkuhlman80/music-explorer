@@ -34,7 +34,7 @@ lock-upgrade:
 pull: pull_recordings
 
 pull_recordings:
-	. .venv/bin/activate && python app/pipeline/pull_recordings.py \
+	. .venv/bin/activate && python -m app.pipeline.pull_recordings \
 	  --base-url "$(MB_BASE_URL)" \
 	  --user-agent "$(USER_AGENT)" \
 	  --seed "$(ARTISTS_SEED)" \
@@ -44,13 +44,12 @@ pull_recordings:
 	  --out "data/raw/recordings.jsonl"
 
 clean:
-	. .venv/bin/activate && python app/pipeline/clean.py
-
+	. .venv/bin/activate && python -m app.pipeline.clean
 build:
-	. .venv/bin/activate && python -m app/pipeline/build.py
+	. .venv/bin/activate && python -m app.pipeline.build
 
 report:
-	. .venv/bin/activate && python -m app/report/build.py
+	. .venv/bin/activate && python -m app.report.build
 
 run:
 	STREAMLIT_BROWSER_GATHER_USAGE_STATS=$(STREAMLIT_BROWSER_GATHER_USAGE_STATS) \
@@ -58,10 +57,10 @@ run:
 	. .venv/bin/activate && streamlit run app/Main.py
 
 dictionary:
-	@$(ACT) && $(PY) app/tools/emit_dictionary.py --indir data/raw --out DATA_DICTIONARY.csv
+	@$(ACT) && $(PY) -m app.tools.emit_dictionary --indir data/raw --out DATA_DICTIONARY.csv
 
 profile-dict:
-	@$(ACT) && $(PY) app/tools/profile_dictionary.py --out docs/DATA_DICTIONARY_profile.csv
+	@$(ACT) && $(PY) -m app.tools.profile_dictionary --out docs/DATA_DICTIONARY_profile.csv
 
 lint:
 	@$(ACT) && ruff check app tests
@@ -74,12 +73,13 @@ test: figures
 	@$(ACT) && pytest -q
 
 figures:
-	@$(ACT) && $(PY) app/figures/export.py
+	@$(ACT) && $(PY) -m app.figures.export
 
 restart:
 	@pkill -f "streamlit run" || true
-	@$(ACT) && streamlit run app/streamlit_app.py --server.port $(STREAMLIT_PORT)
+	@$(ACT) && streamlit run -m app.streamlit_app --server.port $(STREAMLIT_PORT)
 
+	
 ci: setup lint clean build figures test report profile-dict
 
 clobber:
