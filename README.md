@@ -5,6 +5,12 @@ Live demo: https://music-explorer.streamlit.app  (after deploy)
 
 The **Music Explorer** project demonstrates how to transform an open cultural dataset into clear, interactive insights for analysts and casual listeners alike. Using the [MusicBrainz](https://musicbrainz.org/) API, the project pulls structured data on artists, releases, and genres, then cleans and reshapes it into timelines, collaboration graphs, and trend visualizations.  
 
+## What to notice
+- Collaboration clusters are genre-tight with producer hubs bridging pop/hip-hop.
+- 1990s–2010s show a rise then plateau in release groups; 2020 dip likely pandemic-related.
+- Artist timelines reveal multi-year gaps around label changes and side projects.
+
+## Definition of Success 
 Success is measured by three criteria:  
 1. Reliability and speed of queries (artist or release results in under three seconds).  
 2. Accuracy of derived genre and collaboration metrics against spot-checks from the source.  
@@ -17,6 +23,8 @@ The result is a reproducible, cloud-hosted portfolio artifact that highlights sk
 ![New release groups per year](docs/figures/rg_per_year.png)  
 *Source: MusicBrainz, CC BY-NC-SA 4.0, pulled 2025-08-28.*
 
+## Caption standard:
+Source: MusicBrainz (CC BY-NC-SA 4.0). Pulled YYYY-MM-DD. “Music metadata provided by MusicBrainz.”
 ---
 
 ## Primary User Tasks

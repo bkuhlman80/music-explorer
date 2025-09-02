@@ -6,7 +6,9 @@ PY := python3
 VENV := .venv
 ACT := . $(VENV)/bin/activate
 
-.PHONY: all setup freeze lock lock-upgrade pull clean build lint fmt test figures report run deploy clobber reset dictionary dictionary-enrich profile-dict restart ci
+.PHONY: all setup freeze lock lock-upgrade pull pull_recordings 
+	clean build lint fmt test figures report run deploy clobber reset 
+	dictionary dictionary-enrich profile-dict restart ci
 
 setup:
 	@test -d $(VENV) || $(PY) -m venv $(VENV)
@@ -25,30 +27,32 @@ lock-upgrade:
 	@$(ACT) && pip-compile --upgrade --generate-hashes env/requirements.in  -o env/requirements.txt
 	@$(ACT) && pip-compile -c env/requirements.txt --upgrade --generate-hashes env/dev.in -o env/requirements-dev.txt
 
-pull:
-	@mkdir -p data/raw
-	@$(ACT) && PYTHONPATH=$(PWD) $(PY) -m app.pipeline.pull_sample \
-		--base-url "$(MB_BASE_URL)" \
-		--user-agent "$(USER_AGENT)" \
-		--rate-limit-ms $(MB_RATE_LIMIT_MS) \
-		--seed $(ARTISTS_SEED) \
-		--outdir data/raw
-	@$(ACT) && PYTHONPATH=$(PWD) $(PY) -m app.pipeline.pull_recordings \
-		--base-url "$(MB_BASE_URL)" \
-		--user-agent "$(USER_AGENT)" \
-		--rate-limit-ms $(MB_RATE_LIMIT_MS) \
-		--limit-per-artist 200 \
-		--outdir data/raw
+pull: pull_recordings
+
+pull_recordings:
+	. .venv/bin/activate && python app/pipeline/pull_recordings.py \
+	  --base-url "$(MB_BASE_URL)" \
+	  --user-agent "$(USER_AGENT)" \
+	  --seed "$(ARTISTS_SEED)" \
+	  --rate-limit-ms "$(MB_RATE_LIMIT_MS)" \
+	  --timeout-s "$(MB_TIMEOUT_S)" \
+	  --retries "$(MB_MAX_RETRIES)" \
+	  --out "data/raw/recordings.jsonl"
 
 clean:
-	@$(ACT) && PYTHONPATH=$(PWD) $(PY) -m app.pipeline.clean
+	. .venv/bin/activate && python app/pipeline/clean.py
 
 build:
-	@$(ACT) && PYTHONPATH=$(PWD) $(PY) -m app.pipeline.build
+	. .venv/bin/activate && python -m app/pipeline/build.py
+
+report:
+	. .venv/bin/activate && python -m app/report/build.py
 
 run:
-	@$(ACT) && streamlit run app/streamlit_app.py --server.port $(STREAMLIT_PORT)
-	
+	STREAMLIT_BROWSER_GATHER_USAGE_STATS=$(STREAMLIT_BROWSER_GATHER_USAGE_STATS) \
+	STREAMLIT_SERVER_PORT=$(STREAMLIT_PORT) \
+	. .venv/bin/activate && streamlit run app/Main.py
+
 dictionary:
 	@$(ACT) && $(PY) app/tools/emit_dictionary.py --indir data/raw --out DATA_DICTIONARY.csv
 
@@ -67,9 +71,6 @@ test: figures
 
 figures:
 	@$(ACT) && $(PY) app/figures/export.py
-
-report:
-	@$(ACT) && $(PY) app/report/build.py
 
 restart:
 	@pkill -f "streamlit run" || true

@@ -75,9 +75,6 @@ jobs:
       - name: Lint
         run: source .venv/bin/activate && make lint
 
-      - name: Figures
-        run: source .venv/bin/activate && make figures
-
       - name: Tests
         run: source .venv/bin/activate && make test
 
@@ -96,5 +93,7 @@ jobs:
           path: |
             docs/report.pdf
             docs/figures/*.png
+            docs/figures/*.svg
             docs/DATA_DICTIONARY_profile.csv
             data/marts/*.csv
+            data/marts/*.parquet
