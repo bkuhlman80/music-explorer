@@ -14,9 +14,12 @@ FIG_DIR = Path("docs/figures")
 
 
 @st.cache_data
-def load_csv(name: str) -> pd.DataFrame:
+def load_csv(name: str) -> pd.DataFrame | None:
     fp = DATA_DIR / f"{name}.csv"
-    return pd.read_csv(fp) if fp.exists() else pd.DataFrame()
+    if not fp.exists():
+        st.warning(f"Missing {fp}. Build locally then push, or rerun CI.")
+        return None
+    return pd.read_csv(fp)
 
 
 def metric_int(label, value):
