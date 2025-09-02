@@ -49,17 +49,18 @@ jobs:
       - name: Write .env
         run: |
           mkdir -p env
-          cat > env/.env <<ENV
-          USER_AGENT="${USER_AGENT}"
-          MB_BASE_URL="${MB_BASE_URL}"
+          cat > env/.env <<'ENV'
+          USER_AGENT=${USER_AGENT}
+          MB_BASE_URL=${MB_BASE_URL}
           MB_RATE_LIMIT_MS=${MB_RATE_LIMIT_MS}
           MB_MAX_RETRIES=3
           MB_TIMEOUT_S=30
-          ARTISTS_SEED="${ARTISTS_SEED}"
-          TZ="UTC"
+          ARTISTS_SEED=${ARTISTS_SEED}
+          TZ=UTC
           STREAMLIT_PORT=8501
           STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
           ENV
+
 
       - name: Pull raw (skip if no UA)
         run: |

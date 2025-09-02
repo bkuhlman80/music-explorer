@@ -29,6 +29,9 @@ lock-upgrade:
 
 pull: pull_recordings
 
+SHELL := /usr/bin/env bash -euo pipefail
+.ONESHELL:
+
 pull_recordings:
 	. .venv/bin/activate && python app/pipeline/pull_recordings.py \
 	  --base-url "$(MB_BASE_URL)" \
