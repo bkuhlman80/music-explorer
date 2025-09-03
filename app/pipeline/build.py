@@ -129,14 +129,52 @@ def split_credit(s: str) -> list[str]:
     return [p for p in parts if p.lower() not in block]
 
 
+def load_artists_fallback() -> pd.DataFrame:
+    """Return artists with columns: artist_mbid, artist_name.
+    Prefer clean/artists.parquet. Fallback: parse names from release_groups.artist_credit.
+    """
+    # try clean table
+    try:
+        a0 = read_parquet("artists")
+        a0 = schema.canonicalize("artists", a0)
+    except Exception:
+        a0 = pd.DataFrame()
+
+    cols = set(a0.columns)
+    if cols:
+        # map id->artist_mbid, title/name -> artist_name
+        if "artist_mbid" not in a0 and "id" in a0:
+            a0 = a0.rename(columns={"id": "artist_mbid"})
+        if "artist_name" not in a0:
+            if "name" in a0:
+                a0 = a0.rename(columns={"name": "artist_name"})
+            elif "title" in a0:
+                a0 = a0.rename(columns={"title": "artist_name"})
+        need = {"artist_mbid", "artist_name"}
+        if need.issubset(a0.columns):
+            out = a0[list(need)].dropna(subset=["artist_name"])
+            if not out.empty:
+                return out
+
+    # fallback from release_groups credits
+    rg = schema.canonicalize("release_groups", read_parquet("release_groups"))
+    names: set[str] = set()
+    for s in rg.get("artist_credit", pd.Series(dtype=object)).dropna():
+        names.update(split_credit(str(s)))
+    names = sorted(n for n in names if n.strip())
+    # stable synthetic id derived from normalized name
+    return pd.DataFrame(
+        {"artist_mbid": [f"name:{norm_name(n)}" for n in names], "artist_name": names}
+    )
+
+
 def build() -> None:
 
-    # artists: dictionary says id/name ->
-    # canonicalize to artist_mbid/artist_name
-    _artists0 = read_parquet("artists")
-    artists_raw = schema.require("artists", _artists0, ["artist_mbid", "name"]).rename(
-        columns={"name": "artist_name"}
-    )[["artist_mbid", "artist_name"]]
+    # ---- Load artists (with fallback) ----
+    artists_raw = load_artists_fallback()
+    artists_raw = artists_raw[["artist_mbid", "artist_name"]].dropna(
+        subset=["artist_name"]
+    )
 
     # release_groups: accept name↔title and dash↔underscore variants
     _rgs0 = schema.canonicalize("release_groups", read_parquet("release_groups"))
