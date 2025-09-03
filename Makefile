@@ -6,7 +6,7 @@ PY := python3
 VENV := .venv
 VENV_BIN := .venv/bin
 ACT := . $(VENV)/bin/activate
-SHELL := /usr/bin/env bash
+SHELL := /bin/bash
 .SHELLFLAGS := -euo pipefail -c
 .ONESHELL:
 
@@ -35,7 +35,7 @@ lock-upgrade:
 pull: pull_recordings
 
 pull_recordings:
-	. .venv/bin/activate && python -m app.pipeline.pull_recordings \
+	$(VENV_BIN)/python -m app.pipeline.pull_recordings \
 	  --base-url "$(MB_BASE_URL)" \
 	  --user-agent "$(USER_AGENT)" \
 	  --seed "$(ARTISTS_SEED)" \
