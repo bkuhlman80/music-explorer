@@ -70,7 +70,7 @@ fmt:
 	@$(ACT) && black app tests
 
 test: figures
-	@$(ACT) && pytest -q
+	@$(ACT) && PYTHONPATH=. pytest -q
 
 figures:
 	@$(ACT) && $(PY) -m app.figures.export

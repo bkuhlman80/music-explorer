@@ -10,7 +10,9 @@ from app.figures.genre_evolution import plot_genre_evolution
 
 import pandas as pd
 import unicodedata
+from app.schema import SchemaResolver
 
+schema = SchemaResolver()
 
 CLEAN = Path("data/clean")
 MARTS = Path("data/marts")
@@ -128,20 +130,32 @@ def split_credit(s: str) -> list[str]:
 
 
 def build() -> None:
-    # ---- Load clean layer ----
-    artists_raw = read_parquet("artists")[["artist_mbid", "name"]].rename(
+
+    # artists: dictionary says id/name ->
+    # canonicalize to artist_mbid/artist_name
+    _artists0 = read_parquet("artists")
+    artists_raw = schema.require("artists", _artists0, ["artist_mbid", "name"]).rename(
         columns={"name": "artist_name"}
-    )
-    rgs_raw = read_parquet("release_groups")[
+    )[["artist_mbid", "artist_name"]]
+
+    # release_groups: accept name↔title and dash↔underscore variants
+    _rgs0 = schema.canonicalize("release_groups", read_parquet("release_groups"))
+    if "title" not in _rgs0.columns and "name" in _rgs0.columns:
+        _rgs0 = _rgs0.rename(columns={"name": "title"})
+    rgs_raw = schema.require(
+        "release_groups",
+        _rgs0,
+        ["rg_mbid", "title", "primary_type", "first_release_date", "artist_credit"],
+    )[
         ["rg_mbid", "title", "primary_type", "first_release_date", "artist_credit"]
     ].copy()
-    rgs_raw["first_release_year"] = pd.to_datetime(
-        rgs_raw["first_release_date"], errors="coerce"
-    ).dt.year
 
     # optional: genres table
     try:
-        eg = read_parquet("entity_genres")[["entity_type", "entity_mbid", "genre"]]
+        _eg0 = schema.canonicalize("entity_genres", read_parquet("entity_genres"))
+        eg = schema.require(
+            "entity_genres", _eg0, ["entity_type", "entity_mbid", "genre"]
+        )[["entity_type", "entity_mbid", "genre"]]
     except Exception:
         eg = pd.DataFrame(columns=["entity_type", "entity_mbid", "genre"])
 

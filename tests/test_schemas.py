@@ -2,6 +2,8 @@
 from pathlib import Path
 import pandas as pd
 
+from app.schema import SchemaResolver
+
 BASE = Path("data/marts")
 
 
@@ -34,3 +36,10 @@ def test_release_groups_by_year_nonnegative():
     df = read_any("release_groups_by_year")
     assert {"year", "count"}.issubset(df.columns)
     assert (df["count"] >= 0).all()
+
+
+def test_schema_resolver_maps_artists_id_to_artist_mbid():
+    schema = SchemaResolver()
+    df = pd.DataFrame({"id": ["mbid1"], "name": ["A"]})
+    out = schema.require("artists", df, ["artist_mbid", "name"])
+    assert {"artist_mbid", "name"}.issubset(out.columns)
