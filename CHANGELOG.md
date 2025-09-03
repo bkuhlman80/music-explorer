@@ -2,6 +2,14 @@
 
 All notable changes will be documented here.
 
+## [0.2.1](https://github.com/bkuhlman80/music-explorer/compare/music-explorer-v0.2.0...music-explorer-v0.2.1) (2025-09-03)
+
+
+### Bug Fixes
+
+* **app:** add package init so app.config imports on Streamlit ([4c658e2](https://github.com/bkuhlman80/music-explorer/commit/4c658e25a028b6da5479d41f1467a48870a0cd8d))
+* **app:** robust config import for Streamlit ([0dc7322](https://github.com/bkuhlman80/music-explorer/commit/0dc7322272f75082137e77c56efae272a30d1667))
+
 ## [0.2.0](https://github.com/bkuhlman80/music-explorer/compare/music-explorer-v0.1.0...music-explorer-v0.2.0) (2025-09-03)
 
 
