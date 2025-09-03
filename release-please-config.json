@@ -5,7 +5,12 @@
       "package-name": "music-explorer",
       "changelog-path": "CHANGELOG.md",
       "extra-files": [
-        { "type": "plain", "path": "VERSION" }
+        {
+          "type": "replace",
+          "path": "VERSION",
+          "regex": "^.*$",
+          "replace": "${version}"
+        }
       ]
     }
   }
