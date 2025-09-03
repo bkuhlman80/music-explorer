@@ -4,15 +4,16 @@ export
 endif
 PY := python3
 VENV := .venv
+VENV_BIN := .venv/bin
 ACT := . $(VENV)/bin/activate
-SHELL := /usr/bin/bash
+SHELL := /usr/bin/env bash
 .SHELLFLAGS := -euo pipefail -c
 .ONESHELL:
 
 
 .PHONY: all setup freeze lock lock-upgrade pull pull_recordings 
 	clean build lint fmt test figures report run deploy clobber reset 
-	dictionary dictionary-enrich profile-dict restart ci
+	dictionary dictionary-enrich profile-dict restart ci release-pr version 
 
 setup:
 	@test -d $(VENV) || $(PY) -m venv $(VENV)
@@ -49,7 +50,7 @@ build:
 	. .venv/bin/activate && python -m app.pipeline.build
 
 report:
-	. .venv/bin/activate && python -m app.report.build
+	$(VENV_BIN)/python -m app.report.build
 
 run:
 	STREAMLIT_BROWSER_GATHER_USAGE_STATS=$(STREAMLIT_BROWSER_GATHER_USAGE_STATS) \
@@ -87,3 +88,9 @@ clobber:
 
 reset: clobber
 	@rm -rf data/raw/*
+
+release-pr:
+	@echo "Triggering release-please via workflow_dispatch (or push to main)."
+
+version:
+	@cat projects/music-explorer/VERSION

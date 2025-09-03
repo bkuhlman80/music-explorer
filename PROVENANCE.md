@@ -1,29 +1,62 @@
-# Data Provenance — Music Explorer
+# PROVENANCE — Music Explorer
 
 ## Source
-- Name: MusicBrainz
-- URL: https://musicbrainz.org
-- API: https://musicbrainz.org/ws/2
-- Documentation: https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
+- **Name:** MusicBrainz  
+- **URL:** https://musicbrainz.org  
+- **API:** https://musicbrainz.org/ws/2  
+- **Docs:** https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2  
+- **License:** Creative Commons BY-NC-SA 4.0  
+  - https://creativecommons.org/licenses/by-nc-sa/4.0/  
 
-## License
-- Data License: Creative Commons BY-NC-SA 4.0
-- Link: https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-## Rate Limits
-- Official guidance: 1 request/second per IP
-- Implemented: 1100ms delay between requests (configurable in `.env`)
+## Access & Limits
+- No auth required, but **descriptive User-Agent is mandatory**  
+  Example: `music-explorer/0.1 (your-email@example.com)`  
+- Rate limits: official guideline = 1 req/sec/IP  
+- Implemented: 1100 ms delay between requests (`MB_RATE_LIMIT_MS`)  
+- Retries: exponential backoff, max 3  
+- Timeout: 30 s  
 
 ## Pull Process
-- Command used: make pull ARTIST="Radiohead"
-- Environment: Python 3.11, Streamlit 1.37.1  
-- User-Agent string: `music-explorer/0.1 (your-email@example.com)`
+- Command:  
+  ```bash
+  make pull
+- Environment: Python ≥3.11, Streamlit ≥1.37
+- Controlled via .env:
+    - MB_BASE_URL
+    - USER_AGENT
+    - MB_RATE_LIMIT_MS, MB_MAX_RETRIES, MB_TIMEOUT_S
+    - ARTISTS_SEED (comma-separated names or MBIDs)
+
+## Entities & Fields
+- artist → id, name, sort-name, country, type, begin/end, tags
+- release-group → id, title, first-release-date, primary-type, secondary-types, artist-credit, tags
+- recording (optional) → id, title, length, release-list, artist-credit, tags
+
+## Extract → Transform → Load
+- raw → JSONL dumps per entity (data/raw/*.jsonl)
+- clean → normalized tables (data/clean/*.parquet)
+- marts → analysis-ready (data/marts/*.csv|parquet)
+    - artists
+    - artist_discography
+    - release_groups_by_year
+    - genres_by_decade
+    - artist_collaborations_names
+
+## Date Ranges
+- Release groups aggregated by year (min..max from marts)
+- Genres aggregated by decade (e.g., 1960s–2020s depending on seed)
+
+## Figures
+- docs/figures/collab_network.png
+- docs/figures/genre_evolution.png
+- Each caption:
+    - Source: MusicBrainz (CC BY-NC-SA 4.0). Pulled YYYY-MM-DD. Music metadata provided by MusicBrainz.
 
 ## Pull Log
 - Initial run: 2025-08-28, artists: Radiohead, Taylor Swift, Daft Punk
-- Subsequent updates: [append entries here with date + seed list]
+- Subsequent runs: [append new entries: YYYY-MM-DD, artist seeds]
 
-## Notes
-- Raw responses stored in `data/raw/` as JSON.  
-- Clean transforms stored in `data/clean/` as CSV/Parquet.  
-- Final marts stored in `data/marts/` for visualization.
+## Repro Stamp
+- Commit: <git sha> (git rev-parse --short HEAD)
+- Command: make build
+- Environment: Linux/OSX, Python ≥3.11

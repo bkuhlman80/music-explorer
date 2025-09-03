@@ -1,0 +1,16 @@
+{
+  "bootstrap-sha": "",
+  "release-type": "simple",
+  "packages": {
+    "projects/music-explorer": {
+      "component": "music-explorer",
+      "changelog-path": "projects/music-explorer/CHANGELOG.md",
+      "extra-files": [
+        {
+          "type": "plain",
+          "path": "projects/music-explorer/VERSION"
+        }
+      ]
+    }
+  }
+}

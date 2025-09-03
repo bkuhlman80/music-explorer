@@ -5,3 +5,7 @@ data/marts/*.parquet
 .venv/
 __pycache__/
 .DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
