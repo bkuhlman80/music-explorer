@@ -4,8 +4,12 @@ import pandas as pd
 import streamlit as st
 
 from pathlib import Path
-from app.config import get_env
-from app.config import REQUIRE_MARTS_ONLY
+
+try:
+    from app.config import get_env, REQUIRE_MARTS_ONLY
+except ModuleNotFoundError:
+    from config import get_env, REQUIRE_MARTS_ONLY
+
 
 # Must be first
 st.set_page_config(page_title="Music Explorer", layout="wide")
