@@ -180,13 +180,36 @@ def build() -> None:
     _rgs0 = schema.canonicalize("release_groups", read_parquet("release_groups"))
     if "title" not in _rgs0.columns and "name" in _rgs0.columns:
         _rgs0 = _rgs0.rename(columns={"name": "title"})
-    rgs_raw = schema.require(
-        "release_groups",
-        _rgs0,
-        ["rg_mbid", "title", "primary_type", "first_release_date", "artist_credit"],
-    )[
-        ["rg_mbid", "title", "primary_type", "first_release_date", "artist_credit"]
-    ].copy()
+    # ---- Release groups with resolver + fallback ----
+    try:
+        _rgs0 = schema.canonicalize("release_groups", read_parquet("release_groups"))
+    except Exception:
+        _rgs0 = pd.DataFrame()
+
+    if _rgs0 is None or _rgs0.empty:
+        # create an empty frame with required columns so downstream code proceeds
+        rgs_raw = pd.DataFrame(
+            columns=[
+                "rg_mbid",
+                "title",
+                "primary_type",
+                "first_release_date",
+                "artist_credit",
+            ]
+        )
+    else:
+        rgs_raw = schema.require(
+            "release_groups",
+            _rgs0,
+            ["rg_mbid", "title", "primary_type", "first_release_date", "artist_credit"],
+        )[
+            ["rg_mbid", "title", "primary_type", "first_release_date", "artist_credit"]
+        ].copy()
+
+    # derive year even if empty
+    rgs_raw["first_release_year"] = pd.to_datetime(
+        rgs_raw["first_release_date"], errors="coerce"
+    ).dt.year
 
     # optional: genres table
     try:
