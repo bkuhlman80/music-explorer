@@ -10,6 +10,7 @@ try:
 except ModuleNotFoundError:
     from config import get_env, REQUIRE_MARTS_ONLY
 
+import streamlit.components.v1 as components
 
 # Must be first
 st.set_page_config(page_title="Music Explorer", layout="wide")
@@ -44,6 +45,24 @@ def metric_int(label: str, value) -> None:
         st.metric(label, value)
 
 
+def collab_network_panel():
+    html_fp = FIG_DIR / "collab_network.html"
+    if not html_fp.exists():
+        st.info("No interactive network yet. Run: `make fig-collab`")
+        return
+    with html_fp.open("r", encoding="utf-8") as f:
+        html = f.read()
+    st.subheader("Collaboration network")
+    st.caption(
+        "Nodes sized by degree. Hover for degree, betweenness, genre. Drag to explore."
+    )
+    components.html(html, height=720, scrolling=True)
+    st.caption(
+        f"Source: MusicBrainz (CC BY-NC-SA 4.0). Pulled {TODAY}. "
+        "Music metadata provided by MusicBrainz."
+    )
+
+
 # ---- Sidebar ----
 PAGES = ["Overview", "Explore", "Download"]
 with st.sidebar:
@@ -72,7 +91,9 @@ if page == "Overview":
     with c3:
         metric_int("Collab edges (names)", len(edges_names))
     with c4:
-        metric_int("PNG exists", int((FIG_DIR / "collab_network.png").exists()))
+        metric_int(
+            "Network HTML exists", int((FIG_DIR / "collab_network.html").exists())
+        )
 
     with st.expander("Debug"):
         st.write(
@@ -115,25 +136,9 @@ if page == "Overview":
     else:
         st.info("genres_by_decade.csv missing or empty.")
 
-    st.subheader("Collaboration network")
-    png = FIG_DIR / "collab_network.png"
-    svg = FIG_DIR / "collab_network.svg"
-    if png.exists():
-        st.image(str(png), use_container_width=True)
-        if svg.exists():
-            st.download_button(
-                "Download SVG",
-                data=svg.read_bytes(),
-                file_name="collab_network.svg",
-                mime="image/svg+xml",
-                type="primary",
-            )
-        st.caption(
-            f"Source: MusicBrainz (CC BY-NC-SA 4.0). Pulled {TODAY}. "
-            "Music metadata provided by MusicBrainz."
-        )
-    else:
-        st.info("No figure yet. Run: `python -m app.pipeline.build`")
+    # Old PNG/SVG block removed
+    collab_network_panel()
+
 
 # ---- Explore ----
 elif page == "Explore":

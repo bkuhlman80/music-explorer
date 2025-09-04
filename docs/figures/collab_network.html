@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 700px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Dj Khalid", "label": "Dj Khalid", "shape": "dot", "size": 19.32905013553882, "title": "\u003cb\u003eDj Khalid\u003c/b\u003e\u003cbr\u003eMBID: Dj Khalid\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 18\u003cbr\u003eBetweenness: 0.846", "value": 18}, {"color": "#97c2fc", "id": "Mr. Don", "label": "Mr. Don", "shape": "dot", "size": 13.860312103167043, "title": "\u003cb\u003eMr. Don\u003c/b\u003e\u003cbr\u003eMBID: Mr. Don\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 6\u003cbr\u003eBetweenness: 0.000", "value": 6}, {"color": "#97c2fc", "id": "Manny Rod", "label": "Manny Rod", "shape": "dot", "size": 10.0, "title": "\u003cb\u003eManny Rod\u003c/b\u003e\u003cbr\u003eMBID: Manny Rod\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 1\u003cbr\u003eBetweenness: 0.000", "value": 1}, {"color": "#97c2fc", "id": "Mr.Don", "label": "Mr.Don", "shape": "dot", "size": 11.031433133020796, "title": "\u003cb\u003eMr.Don\u003c/b\u003e\u003cbr\u003eMBID: Mr.Don\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 2\u003cbr\u003eBetweenness: 0.000", "value": 2}, {"color": "#97c2fc", "id": "Johandy", "label": "Johandy", "shape": "dot", "size": 14.428191699432077, "title": "\u003cb\u003eJohandy\u003c/b\u003e\u003cbr\u003eMBID: Johandy\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 7\u003cbr\u003eBetweenness: 0.016", "value": 7}, {"color": "#97c2fc", "id": "Cardi B", "label": "Cardi B", "shape": "dot", "size": 11.031433133020796, "title": "\u003cb\u003eCardi B\u003c/b\u003e\u003cbr\u003eMBID: Cardi B\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 2\u003cbr\u003eBetweenness: 0.000", "value": 2}, {"color": "#97c2fc", "id": "Jennifer Lopez", "label": "Jennifer Lopez", "shape": "dot", "size": 11.031433133020796, "title": "\u003cb\u003eJennifer Lopez\u003c/b\u003e\u003cbr\u003eMBID: Jennifer Lopez\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 2\u003cbr\u003eBetweenness: 0.000", "value": 2}, {"color": "#97c2fc", "id": "Dana D Nova", "label": "Dana D Nova", "shape": "dot", "size": 11.031433133020796, "title": "\u003cb\u003eDana D Nova\u003c/b\u003e\u003cbr\u003eMBID: Dana D Nova\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 2\u003cbr\u003eBetweenness: 0.000", "value": 2}, {"color": "#97c2fc", "id": "Daniel y Desir\u00e9e", "label": "Daniel y Desir\u00e9e", "shape": "dot", "size": 13.860312103167043, "title": "\u003cb\u003eDaniel y Desir\u00e9e\u003c/b\u003e\u003cbr\u003eMBID: Daniel y Desir\u00e9e\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 6\u003cbr\u003eBetweenness: 0.000", "value": 6}, {"color": "#97c2fc", "id": "Jhonny Evidence", "label": "Jhonny Evidence", "shape": "dot", "size": 13.860312103167043, "title": "\u003cb\u003eJhonny Evidence\u003c/b\u003e\u003cbr\u003eMBID: Jhonny Evidence\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 6\u003cbr\u003eBetweenness: 0.000", "value": 6}, {"color": "#97c2fc", "id": "DerekVinci", "label": "DerekVinci", "shape": "dot", "size": 13.860312103167043, "title": "\u003cb\u003eDerekVinci\u003c/b\u003e\u003cbr\u003eMBID: DerekVinci\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 6\u003cbr\u003eBetweenness: 0.000", "value": 6}, {"color": "#97c2fc", "id": "Seo Fernandez", "label": "Seo Fernandez", "shape": "dot", "size": 11.031433133020796, "title": "\u003cb\u003eSeo Fernandez\u003c/b\u003e\u003cbr\u003eMBID: Seo Fernandez\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 2\u003cbr\u003eBetweenness: 0.000", "value": 2}, {"color": "#97c2fc", "id": "Vinny Rivera", "label": "Vinny Rivera", "shape": "dot", "size": 13.860312103167043, "title": "\u003cb\u003eVinny Rivera\u003c/b\u003e\u003cbr\u003eMBID: Vinny Rivera\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 6\u003cbr\u003eBetweenness: 0.000", "value": 6}, {"color": "#97c2fc", "id": "Johanna Pellerin", "label": "Johanna Pellerin", "shape": "dot", "size": 10.0, "title": "\u003cb\u003eJohanna Pellerin\u003c/b\u003e\u003cbr\u003eMBID: Johanna Pellerin\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 1\u003cbr\u003eBetweenness: 0.000", "value": 1}, {"color": "#97c2fc", "id": "Kewin Cosmos", "label": "Kewin Cosmos", "shape": "dot", "size": 11.866364089863525, "title": "\u003cb\u003eKewin Cosmos\u003c/b\u003e\u003cbr\u003eMBID: Kewin Cosmos\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 3\u003cbr\u003eBetweenness: 0.000", "value": 3}, {"color": "#97c2fc", "id": "Melvin War", "label": "Melvin War", "shape": "dot", "size": 11.866364089863525, "title": "\u003cb\u003eMelvin War\u003c/b\u003e\u003cbr\u003eMBID: Melvin War\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 3\u003cbr\u003eBetweenness: 0.000", "value": 3}, {"color": "#97c2fc", "id": "Marco Puma", "label": "Marco Puma", "shape": "dot", "size": 10.0, "title": "\u003cb\u003eMarco Puma\u003c/b\u003e\u003cbr\u003eMBID: Marco Puma\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 1\u003cbr\u003eBetweenness: 0.000", "value": 1}, {"color": "#97c2fc", "id": "Paul Waked", "label": "Paul Waked", "shape": "dot", "size": 10.0, "title": "\u003cb\u003ePaul Waked\u003c/b\u003e\u003cbr\u003eMBID: Paul Waked\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 1\u003cbr\u003eBetweenness: 0.000", "value": 1}, {"color": "#97c2fc", "id": "Tiguere", "label": "Tiguere", "shape": "dot", "size": 11.866364089863525, "title": "\u003cb\u003eTiguere\u003c/b\u003e\u003cbr\u003eMBID: Tiguere\u003cbr\u003eGenre: \u2014\u003cbr\u003eDegree: 3\u003cbr\u003eBetweenness: 0.000", "value": 3}]);
+                  edges = new vis.DataSet([{"from": "Dj Khalid", "title": "collaboration", "to": "Mr. Don"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Manny Rod"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Mr.Don"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Johandy"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Cardi B"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Dana D Nova"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Daniel y Desir\u00e9e"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Jhonny Evidence"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Jennifer Lopez"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Johanna Pellerin"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Kewin Cosmos"}, {"from": "Dj Khalid", "title": "collaboration", "to": "DerekVinci"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Melvin War"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Marco Puma"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Paul Waked"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Seo Fernandez"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Tiguere"}, {"from": "Dj Khalid", "title": "collaboration", "to": "Vinny Rivera"}, {"from": "Mr. Don", "title": "collaboration", "to": "Daniel y Desir\u00e9e"}, {"from": "Mr. Don", "title": "collaboration", "to": "DerekVinci"}, {"from": "Mr. Don", "title": "collaboration", "to": "Jhonny Evidence"}, {"from": "Mr. Don", "title": "collaboration", "to": "Johandy"}, {"from": "Mr. Don", "title": "collaboration", "to": "Vinny Rivera"}, {"from": "Mr.Don", "title": "collaboration", "to": "Johandy"}, {"from": "Johandy", "title": "collaboration", "to": "DerekVinci"}, {"from": "Johandy", "title": "collaboration", "to": "Daniel y Desir\u00e9e"}, {"from": "Johandy", "title": "collaboration", "to": "Jhonny Evidence"}, {"from": "Johandy", "title": "collaboration", "to": "Vinny Rivera"}, {"from": "Cardi B", "title": "collaboration", "to": "Jennifer Lopez"}, {"from": "Dana D Nova", "title": "collaboration", "to": "Seo Fernandez"}, {"from": "Daniel y Desir\u00e9e", "title": "collaboration", "to": "Jhonny Evidence"}, {"from": "Daniel y Desir\u00e9e", "title": "collaboration", "to": "DerekVinci"}, {"from": "Daniel y Desir\u00e9e", "title": "collaboration", "to": "Vinny Rivera"}, {"from": "Jhonny Evidence", "title": "collaboration", "to": "DerekVinci"}, {"from": "Jhonny Evidence", "title": "collaboration", "to": "Vinny Rivera"}, {"from": "DerekVinci", "title": "collaboration", "to": "Vinny Rivera"}, {"from": "Kewin Cosmos", "title": "collaboration", "to": "Melvin War"}, {"from": "Kewin Cosmos", "title": "collaboration", "to": "Tiguere"}, {"from": "Melvin War", "title": "collaboration", "to": "Tiguere"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"nodes": {"shape": "dot", "scaling": {"min": 6, "max": 36}, "font": {"size": 12, "strokeWidth": 2}}, "edges": {"color": {"inherit": true}, "width": 1, "smooth": false}, "interaction": {"hover": true, "tooltipDelay": 120, "hideEdgesOnDrag": false, "zoomView": true}, "physics": {"stabilization": {"iterations": 150}}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

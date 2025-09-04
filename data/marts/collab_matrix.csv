@@ -1,0 +1,985 @@
+genre_1,genre_2,n
+acid rock,acid rock,2
+acid rock,ambient,2
+acid rock,art rock,2
+acid rock,blues,2
+acid rock,blues rock,2
+acid rock,classic rock,2
+acid rock,classical,1
+acid rock,electronic,2
+acid rock,experimental,1
+acid rock,experimental rock,2
+acid rock,jazz,2
+acid rock,pop,1
+acid rock,progressive,2
+acid rock,progressive rock,2
+acid rock,psychedelic rock,2
+acid rock,rock,2
+acid rock,space rock,2
+acid rock,trance,2
+acoustic rock,acoustic rock,1
+acoustic rock,alternative rock,1
+acoustic rock,folk rock,1
+acoustic rock,grunge,1
+acoustic rock,indie rock,1
+acoustic rock,rock,1
+alternative rock,acoustic rock,1
+alternative rock,alternative rock,34
+alternative rock,ambient,2
+alternative rock,art rock,4
+alternative rock,avant-garde,1
+alternative rock,blues,3
+alternative rock,classic rock,3
+alternative rock,classical,2
+alternative rock,electro,2
+alternative rock,electronic,5
+alternative rock,experimental,1
+alternative rock,experimental rock,1
+alternative rock,folk rock,2
+alternative rock,grunge,28
+alternative rock,hard rock,1
+alternative rock,hardcore punk,1
+alternative rock,house,4
+alternative rock,indie rock,3
+alternative rock,jazz,2
+alternative rock,lo-fi,1
+alternative rock,musique concrète,1
+alternative rock,noise rock,3
+alternative rock,pop,2
+alternative rock,post-hardcore,2
+alternative rock,progressive,1
+alternative rock,progressive house,1
+alternative rock,progressive rock,4
+alternative rock,psychedelic pop,1
+alternative rock,psychedelic rock,4
+alternative rock,punk,5
+alternative rock,punk rock,3
+alternative rock,rock,34
+alternative rock,rock opera,1
+alternative rock,sludge metal,1
+alternative rock,space rock,3
+alternative rock,stoner rock,1
+alternative rock,symphonic rock,1
+alternative rock,trance,3
+ambient,acid rock,2
+ambient,alternative rock,2
+ambient,ambient,15
+ambient,arena rock,1
+ambient,art rock,15
+ambient,avant-garde,1
+ambient,blues,6
+ambient,blues rock,2
+ambient,classic rock,11
+ambient,classical,10
+ambient,electronic,14
+ambient,experimental,2
+ambient,experimental rock,5
+ambient,folk rock,1
+ambient,hard rock,4
+ambient,house,4
+ambient,jazz,14
+ambient,musique concrète,1
+ambient,pop,9
+ambient,pop rock,1
+ambient,progressive,7
+ambient,progressive rock,15
+ambient,psychedelic pop,1
+ambient,psychedelic rock,14
+ambient,rock,15
+ambient,rock opera,1
+ambient,space rock,12
+ambient,symphonic rock,2
+ambient,techno,1
+ambient,trance,8
+arena rock,ambient,1
+arena rock,arena rock,3
+arena rock,art rock,2
+arena rock,electronic,1
+arena rock,hard rock,1
+arena rock,jazz,1
+arena rock,pop,1
+arena rock,progressive rock,2
+arena rock,psychedelic rock,3
+arena rock,rock,3
+arena rock,rock and roll,1
+arena rock,space rock,1
+arena rock,symphonic rock,1
+arena rock,trance,1
+art rock,acid rock,2
+art rock,alternative rock,4
+art rock,ambient,15
+art rock,arena rock,2
+art rock,art rock,36
+art rock,avant-garde,3
+art rock,blues,7
+art rock,blues rock,2
+art rock,classic rock,19
+art rock,classical,10
+art rock,electronic,14
+art rock,experimental,2
+art rock,experimental rock,7
+art rock,folk rock,1
+art rock,hard rock,9
+art rock,house,4
+art rock,jazz,14
+art rock,musique concrète,1
+art rock,pop,10
+art rock,pop rock,3
+art rock,progressive,9
+art rock,progressive rock,28
+art rock,psychedelic folk,1
+art rock,psychedelic pop,2
+art rock,psychedelic rock,30
+art rock,rock,36
+art rock,rock opera,1
+art rock,space rock,17
+art rock,symphonic prog,3
+art rock,symphonic rock,3
+art rock,techno,1
+art rock,trance,8
+avant-garde,alternative rock,1
+avant-garde,ambient,1
+avant-garde,art rock,3
+avant-garde,avant-garde,3
+avant-garde,classic rock,1
+avant-garde,classical,1
+avant-garde,electronic,1
+avant-garde,hard rock,2
+avant-garde,jazz,1
+avant-garde,pop,1
+avant-garde,progressive rock,3
+avant-garde,psychedelic pop,1
+avant-garde,psychedelic rock,2
+avant-garde,rock,3
+avant-garde,space rock,1
+blues,acid rock,2
+blues,alternative rock,3
+blues,ambient,6
+blues,art rock,7
+blues,blues,11
+blues,blues rock,2
+blues,classic rock,7
+blues,classical,4
+blues,electronic,6
+blues,experimental,2
+blues,experimental rock,4
+blues,grunge,3
+blues,hard rock,2
+blues,house,4
+blues,jazz,6
+blues,musique concrète,1
+blues,non-music,1
+blues,pop,6
+blues,progressive,4
+blues,progressive rock,8
+blues,psychedelic rock,8
+blues,rock,11
+blues,rock opera,1
+blues,space rock,6
+blues,speech,1
+blues,symphonic rock,2
+blues,trance,5
+blues rock,acid rock,2
+blues rock,ambient,2
+blues rock,art rock,2
+blues rock,blues,2
+blues rock,blues rock,2
+blues rock,classic rock,2
+blues rock,classical,1
+blues rock,electronic,2
+blues rock,experimental,1
+blues rock,experimental rock,2
+blues rock,jazz,2
+blues rock,pop,1
+blues rock,progressive,2
+blues rock,progressive rock,2
+blues rock,psychedelic rock,2
+blues rock,rock,2
+blues rock,space rock,2
+blues rock,trance,2
+classic rock,acid rock,2
+classic rock,alternative rock,3
+classic rock,ambient,11
+classic rock,art rock,19
+classic rock,avant-garde,1
+classic rock,blues,7
+classic rock,blues rock,2
+classic rock,classic rock,23
+classic rock,classical,7
+classic rock,electronic,10
+classic rock,experimental,2
+classic rock,experimental rock,6
+classic rock,folk rock,1
+classic rock,hard rock,5
+classic rock,house,4
+classic rock,jazz,10
+classic rock,musique concrète,1
+classic rock,pop,7
+classic rock,pop rock,2
+classic rock,progressive,8
+classic rock,progressive rock,20
+classic rock,psychedelic folk,1
+classic rock,psychedelic pop,2
+classic rock,psychedelic rock,19
+classic rock,rock,23
+classic rock,rock opera,1
+classic rock,space rock,16
+classic rock,symphonic prog,3
+classic rock,symphonic rock,3
+classic rock,techno,1
+classic rock,trance,6
+classical,acid rock,1
+classical,alternative rock,2
+classical,ambient,10
+classical,art rock,10
+classical,avant-garde,1
+classical,blues,4
+classical,blues rock,1
+classical,classic rock,7
+classical,classical,10
+classical,electronic,10
+classical,experimental,1
+classical,experimental rock,4
+classical,folk rock,1
+classical,hard rock,3
+classical,house,3
+classical,jazz,10
+classical,musique concrète,1
+classical,pop,7
+classical,pop rock,1
+classical,progressive,6
+classical,progressive rock,10
+classical,psychedelic pop,1
+classical,psychedelic rock,10
+classical,rock,10
+classical,rock opera,1
+classical,space rock,7
+classical,symphonic rock,2
+classical,trance,5
+electro,alternative rock,2
+electro,electro,2
+electro,electronic,2
+electro,grunge,2
+electro,house,1
+electro,indie rock,1
+electro,rock,2
+electronic,acid rock,2
+electronic,alternative rock,5
+electronic,ambient,14
+electronic,arena rock,1
+electronic,art rock,14
+electronic,avant-garde,1
+electronic,blues,6
+electronic,blues rock,2
+electronic,classic rock,10
+electronic,classical,10
+electronic,electro,2
+electronic,electronic,18
+electronic,experimental,2
+electronic,experimental rock,5
+electronic,folk rock,1
+electronic,grunge,4
+electronic,hard rock,4
+electronic,house,7
+electronic,indie rock,1
+electronic,jazz,14
+electronic,musique concrète,1
+electronic,pop,9
+electronic,pop rock,1
+electronic,progressive,7
+electronic,progressive house,1
+electronic,progressive rock,14
+electronic,psychedelic pop,1
+electronic,psychedelic rock,14
+electronic,punk,1
+electronic,rock,18
+electronic,rock opera,1
+electronic,space rock,11
+electronic,symphonic rock,2
+electronic,techno,1
+electronic,trance,8
+experimental,acid rock,1
+experimental,alternative rock,1
+experimental,ambient,2
+experimental,art rock,2
+experimental,blues,2
+experimental,blues rock,1
+experimental,classic rock,2
+experimental,classical,1
+experimental,electronic,2
+experimental,experimental,3
+experimental,experimental rock,2
+experimental,house,1
+experimental,jazz,2
+experimental,musique concrète,1
+experimental,pop,1
+experimental,progressive,2
+experimental,progressive rock,2
+experimental,psychedelic rock,2
+experimental,rock,3
+experimental,space rock,2
+experimental,trance,2
+experimental rock,acid rock,2
+experimental rock,alternative rock,1
+experimental rock,ambient,5
+experimental rock,art rock,7
+experimental rock,blues,4
+experimental rock,blues rock,2
+experimental rock,classic rock,6
+experimental rock,classical,4
+experimental rock,electronic,5
+experimental rock,experimental,2
+experimental rock,experimental rock,7
+experimental rock,house,1
+experimental rock,jazz,5
+experimental rock,musique concrète,1
+experimental rock,pop,3
+experimental rock,pop rock,1
+experimental rock,progressive,7
+experimental rock,progressive rock,7
+experimental rock,psychedelic folk,1
+experimental rock,psychedelic pop,1
+experimental rock,psychedelic rock,7
+experimental rock,rock,7
+experimental rock,space rock,7
+experimental rock,symphonic prog,1
+experimental rock,symphonic rock,1
+experimental rock,trance,3
+folk rock,acoustic rock,1
+folk rock,alternative rock,2
+folk rock,ambient,1
+folk rock,art rock,1
+folk rock,classic rock,1
+folk rock,classical,1
+folk rock,electronic,1
+folk rock,folk rock,3
+folk rock,grunge,2
+folk rock,indie rock,1
+folk rock,jazz,1
+folk rock,lo-fi,1
+folk rock,noise rock,1
+folk rock,progressive,1
+folk rock,progressive rock,1
+folk rock,psychedelic rock,1
+folk rock,punk,1
+folk rock,punk rock,1
+folk rock,rock,3
+folk rock,space rock,1
+folk rock,stoner rock,1
+grunge,acoustic rock,1
+grunge,alternative rock,28
+grunge,blues,3
+grunge,electro,2
+grunge,electronic,4
+grunge,folk rock,2
+grunge,grunge,67
+grunge,hard rock,2
+grunge,hardcore punk,1
+grunge,house,3
+grunge,indie rock,4
+grunge,lo-fi,1
+grunge,noise,1
+grunge,noise rock,3
+grunge,non-music,1
+grunge,pop rock,1
+grunge,post-hardcore,2
+grunge,progressive house,1
+grunge,punk,5
+grunge,punk rock,4
+grunge,rock,64
+grunge,sludge metal,1
+grunge,speech,1
+grunge,stoner rock,1
+grunge,trance,1
+hard rock,alternative rock,1
+hard rock,ambient,4
+hard rock,arena rock,1
+hard rock,art rock,9
+hard rock,avant-garde,2
+hard rock,blues,2
+hard rock,classic rock,5
+hard rock,classical,3
+hard rock,electronic,4
+hard rock,grunge,2
+hard rock,hard rock,11
+hard rock,house,2
+hard rock,jazz,4
+hard rock,pop,3
+hard rock,pop rock,1
+hard rock,progressive,1
+hard rock,progressive rock,9
+hard rock,psychedelic rock,7
+hard rock,rock,11
+hard rock,rock opera,1
+hard rock,space rock,4
+hard rock,symphonic prog,2
+hard rock,symphonic rock,1
+hard rock,trance,3
+hardcore punk,alternative rock,1
+hardcore punk,grunge,1
+hardcore punk,hardcore punk,1
+hardcore punk,indie rock,1
+hardcore punk,noise rock,1
+hardcore punk,post-hardcore,1
+hardcore punk,punk,1
+hardcore punk,punk rock,1
+hardcore punk,rock,1
+hardcore punk,sludge metal,1
+hardcore punk,trance,1
+house,alternative rock,4
+house,ambient,4
+house,art rock,4
+house,blues,4
+house,classic rock,4
+house,classical,3
+house,electro,1
+house,electronic,7
+house,experimental,1
+house,experimental rock,1
+house,grunge,3
+house,hard rock,2
+house,house,7
+house,jazz,4
+house,musique concrète,1
+house,pop,4
+house,progressive,1
+house,progressive house,1
+house,progressive rock,4
+house,psychedelic rock,4
+house,punk,1
+house,rock,7
+house,rock opera,1
+house,space rock,3
+house,symphonic rock,2
+house,trance,3
+indie rock,acoustic rock,1
+indie rock,alternative rock,3
+indie rock,electro,1
+indie rock,electronic,1
+indie rock,folk rock,1
+indie rock,grunge,4
+indie rock,hardcore punk,1
+indie rock,indie rock,4
+indie rock,noise,1
+indie rock,noise rock,1
+indie rock,post-hardcore,1
+indie rock,punk,1
+indie rock,punk rock,1
+indie rock,rock,4
+indie rock,sludge metal,1
+indie rock,trance,1
+jazz,acid rock,2
+jazz,alternative rock,2
+jazz,ambient,14
+jazz,arena rock,1
+jazz,art rock,14
+jazz,avant-garde,1
+jazz,blues,6
+jazz,blues rock,2
+jazz,classic rock,10
+jazz,classical,10
+jazz,electronic,14
+jazz,experimental,2
+jazz,experimental rock,5
+jazz,folk rock,1
+jazz,hard rock,4
+jazz,house,4
+jazz,jazz,14
+jazz,musique concrète,1
+jazz,pop,9
+jazz,pop rock,1
+jazz,progressive,7
+jazz,progressive rock,14
+jazz,psychedelic pop,1
+jazz,psychedelic rock,14
+jazz,rock,14
+jazz,rock opera,1
+jazz,space rock,11
+jazz,symphonic rock,2
+jazz,techno,1
+jazz,trance,8
+lo-fi,alternative rock,1
+lo-fi,folk rock,1
+lo-fi,grunge,1
+lo-fi,lo-fi,1
+lo-fi,noise rock,1
+lo-fi,punk,1
+lo-fi,punk rock,1
+lo-fi,rock,1
+lo-fi,stoner rock,1
+musique concrète,alternative rock,1
+musique concrète,ambient,1
+musique concrète,art rock,1
+musique concrète,blues,1
+musique concrète,classic rock,1
+musique concrète,classical,1
+musique concrète,electronic,1
+musique concrète,experimental,1
+musique concrète,experimental rock,1
+musique concrète,house,1
+musique concrète,jazz,1
+musique concrète,musique concrète,1
+musique concrète,pop,1
+musique concrète,progressive,1
+musique concrète,progressive rock,1
+musique concrète,psychedelic rock,1
+musique concrète,rock,1
+musique concrète,space rock,1
+musique concrète,trance,1
+noise,grunge,1
+noise,indie rock,1
+noise,noise,1
+noise,rock,1
+noise rock,alternative rock,3
+noise rock,folk rock,1
+noise rock,grunge,3
+noise rock,hardcore punk,1
+noise rock,indie rock,1
+noise rock,lo-fi,1
+noise rock,noise rock,3
+noise rock,post-hardcore,2
+noise rock,punk,3
+noise rock,punk rock,2
+noise rock,rock,3
+noise rock,sludge metal,1
+noise rock,stoner rock,1
+noise rock,trance,1
+non-music,blues,1
+non-music,grunge,1
+non-music,non-music,1
+non-music,rock,1
+non-music,speech,1
+pop,acid rock,1
+pop,alternative rock,2
+pop,ambient,9
+pop,arena rock,1
+pop,art rock,10
+pop,avant-garde,1
+pop,blues,6
+pop,blues rock,1
+pop,classic rock,7
+pop,classical,7
+pop,electronic,9
+pop,experimental,1
+pop,experimental rock,3
+pop,hard rock,3
+pop,house,4
+pop,jazz,9
+pop,musique concrète,1
+pop,pop,11
+pop,pop rock,1
+pop,progressive,3
+pop,progressive rock,11
+pop,psychedelic pop,1
+pop,psychedelic rock,10
+pop,rock,11
+pop,rock opera,1
+pop,space rock,6
+pop,symphonic rock,2
+pop,trance,6
+pop rock,ambient,1
+pop rock,art rock,3
+pop rock,classic rock,2
+pop rock,classical,1
+pop rock,electronic,1
+pop rock,experimental rock,1
+pop rock,grunge,1
+pop rock,hard rock,1
+pop rock,jazz,1
+pop rock,pop,1
+pop rock,pop rock,4
+pop rock,progressive,1
+pop rock,progressive rock,3
+pop rock,psychedelic folk,1
+pop rock,psychedelic rock,3
+pop rock,rock,4
+pop rock,space rock,2
+pop rock,symphonic prog,2
+pop rock,symphonic rock,1
+pop rock,trance,1
+post-hardcore,alternative rock,2
+post-hardcore,grunge,2
+post-hardcore,hardcore punk,1
+post-hardcore,indie rock,1
+post-hardcore,noise rock,2
+post-hardcore,post-hardcore,2
+post-hardcore,punk,2
+post-hardcore,punk rock,1
+post-hardcore,rock,2
+post-hardcore,sludge metal,1
+post-hardcore,trance,1
+progressive,acid rock,2
+progressive,alternative rock,1
+progressive,ambient,7
+progressive,art rock,9
+progressive,blues,4
+progressive,blues rock,2
+progressive,classic rock,8
+progressive,classical,6
+progressive,electronic,7
+progressive,experimental,2
+progressive,experimental rock,7
+progressive,folk rock,1
+progressive,hard rock,1
+progressive,house,1
+progressive,jazz,7
+progressive,musique concrète,1
+progressive,pop,3
+progressive,pop rock,1
+progressive,progressive,9
+progressive,progressive rock,9
+progressive,psychedelic folk,1
+progressive,psychedelic pop,1
+progressive,psychedelic rock,9
+progressive,rock,9
+progressive,space rock,9
+progressive,symphonic prog,1
+progressive,symphonic rock,1
+progressive,trance,4
+progressive house,alternative rock,1
+progressive house,electronic,1
+progressive house,grunge,1
+progressive house,house,1
+progressive house,progressive house,1
+progressive house,punk,1
+progressive house,rock,1
+progressive rock,acid rock,2
+progressive rock,alternative rock,4
+progressive rock,ambient,15
+progressive rock,arena rock,2
+progressive rock,art rock,28
+progressive rock,avant-garde,3
+progressive rock,blues,8
+progressive rock,blues rock,2
+progressive rock,classic rock,20
+progressive rock,classical,10
+progressive rock,electronic,14
+progressive rock,experimental,2
+progressive rock,experimental rock,7
+progressive rock,folk rock,1
+progressive rock,hard rock,9
+progressive rock,house,4
+progressive rock,jazz,14
+progressive rock,musique concrète,1
+progressive rock,pop,11
+progressive rock,pop rock,3
+progressive rock,progressive,9
+progressive rock,progressive rock,34
+progressive rock,psychedelic folk,1
+progressive rock,psychedelic pop,2
+progressive rock,psychedelic rock,27
+progressive rock,rock,33
+progressive rock,rock opera,1
+progressive rock,space rock,16
+progressive rock,symphonic prog,3
+progressive rock,symphonic rock,3
+progressive rock,techno,1
+progressive rock,trance,8
+psychedelic,psychedelic,1
+psychedelic,psychedelic rock,1
+psychedelic,rock,1
+psychedelic folk,art rock,1
+psychedelic folk,classic rock,1
+psychedelic folk,experimental rock,1
+psychedelic folk,pop rock,1
+psychedelic folk,progressive,1
+psychedelic folk,progressive rock,1
+psychedelic folk,psychedelic folk,1
+psychedelic folk,psychedelic rock,1
+psychedelic folk,rock,1
+psychedelic folk,space rock,1
+psychedelic folk,symphonic prog,1
+psychedelic folk,symphonic rock,1
+psychedelic pop,alternative rock,1
+psychedelic pop,ambient,1
+psychedelic pop,art rock,2
+psychedelic pop,avant-garde,1
+psychedelic pop,classic rock,2
+psychedelic pop,classical,1
+psychedelic pop,electronic,1
+psychedelic pop,experimental rock,1
+psychedelic pop,jazz,1
+psychedelic pop,pop,1
+psychedelic pop,progressive,1
+psychedelic pop,progressive rock,2
+psychedelic pop,psychedelic pop,2
+psychedelic pop,psychedelic rock,2
+psychedelic pop,rock,2
+psychedelic pop,space rock,2
+psychedelic rock,acid rock,2
+psychedelic rock,alternative rock,4
+psychedelic rock,ambient,14
+psychedelic rock,arena rock,3
+psychedelic rock,art rock,30
+psychedelic rock,avant-garde,2
+psychedelic rock,blues,8
+psychedelic rock,blues rock,2
+psychedelic rock,classic rock,19
+psychedelic rock,classical,10
+psychedelic rock,electronic,14
+psychedelic rock,experimental,2
+psychedelic rock,experimental rock,7
+psychedelic rock,folk rock,1
+psychedelic rock,hard rock,7
+psychedelic rock,house,4
+psychedelic rock,jazz,14
+psychedelic rock,musique concrète,1
+psychedelic rock,pop,10
+psychedelic rock,pop rock,3
+psychedelic rock,progressive,9
+psychedelic rock,progressive rock,27
+psychedelic rock,psychedelic,1
+psychedelic rock,psychedelic folk,1
+psychedelic rock,psychedelic pop,2
+psychedelic rock,psychedelic rock,48
+psychedelic rock,rock,48
+psychedelic rock,rock and roll,1
+psychedelic rock,rock opera,1
+psychedelic rock,space rock,19
+psychedelic rock,symphonic prog,3
+psychedelic rock,symphonic rock,4
+psychedelic rock,techno,1
+psychedelic rock,trance,8
+punk,alternative rock,5
+punk,electronic,1
+punk,folk rock,1
+punk,grunge,5
+punk,hardcore punk,1
+punk,house,1
+punk,indie rock,1
+punk,lo-fi,1
+punk,noise rock,3
+punk,post-hardcore,2
+punk,progressive house,1
+punk,punk,5
+punk,punk rock,2
+punk,rock,5
+punk,sludge metal,1
+punk,stoner rock,1
+punk,trance,1
+punk rock,alternative rock,3
+punk rock,folk rock,1
+punk rock,grunge,4
+punk rock,hardcore punk,1
+punk rock,indie rock,1
+punk rock,lo-fi,1
+punk rock,noise rock,2
+punk rock,post-hardcore,1
+punk rock,punk,2
+punk rock,punk rock,4
+punk rock,rock,4
+punk rock,sludge metal,1
+punk rock,stoner rock,1
+punk rock,trance,1
+rock,acid rock,2
+rock,acoustic rock,1
+rock,alternative rock,34
+rock,ambient,15
+rock,arena rock,3
+rock,art rock,36
+rock,avant-garde,3
+rock,blues,11
+rock,blues rock,2
+rock,classic rock,23
+rock,classical,10
+rock,electro,2
+rock,electronic,18
+rock,experimental,3
+rock,experimental rock,7
+rock,folk rock,3
+rock,grunge,64
+rock,hard rock,11
+rock,hardcore punk,1
+rock,house,7
+rock,indie rock,4
+rock,jazz,14
+rock,lo-fi,1
+rock,musique concrète,1
+rock,noise,1
+rock,noise rock,3
+rock,non-music,1
+rock,pop,11
+rock,pop rock,4
+rock,post-hardcore,2
+rock,progressive,9
+rock,progressive house,1
+rock,progressive rock,33
+rock,psychedelic,1
+rock,psychedelic folk,1
+rock,psychedelic pop,2
+rock,psychedelic rock,48
+rock,punk,5
+rock,punk rock,4
+rock,rock,124
+rock,rock and roll,1
+rock,rock opera,1
+rock,sludge metal,1
+rock,space rock,21
+rock,speech,1
+rock,stoner rock,1
+rock,symphonic prog,3
+rock,symphonic rock,4
+rock,techno,1
+rock,trance,9
+rock and roll,arena rock,1
+rock and roll,psychedelic rock,1
+rock and roll,rock,1
+rock and roll,rock and roll,1
+rock and roll,symphonic rock,1
+rock opera,alternative rock,1
+rock opera,ambient,1
+rock opera,art rock,1
+rock opera,blues,1
+rock opera,classic rock,1
+rock opera,classical,1
+rock opera,electronic,1
+rock opera,hard rock,1
+rock opera,house,1
+rock opera,jazz,1
+rock opera,pop,1
+rock opera,progressive rock,1
+rock opera,psychedelic rock,1
+rock opera,rock,1
+rock opera,rock opera,1
+rock opera,space rock,1
+rock opera,symphonic rock,1
+rock opera,trance,1
+sludge metal,alternative rock,1
+sludge metal,grunge,1
+sludge metal,hardcore punk,1
+sludge metal,indie rock,1
+sludge metal,noise rock,1
+sludge metal,post-hardcore,1
+sludge metal,punk,1
+sludge metal,punk rock,1
+sludge metal,rock,1
+sludge metal,sludge metal,1
+sludge metal,trance,1
+space rock,acid rock,2
+space rock,alternative rock,3
+space rock,ambient,12
+space rock,arena rock,1
+space rock,art rock,17
+space rock,avant-garde,1
+space rock,blues,6
+space rock,blues rock,2
+space rock,classic rock,16
+space rock,classical,7
+space rock,electronic,11
+space rock,experimental,2
+space rock,experimental rock,7
+space rock,folk rock,1
+space rock,hard rock,4
+space rock,house,3
+space rock,jazz,11
+space rock,musique concrète,1
+space rock,pop,6
+space rock,pop rock,2
+space rock,progressive,9
+space rock,progressive rock,16
+space rock,psychedelic folk,1
+space rock,psychedelic pop,2
+space rock,psychedelic rock,19
+space rock,rock,21
+space rock,rock opera,1
+space rock,space rock,21
+space rock,symphonic prog,2
+space rock,symphonic rock,2
+space rock,techno,1
+space rock,trance,7
+speech,blues,1
+speech,grunge,1
+speech,non-music,1
+speech,rock,1
+speech,speech,1
+stoner rock,alternative rock,1
+stoner rock,folk rock,1
+stoner rock,grunge,1
+stoner rock,lo-fi,1
+stoner rock,noise rock,1
+stoner rock,punk,1
+stoner rock,punk rock,1
+stoner rock,rock,1
+stoner rock,stoner rock,1
+symphonic prog,art rock,3
+symphonic prog,classic rock,3
+symphonic prog,experimental rock,1
+symphonic prog,hard rock,2
+symphonic prog,pop rock,2
+symphonic prog,progressive,1
+symphonic prog,progressive rock,3
+symphonic prog,psychedelic folk,1
+symphonic prog,psychedelic rock,3
+symphonic prog,rock,3
+symphonic prog,space rock,2
+symphonic prog,symphonic prog,3
+symphonic prog,symphonic rock,1
+symphonic rock,alternative rock,1
+symphonic rock,ambient,2
+symphonic rock,arena rock,1
+symphonic rock,art rock,3
+symphonic rock,blues,2
+symphonic rock,classic rock,3
+symphonic rock,classical,2
+symphonic rock,electronic,2
+symphonic rock,experimental rock,1
+symphonic rock,hard rock,1
+symphonic rock,house,2
+symphonic rock,jazz,2
+symphonic rock,pop,2
+symphonic rock,pop rock,1
+symphonic rock,progressive,1
+symphonic rock,progressive rock,3
+symphonic rock,psychedelic folk,1
+symphonic rock,psychedelic rock,4
+symphonic rock,rock,4
+symphonic rock,rock and roll,1
+symphonic rock,rock opera,1
+symphonic rock,space rock,2
+symphonic rock,symphonic prog,1
+symphonic rock,symphonic rock,4
+symphonic rock,trance,1
+techno,ambient,1
+techno,art rock,1
+techno,classic rock,1
+techno,electronic,1
+techno,jazz,1
+techno,progressive rock,1
+techno,psychedelic rock,1
+techno,rock,1
+techno,space rock,1
+techno,techno,1
+trance,acid rock,2
+trance,alternative rock,3
+trance,ambient,8
+trance,arena rock,1
+trance,art rock,8
+trance,blues,5
+trance,blues rock,2
+trance,classic rock,6
+trance,classical,5
+trance,electronic,8
+trance,experimental,2
+trance,experimental rock,3
+trance,grunge,1
+trance,hard rock,3
+trance,hardcore punk,1
+trance,house,3
+trance,indie rock,1
+trance,jazz,8
+trance,musique concrète,1
+trance,noise rock,1
+trance,pop,6
+trance,pop rock,1
+trance,post-hardcore,1
+trance,progressive,4
+trance,progressive rock,8
+trance,psychedelic rock,8
+trance,punk,1
+trance,punk rock,1
+trance,rock,9
+trance,rock opera,1
+trance,sludge metal,1
+trance,space rock,7
+trance,symphonic rock,1
+trance,trance,9

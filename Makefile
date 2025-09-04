@@ -21,7 +21,7 @@ ARTISTS_SEED     ?= Radiohead,Daft Punk,Beyonce
 STREAMLIT_PORT   ?= 8501
 STREAMLIT_BROWSER_GATHER_USAGE_STATS ?= false
 
-.PHONY: all env-check setup freeze lock lock-upgrade pull pull_recordings clean build guard_raw guard_clean lint fmt test figures report run deploy clobber reset dictionary dictionary-enrich profile-dict restart ci release-pr version qa
+.PHONY: all env-check setup freeze lock lock-upgrade pull pull_recordings clean build guard_raw guard_clean lint fmt test figures report run deploy clobber reset dictionary dictionary-enrich profile-dict restart ci release-pr version qa pull-relations marts-relations fig-relations fig-collab build-discog
 
 qa: build report test
 
@@ -101,6 +101,8 @@ restart:
 	@pkill -f "streamlit run" || true
 	@$(ACT) && streamlit run -m app.streamlit_app --server.port $(STREAMLIT_PORT)
 
+build-discog:
+	. .venv/bin/activate && python -m app.pipeline.build_discog
 	
 ci: setup lint clean build figures test report profile-dict
 
@@ -115,3 +117,15 @@ release-pr:
 
 version:
 	@cat VERSION
+
+pull-relations:
+	. .venv/bin/activate && python -m app.pull.relations
+
+marts-relations:
+	. .venv/bin/activate && python -m app.pipeline.marts_relations
+
+fig-relations:
+	. .venv/bin/activate && python -m app.figures.relations_charts
+
+fig-collab:
+	. .venv/bin/activate && python -m app.viz.collab_network

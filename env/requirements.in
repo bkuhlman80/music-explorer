@@ -10,3 +10,4 @@ reportlab
 python-dotenv
 watchdog==6.0.0
 streamlit
+pyvis>=0.3.2
