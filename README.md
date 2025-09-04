@@ -1,7 +1,7 @@
 # Music Explorer
 
 [![CI](https://github.com/bkuhlman80/music-explorer/actions/workflows/ci.yml/badge.svg)](https://github.com/bkuhlman80/music-explorer/actions)
-Live demo: https://kuhl-music-explorer.streamlit.app/ (after deploy)
+Live demo: https://kuhl-music-explorer.streamlit.app/ 
 
 The **Music Explorer** project uses the [MusicBrainz](https://musicbrainz.org/) API, pulling structured data on artists, releases, and genres, cleaning and reshaping it into timelines, collaboration graphs, and trend visualizations. The project demonstrates end-to-end analytics skills: sourcing, schema-robust transforms, tests, CI, and a deployed app. 
 
@@ -21,7 +21,7 @@ The result is a reproducible, cloud-hosted portfolio artifact that highlights sk
 ---
 
 ![New release groups per year](docs/figures/rg_per_year.png)  
-*Source: MusicBrainz, CC BY-NC-SA 4.0, pulled 2025-08-28.*
+*Source: MusicBrainz, CC BY-NC-SA 4.0, pulled 2025-09-03.*
 
 ## Caption standard:
 Source: MusicBrainz (CC BY-NC-SA 4.0). Pulled YYYY-MM-DD. “Music metadata provided by MusicBrainz.”

@@ -53,10 +53,12 @@
     - Source: MusicBrainz (CC BY-NC-SA 4.0). Pulled YYYY-MM-DD. Music metadata provided by MusicBrainz.
 
 ## Pull Log
-- Initial run: 2025-08-28, artists: Radiohead, Taylor Swift, Daft Punk
-- Subsequent runs: [append new entries: YYYY-MM-DD, artist seeds]
+- 2025-08-28 — Radiohead; Taylor Swift; Daft Punk
+- 2025-09-03 — Radiohead; Daft Punk; Beyonce
 
 ## Repro Stamp
-- Commit: <git sha> (git rev-parse --short HEAD)
-- Command: make build
-- Environment: Linux/OSX, Python ≥3.11
+- Version tag: music-explorer-v0.2.0
+- Commit: 0dc7322
+- Build command: `make build && make report`
+- Build date (UTC): 2025-09-03
+- Environment: Linux/OSX, Python 3.11
