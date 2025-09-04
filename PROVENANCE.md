@@ -58,7 +58,7 @@
 
 ## Repro Stamp
 - Version tag: music-explorer-v0.2.0
-- Commit: 0dc7322
+- Commit: 808643d
 - Build command: `make build && make report`
 - Build date (UTC): 2025-09-03
 - Environment: Linux/OSX, Python 3.11
