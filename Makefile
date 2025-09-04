@@ -1,19 +1,30 @@
-ifneq (,$(wildcard env/.env))
-include env/.env
+-include .env
+-include env/.env
 export
-endif
+
 PY := python3
 VENV := .venv
-VENV_BIN := .venv/bin
+VENV_BIN := $(VENV)/bin
 ACT := . $(VENV)/bin/activate
+
 SHELL := /bin/bash
 .SHELLFLAGS := -euo pipefail -c
 .ONESHELL:
 
+# Defaults if not provided
+MB_BASE_URL      ?= https://musicbrainz.org/ws/2
+MB_RATE_LIMIT_MS ?= 1100
+MB_MAX_RETRIES   ?= 3
+MB_TIMEOUT_S     ?= 30
+TZ               ?= UTC
+ARTISTS_SEED     ?= Radiohead,Daft Punk,Beyonce
+STREAMLIT_PORT   ?= 8501
+STREAMLIT_BROWSER_GATHER_USAGE_STATS ?= false
 
-.PHONY: all setup freeze lock lock-upgrade pull pull_recordings 
-	clean build lint fmt test figures report run deploy clobber reset 
-	dictionary dictionary-enrich profile-dict restart ci release-pr version 
+.PHONY: all env-check setup freeze lock lock-upgrade pull pull_recordings clean build guard_raw guard_clean lint fmt test figures report run deploy clobber reset dictionary dictionary-enrich profile-dict restart ci release-pr version
+
+env-check:
+	@test -n "$(USER_AGENT)" || (echo "ERROR: Set USER_AGENT in .env as 'app/version (email)'"; exit 1)
 
 setup:
 	@test -d $(VENV) || $(PY) -m venv $(VENV)
@@ -35,19 +46,27 @@ lock-upgrade:
 pull: pull_recordings
 
 pull_recordings:
+	@set -a; [ -f .env ] && . ./.env; set +a; \
 	$(VENV_BIN)/python -m app.pipeline.pull_recordings \
-	  --base-url "$(MB_BASE_URL)" \
-	  --user-agent "$(USER_AGENT)" \
-	  --seed "$(ARTISTS_SEED)" \
-	  --rate-limit-ms "$(MB_RATE_LIMIT_MS)" \
-	  --timeout-s "$(MB_TIMEOUT_S)" \
-	  --retries "$(MB_MAX_RETRIES)" \
+	  --base-url "$${MB_BASE_URL:-https://musicbrainz.org/ws/2}" \
+	  --user-agent "$${USER_AGENT:?Set USER_AGENT in .env as 'app/version (email)'}" \
+	  --seed "$${ARTISTS_SEED:-Radiohead,Daft Punk,Beyonce}" \
+	  --rate-limit-ms "$${MB_RATE_LIMIT_MS:-1100}" \
+	  --timeout-s "$${MB_TIMEOUT_S:-30}" \
+	  --retries "$${MB_MAX_RETRIES:-3}" \
 	  --out "data/raw/recordings.jsonl"
 
 clean:
-	. .venv/bin/activate && python -m app.pipeline.clean
-build:
-	. .venv/bin/activate && python -m app.pipeline.build
+	$(VENV_BIN)/python -m app.pipeline.clean
+
+guard_raw:
+	@test -s data/raw/recordings.jsonl || $(MAKE) pull
+
+guard_clean: guard_raw
+	@test -f data/clean/release_groups.parquet || $(VENV_BIN)/python -m app.pipeline.clean
+
+build: guard_clean
+	$(VENV_BIN)/python -m app.pipeline.build
 
 report:
 	$(VENV_BIN)/python -m app.report.build
@@ -74,7 +93,7 @@ test: figures
 	@$(ACT) && PYTHONPATH=. pytest -q
 
 figures:
-	@$(ACT) && $(PY) -m app.figures.export
+	$(VENV_BIN)/python -m app.figures.export
 
 restart:
 	@pkill -f "streamlit run" || true
@@ -93,4 +112,4 @@ release-pr:
 	@echo "Triggering release-please via workflow_dispatch (or push to main)."
 
 version:
-	@cat projects/music-explorer/VERSION
+	@cat VERSION
