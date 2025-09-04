@@ -70,3 +70,13 @@ make figures → export charts to docs/figures/
 make report → build docs/report.pdf
 make test → run unit tests
 make deploy → push repo + trigger CI
+
+## Changelog
+
+**v0.2.0 — Relations & Interactive Viz**
+- Added relations puller and new marts (`artist_roles`, `label_affiliations`, `producer_network`, etc.).
+- Replaced static collab PNG with interactive **pyvis** network (names + hover tooltips).
+- Fixed missing discography: new builder generates `artist_discography.csv` from recordings.
+- CI + pre-commit hooks now stable; Streamlit Cloud app updated.
+
+➡️ Full notes: see [Releases](https://github.com/bkuhlman80/music-explorer/releases)
