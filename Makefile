@@ -21,7 +21,9 @@ ARTISTS_SEED     ?= Radiohead,Daft Punk,Beyonce
 STREAMLIT_PORT   ?= 8501
 STREAMLIT_BROWSER_GATHER_USAGE_STATS ?= false
 
-.PHONY: all env-check setup freeze lock lock-upgrade pull pull_recordings clean build guard_raw guard_clean lint fmt test figures report run deploy clobber reset dictionary dictionary-enrich profile-dict restart ci release-pr version
+.PHONY: all env-check setup freeze lock lock-upgrade pull pull_recordings clean build guard_raw guard_clean lint fmt test figures report run deploy clobber reset dictionary dictionary-enrich profile-dict restart ci release-pr version qa
+
+qa: build report test
 
 env-check:
 	@test -n "$(USER_AGENT)" || (echo "ERROR: Set USER_AGENT in .env as 'app/version (email)'"; exit 1)
