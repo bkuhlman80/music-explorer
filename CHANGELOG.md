@@ -2,6 +2,13 @@
 
 All notable changes will be documented here.
 
+## [0.2.2](https://github.com/bkuhlman80/music-explorer/compare/music-explorer-v0.2.1...music-explorer-v0.2.2) (2025-09-04)
+
+
+### Bug Fixes
+
+* **make:** source .env via shell and default flags; guard pull/clean ([808643d](https://github.com/bkuhlman80/music-explorer/commit/808643dcd5267951bfedb5b81ec4585f3571c6d9))
+
 ## [0.2.1](https://github.com/bkuhlman80/music-explorer/compare/music-explorer-v0.2.0...music-explorer-v0.2.1) (2025-09-03)
 
 
